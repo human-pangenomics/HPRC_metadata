@@ -1,0 +1,21 @@
+accession	message	sample_name	sample_title	bioproject_accession	organism	isolate	age	biomaterial_provider	sex	tissue	cell_line	cell_subtype	cell_type	culture_collection	dev_stage	disease	disease_stage	ethnicity	health_state	karyotype	phenotype	population	race	sample_type	treatment	description	family_id	family_id
+SAMN26267378	Successfully loaded	HG00642	Human sample HG00642		Homo sapiens	HG00642	No Data	Coriell Institute	male	B-Lymphocyte												Puerto Rican in Puerto Rico					PR04	
+SAMN26267379	Successfully loaded	HG01346	Human sample HG01346		Homo sapiens	HG01346	No Data	Coriell Institute	female	B-Lymphocyte												Colombian in Medellin, Colombia					CLM27	
+SAMN26267380	Successfully loaded	HG02071	Human sample HG02071		Homo sapiens	HG02071	No Data	Coriell Institute	male	B-Lymphocyte												Kinh in Ho Chi Minh City, Vietnam					VN065	
+SAMN26267381	Successfully loaded	HG02074	Human sample HG02074		Homo sapiens	HG02074	No Data	Coriell Institute	male	B-Lymphocyte												Kinh in Ho Chi Minh City, Vietnam					VN066	
+SAMN26267382	Successfully loaded	HG02132	Human sample HG02132		Homo sapiens	HG02132	No Data	Coriell Institute	male	B-Lymphocyte												Kinh in Ho Chi Minh City, Vietnam					VN080	
+SAMN26267383	Successfully loaded	HG02647	Human sample HG02647		Homo sapiens	HG02647	No Data	Coriell Institute	male	B-Lymphocyte												Gambian in Western Division, The Gambia - Mandinka					GB38	
+SAMN26267384	Successfully loaded	HG02683	Human sample HG02683		Homo sapiens	HG02683	No Data	Coriell Institute	female	B-Lymphocyte												Punjabi in Lahore, Pakistan					PK16	
+SAMN26267385	Successfully loaded	HG03688	Human sample HG03688		Homo sapiens	HG03688	No Data	Coriell Institute	male	B-Lymphocyte												Sri Lankan Tamil in the UK					ST016	
+SAMN26267386	Successfully loaded	HG03927	Human sample HG03927		Homo sapiens	HG03927	No Data	Coriell Institute	female	B-Lymphocyte												Bengali in Bangladesh					BD37	
+SAMN26267387	Successfully loaded	HG03942	Human sample HG03942		Homo sapiens	HG03942	No Data	Coriell Institute	male	B-Lymphocyte												Bengali in Bangladesh					BD42	
+SAMN26267388	Successfully loaded	HG04115	Human sample HG04115		Homo sapiens	HG04115	No Data	Coriell Institute	male	B-Lymphocyte												Sri Lankan Tamil in the UK					ST111	
+SAMN26267389	Successfully loaded	HG04199	Human sample HG04199		Homo sapiens	HG04199	No Data	Coriell Institute	male	B-Lymphocyte												Sri Lankan Tamil in the UK					ST203	
+SAMN26267390	Successfully loaded	HG04204	Human sample HG04204		Homo sapiens	HG04204	No Data	Coriell Institute	male	B-Lymphocyte												Sri Lankan Tamil in the UK					ST006	
+SAMN26267391	Successfully loaded	HG04228	Human sample HG04228		Homo sapiens	HG04228	No Data	Coriell Institute	male	B-Lymphocyte												Sri Lankan Tamil in the UK					ST232	
+SAMN26267392	Successfully loaded	HG02135	Human sample HG02135		Homo sapiens	HG02135	No Data	Coriell Institute	male	B-Lymphocyte												Kinh in Ho Chi Minh City, Vietnam					VN081	
+SAMN26267393	Successfully loaded	HG01884	Human sample HG01884		Homo sapiens	HG01884	No Data	Coriell Institute	female	B-Lymphocyte												African Caribbean in Barbados					BB03	
+SAMN26267394	Successfully loaded	HG02293	Human sample HG02293		Homo sapiens	HG02293	No Data	Coriell Institute	female	B-Lymphocyte												Peruvian in Lima, Peru					PEL51	
+SAMN26267395	Successfully loaded	HG02300	Human sample HG02300		Homo sapiens	HG02300	No Data	Coriell Institute	female	B-Lymphocyte												Peruvian in Lima, Peru					PEL52	
+SAMN26267396	Successfully loaded	HG02738	Human sample HG02738		Homo sapiens	HG02738	No Data	Coriell Institute	male	B-Lymphocyte												Punjabi in Lahore, Pakistan					PK27	
+SAMN26267397	Successfully loaded	HG04184	Human sample HG04184		Homo sapiens	HG04184	No Data	Coriell Institute	female	B-Lymphocyte												Bengali in Bangladesh					BD61	
