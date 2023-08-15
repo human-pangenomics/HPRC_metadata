@@ -1,0 +1,26 @@
+sample_name	sample_title	bioproject_accession	organism	isolate	age	biomaterial_provider	sex	tissue	cell_line	cell_subtype	cell_type	culture_collection	dev_stage	disease	disease_stage	ethnicity	health_state	karyotype	phenotype	population	race	sample_type	treatment	description	family id
+HG00423	Human sample HG00423		Homo sapiens	HG00423	No Data	Coriell Institute	female	B-Lymphocyte												Han Chinese South					SH007
+HG00544	Human sample HG00544		Homo sapiens	HG00544	No Data	Coriell Institute	female	B-Lymphocyte												Han Chinese South					SH042
+HG00609	Human sample HG00609		Homo sapiens	HG00609	No Data	Coriell Institute	male	B-Lymphocyte												Han Chinese South					SH062
+HG00738	Human sample HG00738		Homo sapiens	HG00738	No Data	Coriell Institute	male	B-Lymphocyte												Puerto Rican in Puerto Rico					PR07
+HG01099	Human sample HG01099		Homo sapiens	HG01099	No Data	Coriell Institute	male	B-Lymphocyte												Puerto Rican in Puerto Rico					PR31
+HG01255	Human sample HG01255		Homo sapiens	HG01255	No Data	Coriell Institute	male	B-Lymphocyte												Colombian in Medellin, Colombia					CLM15
+HG01433	Human sample HG01433		Homo sapiens	HG01433	No Data	Coriell Institute	male	B-Lymphocyte												Colombian in Medellin, Colombia					CLM43
+HG01496	Human sample HG01496		Homo sapiens	HG01496	No Data	Coriell Institute	female	B-Lymphocyte												Colombian in Medellin, Colombia					CLM64
+HG01934	Human sample HG01934		Homo sapiens	HG01934	No Data	Coriell Institute	male	B-Lymphocyte												Peruvian in Lima, Peru					PEL013
+HG01943	Human sample HG01943		Homo sapiens	HG01943	No Data	Coriell Institute	male	B-Lymphocyte												Peruvian in Lima, Peru					PEL016
+HG01981	Human sample HG01981		Homo sapiens	HG01981	No Data	Coriell Institute	female	B-Lymphocyte												Peruvian in Lima, Peru					PEL27
+HG01993	Human sample HG01993		Homo sapiens	HG01993	No Data	Coriell Institute	female	B-Lymphocyte												Peruvian in Lima, Peru					PEL29
+HG02004	Human sample HG02004		Homo sapiens	HG02004	No Data	Coriell Institute	female	B-Lymphocyte												Peruvian in Lima, Peru					PEL33
+HG02027	Human sample HG02027		Homo sapiens	HG02027	No Data	Coriell Institute	male	B-Lymphocyte												Kinh in Ho Chi Minh City, Vietnam					VN050
+HG02083	Human sample HG02083		Homo sapiens	HG02083	No Data	Coriell Institute	male	B-Lymphocyte												Kinh in Ho Chi Minh City, Vietnam					VN069
+HG02280	Human sample HG02280		Homo sapiens	HG02280	No Data	Coriell Institute	female	B-Lymphocyte												African Caribbean in Barbados					BB23
+HG02523	Human sample HG02523		Homo sapiens	HG02523	No Data	Coriell Institute	female	B-Lymphocyte												Kinh in Ho Chi Minh City, Vietnam					VN090
+HG02602	Human sample HG02602		Homo sapiens	HG02602	No Data	Coriell Institute	male	B-Lymphocyte												Punjabi in Lahore, Pakistan					PK09
+HG02615	Human sample HG02615		Homo sapiens	HG02615	No Data	Coriell Institute	female	B-Lymphocyte												Gambian in Western Division, The Gambia - Mandinka					GB29
+HG02698	Human sample HG02698		Homo sapiens	HG02698	No Data	Coriell Institute	male	B-Lymphocyte												Punjabi in Lahore, Pakistan					PK21
+HG02809	Human sample HG02809		Homo sapiens	HG02809	No Data	Coriell Institute	female	B-Lymphocyte												Gambian in Western Division, The Gambia - Mandinka					GB63
+HG03654	Human sample HG03654		Homo sapiens	HG03654	No Data	Coriell Institute	male	B-Lymphocyte												Punjabi in Lahore, Pakistan					PK53
+HG03669	Human sample HG03669		Homo sapiens	HG03669	No Data	Coriell Institute	female	B-Lymphocyte												Punjabi in Lahore, Pakistan					PK58
+HG03710	Human sample HG03710		Homo sapiens	HG03710	No Data	Coriell Institute	male	B-Lymphocyte												Punjabi in Lahore, Pakistan					PK62
+HG03831	Human sample HG03831		Homo sapiens	HG03831	No Data	Coriell Institute	female	B-Lymphocyte												Bengali in Bangladesh					BD27
