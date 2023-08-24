@@ -1,0 +1,671 @@
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210205_190424.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210205_190424.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210211_005516.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210211_005516.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210207_011920.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210207_011920.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210209_184051.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210209_184051.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64043_210702_183246.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64043_210702_183246.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210520_180433.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210520_180433.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210522_014758.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210522_014758.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210523_100337.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210523_100337.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210525_165246.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210525_165246.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00609/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00609.m64136_210620_054327.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00609/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00609.m64136_210620_054327.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00609/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00609.m64136_210622_163607.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00609/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00609.m64136_210622_163607.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00609/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00609.m64136_210624_033152.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00609/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00609.m64136_210624_033152.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m54329U_210524_174516.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m54329U_210524_174516.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m64076_210516_091844.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m64076_210516_091844.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m64076_210520_213355.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m64076_210520_213355.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m64076_210522_082905.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m64076_210522_082905.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64043_210530_003337.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64043_210530_003337.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64043_210531_080529.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64043_210531_080529.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64043_210601_160048.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64043_210601_160048.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64136_210602_151340.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64136_210602_151340.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01099/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01099.m64043_210704_052805.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01099/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01099.m64043_210704_052805.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01099/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01099.m64043_210705_162656.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01099/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01099.m64043_210705_162656.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01099/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01099.m64043_210707_032602.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01099/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01099.m64043_210707_032602.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01255/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01255.m64043_210520_180149.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01255/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01255.m64043_210520_180149.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01255/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01255.m64136_210516_022225.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01255/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01255.m64136_210516_022225.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01255/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01255.m64136_210519_033858.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01255/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01255.m64136_210519_033858.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m54329U_210624_221223.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m54329U_210624_221223.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m54329U_210629_024631.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m54329U_210629_024631.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m64076_210526_105450.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m64076_210526_105450.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210604_175856.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210604_175856.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m64076_210621_234241.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m64076_210621_234241.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210607_115559.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210607_115559.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210606_025622.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210606_025622.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210610_203618.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210610_203618.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01496/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01496.m64043_210625_184443.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01496/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01496.m64043_210625_184443.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01496/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01496.m64043_210627_054642.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01496/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01496.m64043_210627_054642.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01496/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01496.m64043_210628_151651.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01496/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01496.m64043_210628_151651.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01884/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01884.m54329U_210716_214728.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01884/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01884.m54329U_210716_214728.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01884/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01884.m54329U_210713_205453.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01884/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01884.m54329U_210713_205453.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01884/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01884.m54329U_210718_084331.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01884/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01884.m54329U_210718_084331.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01943/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01943.m64043_210716_230222.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01943/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01943.m64043_210716_230222.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01943/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01943.m64043_210718_100009.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01943/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01943.m64043_210718_100009.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01943/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01943.m64043_210719_210019.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01943/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01943.m64043_210719_210019.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01981/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01981.m64136_210625_184731.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01981/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01981.m64136_210625_184731.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01993/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01993.m64043_210620_041711.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01993/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01993.m64043_210620_041711.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01981/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01981.m64136_210627_054246.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01981/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01981.m64136_210627_054246.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01981/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01981.m64136_210628_163953.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01981/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01981.m64136_210628_163953.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01993/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01993.m64043_210622_163331.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01993/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01993.m64043_210622_163331.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01993/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01993.m64043_210624_032817.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG01993/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01993.m64043_210624_032817.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64043_210709_205614.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64043_210709_205614.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64136_210702_183526.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64136_210702_183526.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64136_210704_053041.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64136_210704_053041.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210205_190622.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210205_190622.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64136_210705_162724.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64136_210705_162724.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210207_012053.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210207_012053.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210209_184241.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210209_184241.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210211_010151.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210211_010151.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210317_200525.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210317_200525.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210319_191015.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210319_191015.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210321_022417.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210321_022417.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m54329U_210627_170630.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m54329U_210627_170630.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210323_162524.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210323_162524.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m54329U_210704_040110.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m54329U_210704_040110.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m54329U_210705_145805.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m54329U_210705_145805.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m64076_210525_000003.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m64076_210525_000003.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02280/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02280.m64136_210716_230343.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02280/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02280.m64136_210716_230343.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02293/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02293.m54329U_210719_222842.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02293/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02293.m54329U_210719_222842.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02280/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02280.m64136_210718_091611.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02280/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02280.m64136_210718_091611.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02280/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02280.m64136_210719_201505.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02280/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02280.m64136_210719_201505.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02293/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02293.m54329U_210721_092510.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02293/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02293.m54329U_210721_092510.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02300/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02300.m54329U_210702_182525.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02300/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02300.m54329U_210702_182525.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02293/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02293.m64076_210716_220011.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02293/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02293.m64076_210716_220011.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02300/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02300.m54329U_210710_123004.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02300/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02300.m54329U_210710_123004.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02300/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02300.m54329U_210711_215946.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02300/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02300.m54329U_210711_215946.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02523/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02523.m64043_210508_033135.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02523/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02523.m64043_210508_033135.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02523/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02523.m64043_210506_183430.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02523/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02523.m64043_210506_183430.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02523/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02523.m64043_210509_110105.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02523/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02523.m64043_210509_110105.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210612_053030.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210612_053030.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210614_223013.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210614_223013.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210613_133026.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210613_133026.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02615/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02615.m64136_210528_171842.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02615/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02615.m64136_210528_171842.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02615/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02615.m64136_210530_004827.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02615/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02615.m64136_210530_004827.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210618_184604.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210618_184604.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02615/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02615.m64136_210531_083342.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02615/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02615.m64136_210531_083342.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m54329U_210604_200442.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m54329U_210604_200442.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m64076_210527_231639.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m64076_210527_231639.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m64076_210601_061523.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m64076_210601_061523.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m64076_210530_192034.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m64076_210530_192034.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02683/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02683.m54329U_210707_171722.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02683/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02683.m54329U_210707_171722.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02683/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02683.m54329U_210709_030038.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02683/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02683.m54329U_210709_030038.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02683/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02683.m64076_210703_103644.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02683/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02683.m64076_210703_103644.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02698/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02698.m64043_210519_013026.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02698/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02698.m64043_210519_013026.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02698/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02698.m64136_210514_184433.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02698/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02698.m64136_210514_184433.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02698/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02698.m64136_210517_184202.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02698/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02698.m64136_210517_184202.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210711_102225.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210711_102225.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210706_214544.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210706_214544.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210718_085619.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210718_085619.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210714_200553.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210714_200553.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210522_023949.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210522_023949.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210523_101851.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210523_101851.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210524_174752.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210524_174752.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210604_175624.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210604_175624.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210528_171552.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210528_171552.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210606_013256.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210606_013256.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210607_090252.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210607_090252.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m54329U_210608_221930.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m54329U_210608_221930.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210610_203329.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210610_203329.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m54329U_210611_221457.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m54329U_210611_221457.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m54329U_210618_202343.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m54329U_210618_202343.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03710/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03710.m64043_210514_184131.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03710/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03710.m64043_210514_184131.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m64076_210610_224207.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m64076_210610_224207.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03710/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03710.m64043_210516_020821.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03710/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03710.m64043_210516_020821.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03710/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03710.m64043_210517_175123.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03710/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03710.m64043_210517_175123.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210612_053350.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210612_053350.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210613_130744.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210613_130744.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210614_204240.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210614_204240.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210618_184849.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210618_184849.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m54329U_210522_083046.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m54329U_210522_083046.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m64076_210514_222349.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m64076_210514_222349.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m64076_210517_210115.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m64076_210517_210115.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m64076_210519_075634.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m64076_210519_075634.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04115/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04115.m64076_210625_220013.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG04115/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04115.m64076_210625_220013.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04115/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04115.m64076_210623_104349.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG04115/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04115.m64076_210623_104349.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210708_084125.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210708_084125.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04115/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04115.m64076_210627_085544.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG04115/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04115.m64076_210627_085544.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210701_234028.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210701_234028.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210712_194121.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210712_194121.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210709_232529.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210709_232529.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m54329U_210614_155303.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m54329U_210614_155303.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m54329U_210620_071842.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m54329U_210620_071842.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m54329U_210621_233920.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m54329U_210621_233920.dc.q20.fastq.gz
+INFO:ssds.storage:Copied gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m64076_210613_183806.dc.q20.fastq.gz to gs://fc-4310e737-a388-4a10-8c9e-babe06aaf0cf/working/HPRC/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m64076_210613_183806.dc.q20.fastq.gz
+{
+  "submission_id": "02355F32-E75A-4279-A7B8-FCCEA70FB6CD",
+  "src_bucket": "fc-4310e737-a388-4a10-8c9e-babe06aaf0cf",
+  "dst_bucket": "fc-4310e737-a388-4a10-8c9e-babe06aaf0cf",
+  "aws_identity": "AIDAWEW7BTH337YGTOQ7T",
+  "gcp_identity": "iviolich@ucsc.edu",
+  "transfer_map": [
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m54329U_210614_155303.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m54329U_210614_155303.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m54329U_210618_202343.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m54329U_210618_202343.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m54329U_210522_083046.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m54329U_210522_083046.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210523_100337.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210523_100337.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m54329U_210627_170630.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m54329U_210627_170630.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210607_090252.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210607_090252.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01099/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01099.m64043_210704_052805.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01099/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01099.m64043_210704_052805.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210524_174752.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210524_174752.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210612_053350.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210612_053350.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210607_115559.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210607_115559.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m54329U_210524_174516.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m54329U_210524_174516.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m64076_210610_224207.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m64076_210610_224207.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210319_191015.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210319_191015.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01884/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01884.m54329U_210718_084331.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01884/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01884.m54329U_210718_084331.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02523/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02523.m64043_210509_110105.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02523/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02523.m64043_210509_110105.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210706_214544.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210706_214544.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02523/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02523.m64043_210506_183430.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02523/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02523.m64043_210506_183430.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210714_200553.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210714_200553.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210612_053030.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210612_053030.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210610_203618.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210610_203618.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m64076_210601_061523.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m64076_210601_061523.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01981/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01981.m64136_210627_054246.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01981/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01981.m64136_210627_054246.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02683/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02683.m54329U_210709_030038.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02683/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02683.m54329U_210709_030038.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64136_210602_151340.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64136_210602_151340.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210613_133026.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210613_133026.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210604_175624.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210604_175624.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03710/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03710.m64043_210516_020821.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03710/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03710.m64043_210516_020821.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m54329U_210624_221223.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m54329U_210624_221223.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210211_005516.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210211_005516.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01981/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01981.m64136_210625_184731.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01981/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01981.m64136_210625_184731.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02280/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02280.m64136_210716_230343.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02280/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02280.m64136_210716_230343.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02615/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02615.m64136_210528_171842.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02615/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02615.m64136_210528_171842.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01943/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01943.m64043_210716_230222.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01943/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01943.m64043_210716_230222.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02300/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02300.m54329U_210711_215946.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02300/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02300.m54329U_210711_215946.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64043_210702_183246.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64043_210702_183246.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210523_101851.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210523_101851.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m64076_210530_192034.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m64076_210530_192034.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210207_012053.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210207_012053.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02523/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02523.m64043_210508_033135.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02523/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02523.m64043_210508_033135.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01255/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01255.m64136_210516_022225.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01255/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01255.m64136_210516_022225.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02615/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02615.m64136_210530_004827.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02615/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02615.m64136_210530_004827.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01099/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01099.m64043_210705_162656.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01099/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01099.m64043_210705_162656.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210525_165246.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210525_165246.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210711_102225.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210711_102225.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210317_200525.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210317_200525.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210708_084125.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210708_084125.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210321_022417.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210321_022417.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210522_023949.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210522_023949.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01496/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01496.m64043_210627_054642.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01496/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01496.m64043_210627_054642.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02300/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02300.m54329U_210710_123004.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02300/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02300.m54329U_210710_123004.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m64076_210516_091844.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m64076_210516_091844.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01943/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01943.m64043_210718_100009.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01943/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01943.m64043_210718_100009.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m54329U_210608_221930.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m54329U_210608_221930.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m64076_210613_183806.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m64076_210613_183806.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210528_171552.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03654/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03654.m64043_210528_171552.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01496/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01496.m64043_210625_184443.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01496/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01496.m64043_210625_184443.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02280/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02280.m64136_210718_091611.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02280/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02280.m64136_210718_091611.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02698/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02698.m64043_210519_013026.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02698/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02698.m64043_210519_013026.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01943/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01943.m64043_210719_210019.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01943/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01943.m64043_210719_210019.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02683/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02683.m64076_210703_103644.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02683/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02683.m64076_210703_103644.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64043_210531_080529.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64043_210531_080529.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210614_223013.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210614_223013.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03710/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03710.m64043_210514_184131.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03710/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03710.m64043_210514_184131.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m54329U_210620_071842.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m54329U_210620_071842.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00609/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00609.m64136_210620_054327.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00609/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00609.m64136_210620_054327.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m64076_210514_222349.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m64076_210514_222349.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64043_210530_003337.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64043_210530_003337.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02293/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02293.m54329U_210721_092510.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02293/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02293.m54329U_210721_092510.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02698/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02698.m64136_210517_184202.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02698/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02698.m64136_210517_184202.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210701_234028.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210701_234028.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210209_184051.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210209_184051.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64136_210705_162724.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64136_210705_162724.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210613_130744.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210613_130744.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210207_011920.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210207_011920.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00609/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00609.m64136_210622_163607.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00609/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00609.m64136_210622_163607.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210211_010151.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210211_010151.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00609/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00609.m64136_210624_033152.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00609/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00609.m64136_210624_033152.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m64076_210520_213355.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m64076_210520_213355.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210618_184849.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210618_184849.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210718_085619.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02738.m64076_210718_085619.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210205_190424.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00423/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00423.m64043_210205_190424.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01884/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01884.m54329U_210716_214728.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01884/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01884.m54329U_210716_214728.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04115/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04115.m64076_210625_220013.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG04115/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04115.m64076_210625_220013.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02615/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02615.m64136_210531_083342.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02615/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02615.m64136_210531_083342.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210209_184241.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210209_184241.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64043_210709_205614.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64043_210709_205614.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64043_210601_160048.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00738/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00738.m64043_210601_160048.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01981/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01981.m64136_210628_163953.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01981/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01981.m64136_210628_163953.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64136_210704_053041.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64136_210704_053041.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01884/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01884.m54329U_210713_205453.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01884/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01884.m54329U_210713_205453.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m64076_210522_082905.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00642/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00642.m64076_210522_082905.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m54329U_210611_221457.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03688/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03688.m54329U_210611_221457.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02293/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02293.m64076_210716_220011.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02293/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02293.m64076_210716_220011.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m64076_210621_234241.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m64076_210621_234241.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02698/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02698.m64136_210514_184433.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02698/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02698.m64136_210514_184433.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m54329U_210704_040110.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m54329U_210704_040110.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02280/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02280.m64136_210719_201505.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02280/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02280.m64136_210719_201505.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02293/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02293.m54329U_210719_222842.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02293/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02293.m54329U_210719_222842.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m64076_210517_210115.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m64076_210517_210115.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01255/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01255.m64136_210519_033858.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01255/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01255.m64136_210519_033858.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m64076_210519_075634.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03927/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03927.m64076_210519_075634.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210520_180433.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210520_180433.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02300/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02300.m54329U_210702_182525.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02300/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02300.m54329U_210702_182525.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04115/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04115.m64076_210623_104349.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG04115/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04115.m64076_210623_104349.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210610_203329.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210610_203329.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210712_194121.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210712_194121.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m64076_210527_231639.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m64076_210527_231639.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210522_014758.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG00544/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG00544.m64136_210522_014758.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210606_025622.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210606_025622.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210205_190622.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02027/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02027.m64136_210205_190622.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01993/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01993.m64043_210622_163331.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01993/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01993.m64043_210622_163331.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210323_162524.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02083/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02083.m64136_210323_162524.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02683/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02683.m54329U_210707_171722.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02683/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02683.m54329U_210707_171722.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m64076_210525_000003.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m64076_210525_000003.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210618_184604.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02602/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02602.m64043_210618_184604.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04115/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04115.m64076_210627_085544.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG04115/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04115.m64076_210627_085544.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m54329U_210705_145805.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02132/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02132.m54329U_210705_145805.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01255/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01255.m64043_210520_180149.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01255/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01255.m64043_210520_180149.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210614_204240.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03831/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03831.m64136_210614_204240.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m64076_210526_105450.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m64076_210526_105450.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210606_013256.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03669/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03669.m64043_210606_013256.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m54329U_210621_233920.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG04199/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04199.m54329U_210621_233920.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m54329U_210629_024631.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01346/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01346.m54329U_210629_024631.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210709_232529.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG04184/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG04184.m64076_210709_232529.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01993/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01993.m64043_210620_041711.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01993/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01993.m64043_210620_041711.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG03710/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03710.m64043_210517_175123.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG03710/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG03710.m64043_210517_175123.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210604_175856.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01433/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01433.m64136_210604_175856.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64136_210702_183526.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02004/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02004.m64136_210702_183526.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01099/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01099.m64043_210707_032602.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01099/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01099.m64043_210707_032602.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m54329U_210604_200442.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG02647/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG02647.m54329U_210604_200442.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01993/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01993.m64043_210624_032817.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01993/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01993.m64043_210624_032817.dc.q20.fastq.gz"
+    },
+    {
+      "src_key": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/HG01496/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01496.m64043_210628_151651.dc.q20.fastq.gz",
+      "dst_key": "working/HPRC/HG01496/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01496.m64043_210628_151651.dc.q20.fastq.gz"
+    }
+  ],
+  "start_timestamp": "2023-08-24T160704.693904Z",
+  "end_timestamp": "2023-08-24T160723.223882Z"
+}
