@@ -2,7 +2,7 @@
 
 For more details on the below, see [Setup A Wrangling Workspace In AnVIL](https://ucsc-cgl.atlassian.net/wiki/spaces/~63c888081d7734b550c2052b/pages/2333245441/Setup+A+PacBio+HiFi+Wrangling+Workspace+In+AnVIL)
 
-We run two QC workflows on the input HiFi bam files,
+We run two QC workflows on the input ONT bam and summary files,
 [ontSummaryStats](https://dockstore.org/workflows/github.com/human-pangenomics/hpp_production_workflows/ontSummaryStats:master?tab=info)
 and
 [NTSM](https://dockstore.org/workflows/github.com/human-pangenomics/hpp_production_workflows/NTSM:master?tab=info).  
