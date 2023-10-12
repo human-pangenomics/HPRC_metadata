@@ -63,5 +63,28 @@
 #7
 #9 #should use 8 for last filename
 
+#check that release file has been created properly:
+#check that all files with GM ids have been placed in NA folders in working
+#ubuntu@ip-172-31-5-195:~/HPRC_YEAR3_ONT_Guppy6/6_release$ grep \/GM UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | grep \/working\/HPRC\/NA | wc -l
+#177
+#ubuntu@ip-172-31-5-195:~/HPRC_YEAR3_ONT_Guppy6/6_release$ grep \/GM UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | wc -l
+#177
+#ubuntu@ip-172-31-5-195:~/HPRC_YEAR3_ONT_Guppy6/6_release$ grep \/GM UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | grep \/working\/HPRC\/GM | wc -l
+#0
+
+#and now for gcp
+#ubuntu@ip-172-31-5-195:~/HPRC_YEAR3_ONT_Guppy6/6_release$ grep \/GM UCSC_HPRC_ONT_Y3_GUPPY6.transfer_gcp.csv | grep \/working\/HPRC\/NA | wc -l
+#177
+#ubuntu@ip-172-31-5-195:~/HPRC_YEAR3_ONT_Guppy6/6_release$ grep \/GM UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | wc -l
+#177
+#ubuntu@ip-172-31-5-195:~/HPRC_YEAR3_ONT_Guppy6/6_release$ grep \/GM UCSC_HPRC_ONT_Y3_GUPPY6.transfer_gcp.csv | grep \/working\/HPRC\/GM | wc -l
+#0
+
+#check the number of files per sample (bams, summary)
+#for i in $(cut -d/ -f6 UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | sort | uniq); do grep $i UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | wc -l; done | sort -h
+#for i in $(cut -d/ -f6 UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | sort | uniq); do grep $i UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | grep summary.txt.gz | wc -l; done | sort -h
+#for i in $(cut -d/ -f6 UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | sort | uniq); do grep $i UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | grep fail.bam | wc -l; done | sort -h
+#for i in $(cut -d/ -f6 UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | sort | uniq); do grep $i UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | grep pass | wc -l; done | sort -h
+#for i in $(cut -d/ -f6 UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | sort | uniq); do grep $i UCSC_HPRC_ONT_Y3_GUPPY6.transfer_ec2.csv | wc -l; done | sort -h
 
 
