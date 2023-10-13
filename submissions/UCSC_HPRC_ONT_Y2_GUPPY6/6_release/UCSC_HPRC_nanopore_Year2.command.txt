@@ -1,0 +1,17 @@
+#GET ON THE EC2 INSTANCE
+
+ssh -i ~/.ssh/ivo-mac.pem ubuntu@172.31.5.195
+
+#AND RUN
+
+. py37-venv/bin/activate
+
+export AWS_PROFILE=s3-upload
+
+pip3 install --upgrade --no-cache-dir git+https://github.com/DataBiosphere/ssds@dev
+RUN THIS ON THE EC2 INSTANCE:
+
+ssds staging release     --deployment default     --submission-id 90A1F283-2752-438B-917F-53AE76C9C43E     --transfer-csv UCSC_HPRC_nanopore_Year2.transfer_ec2.csv     &>UCSC_HPRC_nanopore_Year2.transfer_aws.stdout &
+
+ssds staging release     --deployment gcp     --submission-id 90A1F283-2752-438B-917F-53AE76C9C43E     --transfer-csv UCSC_HPRC_nanopore_Year2.transfer_gcp.csv     &>UCSC_HPRC_nanopore_Year2.transfer_gcp.stdout &
+
