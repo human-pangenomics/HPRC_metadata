@@ -65,17 +65,24 @@ def combine_files(tsvfiles):
     df = df.drop(columns=['file_size', 'md5sum', 'filetype'])
     return df
 
-def combine_readstats(tsvfiles):
+def combine_readstats(tsvfiles, data_type):
     '''Readstats output can have more columns than we need. Keep only the relevant ones'''
-    keep = ['filename', 'total_reads', 'total_bp', 'total_Gbp', 'min', 'max', 'mean', 
-           'quartile_25', 'quartile_50', 'quartile_75', 'N25', 'N50', 'N75']
-    df = pd.DataFrame() 
+    
+    if data_type == "ONT":
+        keep = ['filename', 'read_N50', 'Gb', 'coverage', '100kb+', '200kb+', '300kb+', '400kb+', '500kb+', '1Mb+', 'whales']
+    elif data_type in ["DEEPCONSENSUS", "HiFi"]:
+        keep = ['filename', 'total_reads', 'total_bp', 'total_Gbp', 'min', 'max', 'mean', 
+               'quartile_25', 'quartile_50', 'quartile_75', 'N25', 'N50', 'N75']
+    else:
+        raise ValueError(f"Unsupported data type: {data_type}")
 
+    df = pd.DataFrame() 
     for file_path in tsvfiles:
         temp_df = pd.read_csv(file_path, sep='\t', usecols=keep)
         df = pd.concat([df, temp_df], ignore_index=True)
+    
     return df
-        
+
 def combine_sra(tsvfiles):
     '''Keep accession IDs only; allow for multiple filename fields in inputs'''
 
@@ -133,7 +140,7 @@ submissions = list_submissions(type_wildcard=args.type)
 submitter_files = find_tsv_files(submissions, '1_submitter_metadata')
 submitter_df = combine_files(submitter_files)
 readstats_files = find_tsv_files(submissions, '5_readstats')
-readstats_df = combine_readstats(readstats_files)
+readstats_df = combine_readstats(readstats_files, args.type)
 sra_files = find_tsv_files(submissions, '8_sra_metadata')
 sra_df = combine_sra(sra_files)
 bucket_df = bucket_files(args.flist, args.prepend, args.type)
