@@ -20,6 +20,7 @@ parser = argparse.ArgumentParser(
 
         Input is the result of: 
         aws s3 ls s3://human-pangenomics/working --recursive --profile <your_profile> > s3.files
+        aws s3 ls s3://human-pangenomics/working --recursive --no-sign-request > s3.files
     ''')
 )
 
@@ -79,7 +80,14 @@ def combine_files(tsvfiles):
             common_columns &= set(temp_df.columns)
             df_combined = pd.concat([df_combined, temp_df[list(common_columns)]], ignore_index=True, sort=False)
 
-    return df_combined.drop(columns=['file_size', 'md5sum', 'filetype'])
+    drop_columns = ['file_size', 'md5sum', 'filetype']
+    columns_present = all(col in df_combined.columns for col in drop_columns)
+
+    if columns_present:
+        # Drop columns
+        return df_combined.drop(columns=['file_size', 'md5sum', 'filetype'])
+    else:
+        return df_combined
 
 # Function to combine readstats from .tsv files
 def combine_readstats(tsvfiles, data_type):
@@ -132,7 +140,7 @@ def bucket_files(flist, prepend, file_type):
     rows = []
     file_extension = {
         "HiFi": "bam",
-        "ONT": "fastq.gz",
+        "ONT": "bam", # Update fastq.gz to bam
         "DEEPCONSENSUS": "fastq.gz"
     }.get(file_type)
 
@@ -158,26 +166,146 @@ def merge_by_filename(dflist):
         merged_df = pd.merge(merged_df, df, on='filename')
     return merged_df
 
+# def wrangle_HiFi(submission_dirs)
+
+
 # Main execution block
 def main():
+
+    # TODO: 
+    # Add assert check with submission dirs length for submitter_metadata, readstats, and sra_metadata
+    # Add unit test to Git Repo
+
+    # NOTE: 
+    # 04.08.24
+    # Hold merging the HiFi TopUp directory (incomplete- new file more coverage with new machine Revio)
+    # HiFI metadata addition: css algorithm version
+
+    # MVP on DEEPCONSENSUS_v1pt2_2023_08_q20
+    # Do not include the HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20_readstats.tsv
+    # Include deepconsensus algorithm version
+
+    # MVP on ONT Y2 
+    # Include the NTSM file with the NTSM score and result (convert 1_submitter_metadata from txt to tsv) 
+    # Missing sra metadata because the bam files were too large
+    # Missing file_size and md5sum
+
+    #TODO: 
+    # Reverse check meta data for every file in working
+    # 
+
     submission_dirs = list_submissions(type_wildcard=args.type)
+    # print('Modality: ' + args.type)
+    # print('\n')
+
+    if args.type == 'HiFi':
+        submission_dirs = [folder for folder in submission_dirs if folder.split('/')[-1] != 'WUSTL_HPRC_HiFi_Year3_TopUp']
+
+
+    if args.type == 'DEEPCONSENSUS':
+        submission_dirs = [folder for folder in submission_dirs if folder.split('/')[-1] == 'HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20']
+    
+    # print('# submission_dirs')
+    # for submission_file in submission_dirs:
+    #     print(submission_file)
+    # print(len(submission_dirs))
+    # print('\n')
 
     # Process metadata files from different submission directories
+    # print('# 1_submitter_metadata')
     submitter_files = find_tsv_files(submission_dirs, '1_submitter_metadata')
-    readstat_files = find_tsv_files(submission_dirs, '5_readstats')
-    sra_files = find_tsv_files(submission_dirs, '8_sra_metadata')
+    if args.type == 'DEEPCONSENSUS':
+        submitter_files = [file for file in submitter_files if file.split('/')[-1].endswith('_submitter_metadata.tsv')]
 
-    submitter_df = combine_files(submitter_files)
-    readstats_df = combine_readstats(readstat_files, args.type)
-    sra_df = combine_sra(sra_files)
+    # for submitter_file in submitter_files:
+    #     print(submitter_file)
+    # print(len(submitter_files))
+    # print('\n')
+
+    # print('# 5_readstats')
+    readstat_files = find_tsv_files(submission_dirs, '5_readstats')
+    if args.type == 'DEEPCONSENSUS':
+        readstat_files = [file for file in readstat_files if file.endswith('_post_sra_metadata.tsv')]    
+    # for readstat_file in readstat_files:
+    #     print(readstat_file)
+    # print(len(readstat_files))
+    # print('\n')
+
+    # print('# 8_sra_metadata')
+    sra_files = find_tsv_files(submission_dirs, '8_sra_metadata')
+    # for sra_file in sra_files:
+    #     print(sra_file)
+    # print(len(sra_files))
+    # print('\n')
+
+    # Check sample files are all present
+    if args.type == 'ONT':
+        pass
+    else:
+        assert len(submission_dirs) == len(submitter_files) == len(readstat_files) == len(sra_files)
+
+    ### Merge ###
+    # 1_submitter_metadata
+    submitter_df = combine_files(submitter_files) 
+
+    if args.type == 'DEEPCONSENSUS':
+        required_deepconsensus_submitter_columns = ['filename', 'sample_ID', 'library_ID', 'library_strategy', 'library_source', 'library_selection', 'library_layout', 'platform', 'instrument_model', 'design_description', 'data_type', 'shear_method', 'size_selection', 'DeepConsensus_version', 'polymerase_version', 'seq_plate_chemistry_version', 'generator_facility', 'generator_contact', 'notes']
+        assert list(submitter_df) == required_deepconsensus_submitter_columns
+    
+    if args.type == 'HiFi':
+        required_hifi_submitter_columns = ['filename', 'sample_ID', 'library_ID', 'library_strategy', 'library_source', 'library_selection', 'library_layout', 'platform', 'instrument_model', 'design_description', 'data_type', 'shear_method', 'size_selection', 'ccs_algorithm', 'polymerase_version', 'seq_plate_chemistry_version', 'generator_facility', 'generator_contact', 'notes']
+        assert list(submitter_df) == required_hifi_submitter_columns
+
+    if args.type == 'ONT':
+        submitter_df = submitter_df.drop(columns=['Unnamed: 21', 'Unnamed: 22', 'Unnamed: 23', 'Unnamed: 24', 'Unnamed: 25', 'Unnamed: 26']) # NOTE: 4.05.24 Agree to manual drop unnamed nan columns
+        required_ONT_submitter_columns = ['filename', 'filetype', 'sample_ID', 'library_ID', 'library_strategy', 'library_source', 'library_selection', 'library_layout', 'platform', 'instrument_model', 'design_description', 'data_type', 'shear_method', 'size_selection', 'seq_kit', 'basecaller', 'basecaller_version', 'basecaller_model', 'generator_facility', 'generator_contact', 'notes']
+
+        assert list(submitter_df) == required_ONT_submitter_columns
+
+    # 5_readstats
+
+    if args.type == 'ONT': # split by NTSM and summary files
+        df_ntsm_readstats = pd.DataFrame()
+        df_readstats = pd.DataFrame()
+        for file_path in readstat_files:
+            if file_path.endswith('_NTSM.tsv'):
+                # TODO: Integrate this into combine_readstats
+                temp_df = pd.read_csv(file_path, sep='\t', usecols=['sample','ntsm_score','result', 'ONT_pass_bam'])
+                df_ntsm_readstats = pd.concat([df_ntsm_readstats, temp_df], ignore_index=True)
+            else:
+                temp_df = pd.read_csv(file_path, sep='\t', usecols=['File', 'read_N50', 'Gb', 'coverage', '100kb+', '200kb+', '300kb+', '400kb+', '500kb+', '1Mb+', 'whales'])
+                df_readstats = pd.concat([df_readstats, temp_df], ignore_index=True)
+        df_ntsm_readstats['ONT_pass_bam'] = [file.split('/')[-1] for file in df_ntsm_readstats['ONT_pass_bam'].tolist()]
+
+        df_ntsm_readstats.columns = ['sample', 'filename', 'ntsm_score', 'result'] # Change ONT_pass_bam to filename
+        df_readstats.columns = ['filename', 'read_N50', 'Gb', 'coverage', '100kb+', '200kb+', '300kb+', '400kb+', '500kb+', '1Mb+', 'whales']
+
+        df_readstats['filename'] = [s.replace(" ", "") for s in df_readstats['filename'].tolist()]
+        df_ntsm_readstats['filename'] = [s.replace(" ", "") for s in df_ntsm_readstats['filename'].tolist()]
+        readstats_df = pd.merge(df_readstats, df_ntsm_readstats, on='filename', how='inner')
+
+    else:
+        readstats_df = combine_readstats(readstat_files, args.type)
+        assert list(readstats_df) == ['filename', 'total_reads', 'total_bp', 'total_Gbp', 'min', 'max', 'mean', 'quartile_25', 'quartile_50', 'quartile_75', 'N25', 'N50', 'N75']
+
+    # 8_sra_metadata
+    if args.type == 'ONT':
+        pass
+    else:
+        sra_df = combine_sra(sra_files)
+        assert list(sra_df) == ['accession', 'study', 'biosample_accession', 'filename']
 
     # Process S3 file list and merge data
     bucket_df = bucket_files(args.flist, args.prepend, args.type)
-    merged_df = merge_by_filename([bucket_df, sra_df, readstats_df, submitter_df])
+    bucket_df.to_csv('s3-bucket.tsv', sep='\t')
+    if args.type == 'ONT':
+        merged_df = merge_by_filename([bucket_df, readstats_df, submitter_df])
+    else:
+        merged_df = merge_by_filename([bucket_df, sra_df, readstats_df, submitter_df])
 
-    # Check if all SRA submissions are present in the merged dataframe
-    if sra_df.shape[0] > merged_df.shape[0]:
-        print("Warning: Not all SRA submissions are present in the merged dataframe.", file=sys.stderr)
+        # Check if all SRA submissions are present in the merged dataframe
+        if sra_df.shape[0] > merged_df.shape[0]:
+            print("Warning: Not all SRA submissions are present in the merged dataframe.", file=sys.stderr)
 
     # Sort and reorder columns, with 'sample_ID' as second column
     merged_df.sort_values(by=['filename'], inplace=True)
