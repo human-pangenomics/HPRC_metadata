@@ -259,11 +259,9 @@ def main():
     if args.type == 'ONT':
         submitter_df = submitter_df.drop(columns=['Unnamed: 21', 'Unnamed: 22', 'Unnamed: 23', 'Unnamed: 24', 'Unnamed: 25', 'Unnamed: 26']) # NOTE: 4.05.24 Agree to manual drop unnamed nan columns
         required_ONT_submitter_columns = ['filename', 'filetype', 'sample_ID', 'library_ID', 'library_strategy', 'library_source', 'library_selection', 'library_layout', 'platform', 'instrument_model', 'design_description', 'data_type', 'shear_method', 'size_selection', 'seq_kit', 'basecaller', 'basecaller_version', 'basecaller_model', 'generator_facility', 'generator_contact', 'notes']
-
         assert list(submitter_df) == required_ONT_submitter_columns
 
     # 5_readstats
-
     if args.type == 'ONT': # split by NTSM and summary files
         df_ntsm_readstats = pd.DataFrame()
         df_readstats = pd.DataFrame()
@@ -314,7 +312,7 @@ def main():
     merged_df = merged_df[cols]
 
     # Write output to a TSV file
-    output_filename = f"hprc_metadata_{args.type}.tsv"
+    output_filename = f"hprc_metadata_sample_files_{args.type}.tsv"
     merged_df.to_csv(output_filename, sep='\t', index=False)
     print(f"Merged metadata written to {output_filename}")
 
