@@ -1,0 +1,13 @@
+	5_readstats_columns
+0	sample_ID
+1	filename
+2	read_N50
+3	Gb
+4	coverage
+5	100kb+
+6	200kb+
+7	300kb+
+8	400kb+
+9	500kb+
+10	1Mb+
+11	whales

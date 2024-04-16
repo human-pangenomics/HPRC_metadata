@@ -1,0 +1,10 @@
+	0
+read_N50	mean
+coverage	sum
+100kb+	sum
+200kb+	sum
+300kb+	sum
+400kb+	sum
+500kb+	sum
+1Mb+	sum
+whales	sum
