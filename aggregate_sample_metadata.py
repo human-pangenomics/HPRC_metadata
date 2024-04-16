@@ -2,7 +2,8 @@
 
 """
 Author: Andrew Blair
-python3 aggregate_sample_metadata.py --hprc_metadata_sample_files_modality sample-files/hprc_metadata_sample_files_ONT.tsv --columns_1_submitter aggregate-sample-inputs/hprc_1_submitter_columns_ONT.tsv --columns_5_readstat aggregate-sample-inputs/hprc_5_readstats_columns_ONT.tsv --aggregate_rule_5_readstat_sample aggregate-sample-inputs/hprc_5_readstat_sample_aggregate_rules_ONT.tsv
+Contact: apblair@ucsc.edu
+python3 aggregate_sample_metadata.py --hprc_metadata_sample_files_modality data-tables/sample-files/hprc_metadata_sample_files_ONT.tsv --columns_1_submitter data-tables/aggregate-sample-inputs/hprc_1_submitter_columns_ONT.tsv --columns_5_readstat data-tables/aggregate-sample-inputs/hprc_5_readstats_columns_ONT.tsv --aggregate_rule_5_readstat_sample data-tables/aggregate-sample-inputs/hprc_5_readstat_sample_aggregate_rules_ONT.tsv
 """
 
 import sys
@@ -50,7 +51,7 @@ def check_missing_1_submitter(sample_df, required_1_submitter_columns, sequencin
     submitter_df = pd.DataFrame.from_dict(require_1_submitter_dict, orient='index')
     
     if len(samples_missing_1_submitter) > 0:
-        submitter_df[submitter_df['sample_ID'].isin(samples_missing_1_submitter)].to_csv('aggregate-sample-outputs/hprc_metadata_sample_files_missing_1_submitter_' + sequencing_technology + '.tsv', sep='\t')
+        submitter_df[submitter_df['sample_ID'].isin(samples_missing_1_submitter)].to_csv('data-tables/aggregate-sample-outputs/hprc_metadata_sample_files_missing_1_submitter_' + sequencing_technology + '.tsv', sep='\t')
         
     return submitter_df, list(set(samples_missing_1_submitter))
 
@@ -104,7 +105,7 @@ def main():
     sample_readstats_df = sample_aggregate_5_readstats(sample_files_df, required_5_readstats_columns, required_5_readstat_sample_aggregate_rules_dict)
 
     sample_df = pd.merge(sample_1_submitter_df, sample_readstats_df, on='sample_ID')
-    sample_df.to_csv('aggregate-sample-outputs/hprc_metadata_sample_aggregate_' + sequencing_technology + '.tsv', sep='\t')
+    sample_df.to_csv('data-tables/aggregate-sample-outputs/hprc_metadata_sample_aggregate_' + sequencing_technology + '.tsv', sep='\t')
 
 
 if __name__ == "__main__":

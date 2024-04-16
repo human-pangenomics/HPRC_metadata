@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+"""
+Authors: Andrew Blair, Ivo Violich
+python merge_metadata.py --flist s3.files --type HiFi
+"""
 import sys
 import os
 import re
@@ -313,7 +317,7 @@ def main():
 
     # Write output to a TSV file
     output_filename = f"hprc_metadata_sample_files_{args.type}.tsv"
-    merged_df.to_csv(output_filename, sep='\t', index=False)
+    merged_df.to_csv('data-tables/sample-files/'+output_filename, sep='\t', index=False)
     print(f"Merged metadata written to {output_filename}")
 
 if __name__ == "__main__":
