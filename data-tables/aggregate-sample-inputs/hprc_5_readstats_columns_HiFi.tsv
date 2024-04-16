@@ -1,0 +1,15 @@
+	5_readstats_columns
+0	sample_ID
+1	filename
+2	total_reads
+3	total_bp
+4	total_Gbp
+5	min
+6	max
+7	mean
+8	quartile_25
+9	quartile_50
+10	quartile_75
+11	N25
+12	N50
+13	N75

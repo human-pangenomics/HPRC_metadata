@@ -1,0 +1,12 @@
+	0
+total_reads	sum
+total_bp	sum
+total_Gbp	sum
+min	mean
+max	mean
+quartile_25	mean
+quartile_50	mean
+quartile_75	mean
+N25	mean
+N50	mean
+N75	mean
