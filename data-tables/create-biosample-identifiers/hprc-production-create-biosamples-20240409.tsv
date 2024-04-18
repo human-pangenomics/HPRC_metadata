@@ -1,0 +1,108 @@
+	tissue	geo_loc_name	ChildID	N	Sex	Subpopulation	Superpopulation	Production Year	collection_date	biomaterial_provider	organism
+0	B-Lymphocyte	KENYA	NA19338		female	LWK	AFR	YR3	2022-04-05	Coriell Institute	Homo sapiens
+1	B-Lymphocyte	KENYA	NA19391		female	LWK	AFR	YR3	2022-03-30	Coriell Institute	Homo sapiens
+2	B-Lymphocyte	KENYA	NA19468		female	LWK	AFR	YR3	2022-03-30	Coriell Institute	Homo sapiens
+3	B-Lymphocyte	NIGERIA	NA19159	Y056	female	YRI	AFR	YR3	2022-05-10	Coriell Institute	Homo sapiens
+4	B-Lymphocyte	NIGERIA	NA19185	Y039	female	YRI	AFR	YR3	2022-05-10	Coriell Institute	Homo sapiens
+5	B-Lymphocyte	CHINA	NA18570		female	CHB	EAS	YR3	2022-05-10	Coriell Institute	Homo sapiens
+6	B-Lymphocyte	JAPAN	NA19087		female	JPT	EAS	YR3	2022-05-10	Coriell Institute	Homo sapiens
+7	B-Lymphocyte	USA	NA20858		male	GIH	SAS	YR4	2022-05-24	Coriell Institute	Homo sapiens
+8	B-Lymphocyte	ITALY	NA20799		female	TSI	EUR	YR3	2022-06-21	Coriell Institute	Homo sapiens
+9	B-Lymphocyte	USA	NA19909		female	ASW	AFR	YR4	2022-10-04	Coriell Institute	Homo sapiens
+10	B-Lymphocyte	USA	NA20282		female	ASW	AFR	YR4	2022-10-04	Coriell Institute	Homo sapiens
+11	B-Lymphocyte	USA	NA20346		male	ASW	AFR	YR4	2022-10-04	Coriell Institute	Homo sapiens
+12	B-Lymphocyte	USA	NA19776		female	MXL	AMR	YR4	2022-10-04	Coriell Institute	Homo sapiens
+13	B-Lymphocyte	USA	NA19682		male	MXL	AMR	YR4	2022-09-27	Coriell Institute	Homo sapiens
+14	B-Lymphocyte	USA	NA19700		male	ASW	AFR	YR4	2022-09-27	Coriell Institute	Homo sapiens
+15	B-Lymphocyte	KENYA	NA19390		female	LWK	AFR	YR4	2022-09-27	Coriell Institute	Homo sapiens
+16	B-Lymphocyte	NIGERIA	NA19175	Y044	male	YRI	AFR	YR4	2022-09-27	Coriell Institute	Homo sapiens
+17	B-Lymphocyte	CHINA	HG02392		male	CDX	EAS	YR4	2022-09-27	Coriell Institute	Homo sapiens
+18	B-Lymphocyte	CHINA	HG00867		female	CDX	EAS	YR4	2022-10-11	Coriell Institute	Homo sapiens
+19	B-Lymphocyte	CHINA	HG02178		female	CDX	EAS	YR4	2022-10-11	Coriell Institute	Homo sapiens
+20	B-Lymphocyte	CHINA	NA18620		male	CHB	EAS	YR4	2022-10-11	Coriell Institute	Homo sapiens
+21	B-Lymphocyte	CHINA	NA18608		male	CHB	EAS	YR4	2022-10-11	Coriell Institute	Homo sapiens
+22	B-Lymphocyte	JAPAN	NA18974		male	JPT	EAS	YR4	2022-10-11	Coriell Institute	Homo sapiens
+23	B-Lymphocyte	JAPAN	NA18952		male	JPT	EAS	YR4	2022-10-25	Coriell Institute	Homo sapiens
+24	B-Lymphocyte	JAPAN	NA18976		female	JPT	EAS	YR4	2022-10-25	Coriell Institute	Homo sapiens
+25	B-Lymphocyte	USA	NA20870		male	GIH	SAS	YR4	2022-10-25	Coriell Institute	Homo sapiens
+26	B-Lymphocyte	USA	NA21110		female	GIH	SAS	YR4	2022-10-25	Coriell Institute	Homo sapiens
+27	B-Lymphocyte	UNITED KINGDOM	HG03874		female	ITU	SAS	YR4	2022-10-25	Coriell Institute	Homo sapiens
+28	B-Lymphocyte	NIGERIA	NA18508		female	YRI	AFR	YR4	2023-02-07	Coriell Institute	Homo sapiens
+29	B-Lymphocyte	USA	NA21093		male	GIH	SAS	YR4	2023-02-07	Coriell Institute	Homo sapiens
+30	B-Lymphocyte	BANGLADESH	HG03611		female	BEB	SAS	YR4	2023-02-07	Coriell Institute	Homo sapiens
+31	B-Lymphocyte	USA	NA21106		female	GIH	SAS	YR4	2023-02-07	Coriell Institute	Homo sapiens
+32	B-Lymphocyte	ITALY	NA20503		female	TSI	EUR	YR4	2023-02-21	Coriell Institute	Homo sapiens
+33	B-Lymphocyte	NIGERIA	HG03270		female	ESN	AFR	YR4	2023-02-21	Coriell Institute	Homo sapiens
+34	B-Lymphocyte	FINLAND	HG00320		female	FIN	EUR	YR4	2023-04-04	Coriell Institute	Homo sapiens
+35	B-Lymphocyte	SPAIN	HG01786		female	IBS	EUR	YR4	2023-04-04	Coriell Institute	Homo sapiens
+36	B-Lymphocyte	UNITED KINGDOM	HG00146		female	GBR	EUR	YR4	2023-04-04	Coriell Institute	Homo sapiens
+37	B-Lymphocyte	UNITED KINGDOM	HG00232		female	GBR	EUR	YR4	2023-04-04	Coriell Institute	Homo sapiens
+38	B-Lymphocyte	FINLAND	HG00321		male	FIN	EUR	YR4	2023-04-04	Coriell Institute	Homo sapiens
+39	B-Lymphocyte	UNITED KINGDOM	HG00126		male	GBR	EUR	YR4	2023-04-18	Coriell Institute	Homo sapiens
+40	B-Lymphocyte	UNITED KINGDOM	HG00133		female	GBR	EUR	YR4	2023-04-18	Coriell Institute	Homo sapiens
+41	B-Lymphocyte	FINLAND	HG00290		male	FIN	EUR	YR4	2023-04-18	Coriell Institute	Homo sapiens
+42	B-Lymphocyte	KENYA	NA19443		male	LWK	AFR	YR4	2023-04-18	Coriell Institute	Homo sapiens
+43	B-Lymphocyte	UNITED KINGDOM	HG00128		female	GBR	EUR	YR4	2023-04-18	Coriell Institute	Homo sapiens
+44	B-Lymphocyte	KENYA	NA19036		female	LWK	AFR	YR4	2023-05-02	Coriell Institute	Homo sapiens
+45	B-Lymphocyte	NIGERIA	NA18505	Y005	female	YRI	AFR	YR4	2023-05-02	Coriell Institute	Homo sapiens
+46	B-Lymphocyte	UNITED KINGDOM	HG00243		male	GBR	EUR	YR4	2023-05-02	Coriell Institute	Homo sapiens
+47	B-Lymphocyte	SIERRA LEONE	HG03583	SL73	female	MSL	AFR	YR4	2023-05-02	Coriell Institute	Homo sapiens
+48	B-Lymphocyte	FINLAND	HG00329		male	FIN	EUR	YR4	2023-05-15	Coriell Institute	Homo sapiens
+49	B-Lymphocyte	UNITED KINGDOM	HG03784		female	ITU	SAS	YR4	2023-05-15	Coriell Institute	Homo sapiens
+50	B-Lymphocyte	ITALY	NA20806		male	TSI	EUR	YR4	2023-05-15	Coriell Institute	Homo sapiens
+51	B-Lymphocyte	USA	NA21144		female	GIH	SAS	YR4	2023-05-15	Coriell Institute	Homo sapiens
+52	B-Lymphocyte	ITALY	NA20827		male	TSI	EUR	YR4	2023-05-15	Coriell Institute	Homo sapiens
+53	B-Lymphocyte	NIGERIA	HG03521	NG109	male	ESN	AFR	YR4	2023-05-23	Coriell Institute	Homo sapiens
+54	B-Lymphocyte	ITALY	NA20762		male	TSI	EUR	YR4	2023-05-23	Coriell Institute	Homo sapiens
+55	B-Lymphocyte	FINLAND	HG00344		female	FIN	EUR	YR4	2023-05-23	Coriell Institute	Homo sapiens
+56	B-Lymphocyte	FINLAND	HG00350		female	FIN	EUR	YR4	2023-05-23	Coriell Institute	Homo sapiens
+57	B-Lymphocyte	USA	NA20357	2494	female	ASW	AFR	YR4	2023-02-07	Coriell Institute	Homo sapiens
+58	B-Lymphocyte	SIERRA LEONE	HG03572		female	MSL	AFR	YR4	2023-01-24	Coriell Institute	Homo sapiens
+59	B-Lymphocyte	GAMBIA	HG02583	GB23	female	GWD	AFR	YR4	2023-01-24	Coriell Institute	Homo sapiens
+60	B-Lymphocyte	USA	NA20287	2470	female	ASW	AFR	YR4	2023-01-24	Coriell Institute	Homo sapiens
+61	B-Lymphocyte	FINLAND	HG00272		female	FIN	EUR	YR4	2023-06-05	Coriell Institute	Homo sapiens
+62	B-Lymphocyte	UNITED KINGDOM	HG00097		female	GBR	EUR	YR4	2023-06-05	Coriell Institute	Homo sapiens
+63	B-Lymphocyte	NIGERIA	NA18879			YRI	AFR	YR4	2023-06-07	Coriell Institute	Homo sapiens
+64	B-Lymphocyte	SPAIN	HG01766			IBS	EUR	YR4	2023-06-28	Coriell Institute	Homo sapiens
+65	B-Lymphocyte	NIGERIA	NA18871			YRI	AFR	YR4	2023-07-05	Coriell Institute	Homo sapiens
+66	B-Lymphocyte	USA	NA20850			GIH	SAS	YR4	2023-06-05	Coriell Institute	Homo sapiens
+67	B-Lymphocyte	USA	NA19835			ASW	AFR	YR4	2023-06-13	Coriell Institute	Homo sapiens
+68	B-Lymphocyte	UNITED KINGDOM	HG00253			GBR	EUR	YR4	2023-06-13	Coriell Institute	Homo sapiens
+69	B-Lymphocyte	UNITED KINGDOM	HG00235			GBR	EUR	YR4	2023-06-13	Coriell Institute	Homo sapiens
+70	B-Lymphocyte	NIGERIA	HG03369			ESN	AFR	YR4	2023-06-13	Coriell Institute	Homo sapiens
+71	B-Lymphocyte	CHINA	NA18565			CHB	EAS	YR4	2023-06-27	Coriell Institute	Homo sapiens
+72	B-Lymphocyte	ITALY	NA20818			TSI	EUR	YR4	2023-07-11	Coriell Institute	Homo sapiens
+73	B-Lymphocyte	ITALY	NA20809			TSI	EUR	YR4	2023-06-27	Coriell Institute	Homo sapiens
+74	B-Lymphocyte	USA	NA21102			GIH	SAS	YR4	2023-06-27	Coriell Institute	Homo sapiens
+75	B-Lymphocyte	SIERRA LEONE	HG03457			MSL	AFR	YR4	2023-07-11	Coriell Institute	Homo sapiens
+76	B-Lymphocyte	CHINA	HG01028			CDX	EAS	YR4	2023-07-11	Coriell Institute	Homo sapiens
+77	B-Lymphocyte	UNITED KINGDOM	HG03778			ITU	SAS	YR4	2023-07-11	Coriell Institute	Homo sapiens
+78	B-Lymphocyte	UNITED KINGDOM	HG00258			GBR	EUR	YR4	2023-07-11	Coriell Institute	Homo sapiens
+79	B-Lymphocyte	NIGERIA	HG03136			ESN	AFR	YR4	2023-07-11	Coriell Institute	Homo sapiens
+80	B-Lymphocyte	CHINA	HG00662			CHS	EAS	YR4	2023-07-18	Coriell Institute	Homo sapiens
+81	B-Lymphocyte	PUERTO RICO	HG01167			PUR	AMR	YR4	2023-07-18	Coriell Institute	Homo sapiens
+82	B-Lymphocyte	NIGERIA	NA19131			YRI	AFR	YR4	2023-07-18	Coriell Institute	Homo sapiens
+83	B-Lymphocyte	BANGLADESH	HG04153			BEB	SAS	YR4	2023-07-18	Coriell Institute	Homo sapiens
+84	B-Lymphocyte	NIGERIA	NA19099			YRI	AFR	YR4	2023-07-25	Coriell Institute	Homo sapiens
+85	B-Lymphocyte	NIGERIA	HG03343			ESN	AFR	YR4	2023-07-26	Coriell Institute	Homo sapiens
+86	B-Lymphocyte	BARBADOS	HG01894			ACB	AFR	YR4	2023-08-01	Coriell Institute	Homo sapiens
+87	B-Lymphocyte	USA	NA19834			ASW	AFR	YR4	2023-07-25	Coriell Institute	Homo sapiens
+88	B-Lymphocyte	NIGERIA	HG03103			ESN	AFR	YR4	2023-08-01	Coriell Institute	Homo sapiens
+89	B-Lymphocyte	PUERTO RICO	HG01048			PUR	AMR	YR4	2023-08-01	Coriell Institute	Homo sapiens
+90	B-Lymphocyte	NIGERIA	NA19190			YRI	AFR	YR4	2023-08-01	Coriell Institute	Homo sapiens
+91	B-Lymphocyte	UNITED KINGDOM	HG04225			ITU	SAS	YR4	2023-08-01	Coriell Institute	Homo sapiens
+92	B-Lymphocyte	JAPAN	NA19012			JPT	EAS	YR4	2023-08-01	Coriell Institute	Homo sapiens
+93	B-Lymphocyte	GAMBIA	HG02624			GWD	AFR	YR4	2023-08-08	Coriell Institute	Homo sapiens
+94	B-Lymphocyte	UNITED KINGDOM	HG03672			STU	SAS	YR4	2023-08-08	Coriell Institute	Homo sapiens
+95	B-Lymphocyte	NIGERIA	HG03372			ESN	AFR	YR4	2023-08-08	Coriell Institute	Homo sapiens
+96	B-Lymphocyte	NIGERIA	HG03108			ESN	AFR	YR4	2023-08-08	Coriell Institute	Homo sapiens
+97	B-Lymphocyte	USA	NA19703			ASW	AFR	YR4	2023-08-08	Coriell Institute	Homo sapiens
+98	B-Lymphocyte	UNITED KINGDOM	HG00106			GBR	EUR	YR4	2023-08-15	Coriell Institute	Homo sapiens
+99	B-Lymphocyte	UNITED KINGDOM	HG00117			GBR	EUR	YR4	2023-08-15	Coriell Institute	Homo sapiens
+100	B-Lymphocyte	CHINA	HG01798			CDX	EAS	YR4	2023-08-15	Coriell Institute	Homo sapiens
+101	B-Lymphocyte	BANGLADESH	HG03919			BEB	SAS	YR4	2023-08-15	Coriell Institute	Homo sapiens
+102	B-Lymphocyte	SIERRA LEONE	HG03388			MSL	AFR	YR4	2023-08-15	Coriell Institute	Homo sapiens
+103	B-Lymphocyte	KENYA	NA19042	fiber-seq pilot		LWK	AFR	YR4	2023-08-22	Coriell Institute	Homo sapiens
+104	B-Lymphocyte	CHINA	HG00701			CHS	EAS	YR4	2023-09-12	Coriell Institute	Homo sapiens
+105	B-Lymphocyte	SIERRA LEONE	HG03072			MSL	AFR	YR4	2023-09-12	Coriell Institute	Homo sapiens
+106	B-Lymphocyte	SIERRA LEONE	HG03445			MSL	AFR	YR4	2023-09-12	Coriell Institute	Homo sapiens
