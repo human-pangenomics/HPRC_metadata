@@ -1,0 +1,1339 @@
+<?xml version="1.0" ?>
+<RecordSet><DocumentSummary uid="730822">
+    <Project>
+        <ProjectID>
+            <ArchiveID accession="PRJNA730822" archive="NCBI" id="730822"/>
+            <LocalID>bp0</LocalID>
+            <LocalID>bp0</LocalID>
+        </ProjectID>
+        <ProjectDescr>
+            <Name>Homo sapiens</Name>
+            <Title>HPRC Assembly</Title>
+            <Description>This project contains assemblies generated for the Human Pangenome Reference Consortium (HPRC). The Human Pangenome Reference Consortium aims to create a collection of high-quality reference genomes that represent the genetic diversity of the human population.</Description>
+            <Grant GrantId="U01 HG010971">
+                <Title>Center for Human Reference Genome Diversity</Title>
+                <Agency abbr="NHGRI NIH HHS">National Human Genome Research Institute</Agency>
+                <PI affil="UNIVERSITY OF CALIFORNIA SANTA CRUZ" auth="era" userid="1879373">
+                    <Last>HAUSSLER</Last>
+                    <Given>DAVID H</Given>
+                </PI>
+            </Grant>
+            <Grant GrantId="U41 HG010972">
+                <Title>The WashU-UCSC-EBI Human Genome Reference Center</Title>
+                <Agency abbr="NHGRI NIH HHS">National Human Genome Research Institute</Agency>
+                <PI affil="WASHINGTON UNIVERSITY" auth="era" userid="9499796">
+                    <Last>Wang</Last>
+                    <Given>Ting</Given>
+                </PI>
+            </Grant>
+            <Publication id="37165242" status="ePublished">
+                <Reference/>
+                <StructuredCitation>
+                    <Title>A draft human pangenome reference.</Title>
+                    <Journal>
+                        <JournalTitle>Nature</JournalTitle>
+                        <Year>2023</Year>
+                        <Volume>617</Volume>
+                        <Issue>7960</Issue>
+                        <PagesFrom>312</PagesFrom>
+                        <PagesTo>324</PagesTo>
+                    </Journal>
+                    <AuthorSet>
+                        <Author>
+                            <Name>
+                                <First>Wen-Wei</First>
+                                <Last>Liao</Last>
+                            </Name>
+                            <Consortium>Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Mobin</First>
+                                <Last>Asri</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Jana</First>
+                                <Last>Ebler</Last>
+                            </Name>
+                            <Consortium>Institute for Medical Biometry and Bioinformatics, Medical Faculty, Heinrich Heine University, Düsseldorf, Germany.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Daniel</First>
+                                <Last>Doerr</Last>
+                            </Name>
+                            <Consortium>Institute for Medical Biometry and Bioinformatics, Medical Faculty, Heinrich Heine University, Düsseldorf, Germany.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Marina</First>
+                                <Last>Haukness</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Glenn</First>
+                                <Last>Hickey</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Shuangjia</First>
+                                <Last>Lu</Last>
+                            </Name>
+                            <Consortium>Department of Genetics, Yale University School of Medicine, New Haven, CT, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Julian K</First>
+                                <Last>Lucas</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Jean</First>
+                                <Last>Monlong</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Haley J</First>
+                                <Last>Abel</Last>
+                            </Name>
+                            <Consortium>Division of Oncology, Department of Internal Medicine, Washington University School of Medicine, St. Louis, MO, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Silvia</First>
+                                <Last>Buonaiuto</Last>
+                            </Name>
+                            <Consortium>Institute of Genetics and Biophysics, National Research Council, Naples, Italy.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Xian H</First>
+                                <Last>Chang</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Haoyu</First>
+                                <Last>Cheng</Last>
+                            </Name>
+                            <Consortium>Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Justin</First>
+                                <Last>Chu</Last>
+                            </Name>
+                            <Consortium>Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Vincenza</First>
+                                <Last>Colonna</Last>
+                            </Name>
+                            <Consortium>Institute of Genetics and Biophysics, National Research Council, Naples, Italy.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Jordan M</First>
+                                <Last>Eizenga</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Xiaowen</First>
+                                <Last>Feng</Last>
+                            </Name>
+                            <Consortium>Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Christian</First>
+                                <Last>Fischer</Last>
+                            </Name>
+                            <Consortium>Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center, Memphis, TN, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Robert S</First>
+                                <Last>Fulton</Last>
+                            </Name>
+                            <Consortium>McDonnell Genome Institute, Washington University School of Medicine, St. Louis, MO, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Shilpa</First>
+                                <Last>Garg</Last>
+                            </Name>
+                            <Consortium>Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Copenhagen, Denmark.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Cristian</First>
+                                <Last>Groza</Last>
+                            </Name>
+                            <Consortium>Quantitative Life Sciences, McGill University, Montréal, Québec, Canada.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Andrea</First>
+                                <Last>Guarracino</Last>
+                            </Name>
+                            <Consortium>Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center, Memphis, TN, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>William T</First>
+                                <Last>Harvey</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Simon</First>
+                                <Last>Heumos</Last>
+                            </Name>
+                            <Consortium>Quantitative Biology Center (QBiC), University of Tübingen, Tübingen, Germany.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Kerstin</First>
+                                <Last>Howe</Last>
+                            </Name>
+                            <Consortium>Tree of Life, Wellcome Sanger Institute, Hinxton, Cambridge, UK.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Miten</First>
+                                <Last>Jain</Last>
+                            </Name>
+                            <Consortium>Northeastern University, Boston, MA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Tsung-Yu</First>
+                                <Last>Lu</Last>
+                            </Name>
+                            <Consortium>Department of Quantitative and Computational Biology, University of Southern California, Los Angeles, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Charles</First>
+                                <Last>Markello</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Fergal J</First>
+                                <Last>Martin</Last>
+                            </Name>
+                            <Consortium>European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Matthew W</First>
+                                <Last>Mitchell</Last>
+                            </Name>
+                            <Consortium>Coriell Institute for Medical Research, Camden, NJ, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Katherine M</First>
+                                <Last>Munson</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Moses Njagi</First>
+                                <Last>Mwaniki</Last>
+                            </Name>
+                            <Consortium>Department of Computer Science, University of Pisa, Pisa, Italy.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Adam M</First>
+                                <Last>Novak</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Hugh E</First>
+                                <Last>Olsen</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Trevor</First>
+                                <Last>Pesout</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>David</First>
+                                <Last>Porubsky</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Pjotr</First>
+                                <Last>Prins</Last>
+                            </Name>
+                            <Consortium>Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center, Memphis, TN, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Jonas A</First>
+                                <Last>Sibbesen</Last>
+                            </Name>
+                            <Consortium>Center for Health Data Science, University of Copenhagen, Copenhagen, Denmark.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Jouni</First>
+                                <Last>Sirén</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Chad</First>
+                                <Last>Tomlinson</Last>
+                            </Name>
+                            <Consortium>McDonnell Genome Institute, Washington University School of Medicine, St. Louis, MO, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Flavia</First>
+                                <Last>Villani</Last>
+                            </Name>
+                            <Consortium>Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center, Memphis, TN, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Mitchell R</First>
+                                <Last>Vollger</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Lucinda L</First>
+                                <Last>Antonacci-Fulton</Last>
+                            </Name>
+                            <Consortium>McDonnell Genome Institute, Washington University School of Medicine, St. Louis, MO, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Gunjan</First>
+                                <Last>Baid</Last>
+                            </Name>
+                            <Consortium>Google, Mountain View, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Carl A</First>
+                                <Last>Baker</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Anastasiya</First>
+                                <Last>Belyaeva</Last>
+                            </Name>
+                            <Consortium>Google, Mountain View, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Konstantinos</First>
+                                <Last>Billis</Last>
+                            </Name>
+                            <Consortium>European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Andrew</First>
+                                <Last>Carroll</Last>
+                            </Name>
+                            <Consortium>Google, Mountain View, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Pi-Chuan</First>
+                                <Last>Chang</Last>
+                            </Name>
+                            <Consortium>Google, Mountain View, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Sarah</First>
+                                <Last>Cody</Last>
+                            </Name>
+                            <Consortium>McDonnell Genome Institute, Washington University School of Medicine, St. Louis, MO, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Daniel E</First>
+                                <Last>Cook</Last>
+                            </Name>
+                            <Consortium>Google, Mountain View, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Robert M</First>
+                                <Last>Cook-Deegan</Last>
+                            </Name>
+                            <Consortium>Barrett and O'Connor Washington Center, Arizona State University, Washington, DC, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Omar E</First>
+                                <Last>Cornejo</Last>
+                            </Name>
+                            <Consortium>Department of Ecology and Evolutionary Biology, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Mark</First>
+                                <Last>Diekhans</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Peter</First>
+                                <Last>Ebert</Last>
+                            </Name>
+                            <Consortium>Institute for Medical Biometry and Bioinformatics, Medical Faculty, Heinrich Heine University, Düsseldorf, Germany.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Susan</First>
+                                <Last>Fairley</Last>
+                            </Name>
+                            <Consortium>European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Olivier</First>
+                                <Last>Fedrigo</Last>
+                            </Name>
+                            <Consortium>Vertebrate Genome Laboratory, The Rockefeller University, New York, NY, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Adam L</First>
+                                <Last>Felsenfeld</Last>
+                            </Name>
+                            <Consortium>National Institutes of Health (NIH)-National Human Genome Research Institute, Bethesda, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Giulio</First>
+                                <Last>Formenti</Last>
+                            </Name>
+                            <Consortium>Vertebrate Genome Laboratory, The Rockefeller University, New York, NY, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Adam</First>
+                                <Last>Frankish</Last>
+                            </Name>
+                            <Consortium>European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Yan</First>
+                                <Last>Gao</Last>
+                            </Name>
+                            <Consortium>Center for Computational and Genomic Medicine, The Children's Hospital of Philadelphia, Philadelphia, PA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Nanibaa' A</First>
+                                <Last>Garrison</Last>
+                            </Name>
+                            <Consortium>Institute for Society and Genetics, College of Letters and Science, University of California, Los Angeles, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Carlos Garcia</First>
+                                <Last>Giron</Last>
+                            </Name>
+                            <Consortium>European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Richard E</First>
+                                <Last>Green</Last>
+                            </Name>
+                            <Consortium>Department of Biomolecular Engineering, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Leanne</First>
+                                <Last>Haggerty</Last>
+                            </Name>
+                            <Consortium>European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Kendra</First>
+                                <Last>Hoekzema</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Thibaut</First>
+                                <Last>Hourlier</Last>
+                            </Name>
+                            <Consortium>European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Hanlee P</First>
+                                <Last>Ji</Last>
+                            </Name>
+                            <Consortium>Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Eimear E</First>
+                                <Last>Kenny</Last>
+                            </Name>
+                            <Consortium>Institute for Genomic Health, Icahn School of Medicine at Mount Sinai, New York, NY, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Barbara A</First>
+                                <Last>Koenig</Last>
+                            </Name>
+                            <Consortium>Program in Bioethics and Institute for Human Genetics, University of California, San Francisco, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Alexey</First>
+                                <Last>Kolesnikov</Last>
+                            </Name>
+                            <Consortium>Google, Mountain View, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Jan O</First>
+                                <Last>Korbel</Last>
+                            </Name>
+                            <Consortium>European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Jennifer</First>
+                                <Last>Kordosky</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Sergey</First>
+                                <Last>Koren</Last>
+                            </Name>
+                            <Consortium>Genome Informatics Section, Computational and Statistical Genomics Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>HoJoon</First>
+                                <Last>Lee</Last>
+                            </Name>
+                            <Consortium>Division of Oncology, Department of Medicine, Stanford University School of Medicine, Stanford, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Alexandra P</First>
+                                <Last>Lewis</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Hugo</First>
+                                <Last>Magalhães</Last>
+                            </Name>
+                            <Consortium>Institute for Medical Biometry and Bioinformatics, Medical Faculty, Heinrich Heine University, Düsseldorf, Germany.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Santiago</First>
+                                <Last>Marco-Sola</Last>
+                            </Name>
+                            <Consortium>Computer Sciences Department, Barcelona Supercomputing Center, Barcelona, Spain.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Pierre</First>
+                                <Last>Marijon</Last>
+                            </Name>
+                            <Consortium>Institute for Medical Biometry and Bioinformatics, Medical Faculty, Heinrich Heine University, Düsseldorf, Germany.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Ann</First>
+                                <Last>McCartney</Last>
+                            </Name>
+                            <Consortium>Genome Informatics Section, Computational and Statistical Genomics Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Jennifer</First>
+                                <Last>McDaniel</Last>
+                            </Name>
+                            <Consortium>Material Measurement Laboratory, National Institute of Standards and Technology, Gaithersburg, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Jacquelyn</First>
+                                <Last>Mountcastle</Last>
+                            </Name>
+                            <Consortium>Vertebrate Genome Laboratory, The Rockefeller University, New York, NY, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Maria</First>
+                                <Last>Nattestad</Last>
+                            </Name>
+                            <Consortium>Google, Mountain View, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Sergey</First>
+                                <Last>Nurk</Last>
+                            </Name>
+                            <Consortium>Genome Informatics Section, Computational and Statistical Genomics Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Nathan D</First>
+                                <Last>Olson</Last>
+                            </Name>
+                            <Consortium>Material Measurement Laboratory, National Institute of Standards and Technology, Gaithersburg, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Alice B</First>
+                                <Last>Popejoy</Last>
+                            </Name>
+                            <Consortium>Department of Public Health Sciences, University of California, Davis, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Daniela</First>
+                                <Last>Puiu</Last>
+                            </Name>
+                            <Consortium>Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Mikko</First>
+                                <Last>Rautiainen</Last>
+                            </Name>
+                            <Consortium>Genome Informatics Section, Computational and Statistical Genomics Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Allison A</First>
+                                <Last>Regier</Last>
+                            </Name>
+                            <Consortium>McDonnell Genome Institute, Washington University School of Medicine, St. Louis, MO, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Arang</First>
+                                <Last>Rhie</Last>
+                            </Name>
+                            <Consortium>Genome Informatics Section, Computational and Statistical Genomics Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Samuel</First>
+                                <Last>Sacco</Last>
+                            </Name>
+                            <Consortium>Department of Ecology and Evolutionary Biology, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Ashley D</First>
+                                <Last>Sanders</Last>
+                            </Name>
+                            <Consortium>Berlin Institute for Medical Systems Biology, Max Delbrück Center for Molecular Medicine in the Helmholtz Association, Berlin, Germany.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Valerie A</First>
+                                <Last>Schneider</Last>
+                            </Name>
+                            <Consortium>National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Baergen I</First>
+                                <Last>Schultz</Last>
+                            </Name>
+                            <Consortium>National Institutes of Health (NIH)-National Human Genome Research Institute, Bethesda, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Kishwar</First>
+                                <Last>Shafin</Last>
+                            </Name>
+                            <Consortium>Google, Mountain View, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Michael W</First>
+                                <Last>Smith</Last>
+                            </Name>
+                            <Consortium>National Institutes of Health (NIH)-National Human Genome Research Institute, Bethesda, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Heidi J</First>
+                                <Last>Sofia</Last>
+                            </Name>
+                            <Consortium>National Institutes of Health (NIH)-National Human Genome Research Institute, Bethesda, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Ahmad N</First>
+                                <Last>Abou Tayoun</Last>
+                            </Name>
+                            <Consortium>Al Jalila Genomics Center of Excellence, Al Jalila Children's Specialty Hospital, Dubai, UAE.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Françoise</First>
+                                <Last>Thibaud-Nissen</Last>
+                            </Name>
+                            <Consortium>National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Francesca Floriana</First>
+                                <Last>Tricomi</Last>
+                            </Name>
+                            <Consortium>European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Justin</First>
+                                <Last>Wagner</Last>
+                            </Name>
+                            <Consortium>Material Measurement Laboratory, National Institute of Standards and Technology, Gaithersburg, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Brian</First>
+                                <Last>Walenz</Last>
+                            </Name>
+                            <Consortium>Genome Informatics Section, Computational and Statistical Genomics Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Jonathan M D</First>
+                                <Last>Wood</Last>
+                            </Name>
+                            <Consortium>Tree of Life, Wellcome Sanger Institute, Hinxton, Cambridge, UK.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Aleksey V</First>
+                                <Last>Zimin</Last>
+                            </Name>
+                            <Consortium>Department of Biomedical Engineering, Johns Hopkins University, Baltimore, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Guillaume</First>
+                                <Last>Bourque</Last>
+                            </Name>
+                            <Consortium>Department of Human Genetics, McGill University, Montréal, Québec, Canada.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Mark J P</First>
+                                <Last>Chaisson</Last>
+                            </Name>
+                            <Consortium>Department of Quantitative and Computational Biology, University of Southern California, Los Angeles, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Paul</First>
+                                <Last>Flicek</Last>
+                            </Name>
+                            <Consortium>European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, UK.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Adam M</First>
+                                <Last>Phillippy</Last>
+                            </Name>
+                            <Consortium>Genome Informatics Section, Computational and Statistical Genomics Branch, National Human Genome Research Institute, National Institutes of Health, Bethesda, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Justin M</First>
+                                <Last>Zook</Last>
+                            </Name>
+                            <Consortium>Material Measurement Laboratory, National Institute of Standards and Technology, Gaithersburg, MD, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Evan E</First>
+                                <Last>Eichler</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>David</First>
+                                <Last>Haussler</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Ting</First>
+                                <Last>Wang</Last>
+                            </Name>
+                            <Consortium>McDonnell Genome Institute, Washington University School of Medicine, St. Louis, MO, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Erich D</First>
+                                <Last>Jarvis</Last>
+                            </Name>
+                            <Consortium>Vertebrate Genome Laboratory, The Rockefeller University, New York, NY, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Karen H</First>
+                                <Last>Miga</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Erik</First>
+                                <Last>Garrison</Last>
+                            </Name>
+                            <Consortium>Department of Genetics, Genomics and Informatics, University of Tennessee Health Science Center, Memphis, TN, USA. egarris5@uthsc.edu.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Tobias</First>
+                                <Last>Marschall</Last>
+                            </Name>
+                            <Consortium>Institute for Medical Biometry and Bioinformatics, Medical Faculty, Heinrich Heine University, Düsseldorf, Germany. tobias.marschall@hhu.de.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Ira M</First>
+                                <Last>Hall</Last>
+                            </Name>
+                            <Consortium>Department of Genetics, Yale University School of Medicine, New Haven, CT, USA. ira.hall@yale.edu.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Heng</First>
+                                <Last>Li</Last>
+                            </Name>
+                            <Consortium>Department of Data Sciences, Dana-Farber Cancer Institute, Boston, MA, USA. hli@jimmy.harvard.edu.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Benedict</First>
+                                <Last>Paten</Last>
+                            </Name>
+                            <Consortium>Genomics Institute, University of California, Santa Cruz, CA, USA. bpaten@ucsc.edu.</Consortium>
+                        </Author>
+                    </AuthorSet>
+                </StructuredCitation>
+                <DbType>ePubmed</DbType>
+            </Publication>
+            <Publication id="37165237" status="ePublished">
+                <Reference/>
+                <StructuredCitation>
+                    <Title>Increased mutation and gene conversion within human segmental duplications.</Title>
+                    <Journal>
+                        <JournalTitle>Nature</JournalTitle>
+                        <Year>2023</Year>
+                        <Volume>617</Volume>
+                        <Issue>7960</Issue>
+                        <PagesFrom>325</PagesFrom>
+                        <PagesTo>334</PagesTo>
+                    </Journal>
+                    <AuthorSet>
+                        <Author>
+                            <Name>
+                                <First>Mitchell R</First>
+                                <Last>Vollger</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Philip C</First>
+                                <Last>Dishuck</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>William T</First>
+                                <Last>Harvey</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>William S</First>
+                                <Last>DeWitt</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Xavi</First>
+                                <Last>Guitart</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Michael E</First>
+                                <Last>Goldberg</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Allison N</First>
+                                <Last>Rozanski</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Julian</First>
+                                <Last>Lucas</Last>
+                            </Name>
+                            <Consortium>UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Mobin</First>
+                                <Last>Asri</Last>
+                            </Name>
+                            <Consortium>UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Katherine M</First>
+                                <Last>Munson</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Alexandra P</First>
+                                <Last>Lewis</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Kendra</First>
+                                <Last>Hoekzema</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Glennis A</First>
+                                <Last>Logsdon</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>David</First>
+                                <Last>Porubsky</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Benedict</First>
+                                <Last>Paten</Last>
+                            </Name>
+                            <Consortium>UC Santa Cruz Genomics Institute, University of California, Santa Cruz, Santa Cruz, CA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Kelley</First>
+                                <Last>Harris</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>PingHsun</First>
+                                <Last>Hsieh</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA.</Consortium>
+                        </Author>
+                        <Author>
+                            <Name>
+                                <First>Evan E</First>
+                                <Last>Eichler</Last>
+                            </Name>
+                            <Consortium>Department of Genome Sciences, University of Washington School of Medicine, Seattle, WA, USA. eee@gs.washington.edu.</Consortium>
+                        </Author>
+                    </AuthorSet>
+                </StructuredCitation>
+                <DbType>ePubmed</DbType>
+            </Publication>
+            <Relevance>
+                <Medical>yes</Medical>
+            </Relevance>
+        </ProjectDescr>
+        <ProjectType>
+            <ProjectTypeTopAdmin subtype="eOther"/>
+        </ProjectType>
+    </Project>
+    <Submission last_update="2021-05-18" submission_id="SUB9677878" submitted="2021-05-18">
+        <Description>
+            <!-- Submitter information has been removed -->
+            <Organization org_id="21707" role="owner" type="institute" url="https://ucscgenomics.soe.ucsc.edu/">
+                <Name abbr="UCSC GI">UCSC Genomics Institute</Name>
+                <!-- Contact information has been removed -->
+            </Organization>
+            <Organization role="participant" type="consortium" url="https://humanpangenome.org/">
+                <Name abbr="Human Pangenome Reference Consortium">Human Pangenome Reference Consortium</Name>
+            </Organization>
+            <Organization role="participant" type="center" url="https://ucscgenomics.soe.ucsc.edu/">
+                <Name abbr="UC Santa Cruz Genomics Institute">UC Santa Cruz Genomics Institute</Name>
+            </Organization>
+            <Access>public</Access>
+        </Description>
+        <Action action_id="SUB9677878-bp0"/>
+    </Submission>
+    <ProjectLinks>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727229" accession="PRJNA727229"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727233" accession="PRJNA727233"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727234" accession="PRJNA727234"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727235" accession="PRJNA727235"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727236" accession="PRJNA727236"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727241" accession="PRJNA727241"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727242" accession="PRJNA727242"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727244" accession="PRJNA727244"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727245" accession="PRJNA727245"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727246" accession="PRJNA727246"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727248" accession="PRJNA727248"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727250" accession="PRJNA727250"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727251" accession="PRJNA727251"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727252" accession="PRJNA727252"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727254" accession="PRJNA727254"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727255" accession="PRJNA727255"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727256" accession="PRJNA727256"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727257" accession="PRJNA727257"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727258" accession="PRJNA727258"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727259" accession="PRJNA727259"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727260" accession="PRJNA727260"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727262" accession="PRJNA727262"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727263" accession="PRJNA727263"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727265" accession="PRJNA727265"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727266" accession="PRJNA727266"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727267" accession="PRJNA727267"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727268" accession="PRJNA727268"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727269" accession="PRJNA727269"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="727270" accession="PRJNA727270"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="730822" accession="PRJNA730822"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730823" accession="PRJNA730823"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731866" accession="PRJNA731866"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731869" accession="PRJNA731869"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731875" accession="PRJNA731875"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731877" accession="PRJNA731877"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731878" accession="PRJNA731878"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731883" accession="PRJNA731883"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731884" accession="PRJNA731884"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731885" accession="PRJNA731885"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731886" accession="PRJNA731886"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731888" accession="PRJNA731888"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731889" accession="PRJNA731889"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731891" accession="PRJNA731891"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731892" accession="PRJNA731892"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731893" accession="PRJNA731893"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731895" accession="PRJNA731895"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731896" accession="PRJNA731896"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731901" accession="PRJNA731901"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+        <Link>
+            <ProjectIDRef archive="NCBI" id="731902" accession="PRJNA731902"/>
+            <Hierarchical type="TopAdmin">
+                <MemberID archive="NCBI" id="730822" accession="PRJNA730822"/>
+            </Hierarchical>
+        </Link>
+    </ProjectLinks>
+</DocumentSummary>
+
+</RecordSet>
