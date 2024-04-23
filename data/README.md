@@ -11,7 +11,7 @@ HPRC_metadata/data
 │   │   ├── PRJNA730822-BioProject-Umbrella-Corriel-IDs.tsv
 │   │   └── PRJNA730822.xml
 │   └── create-bioproject-identifiers
-│       └── hprc-production-create-YR2_4-bioproject-20240409.tsv
+│       └── hprc-production-create-YR2_4-bioproject.tsv
 ├── ncbi-biosample
 │   ├── biosample_table.tsv
 │   └── create-biosample-identifiers
