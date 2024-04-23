@@ -96,17 +96,3 @@ Follow [these instructions](https://ucsc-cgl.atlassian.net/wiki/spaces/~63c88808
 
 Once SRA accepts the submission it creates a link 'Download metadata file with SRA accessions' under My Submissions. This file contains the biosample and () and is named something like metadata-12876517-processed-ok.tsv.  
 Rename it with the submission ID while keeping the SRA file ID (e.g. WUSTL_HPRC_HiFi_Year3_12876517.tsv) and put it in this directory.
-
-## Aggregate Sample Files
-
-```python
-python merge_metadata.py --flist data-tables/s3.files --type HiFi
-```
-
-```python
-python3 aggregate_sample_metadata.py \
---hprc_metadata_sample_files_modality data-tables/sample-files/hprc_metadata_sample_files_ONT.tsv \
---columns_1_submitter data-tables/aggregate-sample-inputs/hprc_1_submitter_columns_ONT.tsv \
---columns_5_readstat data-tables/aggregate-sample-inputs/hprc_5_readstats_columns_ONT.tsv \
---aggregate_rule_5_readstat_sample data-tables/aggregate-sample-inputs/hprc_5_readstat_sample_aggregate_rules_ONT.tsv
-```
