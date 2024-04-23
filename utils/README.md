@@ -1,8 +1,9 @@
 
-## HiFi Example: merge_metadata.py output piped to aggregate_sample_metadata.py
+## Example: Create Aggregated ONT Sample File Metadata
+### Meta Flow: merge_metadata.py output piped to aggregate_sample_metadata.py
 
 ```python
-python merge_metadata.py --flist data-tables/s3.files --type HiFi
+python merge_metadata.py --flist data-tables/s3.files --type ONT
 ```
 
 ```python
