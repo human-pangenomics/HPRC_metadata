@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to HPRC Metadata's Documentation!
-=========================================
+UC Santa Cruz Genomics Institute: Human Pangenome Reference Consortium Metadata
+***********************
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+Data: Sample Files 
+***********************
 
+`ONT <https://github.com/human-pangenomics/HPRC_metadata/blob/main/data/sample-files/hprc_metadata_sample_files_ONT.tsv>`_
 
+`HiFi <https://github.com/human-pangenomics/HPRC_metadata/blob/main/data/sample-files/hprc_metadata_sample_files_HiFi.tsv>`_
 
-NCBI BioProject
-==================
+`DEEPCONSENSUS <https://github.com/human-pangenomics/HPRC_metadata/blob/main/data/sample-files/hprc_metadata_sample_files_DEEPCONSENSUS.tsv>`_
