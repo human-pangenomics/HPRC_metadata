@@ -299,7 +299,7 @@ def main():
 
     # Process S3 file list and merge data
     bucket_df = bucket_files(args.flist, args.prepend, args.type)
-    bucket_df.to_csv('data-tables/s3-bucket.tsv', sep='\t')
+    bucket_df.to_csv('data/aws-s3/s3-bucket.tsv', sep='\t')
     if args.type == 'ONT':
         merged_df = merge_by_filename([bucket_df, readstats_df, submitter_df])
     else:
@@ -317,7 +317,7 @@ def main():
 
     # Write output to a TSV file
     output_filename = f"hprc_metadata_sample_files_{args.type}.tsv"
-    merged_df.to_csv('data-tables/sample-files/'+output_filename, sep='\t', index=False)
+    merged_df.to_csv('data/sample-files/'+output_filename, sep='\t', index=False)
     print(f"Merged metadata written to {output_filename}")
 
 if __name__ == "__main__":
