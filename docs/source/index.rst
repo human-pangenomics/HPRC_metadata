@@ -14,7 +14,3 @@ Welcome to HPRC Metadata's Documentation!
 
 NCBI BioProject
 ==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
