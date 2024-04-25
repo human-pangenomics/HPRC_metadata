@@ -6,12 +6,12 @@ requires = [
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "example"
+name = "hprc-metadata"
 authors = [{name = "Andrew Blair", email = "apblair@ucsc.edu"}]
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
-dependencies = ["pytest", "numpy", "scipy", "matplotlib", "scikit-learn", "sphinx"]
+dependencies = ["pytest", "numpy", "scipy", "matplotlib", "scikit-learn", "sphinx", "sphinx_rtd_theme"]
 
 [project.urls]
 Home = "https://github.com/human-pangenomics/HPRC_metadata"
