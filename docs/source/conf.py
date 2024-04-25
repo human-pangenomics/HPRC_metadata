@@ -1,33 +1,23 @@
 # Configuration file for the Sphinx documentation builder.
-#
-# For the full list of built-in configuration values, see the documentation:
-# https://www.sphinx-doc.org/en/master/usage/configuration.html
 
-# -- Project information -----------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-import os
-import sys
-
+# -- Project information
 
 project = 'HPRC Metadata'
-copyright = '2024, Andrew Blair'
+copyright = '2024, Blair'
 author = 'Andrew Blair'
-release = '0.1.0'
 
-# -- General configuration ---------------------------------------------------
-# https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
-
-extensions = []
-
-templates_path = ['_templates']
-exclude_patterns = []
-master_doc = 'index' 
-
+release = '0.1'
+version = '0.1.0'
 
 # -- General configuration
-extensions = ['sphinx.ext.todo', 'sphinx.ext.viewcode', 'sphinx.ext.autodoc']
 
-
+extensions = [
+    'sphinx.ext.duration',
+    'sphinx.ext.doctest',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
+    'sphinx.ext.intersphinx',
+]
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
