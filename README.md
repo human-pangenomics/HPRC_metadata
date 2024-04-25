@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/hprc-metadata/badge/?version=latest)](https://hprc-metadata.readthedocs.io/en/latest/?badge=latest)
+
 # Submission workflows
 
 Every submission contains subdirectories with information on all steps taken to create per-sample metadata.

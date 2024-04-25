@@ -12,7 +12,7 @@ Welcome to HPRC Metadata's Documentation!
 
 
 
-Indices and tables
+NCBI BioProject
 ==================
 
 * :ref:`genindex`
