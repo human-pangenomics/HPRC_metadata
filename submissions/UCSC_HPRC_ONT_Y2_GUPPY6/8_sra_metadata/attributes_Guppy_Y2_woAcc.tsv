@@ -1,0 +1,8 @@
+accession	message	sample_name	sample_title	bioproject_accession	organism	isolate	age	biomaterial_provider	collection_date	geo_loc_name	sex	tissue	cell_line	cell_subtype	cell_type	culture_collection	dev_stage	disease	disease_stage	ethnicity	health_state	karyotype	phenotype	population	race	sample_type	treatment	description	family_id
+SAMN37706905	Successfully loaded	HG00706			Homo sapiens	HG00706	No Data	Coriell Institute	2020-12-08	China: Hu Nan Province	male	B-Lymphocyte												Southern Han Chinese					SH090
+SAMN37706906	Successfully loaded	HG02668			Homo sapiens	HG02668	No Data	Coriell Institute	2020-12-08	Gambia	male	B-Lymphocyte												Gambian					GB40
+SAMN37706907	Successfully loaded	HG03804			Homo sapiens	HG03804	No Data	Coriell Institute	2020-11-04	Bangladesh	female	B-Lymphocyte												Bengali					BD18
+SAMN37706908	Successfully loaded	HG03816			Homo sapiens	HG03816	No Data	Coriell Institute	2020-11-04	Bangladesh	female	B-Lymphocyte												Bengali					BD22
+SAMN37706909	Successfully loaded	HG04157			Homo sapiens	HG04157	No Data	Coriell Institute	2020-11-04	Bangladesh	male	B-Lymphocyte												Bengali					BD52
+SAMN37706910	Successfully loaded	HG04160			Homo sapiens	HG04160	No Data	Coriell Institute	2020-11-04	Bangladesh	male	B-Lymphocyte												Bengali					BD53
+SAMN37706911	Successfully loaded	HG04187			Homo sapiens	HG04187	No Data	Coriell Institute	2020-11-04	Bangladesh	male	B-Lymphocyte												Bengali					BD62
