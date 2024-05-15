@@ -1,6 +1,0 @@
-java -jar /private/groups/hprc/human-pangenomics/cromwell/womtool-54.jar   inputs   /private/groups/hprc/human-pangenomics/hpp_production_workflows/data_processing/wdl/workflows/hifi_qc_workflow.wdl | grep -v "optional"
-{
-  "hifi_qc_wf.hifi_reads": "Array[File]",
-  "hifi_qc_wf.sample_id": "String",
-  "hifi_qc_wf.other_reads": "Array[File]"
-}

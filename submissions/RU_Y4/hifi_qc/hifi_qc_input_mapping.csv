@@ -1,4 +1,0 @@
-,input,type,value
-0,hifi_qc_wf.hifi_reads,array,$input.hifi
-1,hifi_qc_wf.sample_id,scalar,$input.sample_id
-2,hifi_qc_wf.other_reads,array,$input.ilmn
