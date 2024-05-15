@@ -1,0 +1,8 @@
+{
+  "hifi_qc_wf.hifi_reads": [
+    "s3://human-pangenomics/submissions/4f8c8e63-dfd3-4f90-965f-8a8cf3ee4de9--UW_HPRC_HiFi_Y4_AND_Y3_Topoff/NA19776/m84046_230513_215634_s1.hifi_reads.bc2014.bam",
+    "s3://human-pangenomics/submissions/4f8c8e63-dfd3-4f90-965f-8a8cf3ee4de9--UW_HPRC_HiFi_Y4_AND_Y3_Topoff/NA19776/m84046_230516_205603_s2.hifi_reads.bc2014.bam",
+    "s3://human-pangenomics/submissions/4f8c8e63-dfd3-4f90-965f-8a8cf3ee4de9--UW_HPRC_HiFi_Y4_AND_Y3_Topoff/NA19776/m84046_230516_212709_s3.hifi_reads.bc2014.bam"
+  ],
+  "hifi_qc_wf.sample_id": "NA19776"
+}

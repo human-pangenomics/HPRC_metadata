@@ -1,0 +1,3 @@
+,input,type,value
+0,hifi_qc_wf.hifi_reads,array,$input.hifi
+1,hifi_qc_wf.sample_id,scalar,$input.sample_id

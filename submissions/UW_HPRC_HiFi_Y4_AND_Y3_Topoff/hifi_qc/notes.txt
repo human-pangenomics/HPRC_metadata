@@ -1,0 +1,10 @@
+python3 /private/groups/hprc/human-pangenomics/hprc_intermediate_assembly/hpc/launch_from_table.py --data_table ../hifi_sample_data.csv --field_mapping ../hifi_qc_input_mapping.csv --workflow_name hifi_qc_workflow
+
+sbatch \
+     --job-name=hifi-qc-test \
+     --array=[1] \
+     --partition=high_priority \
+     /private/groups/hprc/human-pangenomics/hprc_intermediate_assembly/hpc/toil_sbatch_slurm.sh \
+     --wdl /private/groups/hprc/human-pangenomics/hpp_production_workflows/data_processing/wdl/workflows/hifi_qc_workflow.wdl \
+     --sample_csv hg002_chr20_test_data.csv \
+     --input_json_path '../input_jsons/${SAMPLE_ID}_hifi_qc_workflow.json'

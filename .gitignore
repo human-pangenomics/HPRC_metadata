@@ -3,3 +3,4 @@
 Dockerfile
 data-tables/*.ipynb_checkpoints
 methyl-check/*
+submissions/*/hifi_qc
