@@ -1,9 +1,0 @@
-{
-  "hifi_qc_wf.hifi_reads": [
-    "s3://human-pangenomics/submissions/4f8c8e63-dfd3-4f90-965f-8a8cf3ee4de9--UW_HPRC_HiFi_Y4_AND_Y3_Topoff/HG00558/m84046_230519_231055_s2.hifi_reads.bc1016.bam",
-    "s3://human-pangenomics/submissions/4f8c8e63-dfd3-4f90-965f-8a8cf3ee4de9--UW_HPRC_HiFi_Y4_AND_Y3_Topoff/HG00558/m84046_230602_213334_s2.hifi_reads.bc1016.bam",
-    "s3://human-pangenomics/submissions/4f8c8e63-dfd3-4f90-965f-8a8cf3ee4de9--UW_HPRC_HiFi_Y4_AND_Y3_Topoff/HG00558/m84046_230623_210640_s1.hifi_reads.bc1016.bam",
-    "s3://human-pangenomics/submissions/4f8c8e63-dfd3-4f90-965f-8a8cf3ee4de9--UW_HPRC_HiFi_Y4_AND_Y3_Topoff/HG00558/m84046_230720_182350_s1.hifi_reads.bc2004.bam"
-  ],
-  "hifi_qc_wf.sample_id": "HG00558"
-}

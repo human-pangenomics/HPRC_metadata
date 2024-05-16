@@ -1,6 +1,0 @@
-{
-  "hifi_qc_wf.hifi_reads": [
-    "s3://human-pangenomics/submissions/4f8c8e63-dfd3-4f90-965f-8a8cf3ee4de9--UW_HPRC_HiFi_Y4_AND_Y3_Topoff/HG02647/m84046_230707_202610_s3.hifi_reads.bc2060.bam"
-  ],
-  "hifi_qc_wf.sample_id": "HG02647"
-}
