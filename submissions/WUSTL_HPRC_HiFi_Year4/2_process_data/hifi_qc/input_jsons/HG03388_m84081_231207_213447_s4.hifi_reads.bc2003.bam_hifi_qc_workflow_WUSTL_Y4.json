@@ -1,0 +1,8 @@
+{
+  "hifi_qc_wf.hifi_reads": "s3://human-pangenomics/submissions/72fad738-62d9-42a9-ba8c-53e355eb442b--WUSTL_HPRC_HiFi_Y4/HG03388/PacBio_HiFi/m84081_231207_213447_s4.hifi_reads.bc2003.bam",
+  "hifi_qc_wf.sample_id": "HG03388_m84081_231207_213447_s4.hifi_reads.bc2003.bam",
+  "hifi_qc_wf.other_reads": [
+    "/private/groups/hprc/human-pangenomics/1000G_local/child/cram_to_bam/HG03388/analysis/ConvertCRAMtoBAM_outputs/9a4607d0-34cb-4f9f-b2b6-c4302f77000f/HG03388.final.bam"
+  ],
+  "hifi_qc_wf.perform_methylation_check": true
+}
