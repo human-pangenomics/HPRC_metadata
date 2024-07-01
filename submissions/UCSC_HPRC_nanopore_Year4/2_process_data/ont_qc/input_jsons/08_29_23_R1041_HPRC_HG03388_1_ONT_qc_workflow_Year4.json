@@ -1,0 +1,11 @@
+{
+  "ntsm_workflow.sample_id": "08_29_23_R1041_HPRC_HG03388_1",
+  "ntsm_workflow.input_reads_1": [
+    "/private/nanopore/UCSC_HPRC_nanopore_Year4/basecalled/HG03388/dorado0.6.0_sup4.3.0_5mCG_5hmCG/08_29_23_R1041_HPRC_HG03388_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam"
+  ],
+  "ntsm_workflow.input_reads_2": [
+    "/private/groups/hprc/human-pangenomics/1000G_local/child/cram_to_bam/HG03388/analysis/ConvertCRAMtoBAM_outputs/9a4607d0-34cb-4f9f-b2b6-c4302f77000f/HG03388.final.bam"
+  ],
+  "ntsm_workflow.read_1_type": "ont",
+  "ntsm_workflow.read_2_type": "other"
+}
