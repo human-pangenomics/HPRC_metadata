@@ -1,7 +1,0 @@
-{
-  "hic_qc_wf.file_id": "HG00867-2_FC1_S8_L001_R1_001.fastq.gz",
-  "hic_qc_wf.hic_reads": "s3://human-pangenomics/submissions/F346B183-CEE4-41BF-BBEE-E4335B20B8B2--HIC_Y3_fillin_and_Y4_part1/HG00867/raw_data/hic/HG00867-2_FC1_S8_L001_R1_001.fastq.gz",
-  "hic_qc_wf.other_reads": [
-    "/private/groups/hprc/human-pangenomics/1000G_local/child/cram_to_bam/HG00867/analysis/ConvertCRAMtoBAM_outputs/a345c60b-6ad8-4f8f-b8d8-0cb8fecd9d54/HG00867.final.bam"
-  ]
-}

@@ -1,7 +1,0 @@
-{
-  "hic_qc_wf.file_id": "HG00639-1_S6_L002_R2_001.fastq.gz",
-  "hic_qc_wf.hic_reads": "s3://human-pangenomics/submissions/F346B183-CEE4-41BF-BBEE-E4335B20B8B2--HIC_Y3_fillin_and_Y4_part1/HG00639/raw_data/hic/HG00639-1_S6_L002_R2_001.fastq.gz",
-  "hic_qc_wf.other_reads": [
-    "/private/groups/hprc/1000G_local/child/fastq/HG00639.final.fq.gz"
-  ]
-}
