@@ -1,0 +1,4 @@
+input,type,value
+hic_qc_wf.file_id,scalar,$input.file_id
+hic_qc_wf.hic_reads,scalar,$input.hic_reads
+hic_qc_wf.other_reads,array,$input.other_reads
