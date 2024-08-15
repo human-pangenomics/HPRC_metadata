@@ -1,0 +1,755 @@
+			 			Biomaterial Production				 																															
+ChildID	N	Sex	Subpopulation	Superpopulation	Production Year	Pellets Status: Production	QC: Karyotyping 	QC: OMNI Microarray	Pellets Status: UL Nanopore Production	HiFi Center Information 	HiFi sample received	HiFi data generation	HiFi data  submitted to AnVIL	10X Genomics Center Information 	10X Genomics sample received	10X Genomics data generation	10X Genomics data submitted to AnVIL	BioNano Genomics Center Information	BioNano Genomics sample received	BioNano Genomics data generation	BioNano Genomics data submitted to AnVIL	Nanopore Standard Center Information	Nanopore Standard sample received	Nanopore Standard Unsheared data generation	Nanopore Standard Unsheared data submitted to AnVIL	Nanopore UL Center Information	Nanopore UL sample received	Nanopore UL data generation	Nanopore UL data submitted to AnVIL	Hi-C Center Information	Hi-C sample received	Hi-C data generation	Hi-C data submitted to AnVIL	Strand-seq Center Information	Strand-seq sample received	Strand-seq data generation	Strand-seq data  submitted to AnVIL	Kinnex Center Information	Kinnex sample received	Kinnex data generation	Kinnex data  submitted to AnVIL
+HG01891	BB05	female	ACB	AFR	YR1	Pellets Banked (11/25/19)	Completed (12/22/19)	Completed (01/10)	Pellets Banked (02/24)	UW	12/5/19	Topped off, Est. Complete = 64.2X	Complete	RU	12/12/2019	on hold 		RU	12/12/2019	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	12/05/19	Completed	Completed	EMBL	12/16/19	Completed	Completed	WashU			
+HG02486	BB55	male	ACB	AFR	YR1	Pellets Banked (11/25/19)	Completed (12/17/19)	Completed (01/10)	Pellets Banked (02/24)	UW	12/5/19	Topped off, Est. Complete = 62.7X	Complete	RU	12/12/2019	on hold 		RU	12/12/2019	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	12/05/19	Completed	Completed	EMBL	12/16/19	Completed	Completed	WashU			
+HG02559	BB68	female	ACB	AFR	YR1	Pellets Banked (11/25/19)	Completed (12/22/19)	Completed (01/10)	Pellets Banked (02/24)	UW	12/5/19	Topped off, Est. Complete = 63.5X	Complete	RU	12/12/2019	on hold 		RU	12/12/2019	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	12/05/19	Completed	Completed	EMBL	12/16/19	In progress (resorted, library to be prepared)		WashU			
+HG01888	BB02	male	ACB	AFR	Fail Karyo, StrandSeq only	Pellets Banked (11/25/19)	Completed (12/22/19)	Completed (01/10)	Pellets Banked (02/24)	UW	12/5/19	on hold (karyotype report)		RU	12/12/2019	on hold 		RU	12/12/2019	on hold (karyotype report)		Sample received 01/09/20				UCSC	1/9/20			UCSC	12/05/19	dropped (abnormal karyotype)		EMBL	12/16/19	Completed	Completed				
+HG02257	BB21	female	ACB	AFR	YR1	Pellets Banked (11/25/19)	Completed (12/17/19)	Completed (01/10)	Pellets Banked (02/24)	UW	12/5/19	Topped off, Est. Complete = 65.7X	Complete	RU	12/12/2019	on hold 		RU	12/12/2019	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	12/05/19	Completed	Completed	EMBL	12/16/19	Completed	Completed	WashU			
+HG01138	CLM08	male	CLM	AMR	Fail Karyo, StrandSeq only	Pellets Banked (11/25/19)	Completed (12/17/19)	Completed (01/10)	Pellets Banked (02/24)	UW	12/5/19	on hold (karyotype report)		RU	12/12/2019	on hold 		RU	12/12/2019	on hold (karyotype report)		Sample received 01/09/20				UCSC	1/9/20			UCSC	12/05/19	dropped (abnormal karyotype)		EMBL	12/16/19	Completed	Completed				
+HG01358	CLM31	male	CLM	AMR	YR1	Pellets Banked (11/25/19)	Completed (12/17/19)	Completed (01/10)	Pellets Banked (02/24)	UW	12/5/19	Topped off, Est. Complete = 57.9X	Complete	RU	12/12/2019	on hold 		RU	12/12/2019	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	12/05/19	Complete	Complete	EMBL	12/16/19	Completed	Completed	WashU			
+HG01123	CLM02	female	CLM	AMR	YR1	Pellets Banked (11/25/19)	Completed (12/15/19)	Completed (01/10)	Pellets Banked (02/24)	UW	12/5/19	Topped off, Est. Complete = 70.4X	Complete	RU	12/12/2019	on hold 		RU	12/12/2019	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	12/05/19	Complete	Complete	EMBL	12/16/19	Completed	Completed	WashU			
+HG01361	CLM32	female	CLM	AMR	YR1	Pellets Banked (11/25/19)	Completed (12/22/19)	Completed (01/10)	Pellets Banked (02/24)	UW	12/5/19	Topped off, Est. Complete = 79X	Complete	RU	12/12/2019	on hold 		RU	12/12/2019	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	12/05/19	Complete	Complete	EMBL	12/16/19	In progress (sorted)		WashU			
+HG01258	CLM16	male	CLM	AMR	YR1	Pellets Banked (11/25/19)	Completed (12/22/19)	Completed (01/10)	Pellets Banked (02/24)	UW	12/5/19	Topped off, Est. Complete = 64.2X	Complete	RU	12/12/2019	on hold 		RU	12/12/2019	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	12/05/19	Complete	Complete	EMBL	12/16/19	In progress (sorted)		WashU			
+HG03516	NG107	female	ESN	AFR	YR1	Pellets Banked (12/17/19)	Completed (1/27/20)	Completed (2/10/20)	Pellets Banked (6/9/20)	UW	1/7/20	Topped off, Est. Complete = 63.5X	Complete					RU	1/7/2020	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	01/07/19	Complete	Complete					WashU			
+HG02572	GB21	male	GWD	AFR	YR1	Pellets Banked (12/17/19)	Completed (1/27/20)	Completed (2/10/20)	Pellets Banked (7/21/20)	UW	1/7/20	Topped off, Est. Complete = 66.6X	Complete					RU	1/7/2020	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	01/07/19	Complete	Complete					WashU			
+HG02886	GB89	female	GWD	AFR	YR1	Pellets Banked (12/17/19)	Completed (1/27/20)	Completed (2/10/20)	Pellets Banked (5/26/20)	WashU	1/7/20	Complete -- 42.9X	Complete					RU	1/7/2020	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	01/07/19	Complete	Complete					WashU			
+HG02717	GB50	male	GWD	AFR	YR1	Pellets Banked (12/17/19)	Completed (1/27/20)	Completed (2/10/20)	Pellets Banked (5/26/20)	WashU	1/7/20	Complete -- 43.8X	Complete					RU	1/7/2020	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	01/07/19	Complete	Complete					WashU			
+HG02630	GB33	female	GWD	AFR	YR1	Pellets Banked (12/17/19)	Completed (1/27/20)	Completed (2/10/20)	Pellets Banked (5/26/20)	WashU	1/7/20	Complete -- 47.2X	Complete					RU	1/7/2020	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	01/07/19	Complete	Complete					WashU			
+HG02622	GB31	female	GWD	AFR	YR1	Pellets Banked (12/17/19)	Completed (1/27/20)	Completed (2/10/20)	Pellets Banked (7/21/20)	WashU	1/7/20	Complete -- 45X	Complete					RU	1/7/2020	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	01/07/19	Complete	Complete					WashU			
+HG03540	GB125	female	GWD	AFR	YR1	Pellets Banked (12/17/19)	Completed (1/27/20)	Completed (2/10/20)	Pellets Banked (5/26/20)	WashU	1/7/20	Complete -- 47.9X	Complete					RU	1/7/2020	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	01/07/19	Complete	Complete					WashU			
+HG03453	SL50	female	MSL	AFR	YR1	Pellets Banked (12/17/19)	Completed (1/27/20)	Completed (2/10/20)	Pellets Banked (7/21/20)	WashU	1/7/20	Complete -- 50.1X	Complete					RU	1/7/2020	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	01/07/19	Complete	Complete					WashU			
+HG03579	SL72	male	MSL	AFR	YR1	Pellets Banked (12/17/19)	Completed (1/27/20)	Completed (2/10/20)	Pellets Banked (5/26/20)	WashU	1/7/20	Complete -- 46.9X	Complete					RU	1/7/2020	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	01/07/19	Complete	Complete					UW	6/20/2024	Complete -- 11.1M	
+HG03471	SL56i	male	MSL	AFR	YR1	Pellets Banked (12/17/19)	Completed (1/27/20)	Completed (2/10/20)	Pellets Banked (5/26/20)	WashU	1/7/20	Complete -- 49.1X	Complete					RU	1/7/2020	Complete	Complete	Sample received 01/09/20				UCSC	1/9/20	Complete	Complete	UCSC	01/07/19	Complete	Complete					UW	6/20/2024	Complete -- 15.1M	
+HG01978	PEL26	female	PEL	AMR	YR1	Pellets Banked (1/14/20)	Completed (2/13/20)	Completed (2/10/20)	Pellets Banked (6/1/20)	WashU	1/23/20	Complete -- 36.7X	Complete					RU	1/23/2020	Complete	Complete	Sample received 01/22/20				UCSC	1/22/20	Complete	Complete	UCSC	01/023/19	Complete	Complete					UW	6/20/2024	Complete -- 15.3M	
+HG01928	PEL011	male	PEL	AMR	YR1	Pellets Banked (1/14/20)	Completed (2/13/20)	Completed (2/10/20)	Pellets Banked (6/1/20)	WashU	1/23/20	Complete -- 34.0X	Complete					RU	1/23/2020	Complete	Complete	Sample received 01/22/20				UCSC	1/22/20	Complete	Complete	UCSC	01/023/19	Complete	Complete					UW	6/20/2024	Complete -- 14.4M	
+HG02148	PEL39	female	PEL	AMR	YR1	Pellets Banked (1/14/20)	Completed (2/13/20)	Completed (2/10/20)	Pellets Banked (6/1/20)	WashU	1/23/20	Complete -- 38.5X	Complete					RU	1/23/2020	Complete		Sample received 01/22/20				UCSC	1/22/20	Complete	Complete	UCSC	01/023/19	Complete	Complete					UW	6/20/2024	Complete -- 11M	
+HG01998	PEL31	male	PEL	AMR	Fail Karyo	Pellets Banked (1/14/20)	Completed (2/13/20)	Completed (2/10/20)	Pellets Banked (6/1/20)	WashU	1/23/20	on hold (karyotype report)						RU	1/23/2020	on hold (karyotype report)		Sample received 01/22/20				UCSC	1/22/20			UCSC	01/023/19	dropped (abnormal karyotype)									
+HG01952	PEL019	male	PEL	AMR	YR1	Pellets Banked (1/14/20)	Completed (2/13/20)	Completed (2/10/20)	Pellets Banked (6/1/20)	WashU	1/23/20	Complete -- 40.0X	Complete					RU	1/23/2020	Complete	Complete	Sample received 01/22/20				UCSC	1/22/20	Complete	Complete	UCSC	01/023/19	Complete	Complete					UW	6/20/2024	Complete -- 15.5M	
+HG01106	PR25	male	PUR	AMR	YR1	Pellets Banked (1/14/20)	Completed (2/13/20)	Completed (2/10/20)	Pellets Banked (6/1/20)	WashU	1/23/20	Complete -- 45.3X	Complete					RU	1/23/2020	Complete	Complete	Sample received 01/22/20				UCSC	1/22/20	Complete	Complete	UCSC	01/023/19	Complete	Complete					UW	6/20/2024	Complete -- 15.9M	
+HG01175	PR36	female	PUR	AMR	YR1	Pellets Banked (1/14/20)	Completed (2/13/20)	Completed (2/10/20)	Pellets Banked (6/1/20)	WashU	1/23/20	Complete -- 35.0X	Complete					RU	1/23/2020	Complete	Complete	Sample received 01/22/20				UCSC	1/22/20	Complete	Complete	UCSC	01/023/19	Complete	Complete					UW	6/20/2024	Complete -- 16.3M	
+HG00741	PR09	female	PUR	AMR	YR1	Pellets Banked (1/14/20)	Completed (2/13/20)	Completed (2/10/20)	Pellets Banked (7/21/20)	WashU	1/23/20	Complete -- 37.3X	Complete					RU	1/23/2020	Complete	Complete	Sample received 01/22/20				UCSC	1/22/20	Complete	Complete	UCSC	01/023/19	Complete	Complete					UW	6/20/2024	Complete -- 10.2M	
+HG00735	PR06	female	PUR	AMR	YR1	Pellets Banked (1/14/20)	Completed (2/13/20)	Completed (2/10/20)	Pellets Banked (6/1/20)	WashU	1/23/20	Complete -- 41.7X	Complete					RU	1/23/2020	Complete	Complete	Sample received 01/22/20				UCSC	1/22/20	Complete	Complete	UCSC	01/023/19	Complete	Complete					UW	6/20/2024	Complete -- 12.2M	
+HG01071	PR17	female	PUR	AMR	YR1	Pellets Banked (1/14/20)	Completed (2/13/20)	Completed (2/10/20)	Pellets Banked (6/1/20)	WashU	1/23/20	Complete -- 34.0X	Complete					RU	1/23/2020	Complete	Complete	Sample received 01/22/20				UCSC	1/22/20	Complete	Complete	UCSC	01/023/19	Complete	Complete					UW	6/20/2024	Complete -- 14.8M	
+HG00480	SH026	male	CHS	EAS	Fail Karyo	Pellets Banked (3/24/20)	Completed (4/20/20)		Pellets Banked (6/9/20)	WashU	6/18/20	fail karyo						RU	7/15/2020	on hold						UCSC	8/19/20			UCSC	07/01/20	dropped (abnormal karyotype)									
+HG00621	SH066	male	CHS	EAS	YR1	Pellets Banked (3/24/20)	Completed (4/20/20)		Pellets Banked (6/9/20)	WashU	6/18/20	Complete -- 38.3X	Complete					RU	7/15/2020	Complete						UCSC	8/19/20	Complete	Complete	UCSC	07/01/20	Complete	Complete					UW	6/20/2024	Complete -- 15.6M	
+HG00438	SH012	female	CHS	EAS	YR1	Pellets Banked (3/24/20)	Completed (4/21/20)		Pellets Banked (6/9/20)	WashU	6/18/20	Complete -- 39.8X	Complete					RU	7/15/2020	Complete						UCSC	8/19/20	Complete	Complete	UCSC	07/01/20	Complete	Complete					UW	6/20/2024	Complete -- 14.3M	
+HG00673	SH079	male	CHS	EAS	YR1	Pellets Banked (3/24/20)	Completed (4/20/20)		Pellets Banked (6/9/20)	WashU	6/18/20	Complete -- 38.3X	Complete					RU	7/15/2020	Complete						UCSC	8/19/20	Complete	Complete	UCSC	07/01/20	Complete	Complete					UW	6/20/2024	Complete -- 10.3M	
+HG00423	SH007	female	CHS	EAS	YR2	Pellets Banked (3/2420)	Completed (4/11/20)		Pellets Banked (6/9/20)	WashU	6/18/20	Complete -- 60.8X	Complete					RU	7/15/2020							UCSC	8/19/20	Complete	Complete	UCSC	07/01/20	Basecalled						UW	6/20/2024	Complete -- 12.2M	
+HG00411 	SH003	male	CHS	EAS	no Broad Illumina	Pellets Banked (3/24/20)	Completed (4/20/20)		Pellets Banked (6/9/20)		6/18/20	no Broad Illumina						RU	7/15/2020							UCSC	8/19/20			UCSC	07/01/20										
+HG00730	SH098	female	CHS	EAS	Fail Karyo, no Broad Illumina	Pellets Banked (3/24/20)	Completed (4/17/20)		Pellets Banked (6/9/20)		6/18/20	fail karyo, no Broad Illumina						RU	7/15/2020	on hold?						UCSC	8/19/20			UCSC	07/01/20										
+HG02027	VN050	male	KHV	EAS	YR2	Pellets Banked (3/24/20)	Completed (4/17/20)		Pellets Banked (6/9/20)	WashU	6/18/20	Complete -- 67.7X	Complete					RU	7/15/2020							UCSC	8/19/20	Complete	Complete	UCSC	07/01/20	Basecalled						UW	6/20/2024	Complete -- 11.7M	
+HG02083	VN069	male	KHV	EAS	YR2	Pellets Banked (3/24/20)	Completed (4/20/20)		Pellets Banked (7/1/20)	WashU	6/18/20	Complete -- 65X	Complete					RU	7/15/2020							UCSC	8/19/20	Complete	Complete	UCSC	07/01/20	Basecalled						UW	6/20/2024	Complete -- 14.3M	
+HG02523	VN090	female	KHV	EAS	YR2	Pellets Banked (3/24/20)	Completed (4/20/20)		Pellets Banked (6/9/20)	WashU	6/18/20	Complete -- 65.7X	Complete					RU	7/15/2020							UCSC	8/19/20	Complete	Complete	UCSC	07/01/20	Basecalled						UW	6/20/2024	Complete -- 15.1M	
+HG02132	VN080	male	KHV	EAS	YR2	Pellets Banked (12/21/20)	Completed (1/24/21)	Completed (2/16/21)	Pellets Banked (12/21/20)	UW	1/21/21	Topped off, Complete -- 66.7X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	10/26/21						UW	6/20/2024	Complete -- 13.4M	
+HG02135	VN081	male	KHV	EAS	YR2	Pellets Banked (12/21/20)	Completed (1/24/21)	Completed (2/16/21)	Pellets Banked (12/21/20)	UW	1/21/21	Topped off, Est. Complete = 60.3X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						UW	6/20/2024	Complete -- 14.6M	
+HG02074	VN066	male	KHV	EAS	YR2	Pellets Banked (11/4/20)	Completed (12/23/20)	Completed (2/16/21)	Pellets Banked (11/4/20)	UW	1/21/21	Topped off, Est. Complete = 71.7X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						UW	6/20/2024	Complete -- 11.6M	
+HG02071	VN065	male	KHV	EAS	YR2	Pellets Banked (11/4/20)	Completed (11/24/20)	Completed (2/16/21)	Pellets Banked (11/4/20)	UW	1/21/21	Topped off, Est. Complete = 61.6X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						UW	6/20/2024	Complete -- 14.8M	
+HG03942	BD42	male	BEB	SAS	YR2	Pellets Banked (11/4/20)	Completed (12/23/20)	Completed (2/16/21)	Pellets Banked (11/4/20)	UW	1/21/21	Topped off, Est. Complete = 62.4X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						UW	6/20/2024	Complete -- 14.6M	
+HG04187	BD62	male	BEB	SAS	YR2	Pellets Banked (11/4/20)	Completed (12/23/20)	Completed (2/16/21)	Pellets Banked (11/4/20)	RU	1/21/21	Topped off, Est. Complete 62x	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						UW	6/20/2024	Complete -- 14.3M	
+HG03804	BD18	female	BEB	SAS	YR2	Pellets Banked (11/4/20)	Completed (12/23/20)	Completed (2/16/21)	Pellets Banked (11/4/20)	RU	1/21/21	Topped off, Est. Complete 68x	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						WashU			
+HG04160	BD53	male	BEB	SAS	YR2	Pellets Banked (11/4/20)	Completed (12/23/20)	Completed (2/16/21)	Pellets Banked (11/4/20)	RU	1/21/21	Topped off, Est. Complete 59x	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						WashU			
+HG04157	BD52	male	BEB	SAS	YR2	Pellets Banked (11/4/20)	Completed (12/23/20)	Completed (2/16/21)	Pellets Banked (11/4/20)	RU	1/21/21	Topped off, Est. Complete 60x	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	10/26/21						WashU			
+HG03816	BD22	female	BEB	SAS	YR2	Pellets Banked (11/4/20)	Completed (1/24/21)	Completed (2/16/21)	Pellets Banked (11/4/20)	RU	1/21/21	Topped off, Est. Complete 60x	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	10/26/21						WashU			
+HG03710	PK62	male	PJL	SAS	YR2	Pellets Banked (11/9/20)	Completed (1/24/21)	Completed (2/16/21)	Pellets Banked (11/9/20)	WashU	1/21/21	Complete -- 76.7X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	Sent to Illumina - 1/13/22						WashU			
+HG02602	PK09	male	PJL	SAS	YR2	Pellets Banked (11/9/20)	Completed (2/1/21)	Completed (2/16/21)	Pellets Banked (11/9/20)	WashU	1/21/21	Complete -- 65.0X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						WashU			
+HG03654	PK53	male	PJL	SAS	YR2	Pellets Banked (11/9/20)	Completed (1/18/21)	Completed (2/16/21)	Pellets Banked (11/9/20)	WashU	1/21/21	Complete -- 66.1X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	Sent to Illumina - 1/13/22						WashU			
+HG02698	PK21	male	PJL	SAS	YR2	Pellets Banked (11/9/20)	Completed (2/1/21)	Completed (2/16/21)	Pellets Banked (11/9/20)	WashU	1/21/21	Complete -- 71.4X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						WashU			
+HG02662	PK15	female	PJL	SAS	Fail Karyo	Pellets Banked (11/9/20)	Completed (1/24/21)	Completed (2/16/21)	Pellets Banked (11/9/20)	WashU	1/21/21	fail karyo																													
+HG04228	ST232	male	STU	SAS	YR2	Pellets Banked (11/9/20)	Completed (1/18/21)	Completed (2/16/21)	Pellets Banked (11/9/20)	UW	1/21/21	Topped off, Est. Complete = 63.4X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	10/26/21						WashU			
+HG03688	ST016	male	STU	SAS	YR2	Pellets Banked (11/9/20)	Completed (1/24/21)	Completed (2/16/21)	Pellets Banked (11/9/20)	UW	1/21/21	Topped off, Complete -- 61.9X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	Sent to Illumina - 1/13/22						WashU			
+HG04204	ST006	male	STU	SAS	YR2	Pellets Banked (11/9/20)	Completed (1/18/21)	Completed (2/16/21)	Pellets Banked (11/9/20)	UW	1/21/21	Topped off, Est. Complete = 65.1X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	10/26/21						WashU			
+HG04199	ST203	male	STU	SAS	YR2	Pellets Banked (11/9/20)	Completed (1/18/21)	Completed (2/16/21)	Pellets Banked (11/9/20)	UW	1/21/21	Topped off, Complete -- 67.6X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						WashU			
+HG04115	ST111	male	STU	SAS	YR2	Pellets Banked (11/9/20)	Completed (1/18/21)	Completed (2/16/21)	Pellets Banked (11/9/20)	UW	1/21/21	Topped off, Complete -- 69X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						WashU			
+HG02668	GB40	male	GWD	AFR	YR2	Pellets Banked (12/8/20)	Completed (3/1/21)	Completed (2/16/21)	Pellets Banked (12/8/20)	RU	1/21/21	Topped off, Complete -- 65X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						WashU			
+HG00706	SH090	male	CHS	EAS	YR2	Pellets Banked (12/8/20)	Completed (2/14/21)	Completed (2/16/21)	Pellets Banked (12/8/20)	RU	1/21/21	Topped off, Complete -- 61X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						WashU			
+HG03825	BD25	female	BEB	SAS	"Fail Karyo
+Eval HPRC+?"	Pellets Banked (12/8/20)	Completed (3/8/21)	Completed (2/16/21)	Pellets Banked (12/8/20)	RU	1/21/21	Complete -- 33.6X	Complete																												
+HG02656	PK13	male	PJL	SAS	"Fail Karyo
+Eval HPRC+?"	Pellets Banked (12/10/20)	Completed (3/1/21)	Completed (2/16/21)	Pellets Banked (12/10/20)	RU	1/21/21	Complete -- 38.5X [4 cells]	Complete																												
+HG01887	BB04	male	ACB	AFR	"Fail Karyo
+Eval HPRC+?"	Pellets Banked (12/8/20)	Completed (3/1/21)	Completed (2/16/21)	Pellets Banked (12/8/20)	RU	1/21/21	Complete -- 34.9X [4 cells]	Complete																												
+HG00544	SH042	female	CHS	EAS	YR2	Pellets Banked (12/8/20)	Completed (2/1/21)	Completed (2/16/21)	Pellets Banked (12/8/20)	WashU	1/21/21	Complete -- 66.6X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	10/26/21						WashU			
+HG03669	PK58	female	PJL	SAS	YR2	Pellets Banked (12/8/20)	Completed (3/1/21)	Completed (2/16/21)	Pellets Banked (12/8/20)	WashU	1/21/21	Complete -- 71.8X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						WashU			
+HG01255	CLM15	male	CLM	AMR	YR2	Pellets Banked (12/8/20)	Completed (2/14/21)	Completed (2/16/21)	Pellets Banked (12/8/20)	WashU	1/21/21	Complete -- 70.2X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						WashU			
+HG02615	GB29	female	GWD	AFR	YR2	Pellets Banked (12/8/20)	Completed (3/1/21)	Completed (2/16/21)	Pellets Banked (12/8/20)	WashU	1/21/21	Complete -- 71.1X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						WashU			
+HG00738	PR07	male	PUR	AMR	YR2	Pellets Banked (12/8/20)	Completed (2/14/21)	Completed (2/16/21)	Pellets Banked (12/8/20)	WashU	1/21/21	Complete -- 68.6X	Complete													UCSC	4/13/21	Complete	Complete	UCSC	1/27/2021	9/15/21						WashU			
+HG01439	CLM45	female	CLM	AMR	Fail Karyo	Pellets Banked (2/3/21)	Completed (3/22/21)	Completed (3/11/21)	Pellets Banked (2/3/21)			fail karyo																													
+HG03927	BD37	female	BEB	SAS	YR2	Pellets Banked (2/3/21)	Completed (4/5/21)	Completed (4/12/21)	Pellets Banked (2/3/21)	UW	4/22/21	Topped off, Complete -- 60X	Complete													UCSC	5/4/21	Complete	Complete	UCSC	5/5/2021	9/15/21						WashU			
+HG00642	PR04	male	PUR	AMR	YR2	Pellets Banked (2/3/21)	Completed (3/8/21)	Completed (3/11/21)	Pellets Banked (2/3/21)	UW	4/22/21	Topped off, Complete -- 64.7X	Complete													UCSC	5/4/21	Complete	Complete	UCSC	5/5/2021	9/15/21						WashU			
+HG01346	CLM27	female	CLM	AMR	YR2	Pellets Banked (2/3/21)	Completed (3/14/21)	Completed (3/11/21)	Pellets Banked (2/3/21)	UW	4/22/21	Topped off, Complete -- 67.6X	Complete													UCSC	5/4/21	Complete	Complete	UCSC	5/5/2021	9/15/21						WashU			
+HG02647	GB38	male	GWD	AFR	YR2	Pellets Banked (2/3/21)	Completed (3/27/21)	Completed (3/11/21)	Pellets Banked (2/3/21)	UW	4/22/21	Topped off, Complete -- 60.1X	Complete													UCSC	5/4/21	Complete	Complete	UCSC	5/5/2021	9/15/21						WashU			
+HG03831	BD27	female	BEB	SAS	YR2	Pellets Banked (2/3/21)	Completed (3/27/21)	Completed (4/12/21)	Pellets Banked (2/3/21)	WashU	4/22/21	Complete -- 76.3X	Complete													UCSC	5/4/21	Complete	Complete	UCSC	5/5/2021	9/15/21						WashU			
+HG01959	BB10	female	ACB	AFR	Fail Karyo	Pellets Banked (2/3/21)	Completed (3/22/21)	Completed (3/11/21)	Pellets Banked (2/3/21)			fail karyo																													
+HG01993	PEL29	female	PEL	AMR	YR2	Pellets Banked (2/3/21)	Completed (3/22/21)	Completed (3/11/21)	Pellets Banked (2/3/21)	WashU	4/22/21	Complete -- 72X	Complete													UCSC	5/4/21	Complete	Complete	UCSC	5/5/2021	9/15/21						WashU			
+HG02605	PK10	female	PJL	SAS	Fail Karyo	Pellets Banked (2/3/21)	Completed (3/27/21)	Completed (3/11/21)	Pellets Banked (2/3/21)			fail karyo																													
+HG01433	CLM43	male	CLM	AMR	YR2	Pellets Banked (2/3/21)	Completed (3/14/21)	Completed (3/11/21)	Pellets Banked (2/3/21)	WashU	4/22/21	Complete -- 68.0X	Complete													UCSC	5/4/21	Complete	Complete	UCSC	5/5/2021	9/15/21						WashU			
+HG04184	BD61	female	BEB	SAS	YR2	Pellets Banked (3/3/21)	Completed (4/17/21)	Completed (5/19/21)	Pellets Banked (3/3/21)	UW	6/3/21	Topped off, Complete -- 62.6X	Complete													UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	9/15/21						WashU			
+HG02683	PK16	female	PJL	SAS	YR2	Pellets Banked (3/3/21)	Completed (4/17/21)	Completed (5/19/21)	Pellets Banked (3/3/21)	UW	6/3/21	Topped off, Complete -- 63.3X	Complete													UCSC	8/5/21	Complete	Complete	UCSC	6/3/2021	9/15/21						WashU			
+HG02300	PEL52	female	PEL	AMR	YR2	Pellets Banked (3/3/21)	Completed (4/17/21)	Completed (5/19/21)	Pellets Banked (3/3/21)	UW	6/3/21	Topped off, Complete -- 63.2X	Complete													UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	9/15/21						WashU			
+HG02738	PK27	male	PJL	SAS	YR2	Pellets Banked (3/3/21)	Completed (4/17/21)	Completed (5/19/21)	Pellets Banked (3/3/21)	UW	6/3/21	Topped off, Complete -- 66.6X	Complete													UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	9/15/21						WashU			
+HG01884	BB03	female	ACB	AFR	YR2	Pellets Banked (3/3/21)	Completed (4/5/21)	Completed (5/19/21)	Pellets Banked (3/3/21)	UW	6/3/21	Topped off, Complete -- 60.4X	Complete													UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	10/26/21						WashU			
+HG01496	CLM64	female	CLM	AMR	YR2	Pellets Banked (3/3/21)	Completed (4/17/21)	Completed (5/19/21)	Pellets Banked (3/3/21)	WashU	6/3/21	Complete -- 63X	Complete													UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	9/15/21						WashU			
+HG02773	GB58	male	GWD	AFR	Fail Karyo	Pellets Banked (3/3/21)	Completed (4/17/21)	Completed (5/19/21)	Pellets Banked (3/3/21)			fail karyo																													
+HG00609	SH062	male	CHS	EAS	YR2	Pellets Banked (3/3/21)	Completed (4/16/21)	Completed (5/19/21)	Pellets Banked (3/3/21)	WashU	6/3/21	Complete -- 69.0X	Complete													UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	9/15/21						WashU			
+HG01981	PEL27	female	PEL	AMR	YR2	Pellets Banked (3/3/21)	Completed (4/5/21)	Completed (5/19/21)	Pellets Banked (3/3/21)	WashU	6/3/21	Complete -- 63.1X	Complete													UCSC	8/11/21	Complete	Complete	UCSC	6/3/2021	10/26/21						WashU			
+HG02004	PEL33	female	PEL	AMR	YR2	Pellets Banked (3/3/21)	Completed (4/5/21)	Completed (5/19/21)	Pellets Banked (3/3/21)	WashU	6/3/21	Complete -- 64.4X	Complete													UCSC	8/5/21	Complete	Complete	UCSC	6/3/2021	9/15/21						WashU			
+HG02280	BB23	female	ACB	AFR	YR2	Pellets Banked (3/9/21)	Completed (4/25/21)	Completed (4/12/21)	Pellets Banked (3/9/21)	WashU	6/3/21	Complete -- 71.0X	Complete													UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	10/26/21						WashU			
+HG01099	PR31	male	PUR	AMR	YR2	Pellets Banked (3/9/21)	Completed (4/17/21)	Completed (4/12/21)	Pellets Banked (3/9/21)	WashU	6/3/21	Complete -- 64.3X	Complete													UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	10/26/21						WashU			
+HG02809	GB63	female	GWD	AFR	YR2	Pellets Banked (3/9/21)	Completed (5/9/21)	Completed (4/12/21)	Pellets Banked (3/9/21)	WashU	6/3/21	Complete -- 72.9X*	Complete													UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	10/26/21						WashU			
+HG02077	VN067	male	KHV	EAS	Fail Karyo	Pellets Banked (3/9/21)	Completed (4/25/21)	Completed (4/12/21)	Pellets Banked (3/9/21)			fail karyo																													
+HG01943	PEL016	male	PEL	AMR	YR2	Pellets Banked (3/9/21)	Completed (4/25/21)	Completed (4/12/21)	Pellets Banked (3/9/21)	WashU	6/3/21	Complete -- 67.0X	Complete													UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	10/26/21						WashU			
+HG02293	PEL51	female	PEL	AMR	YR2	Pellets Banked (3/9/21)	Completed (5/3/21)	Completed (4/12/21)	Pellets Banked (3/9/21)	UW	6/3/21	Topped off, Complete -- 62.1X	Complete													UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	10/26/21						WashU			
+HG01397	PR71	female	PUR	AMR	no Broad Illumina							no Broad Illumina																													
+HG03704	PK60	female	PJL	SAS	YR3	Pellets Banked (3/9/21)	Completed (5/15/21)	Completed (4/12/21)	Pellets Banked (3/9/21)	UW	6/3/21	Topped off, Complete -- 57.4X														UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	Sent to Illumina 2/16/22						WashU			
+HG02735	PK26	male	PJL	SAS	YR3	Pellets Banked (3/9/21)	Completed (5/6/21)	Completed (4/12/21)	Pellets Banked (3/9/21)	UW	6/3/21	Topped off, Complete -- 64.7X														UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	Sent to Illumina 2/16/22						WashU			
+HG03909	BD31	male	BEB	SAS	Fail Karyo	Pellets Banked (3/9/21)	Completed (5/9/21)	Completed (4/12/21)	Pellets Banked (3/9/21)			fail karyo																													
+HG02451	BB46	female	ACB	AFR	YR3	Pellets Banked (3/9/21)	Completed (5/3/21)	Completed (4/12/21)	Pellets Banked (3/9/21)	UW	6/3/21	Topped off, Complete -- 63.5X														UCSC	6/2/21	Complete	Complete	UCSC	6/3/2021	Sent to Illumina 2/16/22						WashU			
+HG01934	PEL013	male	PEL	AMR	YR2	Pellets Banked (3/16/21)	Completed (5/21/21)	Completed (4/23/21)	Pellets Banked (3/16/21)	WashU	6/24/21	Complete -- 78.0X*	Complete													UCSC	6/23/21	Complete	Complete	UCSC	6/3/2021	Sent to Illumina 2/16/22						WashU			
+HG00597	SH058	female	CHS	EAS	YR3	Pellets Banked (3/16/21)	Completed (5/15/21)	Completed (4/23/21)	Pellets Banked (3/16/21)	WashU	6/24/21	Complete -- 66.3X														UCSC	6/23/21	Complete	Complete	UCSC	6/24/21	Sent to Illumina 4/20/22						WashU			
+HG02015	VN046	male	KHV	EAS	YR3	Pellets Banked (3/16/21)	Completed (6/9/21)	Completed (4/23/21)	Pellets Banked (3/16/21)	WashU	6/24/21	Complete -- 57.5X														UCSC	7/14/21	Complete	Complete	UCSC	6/24/21	Sent to Illumina 2/16/22						WashU			
+HG01261	CLM17	male	CLM	AMR	YR3	Pellets Banked (3/16/21)	Completed (5/21/21)	Completed (4/23/21)	Pellets Banked (3/16/21)	WashU	6/24/21	Complete -- 68.8X														UCSC	6/23/21	Complete	Complete	UCSC	6/24/21	Sent to Illumina 4/20/22						WashU			
+HG01975	PEL25	female	PEL	AMR	YR3	Pellets Banked (3/16/21)	Completed (6/1/21)	Completed (4/23/21)	Pellets Banked (3/16/21)	WashU	6/24/21	Complete -- 62.8X														UCSC	6/23/21	Complete	Complete	UCSC	6/24/21	Sent to Illumina 2/16/22						WashU			
+HG00408	SH002	female	CHS	EAS	YR3	Pellets Banked (3/16/21)	Completed (5/15/21)	Completed (4/23/21)	Pellets Banked (3/16/21)	WashU	6/24/21	Complete -- 63.3X														UCSC	6/23/21	Complete	Complete	UCSC	6/24/21	Sent to Illumina 2/16/22						WashU			
+HG01445	CLM47	male	CLM	AMR	no Broad Illumina							no Broad Illumina																													
+HG01411	PR63	male	PUR	AMR	no Broad Illumina							no Broad Illumina																													
+HG01355	CLM30	female	CLM	AMR	Fail Karyo	Pellets Banked (3/16/21)	Completed (5/31/21)	Completed (4/23/21)	Pellets Banked (3/16/21)			fail karyo																													
+HG02056	VN060	male	KHV	EAS	YR3	Pellets Banked (3/23/21)	Completed (6/18/21)	Completed (5/19/21)	Pellets Banked (3/23/21)	WashU	7/8/21	Complete -- 65.6X														UCSC	7/7/21	Complete	Complete	UCSC	7/8/2021	Sent to Illumina 2/16/22						WashU			
+HG01192	PR40	male	PUR	AMR	YR3	Pellets Banked (3/23/21)	Completed (6/18/21)	Completed (5/19/21)	Pellets Banked (3/23/21)	WashU	7/8/21	Complete -- 69.0X														UCSC	7/7/21	Complete	Complete	UCSC	7/8/2021	Sent to Illumina 4/20/22						WashU			
+HG01394	PR70	female	PUR	AMR	no Broad Illumina							no Broad Illumina																													
+HG03834	BD28	female	BEB	SAS	YR3	Pellets Banked (3/23/21)	Completed (6/18/21)	Completed (5/19/21)	Pellets Banked (3/23/21)	WashU	7/8/21	Complete -- 68.8X														UCSC	7/7/21	Complete	Needs Base Calling	UCSC	7/8/2021	Sent to Illumina 2/16/22						WashU			
+HG02258	BB22	male	ACB	AFR	YR3	Pellets Banked (3/23/21)	Completed (6/18/21)	Completed (5/19/21)	Pellets Banked (3/23/21)	WashU	7/8/21	Complete -- 62.6X														UCSC	7/7/21	Complete	Needs Base Calling	UCSC	7/8/2021	Sent to Illumina 2/16/22						WashU			
+HG02129	VN079	male	KHV	EAS	YR3	Pellets Banked (3/23/21)	Completed (6/18/21)	Completed (5/19/21)	Pellets Banked (3/23/21)	WashU	7/8/21	Complete -- 61.2X														UCSC	7/7/21	Complete	Needs Base Calling	UCSC	7/8/2021	Sent to Illumina 2/16/22						WashU			
+HG01074	PR18	male	PUR	AMR	YR3	Pellets Banked (6/2/21)	Completed (6/19/21)	Completed (7/15/21)	Pellets Banked (6/2/21)	UW	8/5/21	Topped off, Complete -- 64.1X														UCSC	8/5/21	Complete	Needs Base Calling	UCSC	7/8/2021	Sent to Illumina 2/16/22						WashU			
+HG03041	GB110	female	GWD	AFR	YR3	Pellets Banked (6/2/21)	Completed (7/10/21)	Completed (7/15/21)	Pellets Banked (6/2/21)	UW	8/5/21	Topped off, Complete -- 59.3X														UCSC	8/5/21	Complete	Needs Base Calling	UCSC	8/5/21	Sent to Illumina 2/16/22						WashU			
+HG00639	PR03	female	PUR	AMR	YR3	Pellets Banked (6/2/21)	Completed (6/19/21)	Completed (7/15/21)	Pellets Banked (6/2/21)	UW	8/5/21	Topped off, Complete -- 64.1X														UCSC	8/5/21	Complete	Needs Base Calling	UCSC	8/5/21	Sent to Illumina 4/20/22						WashU			
+HG01081	PR21	female	PUR	AMR	YR3	Pellets Banked (6/2/21)	Completed (6/29/21)	Completed (7/15/21)	Pellets Banked (6/2/21)	UW	8/5/21	Topped off, Complete -- 60.7X														UCSC	8/5/21	Complete	Needs Base Calling	UCSC	8/5/21	Sent to Illumina 4/20/22						WashU			
+HG03239	PK41	female	PJL	SAS	YR3	Pellets Banked (6/2/21)	Completed (7/12/21)	Completed (7/15/21)	Pellets Banked (6/2/21)	UW	8/5/21	Topped off, Complete -- 60.6X														UCSC	8/5/21	Complete	Needs Base Calling	UCSC	8/5/21	Sent to Illumina 2/16/22						WashU			
+HG03017	PK35	male	PJL	SAS	YR3	Pellets Banked (6/2/21)	Completed (7/10/21)	Completed (7/15/21)	Pellets Banked (6/2/21)	UW	8/5/21	Topped off, Complete -- 61.6X														UCSC	8/5/21	Complete	Needs Base Calling	UCSC	8/5/21	Sent to Illumina 2/16/22						WashU			
+HG01960	BB11	female	ACB	AFR	YR3	Pellets Banked (3/16/21)	Completed (6/1/21)	Completed (4/23/21)	Pellets Banked (3/16/21)	RU	6/24/21	Topped off, Est. Complete = 59X														UCSC	6/23/21	Complete	Needs Base Calling	UCSC	6/24/21	Sent to Illumina 2/16/22						WashU			
+HG02841	GB74	female	GWD	AFR	YR3	Pellets Banked (3/16/21)	Completed (6/9/21)	Completed (4/23/21)	Pellets Banked (3/16/21)	RU	6/24/21	Topped off, Est. Complete = 68X														UCSC	6/23/21	Complete	Needs Base Calling	UCSC	6/24/21	Sent to Illumina 2/16/22						WashU			
+HG02984	GB97	male	GWD	AFR	YR3	Pellets Banked (3/16/21)	Completed (6/9/21)	Completed (4/23/21)	Pellets Banked (3/16/21)	RU	6/24/21	Topped off, Est. Complete = 63X														UCSC	6/23/21	Complete	Needs Base Calling	UCSC	6/24/21	Sent to Illumina 2/16/22						WashU			
+HG03050	GB113	male	GWD	AFR	YR3	Pellets Banked (6/2/21)	Completed (7/10/21)	Completed (7/15/21)	Pellets Banked (6/2/21)	RU	8/5/21	Topped off, Est. Complete = 60X														UCSC	8/5/21	Complete	Needs Base Calling	UCSC	8/5/21	Sent to Illumina 2/16/22						WashU			
+HG01940	PEL015	female	PEL	AMR	YR3	Pellets Banked (6/2/21)	Completed (7/5/21)	Completed (7/15/21)	Pellets Banked (6/2/21)	RU	8/5/21	Complete -- 61X														UCSC	8/5/21	Complete	Needs Base Calling	UCSC	8/5/21	Sent to Illumina 2/16/22						WashU			
+HG02514	VN087	male	KHV	EAS	YR3	Pellets Banked (6/2/21)	Completed (7/5/21)	Completed (7/15/21)	Pellets Banked (6/2/21)	RU	8/5/21	Complete -- 60x														UCSC	8/5/21	Complete	Needs Base Calling	UCSC	8/5/21	Sent to Illumina 2/16/22						WashU			
+HG00658	SH074	male	CHS	EAS	YR3	Pellets Banked (6/2/21)	Completed (6/18/21)	Completed (7/15/21)	Pellets Banked (6/2/21)	RU	8/5/21	Topped off, Est. Complete = 68X														UCSC	8/5/21	Complete	Needs Base Calling	UCSC	8/5/21	Sent to Illumina 2/16/22						WashU			
+HG01150	CLM12	female	CLM	AMR	YR3	Pellets Banked (6/2/21)	Completed (7/5/21)	Completed (7/15/21)	Pellets Banked (6/2/21)	RU	8/5/21	Topped off, Est. Complete = 60X														UCSC	8/5/21	Complete	Needs Base Calling	UCSC	8/5/21	Sent to Illumina 2/16/22						WashU			
+HG01969	PEL023	female	PEL	AMR	YR3	Pellets Banked (6/2/21)	Completed (7/5/21)	Completed (7/15/21)	Pellets Banked (6/2/21)	RU	8/5/21	Complete -- 65x														UCSC	8/5/21	Complete	Needs Base Calling	UCSC	8/5/21	Sent to Illumina 4/20/22						WashU			
+HG01252	CLM14	male	CLM	AMR	YR3	Pellets Banked (10/21/21)	Completed (11/7/21)	Completed (12/2/21)	Pellets Banked (10/21/21)	RU	12/1/21	Topped off, Est. Complete = 60X														UCSC	11/30/21	Complete	Needs Base Calling	UCSC	12/1/21	Sent to Illumina 4/20/22						WashU			
+HG01141	CLM09	female	CLM	AMR	Fail Karyo	Pellets Banked (6/2/21)	Completed (7/5/21)	Completed (7/15/21)	Pellets Banked (6/2/21)																																
+HG04142	BD47	female	BEB	SAS	Fail Karyo	Pellets Banked (6/2/21)	Completed (7/11/21)	Completed (7/15/21)	Pellets Banked (6/2/21)																																
+HG02815	GB65	male	GWD	AFR	Fail Karyo	Pellets Banked (6/2/21)	Completed (7/9/21)	Completed (7/15/21)	Pellets Banked (6/2/21)																																
+HG00558	SH045	female	CHS	EAS	YR3	Pellets Banked (10/21/21)	Completed (11/7/21)	Completed (12/2/21)	Pellets Banked (10/21/21)	UW	12/1/21	Topped off, Complete -- 63X														UCSC	11/30/21	Complete	Needs Base Calling	UCSC	12/1/21	Sent to Illumina 2/16/22						WashU			
+HG02273	PEL46	female	PEL	AMR	YR3	Pellets Banked (10/21/21)	Completed (11/7/21)	Completed (12/2/21)	Pellets Banked (10/21/21)	WashU	3/31/22	Complete -- 56.9X														UCSC	3/30/22	Complete	Needs Base Calling	UCSC	3/31/22	Sent to Illumina 090922						WashU			
+HG00594	SH057	male	CHS	EAS	Fail Karyo	Pellets Banked (10/21/21)	Completed (11/10/21)	Completed (12/2/21)	Pellets Banked (10/21/21)																																
+HG02689	PK18	male	PJL	SAS	Skip																																				
+HG02838	GB73	male	GWD	AFR	Skip																																				
+HG02889	GB90	female	GWD	AFR	Skip																																				
+HG02856	GB79	male	GWD	AFR	Skip																																				
+HG01135	CLM07	male	CLM	AMR	Skip																																				
+HG01385	CLM40	female	CLM	AMR	Skip																																				
+HG01922	PEL009	female	PEL	AMR	Skip																																				
+HG01949	PEL018	female	PEL	AMR	Skip																																				
+HG01249	PR34	female	PUR	AMR	Skip																																				
+HG00453	SH017	female	CHS	EAS	do not ship to production centers																																				
+HG00700	SH088	female	CHS	EAS	do not ship to production centers																																				
+HG00405	SH001	female	CHS	EAS	do not ship to production centers																																				
+HG02030	VN051	male	KHV	EAS	Skip																																				
+HG03626	PK46	female	PJL	SAS	Skip																																				
+HG02701	PK22	male	PJL	SAS	Skip																																				
+HG03707	PK61	male	PJL	SAS	Skip																																				
+HG03225	NaN	male	MSL	AFR	YR3	Pellets Banked (3/1/22)	Completed (3/20/22)	Completed (4/21/22)	Pellets Banked (3/1/22)	WashU	3/31/22	Complete, 60.5X??														UCSC	3/30/22	Complete	Needs Base Calling	UCSC	3/31/22	Sent to Illumina 081722						WashU			
+HG02965	NG20	male	ESN	AFR	YR3	Pellets Banked (3/1/22)	Completed (3/20/22)	Completed (4/21/22)	Pellets Banked (3/1/22)	WashU	3/31/22	Complete -- 64.6X														UCSC	3/30/22	Complete	Needs Base Calling	UCSC	3/31/22	Sent to Illumina 081722						WashU			
+GM19454	NaN	male	LWK	AFR	Fail Karyo	Pellets Banked (3/1/22)	Completed (11/10/21)	Completed (4/21/22)	Pellets Banked (3/1/22)																																
+HG02976	NG24	female	ESN	AFR	YR3	Pellets Banked (3/1/22)	Completed (3/20/22)	Completed (4/21/22)	Pellets Banked (3/1/22)	WashU	3/31/22	Complete, 62.4X														UCSC	3/30/22	Complete	Needs Base Calling	UCSC	3/31/22	Sent to Illumina 090922						WashU			
+HG03195	NG58	female	ESN	AFR	YR3	Pellets Banked (3/1/22)	Completed (3/20/22)	Completed (4/21/22)	Pellets Banked (3/1/22)	WashU	3/31/22	Complete, 66.4X														UCSC	3/30/22	Complete	Needs Base Calling	UCSC	3/31/22	Sent to Illumina 090922						WashU			
+HG03139	NaN	male	ESN	AFR	YR3	Pellets Banked (3/15/22)	Completed (4/15/22)	Completed (4/21/22)	Pellets Banked (3/15/22)	UW	4/21/22	Topped off, Complete -- 61.5X														UCSC	4/21/22	Complete	Needs Base Calling	UCSC	4/22/22	Sent to Illumina 081722						WashU			
+HG03130	NG36	male	ESN	AFR	YR3	Pellets Banked (3/15/22)	Completed (4/11/22)	Completed (4/21/22)	Pellets Banked (3/15/22)	UW	4/21/22	Topped off, Complete -- 64.1X														UCSC	4/21/22	Complete	Needs Base Calling	UCSC	4/22/22	Sent to Illumina 081722						WashU			
+NA18934	Y036	male	YRI	AFR	Fail Karyo	Pellets Banked (3/15/22)	Completed (4/15/22)	Completed (4/21/22)	Pellets Banked (3/15/22)																																
+HG03209	NaN	male	MSL	AFR	YR3	Pellets Banked (3/15/22)	Completed (4/15/22)	Completed (4/21/22)	Pellets Banked (3/15/22)	UW	4/21/22	Topped off, Complete -- 63X														UCSC	4/21/22	Complete	Needs Base Calling	UCSC	4/22/22	Sent to Illumina 081722						WashU			
+NA18522	Y016	male	YRI	AFR	YR3	Pellets Banked (3/15/22)	Completed (4/15/22)	Completed (4/21/22)	Pellets Banked (3/15/22)	UW	4/21/22	Topped off, Complete -- 66.8X														UCSC	4/21/22	Complete	Needs Base Calling	UCSC	4/22/22	Sent to Illumina 081722						WashU			
+NA19338	NaN	female	LWK	AFR	YR3	Pellets Banked (4/5/22)	Completed (5/10/22)	Completed (6/6/22)	Pellets Banked (4/5/22)	RU	5/12/22	Topped off, Complete -- 63X														UCSC	5/12/22	Complete	Needs Base Calling	UCSC	5/12/22	Sent to Illumina 081722						WashU			
+NA19391	NaN	female	LWK	AFR	YR3	Pellets Banked (3/30/22)	Completed (5/10/22)	Completed (6/6/22)	Pellets Banked (3/30/22)	RU	5/12/22	Topped off, Complete -- 65X														UCSC	5/12/22	Complete	Needs Base Calling	UCSC	5/12/22	Sent to Illumina 081722						WashU			
+NA19468	NaN	female	LWK	AFR	YR3	Pellets Banked (3/30/22)	Completed (5/10/22)	Completed (6/6/22)	Pellets Banked (3/30/22)	RU	5/12/22	Topped off, Complete -- 60X														UCSC	5/12/22	Complete	Needs Base Calling	UCSC	5/12/22	Sent to Illumina 081722						WashU			
+HG03470	SL56	female	MSL	AFR	YR3	Pellets Banked (3/30/22)	Completed (5/10/22)	Completed (6/6/22)	Pellets Banked (3/30/22)	RU	5/12/22	Topped off, Est. Complete = 68X														UCSC	5/12/22	Complete	Needs Base Calling	UCSC	5/12/22	Sent to Illumina 081722						WashU			
+HG03458	NaN	female	MSL	AFR	YR3	Pellets Banked (3/30/22)	Completed (5/10/22)	Completed (6/6/22)	Pellets Banked (3/30/22)	RU	5/12/22	Topped off, Complete -- 60X														UCSC	5/12/22	Complete	Needs Base Calling	UCSC	5/12/22	Sent to Illumina 081722						WashU			
+NA18971	NaN	male	JPT	EAS	YR3	Pellets Banked (4/12/22)	Completed (5/10/22)	Completed (6/6/22)	Pellets Banked (4/12/22)	WashU	6/2/22	Complete, 67.9X														UCSC	6/2/22	Complete	Needs Base Calling	UCSC	06/02/22	Sent to Illumina 081722						WashU			
+HG02155	NaN	female	CDX	EAS	YR3	Pellets Banked (4/12/22)	Completed (5/31/22)	Completed (6/6/22)	Pellets Banked (4/12/22)	WashU	6/2/22	Complete, 68.4X														UCSC	6/2/22	Complete	Needs Base Calling	UCSC	06/02/22	Sent to Illumina 081722						WashU			
+NA18612	NaN	male	CHB	EAS	YR3	Pellets Banked (4/12/22)	Completed (5/31/22)	Completed (6/6/22)	Pellets Banked (4/12/22)	WashU	6/2/22	Complete -- 60.3X														UCSC	6/2/22	Complete	Needs Base Calling	UCSC	06/02/22	Sent to Illumina 081722						WashU			
+HG00140	NaN	male	GBR	EUR	YR3	Pellets Banked (4/26/22)	Completed (5/31/22)	Completed (6/6/22)	Pellets Banked (4/26/22)	WashU	6/2/22	Complete, 60.6X														UCSC	6/2/22	Complete	Needs Base Calling	UCSC	06/02/22	Sent to Illumina 081722						WashU			
+HG00323	NaN	female	FIN	EUR	YR3	Pellets Banked (4/19/22)	Completed (5/31/22)	Completed (6/6/22)	Pellets Banked (4/19/22)	WashU	6/2/22	Complete, 60.2X														UCSC	6/2/22	Complete	Needs Base Calling	UCSC	06/02/22	Sent to Illumina 081722						WashU			
+HG02922	NG06	female	ESN	AFR	YR3	Pellets Banked (4/26/22)	Completed (5/31/22)	Completed (6/30/22)	Pellets Banked (4/26/22)	UW	6/16/22	Topped off, Complete -- 64X														UCSC	6/16/22	Complete	Needs Base Calling	UCSC	6/16/22	Sent to Illumina 090922						WashU			
+HG02165	NaN	female	CDX	EAS	YR3	Pellets Banked (4/26/22)	Completed (5/31/22)	Completed (6/30/22)	Pellets Banked (4/26/22)	UW	6/16/22	Topped off, Complete -- 65.4X														UCSC	6/16/22	Complete	Needs Base Calling	UCSC	6/16/22	Sent to Illumina 081722						WashU			
+NA18983	NaN	male	JPT	EAS	YR3	Pellets Banked (4/26/22)	Completed (5/31/22)	Completed (6/30/22)	Pellets Banked (4/26/22)	UW	6/16/22	Topped off, Complete -- 66.3X														UCSC	6/16/22	Complete	Needs Base Calling	UCSC	6/16/22	Sent to Illumina 081722						WashU			
+HG02040	NaN	male	KHV	EAS	YR3	Pellets Banked (4/27/22)	Completed (6/8/22)	Completed (6/30/22)	Pellets Banked (4/27/22)	UW	6/16/22	Topped off, Complete -- 64.5X														UCSC	6/16/22	Complete	Needs Base Calling	UCSC	6/16/22	Sent to Illumina 081722						WashU			
+NA18747	NaN	male	CHB	EAS	YR3	Pellets Banked (4/26/22)	Completed (5/31/22)	Completed (6/30/22)	Pellets Banked (4/26/22)	UW	6/16/22	Topped off, Complete -- 61.6X														UCSC	6/16/22	Complete	Needs Base Calling	UCSC	6/16/22	Sent to Illumina 081722						WashU			
+NA19159	Y056	female	YRI	AFR	YR3	Pellets Banked (5/10/22)	Completed (6/19/22)	Completed (6/30/22)	Pellets Banked (5/10/22)	RU	6/30/22	Topped off, Est. Complete = 60X														UCSC	6/30/22	Complete	Needs Base Calling	UCSC	6/30/22	Sent to Illumina 081722						WashU			
+NA19185	Y039	female	YRI	AFR	YR3	Pellets Banked (5/10/22)	Completed (6/17/22)	Completed (6/30/22)	Pellets Banked (5/10/22)	RU	6/30/22	Topped off, Complete -- 61X														UCSC	6/30/22	Complete	Needs Base Calling	UCSC	6/30/22	Sent to Illumina 090922						WashU			
+HG02391	NaN	male	CDX	EAS	YR3	Pellets Banked (5/10/22)	Completed (6/19/22)	Completed (6/30/22)	Pellets Banked (5/10/22)	RU	6/30/22	Topped off, Complete -- 60X														UCSC	6/30/22	Complete	Needs Base Calling	UCSC	6/30/22	Sent to Illumina 081722						WashU			
+NA18570	NaN	female	CHB	EAS	YR3	Pellets Banked (5/10/22)	Completed (6/17/22)	Completed (6/30/22)	Pellets Banked (5/10/22)	RU	6/30/22	Topped off, Complete -- 65X														UCSC	6/30/22	Complete	Needs Base Calling	UCSC	6/30/22	Sent to Illumina 081722						WashU			
+NA19087	NaN	female	JPT	EAS	YR3	Pellets Banked (5/10/22)	Completed (6/19/22)	Completed (6/30/22)	Pellets Banked (5/10/22)	RU	6/30/22	Topped off, Complete -- 66X														UCSC	6/30/22	Complete	Needs Base Calling	UCSC	6/30/22	Sent to Illumina 081722						WashU			
+NA20805	NaN	male	TSI	EUR	YR3	Pellets Banked (5/24/22)	Completed (7/3/22)	Completed (8/3/22)	Pellets Banked (5/24/22)	WashU	7/7/22	Complete -- 58.2X														UCSC	7/6/22	Complete	Needs Base Calling	UCSC	07/07/22	Sent to Illumina 090922						WashU			
+HG03792	NaN	male	ITU	SAS	YR4	Pellets Banked (5/24/22)	Completed (6/29/22)	Completed (8/3/22)	Pellets Banked (5/24/22)	WashU	7/7/22	Complete -- 64.9X														UCSC	7/6/22	Complete	Needs Base Calling	UCSC	07/07/22	Sent to Illumina 090922						WashU			
+NA20858	NaN	male	GIH	SAS	YR4	Pellets Banked (5/24/22)	Completed (7/3/22)	Completed (8/3/22)	Pellets Banked (5/24/22)	WashU	7/7/22	Complete -- 60.8X														UCSC	7/6/22	Complete	Needs Base Calling	UCSC	07/07/22	Sent to Illumina 090922						WashU			
+HG04222	NaN	male	ITU	SAS	Fail Karyo	Pellets Banked (5/24/22)	Completed (6/30/22)	Completed (8/3/22)	Pellets Banked (5/24/22)	-																															
+HG00099	NaN	female	GBR	EUR	YR3	Pellets Banked (5/24/22)	Completed (6/19/22)	Completed (8/3/22)	Pellets Banked (5/24/22)	UW	7/14/22	Topped off, Complete -- 73.6X														UCSC	7/14/22	Complete	Needs Base Calling	UCSC	07/07/22	Sent to Illumina 090922						WashU			
+HG00280	NaN	male	FIN	EUR	YR3	Pellets Banked (6/8/22)	Completed (7/10/22)	Completed (8/3/22)	Pellets Banked (6/8/22)	UW	7/14/22	Topped off, Complete -- 66.8X														UCSC	7/14/22	Complete	Needs Base Calling	UCSC	7/14/22	Sent to Illumina 090922						WashU			
+NA20752	NaN	male	TSI	EUR	YR3	Pellets Banked (6/8/22)	Completed (7/3/22)	Completed (8/3/22)	Pellets Banked (6/8/22)	UW	7/14/22	Topped off, Complete -- 73.7X														UCSC	7/14/22	Complete	Needs Base Calling	UCSC	7/14/22	Sent to Illumina 090922						WashU			
+NA20905	NaN	male	GIH	SAS	YR3	Pellets Banked (6/21/22)	Completed (7/10/22)	Completed (8/3/22)	Pellets Banked (6/21/22)	UW	7/14/22	Topped off, Complete -- 61.2X														UCSC	7/14/22	Complete	Needs Base Calling	UCSC	7/14/22	Sent to Illumina 090922						WashU			
+HG01530	NaN	male	IBS	EUR	YR3	Pellets Banked (6/8/22)	Completed (7/10/22)	Completed (8/3/22)	Pellets Banked (6/8/22)	RU	7/22/22	Topped off, Complete -- 61X														UCSC	7/21/22	Complete	Needs Base Calling	UCSC	7/14/22	Sent to Illumina 090922						WashU			
+HG01784	NaN	female	IBS	EUR	YR3	Pellets Banked (6/8/22)	Completed (7/10/22)	Completed (8/3/22)	Pellets Banked (6/8/22)	RU	7/22/22	Topped off, Complete -- 65X														UCSC	7/21/22	Complete	Needs Base Calling	UCSC	7/14/22	Sent to Illumina 090922						WashU			
+NA20799	NaN	female	TSI	EUR	YR3	Pellets Banked (6/21/22)	Completed (7/17/22)	Completed (8/3/22)	Pellets Banked (6/21/22)	RU	7/22/22	Topped off, Complete -- 60X														UCSC	7/21/22	Complete	Needs Base Calling	UCSC	7/22/22	Sent to Illumina 090922						WashU			
+HG03742	NaN	male	ITU	SAS	YR3	Pellets Banked (6/21/22)	Completed (7/17/22)	Completed (8/3/22)	Pellets Banked (6/21/22)	RU	7/22/22	Topped off, Complete -- 63X														UCSC	7/21/22	Complete	Needs Base Calling	UCSC	7/22/22	Sent to Illumina 090922						WashU			
+NA19043 (replacement GM19454)	NaN	male	LWK	AFR	YR3	Pellets Banked (6/21/22)	Completed (7/17/22)	Completed (8/3/22)	Pellets Banked (6/21/22)	UW	7/21/22	Topped off, Complete -- 60.5X														UCSC	7/21/22	Complete	Needs Base Calling	UCSC	7/22/22	Sent to Illumina 090922						WashU			
+NA19120 (replacement NA18934)	Y060	male	YRI	AFR	YR4	Pellets Banked (6/21/22)	Completed (7/18/22)	Completed (8/3/22)	Pellets Banked (6/21/22)	WashU	7/28/22	Complete -- 70.5X														UCSC	7/28/22	Complete	Needs Base Calling	UCSC	7/22/22	Sent to Illumina 090922						WashU			
+NA19909	NaN	female	ASW	AFR	YR4	Pellets Banked (10/4/22)	Completed (10/28/22)	Completed (11/7/22)	Pellets Banked (10/4/22)	WashU	11/16/22	Complete -- 63.9X														UCSC	12/8/22				12/8/22							WashU			
+NA20282	NaN	female	ASW	AFR	YR4	Pellets Banked (10/4/22)	Completed (10/28/22)	Completed (11/7/22)	Pellets Banked (10/4/22)	WashU	11/16/22	Complete -- 69.8X														UCSC	12/8/22				12/8/22							WashU			
+NA20346	NaN	male	ASW	AFR	YR4	Pellets Banked (10/4/22)	Completed (11/6/22)	Completed (11/7/22)	Pellets Banked (10/4/22)	WashU	11/16/22	Complete -- 60.1X														UCSC	12/8/22				12/8/22							WashU			
+NA20348	NaN	male	ASW	AFR	Fail Karyo	Pellets Banked (10/4/22)	Completed (11/6/22)	Completed (11/7/22)	Pellets Banked (10/4/22)	-																															
+NA19776	NaN	female	MXL	AMR	YR4	Pellets Banked (10/4/22)	Completed (10/28/22)	Completed (11/7/22)	Pellets Banked (10/4/22)	UW	11/16/22	Complete -- 62.5X														UCSC	12/8/22				12/8/22							WashU			
+NA19682	NaN	male	MXL	AMR	YR4	Pellets Banked (9/27/22)	Completed (10/18/22)	Completed (11/7/22)	Pellets Banked (9/27/22)	UW	11/16/22	Complete -- 62.6X														UCSC	12/8/22				12/8/22							WashU			
+NA19700	NaN	male	ASW	AFR	YR4	Pellets Banked (9/27/22)	Completed (10/18/22)	Completed (11/7/22)	Pellets Banked (9/27/22)	UW	11/16/22	Complete -- 60.6X														UCSC	12/8/22				12/8/22							WashU			
+NA19390	NaN	female	LWK	AFR	YR4	Pellets Banked (9/27/22)	Completed (10/18/22)	Completed (11/7/22)	Pellets Banked (9/27/22)	UW	11/16/22	Complete -- 63.5X														UCSC	12/8/22				12/8/22							WashU			
+NA19175	Y044	male	YRI	AFR	YR4	Pellets Banked (9/27/22)	Completed (10/18/22)	Completed (11/7/22)	Pellets Banked (9/27/22)	RU	11/31/22	Complete -- 66X														UCSC	12/8/22				12/8/22							WashU			
+HG02392	NaN	male	CDX	EAS	YR4	Pellets Banked (9/27/22)	Completed (10/28/22)	Completed (11/7/22)	Pellets Banked (9/27/22)	RU	5/4/23	Complete -- 62X																			5/4/23							WashU			
+HG00867	NaN	female	CDX	EAS	YR4	Pellets Banked (10/11/22)	Completed (11/6/22)	Completed (12/12/22)	Pellets Banked (10/11/22)	RU	5/4/23	Complete -- 62x																			5/4/23							WashU			
+HG02178	NaN	female	CDX	EAS	YR4	Pellets Banked (10/11/22)	Completed (11/6/22)	Completed (12/12/22)	Pellets Banked (10/11/22)	RU	5/4/23	Complete -- 63x																			5/4/23							WashU			
+NA18620	NaN	male	CHB	EAS	YR4	Pellets Banked (10/11/22)	Completed (11/6/22)	Completed (12/12/22)	Pellets Banked (10/11/22)	RU	5/4/23	Complete -- 68x																			5/4/23							WashU			
+NA18608	NaN	male	CHB	EAS	YR4	Pellets Banked (10/11/22)	Completed (11/6/22)	Completed (12/12/22)	Pellets Banked (10/11/22)	WashU	5/4/23	Complete -- 61.6X																			5/4/23							WashU			
+NA18974	NaN	male	JPT	EAS	YR4	Pellets Banked (10/11/22)	Completed (11/6/22)	Completed (12/12/22)	Pellets Banked (10/11/22)	WashU	5/4/23	Complete -- 81.5X																			5/4/23							WashU			
+NA18952	NaN	male	JPT	EAS	YR4	Pellets Banked (10/25/22)	Completed (11/20/22)	Completed (12/12/22)	Pellets Banked (10/25/22)	WashU	5/4/23	Complete -- 76.3X																			5/4/23							WashU			
+NA18976	NaN	female	JPT	EAS	YR4	Pellets Banked (10/25/22)	Completed (11/20/22)	Completed (12/12/22)	Pellets Banked (10/25/22)	WashU	5/4/23	Complete -- 73.4X																			5/4/23							WashU			
+NA20870	NaN	male	GIH	SAS	YR4	Pellets Banked (10/25/22)	Completed (11/20/22)	Completed (12/12/22)	Pellets Banked (10/25/22)	RU	11/31/22	Complete -- 70x														UCSC	12/8/22				12/8/22							WashU			
+NA21110	NaN	female	GIH	SAS	YR4	Pellets Banked (10/25/22)	Completed (11/20/22)	Completed (12/12/22)	Pellets Banked (10/25/22)	RU	11/31/22	Complete -- 62x														UCSC	12/8/22				12/8/22							WashU			
+HG03874	NaN	female	ITU	SAS	YR4	Pellets Banked (10/25/22)	Completed (11/20/22)	Completed (12/12/22)	Pellets Banked (10/25/22)	RU	11/31/22	Complete -- 61x														UCSC	12/8/22				12/8/22							WashU			
+NA18881	NaN	female	YRI	AFR	Fail Karyo	Pellets Banked (01/24/23)	Completed (02/13/2023)	Completed (03/24/2023)	Pellets Banked (01/24/23)	-																															
+NA18508	NaN	female	YRI	AFR	YR4	Pellets Banked (02/07/23)	Completed (02/20/2023)	Completed (03/24/2023)	Pellets Banked (02/07/23)	UW	3/9/23	Complete -- 61.4X														UCSC	3/9/23				3/9/23							WashU			
+NA21093	NaN	male	GIH	SAS	YR4	Pellets Banked (02/07/23)	Completed (02/20/2023)	Completed (03/24/2023)	Pellets Banked (02/07/23)	UW	3/9/23	Complete -- 62.6X														UCSC	3/9/23				3/9/23							WashU			
+HG03611	NaN	female	BEB	SAS	YR4	Pellets Banked (02/07/23)	Completed (02/28/2023)	Completed (03/24/2023)	Pellets Banked (02/07/23)	UW	3/9/23	Complete -- 62.1X														UCSC	3/9/23				3/9/23							WashU			
+NA21106	NaN	female	GIH	SAS	YR4	Pellets Banked (02/07/23)	Completed (02/28/2023)	Completed (03/24/2023)	Pellets Banked (02/07/23)	UW	3/9/23	Complete -- 63X														UCSC	3/9/23				3/9/23							WashU			
+NA19374	NaN	male	LWK	AFR	Fail Karyo	Pellets Banked (02/07/23)	Completed (02/20/2023)	Completed (03/24/2023)	Pellets Banked (02/07/23)	-																															
+NA20503	NaN	female	TSI	EUR	YR4	Pellets Banked (02/21/23)	Completed (03/08/2023)	Completed (03/24/2023)	Pellets Banked (02/21/23)	RU	#Please hold for shipment to Italian collaborators															UCSC	4/13/23				4/12/23							WashU			
+HG03270	NaN	female	ESN	AFR	YR4	Pellets Banked (02/21/23)	Completed (03/11/2023)	Completed (03/24/2023)	Pellets Banked (02/21/23)	RU	4/13/23	Complete -- 64x														UCSC	4/13/23				4/12/23							WashU			
+HG00320	NaN	female	FIN	EUR	YR4	Pellets Banked (04/04/2023)	Completed (05/01/2023)	Completed (05/23/2023)	Pellets Banked (04/04/2023)	WashU	5/4/23	Complete -- 68.2X																			5/4/23							WashU			
+HG01786	NaN	female	IBS	EUR	YR4	Pellets Banked (04/04/2023)	Completed (05/01/2023)	Completed (05/23/2023)	Pellets Banked (04/04/2023)	WashU	5/4/23	Complete -- 73.5X																			5/4/23							WashU			
+HG00146	NaN	female	GBR	EUR	YR4	Pellets Banked (04/04/2023)	Completed (04/17/2023)	Completed (05/23/2023)	Pellets Banked (04/04/2023)	WashU	5/4/23	Complete -- 72.7X																			5/4/23							WashU			
+HG00232	NaN	female	GBR	EUR	YR4	Pellets Banked (04/04/2023)	Completed (04/17/2023)	Completed (05/23/2023)	Pellets Banked (04/04/2023)	WashU	5/4/23	Complete -- 62.2X																			5/4/23							WashU			
+HG00321	NaN	male	FIN	EUR	YR4	Pellets Banked (04/04/2023)	Completed (05/01/2023)	Completed (05/23/2023)	Pellets Banked (04/04/2023)	WashU	5/4/23	Complete -- 61.1X																			5/4/23							WashU			
+HG00126	NaN	male	GBR	EUR	YR4	Pellets Banked (04/18/2023)	Completed (05/08/2023)	Completed (05/23/2023)	Pellets Banked (04/18/2023)	UW	5/18/23	Complete -- 63.7X																			5/18/23							WashU			
+HG00133	NaN	female	GBR	EUR	YR4	Pellets Banked (04/18/2023)	Completed (05/15/2023)	Completed (05/23/2023)	Pellets Banked (04/18/2023)	UW	5/18/23	Complete -- 66X																			5/18/23							WashU			
+HG00290	NaN	male	FIN	EUR	YR4	Pellets Banked (04/18/2023)	Completed (05/15/2023)	Completed (05/23/2023)	Pellets Banked (04/18/2023)	UW	5/18/23	Complete -- 63.2X																			5/18/23							WashU			
+NA19443	NaN	male	LWK	AFR	YR4	Pellets Banked (04/18/2023)	Completed (05/09/2023)	Completed (05/23/2023)	Pellets Banked (04/18/2023)	UW	5/18/23	Complete -- 62.8X																			5/18/23							WashU			
+HG00128	NaN	female	GBR	EUR	YR4	Pellets Banked (04/18/2023)	Completed (05/08/2023)	Completed (05/23/2023)	Pellets Banked (04/18/2023)	UW	5/18/23	Complete -- 66.3X																			5/18/23							WashU			
+NA19036	NaN	female	LWK	AFR	YR4	Pellets Banked (05/02/2023)	Completed (05/25/2023)	Completed (06/20/2023)	Pellets Banked (05/02/2023)	RU	6/8/23	Complete -- 64x																			6/8/23							WashU			
+NA18505	Y005	female	YRI	AFR	YR4	Pellets Banked (05/02/2023)	Completed (05/31/2023)	Completed (06/20/2023)	Pellets Banked (05/02/2023)	RU	6/8/23	Complete -- 61x																			6/8/23							WashU			
+HG00243	NaN	male	GBR	EUR	YR4	Pellets Banked (05/02/2023)	Completed (05/25/2023)	Completed (06/20/2023)	Pellets Banked (05/02/2023)	RU	6/8/23	Complete -- 60x																			6/8/23							WashU			
+HG03583	SL73	female	MSL	AFR	YR4	Pellets Banked (05/02/2023)	Completed (05/25/2023)	Completed (06/20/2023)	Pellets Banked (05/02/2023)	RU	6/8/23	Complete -- 59x																			6/8/23							WashU			
+HG00329	NaN	male	FIN	EUR	YR4	Pellets Banked (05/15/2023)	Completed (05/31/2023)	Completed (06/20/2023)	Pellets Banked (05/15/2023)	RU	6/8/23	Complete -- 62x																			6/8/23							WashU			
+HG03784	NaN	female	ITU	SAS	YR4	Pellets Banked (05/15/2023)	Completed (06/25/2023)	Completed (06/20/2023)	Pellets Banked (05/15/2023)	WashU	6/8/23	Complete -- 62.5X																			6/8/23							WashU			
+NA20806	NaN	male	TSI	EUR	YR4	Pellets Banked (05/15/2023)	Completed (06/18/2023)	Completed (06/20/2023)	Pellets Banked (05/15/2023)	Human Technopole																					6/8/23							WashU			
+NA21144	NaN	female	GIH	SAS	YR4	Pellets Banked (05/15/2023)	Completed (06/18/2023)	Completed (06/20/2023)	Pellets Banked (05/15/2023)	WashU	6/8/23	Complete -- 77.4X																			6/8/23							WashU			
+NA20827	NaN	male	TSI	EUR	YR4	Pellets Banked (05/15/2023)	Completed (06/18/2023)	Completed (06/20/2023)	Pellets Banked (05/15/2023)	Human Technopole																					6/8/23							WashU			
+HG01248	PR32	female	PUR	AMR	Fail Karyo	Pellets Banked (05/15/2023)	Completed (06/24/2023)	Completed (06/20/2023)	Pellets Banked (05/15/2023)	WashU	6/8/23	Complete -- 62X																			6/8/23										
+HG03521	NG109	male	ESN	AFR	YR4	Pellets Banked (05/23/2023)	Completed (07/16/2023)	Completed (08/14/2023)	Pellets Banked (05/23/2023)	UW	6/22/23	Complete -- 67.3X																			6/15/23							WashU			
+NA20762	NaN	male	TSI	EUR	YR4	Pellets Banked (05/23/2023)	Completed (07/01/2023)	Completed (08/14/2023)	Pellets Banked (05/23/2023)	Human Technopole																					6/15/23							WashU			
+HG00344	NaN	female	FIN	EUR	YR4	Pellets Banked (05/23/2023)	Completed (07/01/2023)	Completed (08/14/2023)	Pellets Banked (05/23/2023)	UW	6/22/23	Complete -- 65.3X																			6/15/23							WashU			
+HG00350	NaN	female	FIN	EUR	YR4	Pellets Banked (05/23/2023)	Completed (07/01/2023)	Completed (08/14/2023)	Pellets Banked (05/23/2023)	UW	6/22/23	Complete -- 65.7X																			6/15/23							WashU			
+NA20357	2494	female	ASW	AFR	YR4	Pellets Banked (02/07/2023)	Completed (02/16/2023)	Completed (03/24/2023)	Pellets Banked (02/07/23)	HOLD PENDING INCLUSION IN Y4 PRODUCTION																												WashU			
+HG03572	NaN	female	MSL	AFR	YR4	Pellets Banked (01/24/2023)	Completed (02/13/2023)	Completed (03/24/2023)	Pellets Banked (01/24/23)	HOLD PENDING INCLUSION IN Y4 PRODUCTION																												WashU			
+HG02583	GB23	female	GWD	AFR	YR4	Pellets Banked (01/24/2023)	Completed (02/13/2023)	Completed (03/24/2023)	Pellets Banked (01/24/23)	RU	5/18/23	Complete -- 64x																			5/18/23							WashU			
+NA20287	2470	female	ASW	AFR	YR4	Pellets Banked (01/24/2023)	Completed (02/13/2023)	Completed (03/24/2023)	Pellets Banked (01/24/23)	RU	5/18/23	Complete -- 60x																			5/18/23							WashU			
+NA18489	Y002	female	YRI	AFR	Fail Karyo	Pellets Banked (02/21/2023)	Completed (03/08/2023)	Completed (03/24/2023)	Pellets Banked (02/21/23)																																
+HG03111	NG30	female	ESN	AFR	Fail Karyo	Pellets Banked (02/21/2023)	Completed (03/08/2023)	Completed (03/24/2023)	Pellets Banked (02/21/23)																																
+HG00272	NaN	female	FIN	EUR	YR4	Pellets Banked (06/05/2023)	Completed (07/16/2023)	Completed (08/14/2023)	Pellets Banked (06/05/2023)	UW	6/29/23	Complete -- 67.8X																			6/29/23							WashU			
+HG00097	NaN	female	GBR	EUR	YR4	Pellets Banked (06/05/2023)	Completed (07/16/2023)	Completed (08/14/2023)	Pellets Banked (06/05/2023)	UW	6/29/23	Complete -- 63.7X																			6/29/23							WashU			
+NA18879			YRI	AFR	YR4	Pellets Banked (06/07/2023)	Completed (07/16/2023)	Completed (08/14/2023)	Pellets Banked (06/07/2023)	UW	6/29/23	Complete -- 63.7X																			6/29/23							WashU			
+HG01766			IBS	EUR	YR4	Pellets Banked (06/28/2023)	Completed (07/23/2023)	Completed (08/14/2023)	Pellets Banked (06/28/2023)	UW	7/13/23	Complete -- 63.0X																			7/13/23							WashU			
+NA18871			YRI	AFR	YR4	Pellets Banked (07/05/2023)	Completed (07/23/2023)	Completed (08/24/2023)	Pellets Banked (07/05/2023)	UW	7/13/23	Complete -- 61.4X																			7/13/23							WashU			
+NA20850			GIH	SAS	YR4	Pellets Banked (06/05/2023)	Completed (07/16/2023)	Completed (08/14/2023)	Pellets Banked (06/05/2023)	UW	6/29/23	Complete -- 60.6X																			6/29/23							WashU			
+NA19835			ASW	AFR	YR4	Pellets Banked (06/13/2023)	Completed (07/29/2023)	Completed (08/14/2023)	Pellets Banked (06/13/2023)	RU	6/22/23	Complete -- 61x																			6/22/23							UW -> RU			
+NA19377			LWK	AFR	Fail Karyo	Pellets Banked (06/13/2023)	Completed (07/29/2023)	Completed (08/14/2023)	Pellets Banked (06/13/2023)	RU	6/22/23	Complete -- 61x																			6/22/23										
+HG00253			GBR	EUR	YR4	Pellets Banked (06/13/2023)	Completed (08/05/2023)	Completed (08/14/2023)	Pellets Banked (06/13/2023)	RU	6/22/23	Complete -- 64x																			6/22/23							UW -> RU			
+HG00235			GBR	EUR	YR4	Pellets Banked (06/13/2023)	Completed (08/05/2023)	Completed (08/14/2023)	Pellets Banked (06/13/2023)	RU	6/22/23	Complete -- 61x																			6/22/23							UW -> RU			
+HG03369			ESN	AFR	YR4	Pellets Banked (06/13/2023)	Completed (08/05/2023)	Completed (08/14/2023)	Pellets Banked (06/13/2023)	RU	6/22/23	Complete -- 61x																			6/22/23							UW -> RU			
+NA18565			CHB	EAS	YR4	Pellets Banked (06/27/2023)	Completed (08/05/2023)	Completed (08/14/2023)	Pellets Banked (06/27/2023)	WashU	6/29/23	Complete -- 62.9X																			6/29/23							UW -> RU			
+NA20818			TSI	EUR	YR4	Pellets Banked (07/11/2023)	Completed (08/13/2023)	Completed (08/24/2023)	Pellets Banked (07/11/2023)	WashU	7/13/23	Complete -- 72.2X																			7/13/23							UW -> RU			
+HG00384			FIN	EUR	Fail Karyo	Pellets Banked (06/27/2023)	Completed (08/13/2023)	Completed (08/14/2023)	Pellets Banked (06/27/2023)	WashU	12:00:00 AM	Complete -- 61.3X																			6/29/2023										
+NA20809			TSI	EUR	YR4	Pellets Banked (06/27/2023)	Completed (08/20/2023)	Completed (08/14/2023)	Pellets Banked (06/27/2023)	WashU	6/29/23	Complete -- 59.2X																			6/29/23							UW -> RU			
+NA21102			GIH	SAS	YR4	Pellets Banked (06/27/2023)	Completed (08/20/2023)	Completed (08/24/2023)	Pellets Banked (06/27/2023)	WashU	6/29/23	Complete -- 62.3X																			6/29/23							UW -> RU			
+HG03457			MSL	AFR	YR4	Pellets Banked (07/11/2023)	Completed (09/03/2023)	Completed (08/24/2023)	Pellets Banked (07/11/2023)	UW	7/13/23	Complete -- 61.8X																			7/13/23							UW -> RU			
+HG01028			CDX	EAS	YR4	Pellets Banked (07/11/2023)	Completed (09/03/2023)	Completed (08/24/2023)	Pellets Banked (07/11/2023)	UW	7/13/23	Complete -- 66.3X																			7/13/23							UW -> RU			
+HG03778			ITU	SAS	YR4	Pellets Banked (07/11/2023)	Completed (09/03/2023)	Completed (08/24/2023)	Pellets Banked (07/11/2023)	UW	7/13/23	Complete -- 60.7X																			7/13/23							UW -> RU			
+HG00258			GBR	EUR	YR4	Pellets Banked (07/11/2023)	Completed (08/20/2023)	Completed (08/24/2023)	Pellets Banked (07/11/2023)	UW	7/13/23	Complete -- 66.4X																			7/13/23							UW -> RU			
+HG03136			ESN	AFR	YR4	Pellets Banked (07/11/2023)	Completed (09/03/2023)	Completed (08/24/2023)	Pellets Banked (07/11/2023)	UW	7/13/23	Complete -- 62.3X																			7/13/23							UW -> RU			
+HG01626			IBS	EUR	Fail Karyo	Pellets Banked (07/18/2023)	Completed (10/1/2023)	Completed (08/24/2023)	Pellets Banked (07/18/2023)	RU	7/21/23	Complete -- 63x																			7/20/23										
+HG00662			CHS	EAS	YR4	Pellets Banked (07/18/2023)	Completed (10/1/2023)	Completed (08/24/2023)	Pellets Banked (07/18/2023)	RU	7/21/23	Complete -- 61x																			7/20/23							UW -> RU			
+HG01167			PUR	AMR	YR4	Pellets Banked (07/18/2023)	Completed (10/1/2023)	Completed (08/24/2023)	Pellets Banked (07/18/2023)	RU	7/21/23	Complete -- 62x																			7/20/23							UW -> RU			
+NA19131			YRI	AFR	YR4	Pellets Banked (07/18/2023)	Completed (10/1/2023)	Completed (08/24/2023)	Pellets Banked (07/18/2023)	RU	7/21/23	Complete -- 64x																			7/20/23							UW -> RU			
+HG04153			BEB	SAS	YR4	Pellets Banked (07/18/2023)	Completed (10/1/2023)	Completed (08/24/2023)	Pellets Banked (07/18/2023)	RU	7/21/23	Complete -- 65x																			7/20/23							UW -> RU			
+NA19099			YRI	AFR	YR4	Pellets Banked (07/25/2023)	Completed (10/3/2023)	Completed (08/24/2023)	Pellets Banked (07/25/2023)	WashU	7/27/23	Complete -- 65.1x																			7/27/23							UW -> RU			
+HG03343			ESN	AFR	YR4	Pellets Banked (07/26/2023)	Completed (10/29/2023)	Completed (08/24/2023)	Pellets Banked (07/26/2023)	WashU	7/27/23	Complete -- 62.1x																			7/27/23							UW -> RU			
+HG01785			IBS	EUR	Fail Karyo	Pellets Banked (07/25/2023)	Completed (10/29/2023)	Completed (08/24/2023)	Pellets Banked (07/25/2023)	WashU	7/27/23	Complete -- 68.2x																			7/27/23										
+HG01894			ACB	AFR	YR4	Pellets Banked (08/01/2023)	Completed (11/1/2023)	Completed (08/24/2023)	Pellets Banked (08/01/2023)	WashU	8/3/23	Complete -- 65.2x																			8/3/23							UW -> RU			
+NA19834			ASW	AFR	YR4	Pellets Banked (07/25/2023)	Completed (10/29/2023)	Completed (08/24/2023)	Pellets Banked (07/25/2023)	WashU	7/27/23	Complete -- 83.5x																			7/27/23							UW -> RU			
+HG03103			ESN	AFR	YR4	Pellets Banked (08/01/2023)	Completed (11/1/2023)	Completed (08/24/2023)	Pellets Banked (08/01/2023)	UW	8/3/23	Complete -- 60.0X																			8/3/23							UW -> RU			
+HG01048			PUR	AMR	YR4	Pellets Banked (08/01/2023)	Completed (11/1/2023)	Completed (08/24/2023)	Pellets Banked (08/01/2023)	UW	8/3/23	Complete -- 68.9X																			8/3/23							UW -> RU			
+NA19190			YRI	AFR	YR4	Pellets Banked (08/01/2023)	Completed (11/1/2023)	Completed (08/24/2023)	Pellets Banked (08/01/2023)	UW	8/3/23	Complete -- 71.3X																			8/3/23							UW -> RU			
+HG04225			ITU	SAS	YR4	Pellets Banked (08/01/2023)	Completed (11/1/2023)	Completed (08/24/2023)	Pellets Banked (08/01/2023)	UW	8/3/23	Complete -- 66.6X																			8/3/23							UW -> RU			
+NA19012			JPT	EAS	YR4	Pellets Banked (08/01/2023)	Completed (11/1/2023)	Completed (08/24/2023)	Pellets Banked (08/01/2023)	UW	8/3/23	Complete -- 62.6X																			8/3/23							UW -> RU			
+HG02624			GWD	AFR	YR4	Pellets Banked (08/08/2023)	Completed (11/5/2023)	Completed (08/24/2023)	Pellets Banked (08/08/2023)	RU	8/3/23	Complete -- 61X																			8/10/23							UW -> RU			
+HG03672			STU	SAS	YR4	Pellets Banked (08/08/2023)	Completed (12/2/2023)	Completed (08/24/2023)	Pellets Banked (08/08/2023)	RU	8/3/23	Complete -- 64X																			8/10/23							UW -> RU			
+HG03372			ESN	AFR	YR4	Pellets Banked (08/08/2023)	Completed (12/2/2023)	Completed (08/24/2023)	Pellets Banked (08/08/2023)	RU	8/3/23	Complete -- 65X																			8/10/23							UW -> RU			
+HG03108			ESN	AFR	YR4	Pellets Banked (08/08/2023)	Completed (11/5/2023)	Completed (08/24/2023)	Pellets Banked (08/08/2023)	RU	8/3/23	Complete -- 64X																			8/10/23							UW -> RU			
+NA19703			ASW	AFR	YR4	Pellets Banked (08/08/2023)	Completed (11/5/2023)	Completed (08/24/2023)	Pellets Banked (08/08/2023)	RU	8/3/23	Complete -- 62X																			8/10/23							UW -> RU			
+HG00106			GBR	EUR	YR4	Pellets Banked (08/15/2023)	Completed (11/14/2023)	Completed (10/09/2023)	Pellets Banked (08/15/2023)	WashU	8/17/23	Complete -- 61.5X																			8/17/23							UW -> RU			
+HG00117			GBR	EUR	YR4	Pellets Banked (08/15/2023)	Completed (12/2/2023)	Completed (10/09/2023)	Pellets Banked (08/15/2023)	WashU	8/17/23	Complete -- 63.5X																			8/17/23							UW -> RU			
+HG01798			CDX	EAS	YR4	Pellets Banked (08/15/2023)	Completed (12/2/2023)	Completed (10/09/2023)	Pellets Banked (08/15/2023)	WashU	8/17/23	Complete -- 80.8X																			8/17/23							UW -> RU			
+HG03919			BEB	SAS	YR4	Pellets Banked (08/15/2023)	Completed (01/01/2024)	Completed (10/09/2023)	Pellets Banked (08/15/2023)	WashU	8/17/23	Complete -- 66.3X																			8/17/23							UW -> RU			
+HG03388			MSL	AFR	YR4	Pellets Banked (08/15/2023)	Completed (12/2/2023)	Completed (10/09/2023)	Pellets Banked (08/15/2023)	WashU	8/17/23	Complete -- 80.8X																			8/17/23							UW	5/9/24	Complete -- 15.3M	
+NA19042	fiber-seq pilot		LWK	AFR	YR4	Pellets Banked (08/22/2023)	Completed (12/23/2023)	Completed (10/09/2023)	Pellets Banked (08/22/2023)	UW	8/24/23	Complete -- 60X (RU)																			8/24/23							UW	5/9/24	Complete -- 14.5M	
+NA19315	fiber-seq pilot		LWK	AFR	Fail Karyo	Pellets Banked (08/22/2023)	Completed (01/29/2023)	Completed (10/09/2023)	Pellets Banked (08/22/2023)	UW	8/24/23	std pellet @ UW [hold], FiberSeq lysate to RU?																			8/24/23										
+NA18638	fiber-seq pilot		CHB	EAS	Fail Karyo	Pellets Banked (08/22/2023)	Completed (01/11/2024)	Completed (10/09/2023)	Pellets Banked (08/22/2023)	UW	8/24/23	std pellet @ UW [hold], FiberSeq lysate to UW -- complete, 62.2X coverage [2.07 cells]																			8/24/23										
+NA21101			GIH	SAS	Fail Karyo	Pellets Banked (09/12/2023)	Completed (01/21/2024)	Completed (10/09/2023)	Pellets Banked (09/12/2023)	RU	9/21/23																				9/21/23										
+HG00701			CHS	EAS	YR4	Pellets Banked (09/12/2023)	Completed (01/27/2024)	Completed (10/09/2023)	Pellets Banked (09/12/2023)	RU	9/21/23	Complete -- 65x																			9/21/23							UW	5/9/24	Complete -- 12.7M	
+HG03072			MSL	AFR	YR4	Pellets Banked (09/12/2023)	Completed (02/11/2024)	Completed (10/09/2023)	Pellets Banked (09/12/2023)	RU	9/21/23	Complete -- 65x																			9/21/23							UW	5/9/24	Complete -- 14.1M	
+HG03445			MSL	AFR	YR4	Pellets Banked (09/12/2023)	Completed (02/11/2024)	Completed (10/09/2023)	Pellets Banked (09/12/2023)	RU	9/21/23	Complete -- 62x																			9/21/23							UW	5/9/24	Complete -- 14.7M	
+HG03788	ITU				YR5	Pellets Banked (09/26/2023)	Completed (02/28/2024)	Completed (01/23/2023)	Pellets Banked (09/26/2023)	WashU	9/28/23	Complete -- 60.4X																			9/28/23							UW	5/9/24	Complete -- 16.3M	
+HG00119	GBR				YR5	Pellets Banked (09/26/2023)	Completed (02/17/2024)	Completed (01/23/2023)	Pellets Banked (09/26/2023)	WashU	9/28/23	Complete -- 80.3X																			9/28/23							UW	5/9/24	Complete -- 14.5M	
+NA18523	YRI				Fail Karyo	Pellets Banked (09/26/2023)	Completed (02/11/2024)	Completed (01/23/2023)	Pellets Banked (09/26/2023)	WashU	9/28/23	Complete -- 60.2X																			9/28/23										
+NA18606	CHB				YR5	Pellets Banked (09/26/2023)	Completed (02/11/2024)	Completed (01/23/2023)	Pellets Banked (09/26/2023)	WashU	9/28/23	Complete -- 69.7X																			9/28/23							UW	5/9/24	Complete -- 13M	
+NA18636	CHB				YR5	Pellets Banked (09/26/2023)	Completed (02/28/2024)	Completed (01/23/2023)	Pellets Banked (09/26/2023)	WashU	9/28/23	Complete -- 84.3X																			9/28/23							UW	5/9/24	cDNA fail	
+HG01610	IBS				YR5	Pellets Banked (09/26/2023)	Completed (02/28/2024)	Completed (01/23/2023)	Pellets Banked (09/26/2023)	WashU	9/28/23	Complete -- 80.7X																			9/28/23							UW	5/9/24	Complete -- 13.9M	
+NA18611	CHB				YR5	Pellets Banked (10/10/2023)	Completed (04/01/2024)	Completed (01/23/2023)	Pellets Banked (10/10/2023)	UW	10/12/23	Complete -- 60.9X																			10/12/23							UW -> RU			
+HG04002	ITU				Fail Karyo	Pellets Banked (10/31/2023)	Completed (04/01/2024)	Completed (01/23/2023)	Pellets Banked (10/31/2023)	UW	11/30/23	Complete -- 63.4X																			11/30/23										
+NA19355	LWK				Fail Karyo	Pellets Banked (10/10/2023)	Completed (04/01/2024)	Completed (01/23/2023)	Pellets Banked (10/10/2023)	UW	10/12/23	Complete -- 65.6X																			10/12/23										
+HG03198	ESN				YR5	Pellets Banked (10/10/2023)	Completed (04/01/2024)	Completed (01/23/2023)	Pellets Banked (10/10/2023)	UW	10/12/23	Complete -- 61.2X																			10/12/23							UW -> RU			
+NA20362	ASW				YR5	Pellets Banked (10/10/2023)	Completed (04/01/2024)	Completed (01/23/2023)	Pellets Banked (10/10/2023)	UW																												UW -> RU			
+HG03854	STU				YR5	Pellets Banked (10/10/2023)	Completed (04/01/2024)	Completed (01/23/2023)	Pellets Banked (10/10/2023)	UW	10/12/23	Complete -- 62.6X																			10/12/23							UW -> RU			
+HG00118	GBR				YR5	Pellets Banked (10/24/2023)	Completed (04/01/2024)	Completed (01/23/2023)	Pellets Banked (10/24/2023)	RU	10/26/23																				10/25/23							UW -> RU			
+HG03060	MSL				Fail Karyo	Pellets Banked (10/24/2023)	Completed (05/14/2024)	Completed (01/23/2023)	Pellets Banked (10/24/2023)	RU	10/26/23																				10/25/23							Fail Karyo	5/9/24	RNA Extracted	
+HG03117	ESN				YR5	Pellets Banked (10/24/2023)	Completed (05/14/2024)	Completed (01/23/2023)	Pellets Banked (10/24/2023)	RU	10/26/23	Complete -- 67X																			10/25/23							UW	5/9/24	Complete -- 13.4M	
+HG04216	ITU				YR5	Pellets Banked (10/24/2023)	Completed (05/16/2024)	Completed (01/23/2023)	Pellets Banked (10/24/2023)	RU	10/26/23	Complete -- 66X																			10/25/23							UW	5/9/24	Complete -- 14.9M	
+HG03691	STU				YR5	Pellets Banked (10/24/2023)	Completed (05/17/2024)	Completed (01/23/2023)	Pellets Banked (10/24/2023)	RU	10/26/23	Complete -- 64X																			10/25/23							UW	5/9/24	Complete -- 13.6M	
+HG01516	IBS				YR5	Pellets Banked (10/24/2023)	Completed (05/14/2024)	Completed (01/23/2023)	Pellets Banked (10/24/2023)	RU	10/26/23	Complete -- 63X																			10/25/23							UW	5/9/24	Complete -- 13.7M	
+HG02337	ACB				YR5	Pellets Banked (11/7/2023)	Completed (06/16/2024)	Completed (01/23/2023)	Pellets Banked (11/7/2023)	WashU	11/10/23	Complete -- 63.5X																			11/9/23							UW	5/9/24	Complete -- 14.1M	
+HG03460	MSL				YR5	Pellets Banked (11/7/2023)	Completed (06/18/2024)	Completed (01/23/2023)	Pellets Banked (11/7/2023)	WashU	11/10/23	Complete -- 84.1X																			11/9/23							UW	5/9/24	Complete -- 14.2M	
+HG02464	GWD				Fail Karyo	Pellets Banked (11/14/2023)	Completed (06/16/2024)	Completed (01/23/2023)	Pellets Banked (11/14/2023)	WashU	1/11/24	Complete -- 80.8X																										Fail Karyo	5/9/24	RNA Extracted	
+NA18538	CHB				YR5	Pellets Banked (11/7/2023)	Completed (05/17/2024)	Completed (01/23/2023)	Pellets Banked (11/7/2023)	WashU	11/10/23	Complete -- 71.0X																			11/9/23							UW	5/9/24	Complete -- 13.7M	
+HG02013	ACB				Fail Karyo	Pellets Banked (11/7/2023)	Completed (05/14/2024)	Completed (01/23/2023)	Pellets Banked (11/7/2023)	WashU	11/10/23	Complete -- 77.2X																			11/9/23							Fail Karyo	5/9/24	RNA Extracted	
+NA19063	JPT				YR5	Pellets Banked (11/7/2023)	Completed (05/17/2024)	Completed (01/23/2023)	Pellets Banked (11/7/2023)	WashU	11/10/23	Complete -- 82.8X																			11/9/23							UW -> RU			
+NA18967	JPT				YR5	Pellets Banked (11/14/2023)	Completed (06/18/2024)	Completed (03/05/2023)	Pellets Banked (11/14/2023)	UW	11/30/23	Complete -- 62.6X																			11/30/23							UW -> RU			
+NA20866	GIH				YR5	Pellets Banked (11/14/2023)	Completed (06/18/2024)	Completed (03/05/2023)	Pellets Banked (11/14/2023)	UW	11/30/23	Complete -- 60.8X																			11/30/23							UW -> RU			
+NA20800	TSI				YR5	Pellets Banked (11/14/2023)	Completed (06/18/2024)	Completed (03/05/2023)	Pellets Banked (11/14/2023)	UW	11/30/23	Complete -- 65.7X																			11/30/23							UW -> RU			
+NA20294	ASW				YR5	Pellets Banked (11/14/2023)	Completed (06/18/2024)	Completed (03/05/2023)	Pellets Banked (11/14/2023)	UW																												UW -> RU			
+HG01176	PUR				YR5	Pellets Banked (11/14/2023)	Completed (06/19/2024)	Completed (03/05/2023)	Pellets Banked (11/14/2023)	UW	11/30/23	Complete -- 64X																			11/30/23							UW -> RU			
+HG00150	GBR				YR5	Pellets Banked (11/14/2023)	Completed (06/19/2024)	Completed (03/05/2023)	Pellets Banked (11/14/2023)	UW	11/30/23	Complete -- 63.2X																			11/30/23							UW -> RU			
+HG02541	ACB				YR5	Pellets Banked (11/28/2023)	"Completed
+(07/08/2024)"	Completed (03/05/2023)	Pellets Banked (11/28/2023)	RU	12/7/23	Complete -- 70X																			12/7/23							UW -> RU			
+NA21133	GIH				YR5	Pellets Banked (12/4/2023)	"Completed
+(07/24/2024)"	Completed (03/05/2023)	Pellets Banked (12/4/2023)	RU	12/7/23	Complete -- 71X																			12/7/23							UW -> RU			
+HG02497	ACB				YR5	Pellets Banked (11/28/2023)	"Completed
+(07/08/2024)"	Completed (03/05/2023)	Pellets Banked (11/28/2023)	RU	12/7/23	Complete -- 67X																			12/7/23							UW -> RU			
+NA19360	LWK				YR5	Pellets Banked (11/28/2023)	"Completed
+(07/08/2024)"	Completed (03/05/2023)	Pellets Banked (11/28/2023)	RU	12/7/23	Complete -- 74X																			12/7/23							UW -> RU			
+HG03433	MSL				YR5	Pellets Banked (11/28/2023)	"Completed
+(07/08/2024)"	Completed (03/05/2023)	Pellets Banked (11/28/2023)	RU	12/7/23																				12/7/23							UW -> RU			
+HG01700	IBS				YR5	Pellets Banked (11/28/2023)	"Completed
+(07/08/2024)"	Completed (03/05/2023)	Pellets Banked (11/28/2023)	RU	12/7/23	Complete -- 67X																			12/7/23							UW -> RU			
+HG02676	GWD				YR5	Pellets Banked (12/12/2023)	"Completed
+(07/24/2024)"	Completed (03/05/2023)	Pellets Banked (12/12/2023)	WashU	1/11/24	Complete -- 85.3X																										UW -> RU			
+NA19055	JPT				YR5	Pellets Banked (12/12/2023)	"Completed
+(07/24/2024)"	Completed (03/05/2023)	Pellets Banked (12/12/2023)	WashU	1/11/24	Complete -- 92.0X																										UW -> RU			
+HG03052	MSL				YR5	Pellets Banked (12/12/2023)		Completed (03/05/2023)	Pellets Banked (12/12/2023)	WashU	1/11/24	Complete -- 62.5X																										UW	5/9/24	Complete -- 14.8M	
+HG03363	ESN				YR5	Pellets Banked (12/12/2023)		Completed (03/05/2023)	Pellets Banked (12/12/2023)	WashU	1/11/24	Complete -- 70.6X																										UW	5/9/24	cDNA fail	
+NA19031	LWK				YR5	Pellets Banked (12/12/2023)	"Completed
+(07/24/2024)"	Completed (03/05/2023)	Pellets Banked (12/12/2023)	WashU	1/11/24	Complete -- 66.6X																										UW	5/9/24	Complete -- 13.8M	
+HG03733	STU				YR5	Pellets Banked (12/12/2023)		Completed (03/05/2023)	Pellets Banked (12/12/2023)	WashU	1/11/24	Complete -- 84.5X																										UW	5/9/24	Complete -- 13.4M	
+NA19314	LWK				YR5	Pellets Banked (12/19/2023)		Completed (03/05/2023)	Pellets Banked (12/19/2023)	UW	1/11/24	Complete -- 61.8X																										UW	5/9/24	Complete -- 12.2M	
+NA18870	YRI				YR5	Pellets Banked (12/19/2023)		Completed (03/05/2023)	Pellets Banked (12/19/2023)	UW	1/11/24	Complete -- 62.7X																										UW	5/9/24	Complete -- 13.7M	
+NA20756	TSI				YR5	Pellets Banked (12/21/2023)		Completed (03/05/2023)	Pellets Banked (12/21/2023)	UW	1/11/24	Complete -- 64X																										UW	5/9/24	Complete -- 14.4M	
+NA18559	CHB				YR5	Pellets Banked (12/19/2023)		Completed (03/05/2023)	Pellets Banked (12/19/2023)	UW	1/11/24	Complete -- 62.8X																										UW	5/9/24	Complete -- 13.7M	
+HG02364	CDX				YR5	Pellets Banked (12/19/2023)		Completed (03/05/2023)	Pellets Banked (12/19/2023)	UW	1/11/24	Complete -- 62.6X																										UW	5/9/24	Complete -- 13.9M	
+HG04144	BEB				YR5	Pellets Banked (12/19/2023)		Completed (03/05/2023)	Pellets Banked (12/19/2023)	UW	1/11/24	Complete -- 63.2X																										UW	5/9/24	cDNA pass, waiting for kinnex partners	
+HG03258	GWD				YR5	Pellets Banked (01/16/2024)		Completed (03/05/2023)	Pellets Banked (01/16/2024)	RU	1/18/24	Complete -- 66X																										RU			
+NA19917	ASW				YR5	Pellets Banked (01/16/2024)		Completed (03/05/2023)	Pellets Banked (01/16/2024)	RU	5/16/24	Complete -- 64X																										RU			
+HG00254	GBR				YR5	Pellets Banked (01/16/2024)		Completed (03/05/2023)	Pellets Banked (01/16/2024)	RU	1/18/24	Complete -- 63X																										RU			
+NA19439	LWK				YR5	Pellets Banked (01/16/2024)		Completed (03/05/2023)	Pellets Banked (01/16/2024)	RU	1/18/24	Complete -- 64X																										RU			
+HG00584	CHS				YR5	Pellets Banked (01/16/2024)		Completed (03/05/2023)	Pellets Banked (01/16/2024)	RU	1/18/24	Complete -- 67X																										RU			
+NA19375	LWK				YR5	Pellets Banked (01/25/2024)		Completed (03/05/2023)	Pellets Banked (01/25/2024)	RU	3/6/24	Complete -- 64X																										RU			
+NA19679	MXL				YR5	Pellets Banked (01/25/2024)		Completed (03/05/2023)	Pellets Banked (01/25/2024)	Washu	5/16/24	Complete -- 68.4X																										RU			
+NA19307	LWK				YR5	Pellets Banked (01/25/2024)		Completed (03/05/2023)	Pellets Banked (01/25/2024)	Washu	2/1/24	Complete -- 60.8X																										RU			
+NA20412	ASW				YR5	Pellets Banked (01/25/2024)		Completed (03/05/2023)	Pellets Banked (01/25/2024)	Washu	5/16/24	Complete -- 81.8X																										RU			
+HG01522	IBS				YR5	Pellets Banked (01/25/2024)		Completed (03/05/2023)	Pellets Banked (01/25/2024)	Washu	2/1/24	Complete -- 70.1X																										RU			
+HG00355	FIN				YR5	Pellets Banked (01/25/2024)		Completed (03/05/2023)	Pellets Banked (01/25/2024)	Washu	2/1/24	Complete -- 75.4X																										RU			
+HG03126	ESN				YR5	Pellets Banked (01/25/2024)		Completed (03/05/2023)	Pellets Banked (01/25/2024)	Washu	2/1/24	Complete -- 60.6X																										RU			
+HG03595	BEB				YR5	Pellets Banked (01/30/2024)		Completed (03/05/2023)	Pellets Banked (01/30/2024)	UW	2/8/24	Complete -- 64.7X																										RU			
+HG00245	GBR				YR5	Pellets Banked (01/30/2024)		Completed (03/05/2023)	Pellets Banked (01/30/2024)	UW	2/8/24	Complete -- 60.1X																										RU			
+HG03557	MSL				YR5	Pellets Banked (01/30/2024)		Completed (03/05/2023)	Pellets Banked (01/30/2024)	UW	2/8/24	Complete -- 63.1X																										RU			
+HG03775	ITU				YR5	Pellets Banked (01/30/2024)		Completed (03/05/2023)	Pellets Banked (01/30/2024)	UW	2/8/24	Complete -- 63.5X																										RU			
+HG03271	ESN				YR5	Pellets Banked (01/30/2024)		Completed (03/05/2023)	Pellets Banked (01/30/2024)	UW	2/8/24	Complete -- 63.6X																										RU			
+HG01374	CLM				YR5	Pellets Banked (01/30/2024)		Completed (03/05/2023)	Pellets Banked (01/30/2024)	UW	2/8/24	Complete -- 63.8X																										RU			
+HG03432	MSL				YR5	Pellets Banked (02/07/2024)		Completed (03/05/2023)	Pellets Banked (02/07/2024)	RU	2/8/24	Complete -- 65X																										RU			
+HG00375	FIN				YR5	Pellets Banked (02/07/2024)		Completed (03/05/2023)	Pellets Banked (02/07/2024)	RU	2/8/24	Complete -- 60X																										RU			
+HG02470	ACB				YR5	Pellets Banked (02/07/2024)		Completed (03/05/2023)	Pellets Banked (02/07/2024)	RU	2/8/24	Complete -- 65X																										RU			
+NA18511	YRI				YR5	Pellets Banked (02/07/2024)		Completed (03/05/2023)	Pellets Banked (02/07/2024)	RU	2/8/24	Complete -- 61X																										RU			
+HG03890	STU				YR5	Pellets Banked (02/07/2024)		Completed (03/05/2023)	Pellets Banked (02/07/2024)	RU	2/8/24	Complete -- 68X																										RU			
+HG00689	CHS				YR5	Pellets Banked (02/07/2024)		Completed (03/05/2023)	Pellets Banked (02/07/2024)	RU	2/8/24	Complete -- 61X																										RU			
+NA19916	ASW				YR5	Pellets Banked (02/20/2024)		Completed (05/01/2023)	Pellets Banked (02/20/2024)	Washu	5/16/24																											RU			
+HG00120	GBR				YR5	Pellets Banked (02/20/2024)		Completed (05/01/2023)	Pellets Banked (02/20/2024)	Washu	2/29/24	Complete -- 73.6X																										RU			
+HG01136	CLM				YR5	Pellets Banked (02/20/2024)		Completed (05/01/2023)	Pellets Banked (02/20/2024)	Washu	2/29/24	Complete -- 72.6X																										RU			
+NA20796	TSI				YR5	Pellets Banked (02/20/2024)		Completed (05/01/2023)	Pellets Banked (02/20/2024)	Washu	2/29/24	Complete -- 62.6X																										RU			
+NA19395	LWK				YR5	Pellets Banked (02/20/2024)		Completed (05/01/2023)	Pellets Banked (02/20/2024)	Washu	2/29/24	Complete -- 64.1X																										RU			
+HG00236	GBR				YR5	Pellets Banked (02/20/2024)		Completed (05/01/2023)	Pellets Banked (02/20/2024)	Washu	2/29/24	Complete -- 61.3X																										RU			
+HG03995	STU				YR5	Pellets Banked (02/27/2024)		Completed (05/01/2023)	Pellets Banked (02/27/2024)	UW	2/29/24	Complete -- 64.6X																										RU			
+HG00580	CHS				YR5	Pellets Banked (02/27/2024)		Completed (05/01/2023)	Pellets Banked (02/27/2024)	UW	2/29/24	Complete -- 65.5X																										RU			
+HG01479	CLM				YR5	Pellets Banked (02/27/2024)		Completed (05/01/2023)	Pellets Banked (02/27/2024)	UW	2/29/24	Complete -- 62.4X																										RU			
+NA19090	JPT				YR5	Pellets Banked (02/27/2024)		Completed (05/01/2023)	Pellets Banked (02/27/2024)	UW	2/29/24	Complete -- 64.4X																										RU			
+HG02792	PJL				YR5	Pellets Banked (02/27/2024)		Completed (05/01/2023)	Pellets Banked (02/27/2024)	UW	2/29/24	Complete -- 68X																										RU			
+NA18488	YRI				YR5	Pellets Banked (02/27/2024)		Completed (05/01/2023)	Pellets Banked (02/27/2024)	UW	2/29/24	Complete -- 65.9X																										RU			
+HG01624	IBS				YR5	Pellets Banked (03/12/2024)		Completed (05/01/2023)	Pellets Banked (03/12/2024)	RU	3/14/24	Complete -- 67X																										RU			
+NA19438	LWK				YR5	Pellets Banked (03/05/2024)		Completed (05/01/2023)	Pellets Banked (03/05/2024)	RU	3/6/24	Complete -- 70X																										RU			
+HG01796	CDX				YR5	Pellets Banked (03/05/2024)		Completed (05/01/2023)	Pellets Banked (03/05/2024)	RU	3/6/24	Complete -- 68X																										RU			
+NA19118	YRI				YR5	Pellets Banked (03/05/2024)		Completed (05/01/2023)	Pellets Banked (03/05/2024)	RU	3/6/24	Complete -- 61X																										RU			
+NA19035	LWK				YR5	Pellets Banked (03/06/2024)		Completed (05/01/2023)	Pellets Banked (03/06/2024)	RU	3/14/24	Complete -- 62X																										RU			
+NA18970	JPT				YR5	Pellets Banked (03/05/2024)		Completed (05/01/2023)	Pellets Banked (03/05/2024)	RU	3/6/24	Complete -- 70X																										RU			
+NA19079	JPT				YR5	Pellets Banked (03/12/2024)		Completed (05/01/2023)	Pellets Banked (03/12/2024)	Washu	3/14/24	Complete -- 67.2X																										RU			
+HG02642	GWD				YR5	Pellets Banked (03/12/2024)		Completed (05/01/2023)	Pellets Banked (03/12/2024)	Washu	3/14/24	Complete -- 66.9X																										RU			
+HG02140	KHV				YR5	Pellets Banked (03/12/2024)		Completed (05/01/2023)	Pellets Banked (03/12/2024)	Washu	3/14/24	Complete -- 72.4X																										RU			
+NA18995	JPT				YR5	Pellets Banked (03/12/2024)		Completed (05/01/2023)	Pellets Banked (03/12/2024)	Washu	3/14/24	Complete -- 85.3X																										RU			
+NA19658	MXL				YR5	Pellets Banked (03/12/2024)		Completed (05/01/2023)	Pellets Banked (03/12/2024)	Washu	5/16/24																											RU			
+HG00234	GBR				YR5	Pellets Banked (03/12/2024)		Completed (05/01/2023)	Pellets Banked (03/12/2024)	Washu	3/14/24	Complete -- 88.4X																										RU			
+HG02373	CDX				YR5	Pellets Banked (03/19/2024)			Pellets Banked (03/19/2024)	UW	3/21/24	Complete -- 62.3X [2.3 cells]																										RU			
+HG02589	GWD				YR5	Pellets Banked (03/19/2024)			Pellets Banked (03/19/2024)	UW	3/21/24	sequencing																										RU			
+HG02594	GWD				YR5	Pellets Banked (03/19/2024)			Pellets Banked (03/19/2024)	UW	3/21/24	sequencing																										RU			
+HG00116	GBR				YR5	Pellets Banked (03/19/2024)			Pellets Banked (03/19/2024)	UW	3/21/24	Complete -- 63.8X																										RU			
+HG01204	PUR				YR5	Pellets Banked (03/19/2024)			Pellets Banked (03/19/2024)	UW	3/21/24	sequencing																										RU			
+HG02661	PJL				YR5	Pellets Banked (03/19/2024)			Pellets Banked (03/19/2024)	UW	3/21/24	sequencing																										RU			
+HG03868	ITU				YR5	Pellets Banked (03/26/2024)			Pellets Banked (03/26/2024)	RU	3/28/24	Complete -- 64X																										RU			
+NA19655	MXL				YR5	Pellets Banked (03/26/2024)			Pellets Banked (03/26/2024)	RU	5/16/24	Complete -- 70X																										RU			
+NA19445	LWK				YR5	Pellets Banked (04/08/2024)			Pellets Banked (04/08/2024)	RU	4/25/24	Complete -- 61X																										RU			
+NA19923	ASW				YR5	Pellets Banked (03/26/2024)			Pellets Banked (03/26/2024)	RU	5/16/24	Complete -- 64X																										RU			
+HG03193	ESN				YR5	Pellets Banked (03/26/2024)			Pellets Banked (03/26/2024)	RU	3/28/24	Complete -- 65X																										RU			
+NA19000	JPT				YR5	Pellets Banked (03/26/2024)			Pellets Banked (03/26/2024)	RU	3/28/24	Complete -- 63X																										RU			
+HG03882	ITU				YR5	Pellets Banked (04/02/2024)			Pellets Banked (04/02/2024)	Washu	4/4/24	Complete -- 70.9X																										RU			
+NA18942	JPT				YR5	Pellets Banked (04/02/2024)			Pellets Banked (04/02/2024)	Washu	4/4/24	Complete -- 86.2X																										RU			
+HG03875	ITU				YR5	Pellets Banked (04/02/2024)			Pellets Banked (04/02/2024)	Washu	4/4/24	Complete -- 62.0X																										RU			
+NA21115	GIH				YR5	Pellets Banked (04/16/2024)			Pellets Banked (04/16/2024)	Washu	5/2/24																											RU			
+HG03567	MSL				YR5	Pellets Banked (04/02/2024)			Pellets Banked (04/02/2024)	Washu	4/4/24	Complete -- 87.5X																										RU			
+HG03898	STU				YR5	Pellets Banked (04/02/2024)			Pellets Banked (04/02/2024)	Washu	4/4/24	Complete -- 78.5X																										RU			
+NA19448	LWK				YR5	Pellets Banked (05/01/2024)			Pellets Banked (05/01/2024)	UW	5/2/24	sequencing																										RU			
+NA19321	LWK				YR5	Pellets Banked (04/16/2024)			Pellets Banked (04/16/2024)	UW	4/18/24	Complete -- 60.9X																										RU			
+NA20588	TSI				YR5	Pellets Banked (04/16/2024)			Pellets Banked (04/16/2024)	UW	4/18/24	Complete -- 68.2X																										RU			
+HG03366	ESN				YR5	Pellets Banked (04/16/2024)			Pellets Banked (04/16/2024)	UW	4/18/24	Complete -- 64.6X [2.5 cells]																										RU			
+NA19461	LWK				YR5	Pellets Banked (04/16/2024)			Pellets Banked (04/16/2024)	UW	4/18/24	Complete -- 63.5X																										RU			
+NA20318	ASW				YR5	Pellets Banked (04/16/2024)			Pellets Banked (04/16/2024)	UW																												RU			
+NA19762	MXL				YR5	Pellets Banked (04/22/2024)			Pellets Banked (04/22/2024)	RU																												RU			
+NA20801	TSI				YR5	Pellets Banked (04/22/2024)			Pellets Banked (04/22/2024)	RU	4/25/24																											RU			
+HG00252	GBR				YR5	Pellets Banked (04/22/2024)			Pellets Banked (04/22/2024)	RU	4/25/24	Complete -- 60X																										RU			
+HG01067	PUR				YR5	Pellets Banked (04/22/2024)			Pellets Banked (04/22/2024)	RU	4/25/24	Complete -- 68X																										RU			
+HG03902	BEB				YR5	Pellets Banked (04/22/2024)			Pellets Banked (04/22/2024)	RU	4/25/24	Complete -- 63X																										RU			
+NA18547	CHB				YR5	Pellets Banked (04/22/2024)			Pellets Banked (04/22/2024)	RU	4/25/24	Complete -- 70X																										RU			
+NA20761	TSI				YR5	Pellets Banked (05/01/2024)			Pellets Banked (05/01/2024)	Washu	5/2/24																											RU			
+NA18572	CHB				YR5	Pellets Banked (05/01/2024)			Pellets Banked (05/01/2024)	Washu	5/2/24																											RU			
+NA18748	CHB				YR5	Pellets Banked (05/01/2024)			Pellets Banked (05/01/2024)	Washu	5/2/24																											RU			
+NA20342	ASW				YR5	Pellets Banked (05/01/2024)			Pellets Banked (05/01/2024)	Washu	5/16/24																											RU			
+NA19318	LWK				YR5	Pellets Banked (05/01/2024)			Pellets Banked (05/01/2024)	Washu	5/2/24																											RU			
+HG04161	BEB				YR5	Pellets Banked (05/01/2024)			Pellets Banked (05/01/2024)	Washu	7/11/24																											RU			
+NA19434					HGSVC	Pellets Banked (05/10/2024)			Pellets Banked (05/10/2024)	UW	5/23/24	in prep queue																													
+NA20847					HGSVC	Pellets Banked (05/10/2024)			Pellets Banked (05/10/2024)	UW	5/23/24	in prep queue																													
+HG00512					HGSVC	Pellets Banked (05/10/2024)			Pellets Banked (05/10/2024)	UW	5/23/24	in prep queue																													
+HG03452					HGSVC	Pellets Banked (05/10/2024)			Pellets Banked (05/10/2024)	UW	5/23/24	in prep queue																													
+NA19836					HGSVC	Pellets Banked (05/13/2024)			Pellets Banked (05/13/2024)	UW	5/23/24	in prep queue																													
+NA19331					HGSVC	Pellets Banked (05/09/2024)			Pellets Banked (05/09/2024)	UW	5/23/24	in prep queue																													
+HG00864					HGSVC	Pellets Banked (05/10/2024)			Pellets Banked (05/10/2024)	UW	5/23/24	in prep queue																													
+NA19129					HGSVC	Pellets Banked (05/09/2024)			Pellets Banked (05/09/2024)	UW	5/23/24	in prep queue																													
+HG01114					HGSVC	Pellets Banked (05/10/2024)			Pellets Banked (05/10/2024)	UW	5/23/24	in prep queue																													
+HG01505					HGSVC	Pellets Banked (05/10/2024)			Pellets Banked (05/10/2024)	UW	5/23/24	in prep queue																													
+HG04217					HGSVC	Pellets Banked (05/17/2024)			Pellets Banked (05/17/2024)	RU	5/30/24	Complete -- 37X																													
+HG02492					HGSVC	Pellets Banked (05/17/2024)			Pellets Banked (05/17/2024)	RU	5/30/24	Complete -- 35X																													
+HG02018					HGSVC	Pellets Banked (05/17/2024)			Pellets Banked (05/17/2024)	RU	5/30/24	Complete -- 32X																													
+HG00171					HGSVC	Pellets Banked (05/17/2024)			Pellets Banked (05/17/2024)	RU	5/30/24	Complete -- 40X																													
+HG02106					HGSVC	Pellets Banked (05/17/2024)			Pellets Banked (05/17/2024)	RU	5/30/24	Complete -- 33X																													
+HG00096					HGSVC	Pellets Banked (05/17/2024)			Pellets Banked (05/17/2024)	RU	5/30/24	Complete -- 34X																													
+HG02818					HGSVC	Pellets Banked (05/17/2024)			Pellets Banked (05/17/2024)	RU	5/30/24	Complete -- 38X																													
+HG03456					HGSVC	Pellets Banked (05/17/2024)			Pellets Banked (05/17/2024)	RU	5/30/24	Complete -- 43X																													
+HG00268					HGSVC	Pellets Banked (05/17/2024)			Pellets Banked (05/17/2024)	RU	5/30/24	Complete -- 36X																													
+HG02059					HGSVC	Pellets Banked (05/24/2024)			Pellets Banked (05/24/2024)	Washu	6/19/24	Complete -- 41.2X																													
+NA20355					HGSVC	Pellets Banked (05/28/2024)			Pellets Banked (05/28/2024)	Washu	6/19/24	Complete -- 37.8X																													
+HG03807					HGSVC	Pellets Banked (05/24/2024)			Pellets Banked (05/24/2024)	Washu	6/19/24	Complete -- 37.2X																													
+NA18534					HGSVC	Pellets Banked (05/28/2024)			Pellets Banked (05/28/2024)	Washu	6/19/24	Complete -- 42.6X																													
+HG01596					HGSVC	Pellets Banked (05/24/2024)			Pellets Banked (05/24/2024)	Washu	6/19/24	Complete -- 42.5X																													
+HG02769					HGSVC	Pellets Banked (05/24/2024)			Pellets Banked (05/24/2024)	Washu	6/19/24	Complete -- 44.5X																													
+HG02953					HGSVC	Pellets Banked (05/28/2024)			Pellets Banked (05/28/2024)	Washu	6/19/24	Complete -- 40.9X																													
+NA19705					HGSVC	Pellets Banked (05/24/2024)			Pellets Banked (05/24/2024)	Washu	6/19/24	Complete -- 42.6X																													
+HG02587					HGSVC	Pellets Banked (05/24/2024)			Pellets Banked (05/24/2024)	Washu	6/19/24	Complete -- 43.8X																													
+NA19650					HGSVC	Pellets Banked (05/24/2024)			Pellets Banked (05/24/2024)	Washu	6/19/24	Complete -- 42.8X																													
+HG02011					HGSVC	Pellets Banked (06/06/2024)			Pellets Banked (06/06/2024)	UW																															
+HG04036					HGSVC	Pellets Banked (06/05/2024)			Pellets Banked (06/05/2024)	UW																															
+HG02554					HGSVC	Pellets Banked (06/14/2024)			Pellets Banked (06/14/2024)	UW																															
+HG03009					HGSVC	Pellets Banked (06/10/2024)			Pellets Banked (06/10/2024)	UW																															
+NA19983					HGSVC	Pellets Banked (06/07/2024)			Pellets Banked (06/07/2024)	RU	6/27/24	Complete -- 33X																													
+NA20509					HGSVC	Pellets Banked (06/07/2024)			Pellets Banked (06/07/2024)	RU	6/27/24	Complete -- 31X																													
+HG03065					HGSVC	Pellets Banked (06/06/2024)			Pellets Banked (06/06/2024)	RU	6/27/24	Complete -- 31X																													
+HG01573					HGSVC	Pellets Banked (06/04/2024)			Pellets Banked (06/04/2024)	RU	6/27/24	Complete -- 32X																													
+HG03683					HGSVC	Pellets Banked (06/05/2024)			Pellets Banked (06/05/2024)	RU	6/27/24	Complete -- 34X																													
+HG03248					HGSVC	Pellets Banked (06/04/2024)			Pellets Banked (06/04/2024)	RU	6/27/24	Complete -- 42X																													
+HG03371					HGSVC	Pellets Banked (07/09/2024)				Washu	7/18/24																														
+HG00513					HGSVC	Pellets Banked (06/18/2024)			Pellets Banked (06/18/2024)	Washu	7/11/24																														
+HG01352					HGSVC	Pellets Banked (06/12/2024)			Pellets Banked (06/12/2024)	Washu	7/11/24																														
+HG02282					HGSVC	Pellets Banked (06/18/2024)			Pellets Banked (06/18/2024)	Washu	7/11/24																														
+NA18939					HGSVC	Pellets Banked (06/14/2024)			Pellets Banked (06/14/2024)	Washu	7/11/24																														
+HG03520					HGSVC	Pellets Banked (06/12/2024)			Pellets Banked (06/12/2024)	Washu	7/11/24																														
+NA19347					HGSVC	Pellets Banked (07/16/2024)				Washu	7/18/24																														
+NA19384					HGSVC	Pellets Banked (06/18/2024)			Pellets Banked (06/18/2024)	Washu	7/11/24																														
+HG03079	MXL																																								
+NA20813	TSI																																								
+HG01675	IBS																																								
+NA20520	TSI																																								
+HG02757	GWD																																								
+HG00653	CHS																																								
+HG03267	ESN																																								
+HG00473	CHS																																								
+NA19701	ASW																																								
+HG03931	BEB																																								
+NA19213	YRI																																								
+NA21128	GIH																																								
+HG01369	CLM																																								
+NA19084	JPT																																								
+HG03571	MSL																																								
+NA20763	TSI																																								
+NA18599	CHB																																								
+HG02780	PJL																																								
+HG03461	MSL																																								
+HG02501	ACB																																								
+HG02944	ESN																																								
+NA19792	MXL																																								
+HG04022	ITU																																								
+NA19017	LWK																																								
+HG03838	STU																																								
+HG02783	PJL																																								
+HG03120	ESN																																								
+HG03790	ITU																																								
+NA19383	LWK																																								
+NA19005	JPT																																								
+NA19440	LWK																																								
+HG00566	CHS																																								
+HG00136	GBR																																								
+HG00330	FIN																																								
+HG03304	ESN																																								
+HG03499	ESN																																								
+NA20882	GIH																																								
+HG01746	IBS																																								
+NA19308	LWK																																								
+NA19467	LWK																																								
+HG02694	PJL																																								
+NA18605	CHB																																								
+NA21097	GIH																																								
+NA20289	ASW																																								
+NA19678	MXL																																								
+NA20539	TSI																																								
+HG04017	ITU																																								
+HG03897	STU																																								
+HG00551	PUR																																								
+NA19025	LWK																																								
+HG03643	STU																																								
+NA20754	TSI																																								
+HG02562	GWD																																								
+HG04212	ITU																																								
+NA18864	YRI																																								
+NA21105	GIH																																								
+HG00107	GBR																																								
+HG03548	MSL																																								
+HG03559	MSL																																								
+NA19385	LWK																																								
+NA20787	TSI																																								
+NA18908	YRI																																								
+HG03771	ITU																																								
+HG03479	MSL																																								
+HG02811	GWD																																								
+HG01865	KHV																																								
+NA21127	GIH																																								
+HG03268	ESN																																								
+NA20845	GIH																																								
+HG02804	GWD																																								
+HG00349	FIN																																								
+HG04090	ITU																																								
+HG02549	ACB																																								
+NA18641	CHB																																								
+HG03917	BEB																																								
+NA19774	MXL																																								
+HG01058	PUR																																								
+HG04134	BEB																																								
+NA19093	YRI																																								
+NA19223	YRI																																								
+HG00265	GBR																																								
+HG03563	MSL																																								
+HG04210	STU																																								
+HG02409	CDX																																								
+NA19449	LWK																																								
+NA19327	LWK																																								
+NA21094	GIH																																								
+HG03066	MSL																																								
+HG03157	ESN																																								
+HG02679	GWD																																								
+HG00233	GBR																																								
+NA19098	YRI																																								
+HG03351	ESN																																								
+HG03565	MSL																																								
+HG01049	PUR																																								
+HG03767	PJL																																								
+NA19474	LWK																																								
+HG02580	ACB																																								
+NA19372	LWK																																								
+HG04206	ITU																																								
+HG03774	ITU																																								
+NA18630	CHB																																								
+HG00187	FIN																																								
+HG02577	ACB																																								
+HG04060	ITU																																								
+NA18591	CHB																																								
+NA20903	GIH																																								
+NA19782	MXL																																								
+HG02309	ACB																																								
+HG02946	ESN																																								
+HG00500	CHS																																								
+HG00318	FIN																																								
+NA18561	CHB																																								
+HG00154	GBR																																								
+HG03869	ITU																																								
+NA20867	GIH																																								
+HG04164	BEB																																								
+HG01525	IBS																																								
+NA19088	JPT																																								
+NA18644	CHB																																								
+HG04006	STU																																								
+HG03018	PJL																																								
+HG03955	STU																																								
+NA19197	YRI																																								
+HG03773	ITU																																								
+HG00278	FIN																																								
+HG02536	ACB																																								
+NA18635	CHB																																								
+HG03259	GWD																																								
+NA20543	TSI																																								
+HG03978	ITU																																								
+NA19152	YRI																																								
+HG00151	GBR																																								
+HG00326	FIN																																								
+NA18986	JPT																																								
+HG01528	IBS																																								
+NA19247	YRI																																								
+NA19761	MXL																																								
+NA20587	TSI																																								
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
+																																									
