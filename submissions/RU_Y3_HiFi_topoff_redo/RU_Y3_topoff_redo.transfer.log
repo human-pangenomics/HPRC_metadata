@@ -1,0 +1,204 @@
+/private/home/apblair/miniconda3/envs/aws-ssds/lib/python3.9/site-packages/google/auth/_default.py:76: UserWarning: Your application has authenticated using end user credentials from Google Cloud SDK without a quota project. You might receive a "quota exceeded" or "API not enabled" error. See the following page for troubleshooting: https://cloud.google.com/docs/authentication/adc-troubleshooting/user-creds. 
+  warnings.warn(_CLOUD_SDK_CREDENTIALS_WARNING)
+WARNING:google.auth._default:No project ID could be determined. Consider running `gcloud config set project` or setting the GOOGLE_CLOUD_PROJECT environment variable
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG00658/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1018.bam to s3://human-pangenomics/working/HPRC/HG00658/raw_data/PacBio_HiFi/m84091_230905_192642_s1.hifi_reads.bc1018.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG00658/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1018.bam to s3://human-pangenomics/working/HPRC/HG00658/raw_data/PacBio_HiFi/m84091_230905_195701_s2.hifi_reads.bc1018.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG00658/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1018.bam to s3://human-pangenomics/working/HPRC/HG00658/raw_data/PacBio_HiFi/m84091_230905_202807_s3.hifi_reads.bc1018.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01150/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1019.bam to s3://human-pangenomics/working/HPRC/HG01150/raw_data/PacBio_HiFi/m84091_230905_192642_s1.hifi_reads.bc1019.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01150/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1019.bam to s3://human-pangenomics/working/HPRC/HG01150/raw_data/PacBio_HiFi/m84091_230905_195701_s2.hifi_reads.bc1019.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01150/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1019.bam to s3://human-pangenomics/working/HPRC/HG01150/raw_data/PacBio_HiFi/m84091_230905_202807_s3.hifi_reads.bc1019.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01150/hifi_reads/m84091_231004_192043_s3.hifi_reads.bc1019.bam to s3://human-pangenomics/working/HPRC/HG01150/raw_data/PacBio_HiFi/m84091_231004_192043_s3.hifi_reads.bc1019.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01252/hifi_reads/m84091_230905_205913_s4.hifi_reads.bc1020.bam to s3://human-pangenomics/working/HPRC/HG01252/raw_data/PacBio_HiFi/m84091_230905_205913_s4.hifi_reads.bc1020.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01530/hifi_reads/m84091_231208_194716_s4.hifi_reads.bc1021.bam to s3://human-pangenomics/working/HPRC/HG01530/raw_data/PacBio_HiFi/m84091_231208_194716_s4.hifi_reads.bc1021.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01530/hifi_reads/m84091_231208_201822_s1.hifi_reads.bc1021.bam to s3://human-pangenomics/working/HPRC/HG01530/raw_data/PacBio_HiFi/m84091_231208_201822_s1.hifi_reads.bc1021.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01530/hifi_reads/m84091_231208_204928_s2.hifi_reads.bc1021.bam to s3://human-pangenomics/working/HPRC/HG01530/raw_data/PacBio_HiFi/m84091_231208_204928_s2.hifi_reads.bc1021.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01784/hifi_reads/m84091_231120_182829_s1.hifi_reads.bc1019.bam to s3://human-pangenomics/working/HPRC/HG01784/raw_data/PacBio_HiFi/m84091_231120_182829_s1.hifi_reads.bc1019.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01940/hifi_reads/m84091_240110_191713_s4.hifi_reads.bc1010.bam to s3://human-pangenomics/working/HPRC/HG01940/raw_data/PacBio_HiFi/m84091_240110_191713_s4.hifi_reads.bc1010.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01960/hifi_reads/m84091_230817_150246_s3.hifi_reads.bc1012.bam to s3://human-pangenomics/working/HPRC/HG01960/raw_data/PacBio_HiFi/m84091_230817_150246_s3.hifi_reads.bc1012.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01969/hifi_reads/m84091_240110_201841_s2.hifi_reads.bc1002.bam to s3://human-pangenomics/working/HPRC/HG01969/raw_data/PacBio_HiFi/m84091_240110_201841_s2.hifi_reads.bc1002.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG02391/hifi_reads/m84091_231120_185935_s2.hifi_reads.bc1010.bam to s3://human-pangenomics/working/HPRC/HG02391/raw_data/PacBio_HiFi/m84091_231120_185935_s2.hifi_reads.bc1010.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG02514/hifi_reads/m84091_240110_194735_s1.hifi_reads.bc1001.bam to s3://human-pangenomics/working/HPRC/HG02514/raw_data/PacBio_HiFi/m84091_240110_194735_s1.hifi_reads.bc1001.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG02841/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1015.bam to s3://human-pangenomics/working/HPRC/HG02841/raw_data/PacBio_HiFi/m84091_230905_192642_s1.hifi_reads.bc1015.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG02841/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1015.bam to s3://human-pangenomics/working/HPRC/HG02841/raw_data/PacBio_HiFi/m84091_230905_195701_s2.hifi_reads.bc1015.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG02841/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1015.bam to s3://human-pangenomics/working/HPRC/HG02841/raw_data/PacBio_HiFi/m84091_230905_202807_s3.hifi_reads.bc1015.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG02984/hifi_reads/m84091_231004_192043_s3.hifi_reads.bc1016.bam to s3://human-pangenomics/working/HPRC/HG02984/raw_data/PacBio_HiFi/m84091_231004_192043_s3.hifi_reads.bc1016.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG03050/hifi_reads/m84091_230905_205913_s4.hifi_reads.bc1017.bam to s3://human-pangenomics/working/HPRC/HG03050/raw_data/PacBio_HiFi/m84091_230905_205913_s4.hifi_reads.bc1017.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG03458/hifi_reads/m84091_231208_201822_s1.hifi_reads.bc1011.bam to s3://human-pangenomics/working/HPRC/HG03458/raw_data/PacBio_HiFi/m84091_231208_201822_s1.hifi_reads.bc1011.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG03470/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1009.bam to s3://human-pangenomics/working/HPRC/HG03470/raw_data/PacBio_HiFi/m84091_230705_174256_s2.hifi_reads.bc1009.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG03470/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1009.bam to s3://human-pangenomics/working/HPRC/HG03470/raw_data/PacBio_HiFi/m84091_230705_184508_s4.hifi_reads.bc1009.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG03742/hifi_reads/m84091_231120_193041_s3.hifi_reads.bc1020.bam to s3://human-pangenomics/working/HPRC/HG03742/raw_data/PacBio_HiFi/m84091_231120_193041_s3.hifi_reads.bc1020.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA18570/hifi_reads/m84091_231120_193041_s3.hifi_reads.bc1012.bam to s3://human-pangenomics/working/HPRC/NA18570/raw_data/PacBio_HiFi/m84091_231120_193041_s3.hifi_reads.bc1012.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19087/hifi_reads/m84091_231120_185935_s2.hifi_reads.bc1016.bam to s3://human-pangenomics/working/HPRC/NA19087/raw_data/PacBio_HiFi/m84091_231120_185935_s2.hifi_reads.bc1016.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19159/hifi_reads/m84091_230817_150246_s3.hifi_reads.bc1015.bam to s3://human-pangenomics/working/HPRC/NA19159/raw_data/PacBio_HiFi/m84091_230817_150246_s3.hifi_reads.bc1015.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19185/hifi_reads/m84091_231120_182829_s1.hifi_reads.bc1017.bam to s3://human-pangenomics/working/HPRC/NA19185/raw_data/PacBio_HiFi/m84091_231120_182829_s1.hifi_reads.bc1017.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19338/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1002.bam to s3://human-pangenomics/working/HPRC/NA19338/raw_data/PacBio_HiFi/m84091_230705_174256_s2.hifi_reads.bc1002.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19338/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1002.bam to s3://human-pangenomics/working/HPRC/NA19338/raw_data/PacBio_HiFi/m84091_230705_184508_s4.hifi_reads.bc1002.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19338/hifi_reads/m84091_231120_175800_s4.hifi_reads.bc1002.bam to s3://human-pangenomics/working/HPRC/NA19338/raw_data/PacBio_HiFi/m84091_231120_175800_s4.hifi_reads.bc1002.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19391/hifi_reads/m84091_231120_175800_s4.hifi_reads.bc1015.bam to s3://human-pangenomics/working/HPRC/NA19391/raw_data/PacBio_HiFi/m84091_231120_175800_s4.hifi_reads.bc1015.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19468/hifi_reads/m84091_231208_194716_s4.hifi_reads.bc1008.bam to s3://human-pangenomics/working/HPRC/NA19468/raw_data/PacBio_HiFi/m84091_231208_194716_s4.hifi_reads.bc1008.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19468/hifi_reads/m84091_231211_215746_s3.hifi_reads.bc1008.bam to s3://human-pangenomics/working/HPRC/NA19468/raw_data/PacBio_HiFi/m84091_231211_215746_s3.hifi_reads.bc1008.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA20799/hifi_reads/m84091_231208_204928_s2.hifi_reads.bc1018.bam to s3://human-pangenomics/working/HPRC/NA20799/raw_data/PacBio_HiFi/m84091_231208_204928_s2.hifi_reads.bc1018.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA20799/hifi_reads/m84091_231211_215746_s3.hifi_reads.bc1018.bam to s3://human-pangenomics/working/HPRC/NA20799/raw_data/PacBio_HiFi/m84091_231211_215746_s3.hifi_reads.bc1018.bam
+{
+  "submission_id": "B8BD83FD-2608-4494-AFD4-E63DC2376381",
+  "src_bucket": "human-pangenomics",
+  "dst_bucket": "human-pangenomics",
+  "aws_identity": "AIDAWEW7BTH3SB7SI4NIO",
+  "gcp_identity": "apblair@ucsc.edu",
+  "transfer_map": [
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19468/hifi_reads/m84091_231208_194716_s4.hifi_reads.bc1008.bam",
+      "dst_key": "working/HPRC/NA19468/raw_data/PacBio_HiFi/m84091_231208_194716_s4.hifi_reads.bc1008.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG00658/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1018.bam",
+      "dst_key": "working/HPRC/HG00658/raw_data/PacBio_HiFi/m84091_230905_195701_s2.hifi_reads.bc1018.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG02391/hifi_reads/m84091_231120_185935_s2.hifi_reads.bc1010.bam",
+      "dst_key": "working/HPRC/HG02391/raw_data/PacBio_HiFi/m84091_231120_185935_s2.hifi_reads.bc1010.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG02841/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1015.bam",
+      "dst_key": "working/HPRC/HG02841/raw_data/PacBio_HiFi/m84091_230905_195701_s2.hifi_reads.bc1015.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01969/hifi_reads/m84091_240110_201841_s2.hifi_reads.bc1002.bam",
+      "dst_key": "working/HPRC/HG01969/raw_data/PacBio_HiFi/m84091_240110_201841_s2.hifi_reads.bc1002.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01530/hifi_reads/m84091_231208_194716_s4.hifi_reads.bc1021.bam",
+      "dst_key": "working/HPRC/HG01530/raw_data/PacBio_HiFi/m84091_231208_194716_s4.hifi_reads.bc1021.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01530/hifi_reads/m84091_231208_204928_s2.hifi_reads.bc1021.bam",
+      "dst_key": "working/HPRC/HG01530/raw_data/PacBio_HiFi/m84091_231208_204928_s2.hifi_reads.bc1021.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01940/hifi_reads/m84091_240110_191713_s4.hifi_reads.bc1010.bam",
+      "dst_key": "working/HPRC/HG01940/raw_data/PacBio_HiFi/m84091_240110_191713_s4.hifi_reads.bc1010.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19185/hifi_reads/m84091_231120_182829_s1.hifi_reads.bc1017.bam",
+      "dst_key": "working/HPRC/NA19185/raw_data/PacBio_HiFi/m84091_231120_182829_s1.hifi_reads.bc1017.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19338/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1002.bam",
+      "dst_key": "working/HPRC/NA19338/raw_data/PacBio_HiFi/m84091_230705_184508_s4.hifi_reads.bc1002.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19087/hifi_reads/m84091_231120_185935_s2.hifi_reads.bc1016.bam",
+      "dst_key": "working/HPRC/NA19087/raw_data/PacBio_HiFi/m84091_231120_185935_s2.hifi_reads.bc1016.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA20799/hifi_reads/m84091_231208_204928_s2.hifi_reads.bc1018.bam",
+      "dst_key": "working/HPRC/NA20799/raw_data/PacBio_HiFi/m84091_231208_204928_s2.hifi_reads.bc1018.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG02841/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1015.bam",
+      "dst_key": "working/HPRC/HG02841/raw_data/PacBio_HiFi/m84091_230905_192642_s1.hifi_reads.bc1015.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG02514/hifi_reads/m84091_240110_194735_s1.hifi_reads.bc1001.bam",
+      "dst_key": "working/HPRC/HG02514/raw_data/PacBio_HiFi/m84091_240110_194735_s1.hifi_reads.bc1001.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG03470/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1009.bam",
+      "dst_key": "working/HPRC/HG03470/raw_data/PacBio_HiFi/m84091_230705_174256_s2.hifi_reads.bc1009.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01150/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1019.bam",
+      "dst_key": "working/HPRC/HG01150/raw_data/PacBio_HiFi/m84091_230905_195701_s2.hifi_reads.bc1019.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG03742/hifi_reads/m84091_231120_193041_s3.hifi_reads.bc1020.bam",
+      "dst_key": "working/HPRC/HG03742/raw_data/PacBio_HiFi/m84091_231120_193041_s3.hifi_reads.bc1020.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA18570/hifi_reads/m84091_231120_193041_s3.hifi_reads.bc1012.bam",
+      "dst_key": "working/HPRC/NA18570/raw_data/PacBio_HiFi/m84091_231120_193041_s3.hifi_reads.bc1012.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG00658/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1018.bam",
+      "dst_key": "working/HPRC/HG00658/raw_data/PacBio_HiFi/m84091_230905_202807_s3.hifi_reads.bc1018.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01530/hifi_reads/m84091_231208_201822_s1.hifi_reads.bc1021.bam",
+      "dst_key": "working/HPRC/HG01530/raw_data/PacBio_HiFi/m84091_231208_201822_s1.hifi_reads.bc1021.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19338/hifi_reads/m84091_231120_175800_s4.hifi_reads.bc1002.bam",
+      "dst_key": "working/HPRC/NA19338/raw_data/PacBio_HiFi/m84091_231120_175800_s4.hifi_reads.bc1002.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01150/hifi_reads/m84091_231004_192043_s3.hifi_reads.bc1019.bam",
+      "dst_key": "working/HPRC/HG01150/raw_data/PacBio_HiFi/m84091_231004_192043_s3.hifi_reads.bc1019.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01150/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1019.bam",
+      "dst_key": "working/HPRC/HG01150/raw_data/PacBio_HiFi/m84091_230905_202807_s3.hifi_reads.bc1019.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19338/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1002.bam",
+      "dst_key": "working/HPRC/NA19338/raw_data/PacBio_HiFi/m84091_230705_174256_s2.hifi_reads.bc1002.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01960/hifi_reads/m84091_230817_150246_s3.hifi_reads.bc1012.bam",
+      "dst_key": "working/HPRC/HG01960/raw_data/PacBio_HiFi/m84091_230817_150246_s3.hifi_reads.bc1012.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG02984/hifi_reads/m84091_231004_192043_s3.hifi_reads.bc1016.bam",
+      "dst_key": "working/HPRC/HG02984/raw_data/PacBio_HiFi/m84091_231004_192043_s3.hifi_reads.bc1016.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG00658/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1018.bam",
+      "dst_key": "working/HPRC/HG00658/raw_data/PacBio_HiFi/m84091_230905_192642_s1.hifi_reads.bc1018.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19468/hifi_reads/m84091_231211_215746_s3.hifi_reads.bc1008.bam",
+      "dst_key": "working/HPRC/NA19468/raw_data/PacBio_HiFi/m84091_231211_215746_s3.hifi_reads.bc1008.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01150/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1019.bam",
+      "dst_key": "working/HPRC/HG01150/raw_data/PacBio_HiFi/m84091_230905_192642_s1.hifi_reads.bc1019.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01784/hifi_reads/m84091_231120_182829_s1.hifi_reads.bc1019.bam",
+      "dst_key": "working/HPRC/HG01784/raw_data/PacBio_HiFi/m84091_231120_182829_s1.hifi_reads.bc1019.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG02841/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1015.bam",
+      "dst_key": "working/HPRC/HG02841/raw_data/PacBio_HiFi/m84091_230905_202807_s3.hifi_reads.bc1015.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19391/hifi_reads/m84091_231120_175800_s4.hifi_reads.bc1015.bam",
+      "dst_key": "working/HPRC/NA19391/raw_data/PacBio_HiFi/m84091_231120_175800_s4.hifi_reads.bc1015.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA19159/hifi_reads/m84091_230817_150246_s3.hifi_reads.bc1015.bam",
+      "dst_key": "working/HPRC/NA19159/raw_data/PacBio_HiFi/m84091_230817_150246_s3.hifi_reads.bc1015.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/NA20799/hifi_reads/m84091_231211_215746_s3.hifi_reads.bc1018.bam",
+      "dst_key": "working/HPRC/NA20799/raw_data/PacBio_HiFi/m84091_231211_215746_s3.hifi_reads.bc1018.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG03458/hifi_reads/m84091_231208_201822_s1.hifi_reads.bc1011.bam",
+      "dst_key": "working/HPRC/HG03458/raw_data/PacBio_HiFi/m84091_231208_201822_s1.hifi_reads.bc1011.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG03050/hifi_reads/m84091_230905_205913_s4.hifi_reads.bc1017.bam",
+      "dst_key": "working/HPRC/HG03050/raw_data/PacBio_HiFi/m84091_230905_205913_s4.hifi_reads.bc1017.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG01252/hifi_reads/m84091_230905_205913_s4.hifi_reads.bc1020.bam",
+      "dst_key": "working/HPRC/HG01252/raw_data/PacBio_HiFi/m84091_230905_205913_s4.hifi_reads.bc1020.bam"
+    },
+    {
+      "src_key": "submissions/B8BD83FD-2608-4494-AFD4-E63DC2376381--RU_Y3_topoff_redo/HG03470/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1009.bam",
+      "dst_key": "working/HPRC/HG03470/raw_data/PacBio_HiFi/m84091_230705_184508_s4.hifi_reads.bc1009.bam"
+    }
+  ],
+  "start_timestamp": "2024-08-14T065520.456491Z",
+  "end_timestamp": "2024-08-14T080920.210391Z"
+}
