@@ -1,0 +1,3 @@
+input,type,value
+illumina_qc_wf.sample_id,scalar,$input.sample_id
+illumina_qc_wf.illumina_reads,scalar,$input.illumina_reads
