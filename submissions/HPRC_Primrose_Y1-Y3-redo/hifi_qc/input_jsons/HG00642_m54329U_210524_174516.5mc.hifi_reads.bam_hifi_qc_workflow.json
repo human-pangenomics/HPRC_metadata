@@ -1,0 +1,8 @@
+{
+  "hifi_qc_wf.hifi_reads": "s3://human-pangenomics/submissions/E3CE7E0D-EAC0-4918-B200-91D73E9170D6--HPRC_Primrose_Y1-Y3-redo/HG00642/raw_data/PacBio_HiFi/primrose/m54329U_210524_174516.5mc.hifi_reads.bam",
+  "hifi_qc_wf.sample_id": "HG00642_m54329U_210524_174516.5mc.hifi_reads.bam",
+  "hifi_qc_wf.other_reads": [
+    "/private/groups/hprc/1000G_local/child/fastq/HG00642.final.fq.gz"
+  ],
+  "hifi_qc_wf.perform_methylation_check": true
+}

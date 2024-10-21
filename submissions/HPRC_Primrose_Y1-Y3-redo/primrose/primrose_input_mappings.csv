@@ -1,0 +1,2 @@
+input,type,value
+run_primrose.input_bams,array,$input.input_bams

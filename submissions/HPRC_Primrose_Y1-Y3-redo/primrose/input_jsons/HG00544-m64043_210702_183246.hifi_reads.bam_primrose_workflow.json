@@ -1,0 +1,5 @@
+{
+  "run_primrose.input_bams": [
+    "s3://human-pangenomics/working/HPRC/HG00544/raw_data/PacBio_HiFi/m64043_210702_183246.hifi_reads.bam"
+  ]
+}
