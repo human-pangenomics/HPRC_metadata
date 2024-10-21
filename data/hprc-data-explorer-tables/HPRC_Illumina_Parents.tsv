@@ -1,40 +1,40 @@
-	sample_ID	path	total_bp	coverage	filetype	instrument_model	Relationship	library_construction_protocol	library_layout	library_strategy	read_length
-0	NA19185	s3://human-pangenomics/working/HPRC/NA19185/raw_data/Illumina/child/NA19185.final.cram	127410739500	41.1	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
-1	HG02391	s3://human-pangenomics/working/HPRC/HG02391/raw_data/Illumina/child/HG02391.final.cram	107779311000	34.77	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-2	NA18971	s3://human-pangenomics/working/HPRC/NA18971/raw_data/Illumina/child/NA18971.final.cram	113721271200	36.68	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-3	HG01784	s3://human-pangenomics/working/HPRC/HG01784/raw_data/Illumina/child/HG01784.final.cram	109015586700	35.17	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
-4	NA18522	s3://human-pangenomics/working/HPRC/NA18522/raw_data/Illumina/child/NA18522.final.cram	104407727100	33.68	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
-5	NA18612	s3://human-pangenomics/working/HPRC/NA18612/raw_data/Illumina/child/NA18612.final.cram	155877347400	50.28	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-6	HG03742	s3://human-pangenomics/working/HPRC/HG03742/raw_data/Illumina/child/HG03742.final.cram	119117517300	38.43	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
-7	NA19391	s3://human-pangenomics/working/HPRC/NA19391/raw_data/Illumina/child/NA19391.final.cram	109615147200	35.36	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-8	NA20905	s3://human-pangenomics/working/HPRC/NA20905/raw_data/Illumina/child/NA20905.final.cram	161379588000	52.06	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-9	HG03139	s3://human-pangenomics/working/HPRC/HG03139/raw_data/Illumina/child/HG03139.final.cram	120759402300	38.95	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
-10	NA20805	s3://human-pangenomics/working/HPRC/NA20805/raw_data/Illumina/child/NA20805.final.cram	115985435400	37.41	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-11	HG02922	s3://human-pangenomics/working/HPRC/HG02922/raw_data/Illumina/child/HG02922.final.cram	108193599600	34.9	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
-12	HG00099	s3://human-pangenomics/working/HPRC/HG00099/raw_data/Illumina/child/HG00099.final.cram	128644524300	41.5	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-13	HG01530	s3://human-pangenomics/working/HPRC/HG01530/raw_data/Illumina/child/HG01530.final.cram	109816310100	35.42	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
-14	NA20752	s3://human-pangenomics/working/HPRC/NA20752/raw_data/Illumina/child/NA20752.final.cram	109330854600	35.27	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-15	NA19159	s3://human-pangenomics/working/HPRC/NA19159/raw_data/Illumina/child/NA19159.final.cram	115901003400	37.39	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
-16	NA18570	s3://human-pangenomics/working/HPRC/NA18570/raw_data/Illumina/child/NA18570.final.cram	107836022400	34.79	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-17	HG03225	s3://human-pangenomics/working/HPRC/HG03225/raw_data/Illumina/child/HG03225.final.cram	111651319800	36.02	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
-18	HG03458	s3://human-pangenomics/working/HPRC/HG03458/raw_data/Illumina/child/HG03458.final.cram	103975281900	33.54	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
-19	HG03130	s3://human-pangenomics/working/HPRC/HG03130/raw_data/Illumina/child/HG03130.final.cram	148832187300	48.01	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
-20	NA18983	s3://human-pangenomics/working/HPRC/NA18983/raw_data/Illumina/child/NA18983.final.cram	102666023100	33.12	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-21	HG02970	s3://human-pangenomics/working/HPRC/HG02970/raw_data/Illumina/child/HG02970.final.cram	102695199600	33.13	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
-22	NA18747	s3://human-pangenomics/working/HPRC/NA18747/raw_data/Illumina/child/NA18747.final.cram	111397459800	35.93	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-23	HG03195	s3://human-pangenomics/working/HPRC/HG03195/raw_data/Illumina/child/HG03195.final.cram	112457547600	36.28	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
-24	HG02965	s3://human-pangenomics/working/HPRC/HG02965/raw_data/Illumina/child/HG02965.final.cram	115370704200	37.22	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
-25	HG02165	s3://human-pangenomics/working/HPRC/HG02165/raw_data/Illumina/child/HG02165.final.cram	112868544600	36.41	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-26	HG02155	s3://human-pangenomics/working/HPRC/HG02155/raw_data/Illumina/child/HG02155.final.cram	104768624100	33.8	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-27	NA20799	s3://human-pangenomics/working/HPRC/NA20799/raw_data/Illumina/child/NA20799.final.cram	111636815400	36.01	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-28	HG00140	s3://human-pangenomics/working/HPRC/HG00140/raw_data/Illumina/child/HG00140.final.cram	113709575100	36.68	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-29	HG02040	s3://human-pangenomics/working/HPRC/HG02040/raw_data/Illumina/child/HG02040.final.cram	113528210100	36.62	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-30	NA19087	s3://human-pangenomics/working/HPRC/NA19087/raw_data/Illumina/child/NA19087.final.cram	114188033400	36.83	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-31	NA19043	s3://human-pangenomics/working/HPRC/NA19043/raw_data/Illumina/child/NA19043.final.cram	131926068600	42.56	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-32	NA19030	s3://human-pangenomics/working/HPRC/NA19030/raw_data/Illumina/child/NA19030.final.cram	110161577700	35.54	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-33	NA19468	s3://human-pangenomics/working/HPRC/NA19468/raw_data/Illumina/child/NA19468.final.cram	111192577200	35.87	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-34	HG00323	s3://human-pangenomics/working/HPRC/HG00323/raw_data/Illumina/child/HG00323.final.cram	103123636800	33.27	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-35	HG00280	s3://human-pangenomics/working/HPRC/HG00280/raw_data/Illumina/child/HG00280.final.cram	123786553800	39.93	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-36	HG03470	s3://human-pangenomics/working/HPRC/HG03470/raw_data/Illumina/child/HG03470.final.cram	120413321700	38.84	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
-37	NA19338	s3://human-pangenomics/working/HPRC/NA19338/raw_data/Illumina/child/NA19338.final.cram	110121616200	35.52	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
-38	HG02976	s3://human-pangenomics/working/HPRC/HG02976/raw_data/Illumina/child/HG02976.final.cram	114203101500	36.84	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
+sample_ID	path	total_bp	coverage	filetype	instrument_model	Relationship	library_construction_protocol	library_layout	library_strategy	read_length
+NA19185	s3://human-pangenomics/working/HPRC/NA19185/raw_data/Illumina/child/NA19185.final.cram	127410739500	41.1	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG02391	s3://human-pangenomics/working/HPRC/HG02391/raw_data/Illumina/child/HG02391.final.cram	107779311000	34.77	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA18971	s3://human-pangenomics/working/HPRC/NA18971/raw_data/Illumina/child/NA18971.final.cram	113721271200	36.68	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG01784	s3://human-pangenomics/working/HPRC/HG01784/raw_data/Illumina/child/HG01784.final.cram	109015586700	35.17	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA18522	s3://human-pangenomics/working/HPRC/NA18522/raw_data/Illumina/child/NA18522.final.cram	104407727100	33.68	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA18612	s3://human-pangenomics/working/HPRC/NA18612/raw_data/Illumina/child/NA18612.final.cram	155877347400	50.28	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG03742	s3://human-pangenomics/working/HPRC/HG03742/raw_data/Illumina/child/HG03742.final.cram	119117517300	38.43	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA19391	s3://human-pangenomics/working/HPRC/NA19391/raw_data/Illumina/child/NA19391.final.cram	109615147200	35.36	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA20905	s3://human-pangenomics/working/HPRC/NA20905/raw_data/Illumina/child/NA20905.final.cram	161379588000	52.06	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG03139	s3://human-pangenomics/working/HPRC/HG03139/raw_data/Illumina/child/HG03139.final.cram	120759402300	38.95	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA20805	s3://human-pangenomics/working/HPRC/NA20805/raw_data/Illumina/child/NA20805.final.cram	115985435400	37.41	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG02922	s3://human-pangenomics/working/HPRC/HG02922/raw_data/Illumina/child/HG02922.final.cram	108193599600	34.9	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG00099	s3://human-pangenomics/working/HPRC/HG00099/raw_data/Illumina/child/HG00099.final.cram	128644524300	41.5	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG01530	s3://human-pangenomics/working/HPRC/HG01530/raw_data/Illumina/child/HG01530.final.cram	109816310100	35.42	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA20752	s3://human-pangenomics/working/HPRC/NA20752/raw_data/Illumina/child/NA20752.final.cram	109330854600	35.27	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA19159	s3://human-pangenomics/working/HPRC/NA19159/raw_data/Illumina/child/NA19159.final.cram	115901003400	37.39	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA18570	s3://human-pangenomics/working/HPRC/NA18570/raw_data/Illumina/child/NA18570.final.cram	107836022400	34.79	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG03225	s3://human-pangenomics/working/HPRC/HG03225/raw_data/Illumina/child/HG03225.final.cram	111651319800	36.02	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG03458	s3://human-pangenomics/working/HPRC/HG03458/raw_data/Illumina/child/HG03458.final.cram	103975281900	33.54	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG03130	s3://human-pangenomics/working/HPRC/HG03130/raw_data/Illumina/child/HG03130.final.cram	148832187300	48.01	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA18983	s3://human-pangenomics/working/HPRC/NA18983/raw_data/Illumina/child/NA18983.final.cram	102666023100	33.12	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG02970	s3://human-pangenomics/working/HPRC/HG02970/raw_data/Illumina/child/HG02970.final.cram	102695199600	33.13	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA18747	s3://human-pangenomics/working/HPRC/NA18747/raw_data/Illumina/child/NA18747.final.cram	111397459800	35.93	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG03195	s3://human-pangenomics/working/HPRC/HG03195/raw_data/Illumina/child/HG03195.final.cram	112457547600	36.28	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG02965	s3://human-pangenomics/working/HPRC/HG02965/raw_data/Illumina/child/HG02965.final.cram	115370704200	37.22	cram	Illumina NovaSeq 6000	father	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG02165	s3://human-pangenomics/working/HPRC/HG02165/raw_data/Illumina/child/HG02165.final.cram	112868544600	36.41	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG02155	s3://human-pangenomics/working/HPRC/HG02155/raw_data/Illumina/child/HG02155.final.cram	104768624100	33.8	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA20799	s3://human-pangenomics/working/HPRC/NA20799/raw_data/Illumina/child/NA20799.final.cram	111636815400	36.01	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG00140	s3://human-pangenomics/working/HPRC/HG00140/raw_data/Illumina/child/HG00140.final.cram	113709575100	36.68	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG02040	s3://human-pangenomics/working/HPRC/HG02040/raw_data/Illumina/child/HG02040.final.cram	113528210100	36.62	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA19087	s3://human-pangenomics/working/HPRC/NA19087/raw_data/Illumina/child/NA19087.final.cram	114188033400	36.83	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA19043	s3://human-pangenomics/working/HPRC/NA19043/raw_data/Illumina/child/NA19043.final.cram	131926068600	42.56	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA19030	s3://human-pangenomics/working/HPRC/NA19030/raw_data/Illumina/child/NA19030.final.cram	110161577700	35.54	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA19468	s3://human-pangenomics/working/HPRC/NA19468/raw_data/Illumina/child/NA19468.final.cram	111192577200	35.87	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG00323	s3://human-pangenomics/working/HPRC/HG00323/raw_data/Illumina/child/HG00323.final.cram	103123636800	33.27	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG00280	s3://human-pangenomics/working/HPRC/HG00280/raw_data/Illumina/child/HG00280.final.cram	123786553800	39.93	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG03470	s3://human-pangenomics/working/HPRC/HG03470/raw_data/Illumina/child/HG03470.final.cram	120413321700	38.84	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
+NA19338	s3://human-pangenomics/working/HPRC/NA19338/raw_data/Illumina/child/NA19338.final.cram	110121616200	35.52	cram	Illumina NovaSeq 6000	unrel	TruSeq DNA PCR-free	PAIRED	WGS	150
+HG02976	s3://human-pangenomics/working/HPRC/HG02976/raw_data/Illumina/child/HG02976.final.cram	114203101500	36.84	cram	Illumina NovaSeq 6000	mother	TruSeq DNA PCR-free	PAIRED	WGS	150
