@@ -1,6 +1,5 @@
-submissions/*/hifi_qc/
+submissions/*/hifi_qc/*
 !submissions/*/hifi_qc/input_jsons/
 !submissions/*/hifi_qc/hifi_qc_input_mapping.csv
 !submissions/*/hifi_qc/hifi_qc_sample_files.csv
 !submissions/*/hifi_qc/hifi_qc_samples_output_table.csv
-
