@@ -1,0 +1,8 @@
+{
+  "hifi_qc_wf.hifi_reads": "s3://human-pangenomics/submissions/746FF75B-3C32-42AF-92BB-290BA92CF89A--RU_Y2_HIFI/HG02656/primrose/m64055e_210825_211340.5mc.hifi_reads.bam",
+  "hifi_qc_wf.sample_id": "HG02656_m64055e_210825_211340.5mc.hifi_reads.bam",
+  "hifi_qc_wf.other_reads": [
+    "/private/groups/hprc/1000G_local/child/fastq/HG02656.final.fq.gz"
+  ],
+  "hifi_qc_wf.perform_methylation_check": true
+}
