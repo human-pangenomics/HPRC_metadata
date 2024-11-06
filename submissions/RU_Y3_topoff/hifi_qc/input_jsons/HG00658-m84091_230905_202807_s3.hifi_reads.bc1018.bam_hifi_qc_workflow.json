@@ -1,0 +1,8 @@
+{
+  "hifi_qc_wf.hifi_reads": "s3://human-pangenomics/submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1018.bam",
+  "hifi_qc_wf.sample_id": "HG00658-m84091_230905_202807_s3.hifi_reads.bc1018.bam",
+  "hifi_qc_wf.other_reads": [
+    "/private/groups/hprc/1000G_local/child/fastq/HG00658.final.fq.gz"
+  ],
+  "hifi_qc_wf.perform_methylation_check": true
+}

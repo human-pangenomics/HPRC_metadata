@@ -1,0 +1,8 @@
+{
+  "hifi_qc_wf.hifi_reads": "s3://human-pangenomics/submissions/A3D02676-D52B-4717-9312-73F78255BBB3--RU_Y3_HIFI/NA20799/primrose/m54306Ue_220922_132103.5mc.hifi_reads.bam",
+  "hifi_qc_wf.sample_id": "NA20799_m54306Ue_220922_132103.5mc.hifi_reads.bam",
+  "hifi_qc_wf.other_reads": [
+    "/private/groups/hprc/1000G_local/child/fastq/NA20799.final.fq.gz"
+  ],
+  "hifi_qc_wf.perform_methylation_check": true
+}
