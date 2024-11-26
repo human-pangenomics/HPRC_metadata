@@ -1,0 +1,5 @@
+input,type,value
+ont_qc_wf.ont_reads,scalar,$input.ont_reads
+ont_qc_wf.ont_sequencing_summary_files,scalar,$input.ont_sequencing_summary_files
+ont_qc_wf.other_reads,array,$input.other_reads
+ont_qc_wf.sample_id,scalar,$input.file_id

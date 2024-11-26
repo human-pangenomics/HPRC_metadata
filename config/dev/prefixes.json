@@ -1,9 +1,29 @@
 {
     "PREFIXES": {
-        "RU_Y2_HIFI": "submissions/746FF75B-3C32-42AF-92BB-290BA92CF89A--RU_Y2_HIFI/",
-        "RU_Y2_topoff": "submissions/4D90DDB8-2EAC-4DCA-9CCF-2A85C7CC96AD--RU_Y2_topoff/",
-        "RU_Y3_HIFI": "submissions/A3D02676-D52B-4717-9312-73F78255BBB3--RU_Y3_HIFI/",
-        "RU_Y3_topoff": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/",
-        "RU_Y4": "submissions/5A0D539A-4AD5-4FBF-A0FB-2DDCE5B0FA33--RU_Y4/"
+        "HIFI": {
+            "RU" : {
+                "RU_Y2_HIFI": "submissions/746FF75B-3C32-42AF-92BB-290BA92CF89A--RU_Y2_HIFI/",
+                "RU_Y2_topoff": "submissions/4D90DDB8-2EAC-4DCA-9CCF-2A85C7CC96AD--RU_Y2_topoff/",
+                "RU_Y3_HIFI": "submissions/A3D02676-D52B-4717-9312-73F78255BBB3--RU_Y3_HIFI/",
+                "RU_Y3_topoff": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/",
+                "RU_Y4": "submissions/5A0D539A-4AD5-4FBF-A0FB-2DDCE5B0FA33--RU_Y4/"},
+            "WUSTL" : {
+                "WUSTL_HPRC_HiFi_Year1": "submissions/4d711a5a-8a5c-4ca9-9251-91d6c0998ad9--WUSTL_HPRC_HiFi/",
+                "WUSTL_HPRC_HiFi_Year1_TopUp": "submissions/7acad60d-3d90-4dcf-9291-e2c679724df3--WUSTL_HPRC_HiFi_Year1_TopUp/",
+                "WUSTL_HPRC_HiFi_Year2": "submissions/b544dcc2-9e98-4cfb-b19e-0cda52a97541--WUSTL_HPRC_HiFi_Year2/",
+                "WUSTL_HPRC_HiFi_Year2_TopUp": "submissions/67b71022-da25-40ef-b56f-52297e946b32--WUSTL_HPRC_HiFi_Year2_TopUp/",
+                "WUSTL_HPRC_HiFi_Year3": "submissions/c0de0f97-f422-4057-90bd-12b40869d30a--WUSTL_HPRC_HiFi_Year3/",
+                "WUSTL_HPRC_HiFi_Year3_TopUp": "submissions/331018f0-4fa6-46d3-bf49-dc08405598c3--WUSTL_HPRC_HiFi_Year3_TopUp/",
+                "WUSTL_HPRC_HiFi_Year4": "submissions/72fad738-62d9-42a9-ba8c-53e355eb442b--WUSTL_HPRC_HiFi_Y4/"}
+            },
+        "HiC": {
+            "HIC_Y3_Y4_part2":"submissions/1005B25C-EAFA-40A7-AD42-45759D174009--HIC_Y3_Y4_part2/"
+        },
+        "ONT": {
+            "UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6":"submissions/CBC1E2D6-3925-4CD0-9682-555C64F81B02--UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6/",
+            "UCSC_HPRC_nanopore_Year2":"submissions/90A1F283-2752-438B-917F-53AE76C9C43E--UCSC_HPRC_nanopore_Year2/",
+            "UCSC_HPRC_nanopore_Year3":"submissions/9e7a12c3-2df0-4944-a107-b9fd1bf856be--UCSC_HPRC_nanopore_Year3/",
+            "UCSC_HPRC_nanopore_Year4":"submissions/F673CD5D-9552-4CFC-8BE7-650A71CC5BF4--UCSC_HPRC_nanopore_Year4/"
+        }
     }
 }
