@@ -16,6 +16,20 @@
                 "WUSTL_HPRC_HiFi_Year3_TopUp": "submissions/331018f0-4fa6-46d3-bf49-dc08405598c3--WUSTL_HPRC_HiFi_Year3_TopUp/",
                 "WUSTL_HPRC_HiFi_Year4": "submissions/72fad738-62d9-42a9-ba8c-53e355eb442b--WUSTL_HPRC_HiFi_Y4/"}
             },
+            "UW" : {
+                "UW_HPRC_HiFi_Y1": "submissions/48f9717b-23c6-4045-a33f-10a3df8fc924--UW_HPRC_HiFi/",
+                "UW_HPRC_HiFi_Y2": "submissions/57361110-d079-4bb0-ac49-b4f6e0407fc0--UW_HPRC_HiFi_Y2/",
+                "UW_HPRC_HiFi_Y3": "submissions/5c68b972-8534-402f-9861-11c93558765f--UW_HPRC_HiFi_Y3/",
+                "UW_HPRC_HiFi_Y4_AND_Y3_Topoff": "submissions/4f8c8e63-dfd3-4f90-965f-8a8cf3ee4de9--UW_HPRC_HiFi_Y4_AND_Y3_Topoff/"
+            }
+            ,
+        "DeepConsensus": {
+            "HPRC_DEEPCONSENSUS_v1pt2": "submissions/02355F32-E75A-4279-A7B8-FCCEA70FB6CD--DEEPCONSENSUS_v1pt2/",
+            "HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20":"submissions/42AFCE59-2972-45EE-BB72-5B84E7B57377--HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/",
+            "HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20":"submissions/3A25CF8A-1F36-42EE-BC9F-D29CECAA2A99--HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/",
+            "HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run":"submissions/B4B0B5DC-5FD5-42D5-8434-10DEF7D99E98--HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run/"
+
+        },
         "HiC": {
             "HIC_Y3_Y4_part2":"submissions/1005B25C-EAFA-40A7-AD42-45759D174009--HIC_Y3_Y4_part2/"
         },
@@ -25,5 +39,6 @@
             "UCSC_HPRC_nanopore_Year3":"submissions/9e7a12c3-2df0-4944-a107-b9fd1bf856be--UCSC_HPRC_nanopore_Year3/",
             "UCSC_HPRC_nanopore_Year4":"submissions/F673CD5D-9552-4CFC-8BE7-650A71CC5BF4--UCSC_HPRC_nanopore_Year4/"
         }
+
     }
 }
