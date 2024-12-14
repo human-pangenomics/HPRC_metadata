@@ -5,13 +5,20 @@
 ------------------
 ### Sequencing Data Production
 
+- **HiFi**: DeepConsensus v1.2 and CCS uBams (Sequel II) or uBams (Revio).  
+- **ONT**: R9/R10 uBams with methylation tags.  
+- **Hi-C**: Fastq.gz files for all samples.  
+- **KinNex**: FLNC BAMs (except HPRC PLUS).  
+- **Illumina**: CRAMs from the 1000G High Coverage dataset.  
+
 ------------------
 ## HPRC Data Explorer Tables
+
 
 | File Path                                   | Description                 |
 |---------------------------------------------|-----------------------------|
 | `HPRC_ONT.file.index.csv`                   |                             |
-| `HPRC_ONT.sample.index.csv`          |                             |
+| `HPRC_ONT.sample.index.csv`                 |                             |
 | `HPRC_PacBio_HiFi.file.index.csv`           |                             |
 | `HPRC_PacBio_HiFi.sample.index.csv`         |                             |
 | `HPRC_DeepConsensus.file.index.csv`         |                             |
@@ -19,4 +26,3 @@
 | `HPRC_HiC.sample.index.csv`                 |                             |
 | `HPRC_Illumina_Child.sample.index.csv`      |                             |
 | `HPRC_Illumina.sample.index.csv`            |                             |
-
