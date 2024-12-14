@@ -10,13 +10,14 @@
 
 | File Path                                   | Description                 |
 |---------------------------------------------|-----------------------------|
-| `HPRC_DeepConsensus.file.index.csv`         |                             |
 | `HPRC_HiC.file.index.csv`                   |                             |
 | `HPRC_HiC.sample.index.csv`                 |                             |
 | `HPRC_Illumina_Child.sample.index.csv`      |                             |
 | `HPRC_Illumina.sample.index.csv`            |                             |
 | `HPRC_ONT.file.index.csv`                   |                             |
+| `HPRC_PacBio_ONT.sample.index.csv`          |                             |
 | `HPRC_PacBio_HiFi.file.index.csv`           |                             |
 | `HPRC_PacBio_HiFi.sample.index.csv`         |                             |
-| `HPRC_PacBio_ONT.sample.index.csv`          |                             |
+| `HPRC_DeepConsensus.file.index.csv`         |                             |
+
 
