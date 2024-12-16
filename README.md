@@ -15,10 +15,6 @@ This repository contains metadata tables and resources for the Human Pangenome R
 | `HPRC_HiC.file.index.csv`                  | Hi-C Fastq.gz files for all samples used for chromosome conformation analysis.                |
 | `HPRC_Illumina_Child.sample.index.csv`     | Illumina CRAMs from the 1000 Genomes High Coverage dataset for short-read sequencing.          |
 
-#### Key Features
-Detailed metadata for HiFi, ONT, Hi-C, and Illumina datasets.
-Includes sequencing coverage, file paths, and platform-specific information.
-Designed for easy integration into pangenome assembly and analysis pipelines.
 
 ------------------
 ## Contributing
