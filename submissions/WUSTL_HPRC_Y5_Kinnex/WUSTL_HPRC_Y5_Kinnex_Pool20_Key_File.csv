@@ -1,0 +1,9 @@
+Sample_Name,cDNA_Barcode,flnc,mapped_bam,sample*.transcripts,transcripts,isoforms
+HG00290,bc05,flnc-1.bam,mapped-1.bam,sample0.transcripts.fl_counts.csv,transcripts-1.fasta,collapse_isoforms-1
+NA19443,bc06,flnc-2.bam,mapped-2.bam,sample1.transcripts.fl_counts.csv,transcripts-2.fasta,collapse_isoforms-2
+HG00128,bc07,flnc-3.bam,mapped-3.bam,sample2.transcripts.fl_counts.csv,transcripts-3.fasta,collapse_isoforms-3
+NA19036,bc08,flnc-4.bam,mapped-4.bam,sample3.transcripts.fl_counts.csv,transcripts-4.fasta,collapse_isoforms-4
+NA18505,bc09,flnc-5.bam,mapped-5.bam,sample4.transcripts.fl_counts.csv,transcripts-5.fasta,collapse_isoforms-5
+HG03583,bc10,flnc-6.bam,mapped-6.bam,sample5.transcripts.fl_counts.csv,transcripts-6.fasta,collapse_isoforms-6
+HG02583,bc11,flnc-7.bam,mapped-7.bam,sample6.transcripts.fl_counts.csv,transcripts-7.fasta,collapse_isoforms-7
+"The 8th sample for this set, HG03792, failed",N/A,N/A,N/A,N/A,N/A,N/A

@@ -1,0 +1,9 @@
+Sample_Name,cDNA_Barcode,flnc,mapped_bam,sample*.transcripts,transcripts,isoforms
+HG02015,bc01,flnc-1.bam,mapped-1.bam,sample0.transcripts.fl_counts.csv,transcripts-1.fasta,collapse_isoforms-1
+HG02280,bc02,flnc-2.bam,mapped-2.bam,sample1.transcripts.fl_counts.csv,transcripts-2.fasta,collapse_isoforms-2
+HG02293,bc03,flnc-3.bam,mapped-3.bam,sample2.transcripts.fl_counts.csv,transcripts-3.fasta,collapse_isoforms-3
+HG02300,bc04,flnc-4.bam,mapped-4.bam,sample3.transcripts.fl_counts.csv,transcripts-4.fasta,collapse_isoforms-4
+HG01943,bc09,flnc-5.bam,mapped-5.bam,sample4.transcripts.fl_counts.csv,transcripts-5.fasta,collapse_isoforms-5
+HG01981,bc10,flnc-6.bam,mapped-6.bam,sample5.transcripts.fl_counts.csv,transcripts-6.fasta,collapse_isoforms-6
+HG01993,bc11,flnc-7.bam,mapped-7.bam,sample6.transcripts.fl_counts.csv,transcripts-7.fasta,collapse_isoforms-7
+HG02004,bc12,flnc-8.bam,mapped-8.bam,sample7.transcripts.fl_counts.csv,transcripts-8.fasta,collapse_isoforms-8
