@@ -20,9 +20,9 @@
 | UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 |  |  |
 | UCSC_HPRC_PLUS_nanopore | R2 | ❌ |
 | UCSC_HPRC_PLUS_nanopore_WashU | R2 |  |
-| UCSC_HPRC_nanopore_Year2 |  |  |
+| UCSC_HPRC_nanopore_Year2 | R2 |  |
 | UCSC_HPRC_nanopore_Year2_R10 | ? | ✅ |
-| UCSC_HPRC_nanopore_Year3 | R2 |  |
+| UCSC_HPRC_nanopore_Year3 | R2 | ⚠️ |
 | UCSC_HPRC_nanopore_Year4 |  |  |
 | UW_HPRC_HiFi_Y1 |  |  |
 | UW_HPRC_HiFi_Y2 |  |  |
