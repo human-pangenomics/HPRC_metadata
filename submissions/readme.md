@@ -23,7 +23,7 @@
 | UCSC_HPRC_nanopore_Year2 | R2 |  |
 | UCSC_HPRC_nanopore_Year2_R10 | ? | ✅ |
 | UCSC_HPRC_nanopore_Year3 | R2 | ⚠️ |
-| UCSC_HPRC_nanopore_Year4 |  |  |
+| UCSC_HPRC_nanopore_Year4 | R2 | ✅ |
 | UW_HPRC_HiFi_Y1 |  |  |
 | UW_HPRC_HiFi_Y2 |  |  |
 | UW_HPRC_HiFi_Y3 |  |  |
