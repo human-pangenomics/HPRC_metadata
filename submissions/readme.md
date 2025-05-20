@@ -12,10 +12,10 @@
 | HPRC-OmniC-100124Pools | R3? | 🟠 |  |  |
 | HPRC-OmniC-100129Pools | R3? |  |  |  |
 | HPRC-OmniC-241217Pools | R3? |  |  |  |
-| HPRC_DEEPCONSENSUS_v1pt2 | R2 |  |  |  |
-| HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20 | R2 |  |  |  |
-| HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20 | R2 |  |  |  |
-| HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run | R2 |  |  |  |
+| HPRC_DEEPCONSENSUS_v1pt2 | R2 | ✅ |  |  |
+| HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20 | R2 | ✅ |  |  |
+| HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20 | R2 | ✅ |  |  |
+| HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run | R2 | ✅ |  |  |
 | HPRC_PLUS_nanopore_misc_R2 | R2 | ⚠️ |  | PLUS |
 | RU_Y2_HIFI | R2 | ✅ per sheets |  |  |
 | RU_Y2_topoff | R2 | ✅ per sheets |  |  |
