@@ -45,3 +45,9 @@
 | WUSTL_HPRC_HiFi_Year3_TopUp | R2 | ✅ |  |  |
 | WUSTL_HPRC_HiFi_Year4 | R2 | ✅ per Sheets |  |  |
 | WUSTL_HPRC_Y5_Kinnex (WUSTL_HPRC_Y5_Per_Pool_Kinnex?) | ❓ |  |  |  |
+
+
+Known R2 projects not in repo (not exhaustive):
+* HG00733_T2T_UW_HiFi_ONT
+* HPRC_REVIO_EA_2023
+* NISC_HiFi_TopUp_2022_with_5mC
