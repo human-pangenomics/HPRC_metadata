@@ -1,10 +1,10 @@
-✅ per sheets = Google Sheets indicate fully uploaded on SRA, will double-check later
-✅ = manually confirmed or uploaded (still worth double checking)
-⚠️ = partially uploaded but issues with data block a full upload
-🟡 = partially uploaded, full upload may or may not be blocked (the TODO emoji)
-🟠 = ready for a partial upload but not doing that yet since it's not R3
-❓ = inconsistencies make confirming status difficult
-❌ = issues with data block a full upload
+✅ per sheets = Google Sheets indicate fully uploaded on SRA, will double-check later  
+✅ = manually confirmed or uploaded (still worth double checking)  
+⚠️ = partially uploaded but issues with data block a full upload  
+🟡 = partially uploaded, full upload may or may not be blocked (the TODO emoji)  
+🟠 = ready for a partial upload but not doing that yet since it's not R3  
+❓ = inconsistencies make confirming status difficult  
+❌ = issues with data block a full upload  
 
 | collection | release | SRA | AnVIL | project
 | --- | --- | --- | --- | --- |
