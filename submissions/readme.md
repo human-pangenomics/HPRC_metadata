@@ -8,7 +8,7 @@
 
 | collection | release | SRA | AnVIL | project
 | --- | --- | --- | --- | --- |
-| HIC_Y3_Y4_part2 | R2 |  |  |  |
+| HIC_Y3_Y4_part2 | R2 | ✅ |  | - |
 | HPRC-OmniC-100124Pools | R3? | 🟠 |  |  |
 | HPRC-OmniC-100129Pools | R3? |  |  |  |
 | HPRC-OmniC-241217Pools | R3? |  |  |  |
