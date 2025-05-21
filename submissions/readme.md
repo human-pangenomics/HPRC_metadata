@@ -51,3 +51,5 @@ Known R2 projects not in repo (not exhaustive):
 * HG00733_T2T_UW_HiFi_ONT
 * HPRC_REVIO_EA_2023
 * NISC_HiFi_TopUp_2022_with_5mC
+
+There is also additional Hi-C samples marked as add_to_index in the Google Sheets; don't forget to go back to those!
