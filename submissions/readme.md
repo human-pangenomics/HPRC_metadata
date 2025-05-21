@@ -44,7 +44,7 @@
 | WUSTL_HPRC_HiFi_Year3 | R2 | 🟡 |  |  |
 | WUSTL_HPRC_HiFi_Year3_TopUp | R2 | ✅ |  |  |
 | WUSTL_HPRC_HiFi_Year4 | R2 | ✅ per Sheets |  |  |
-| WUSTL_HPRC_Y5_Kinnex (WUSTL_HPRC_Y5_Per_Pool_Kinnex?) | ❓ |  |  |  |
+| WUSTL_HPRC_Y5_Kinnex (WUSTL_HPRC_Y5_Per_Pool_Kinnex?) | R2? | ❓ |  |  |
 
 
 Known R2 projects not in repo (not exhaustive):
