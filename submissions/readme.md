@@ -4,7 +4,7 @@
 🟡 = partially uploaded, full upload may or may not be blocked (the TODO emoji)  
 🟠 = ready for a partial upload but not doing that yet since it's not R3  
 ❓ = inconsistencies make confirming status difficult  
-❌ = issues with data block a full upload  
+❌ = issues with data fully block an upload
 
 | collection | release | SRA | AnVIL | project
 | --- | --- | --- | --- | --- |
@@ -23,8 +23,8 @@
 | RU_Y3_topoff | R3? | ❓ |  |  |
 | RU_Y3_topoff_redo | R2 | ✅ per sheets |  |  |
 | RU_Y4 | R2 | ✅ per sheets |  |  |
-| RU_Y5_Kinnex | R2 |  |  |  |
-| UCSC_HPRC_AMED_collaboration | R2 |  |  | PLUS |
+| RU_Y5_Kinnex | R2 | ❓ |  |  |
+| UCSC_HPRC_AMED_collaboration | R2 | ❓ |  | PLUS |
 | UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | R3? |  |  |  |
 | UCSC_HPRC_PLUS_nanopore | R2 | ❌ |  | PLUS |
 | UCSC_HPRC_PLUS_nanopore_WashU | R2 |  |  | PLUS |
@@ -36,7 +36,7 @@
 | UW_HPRC_HiFi_Y2 | R2 | 🟡 |  |  |
 | UW_HPRC_HiFi_Y3 | R2 | 🟡 |  |  |
 | UW_HPRC_HiFi_Y4_AND_Y3_Topoff | R2 | ✅ per Sheets |  |  |
-| UW_HPRC_Y5_Kinnex | R2 |  |  |  |
+| UW_HPRC_Y5_Kinnex | R2 | ❌ |  |  |
 | WUSTL_HPRC_HiFi_Year1 | R2 | 🟡 |  |  |
 | WUSTL_HPRC_HiFi_Year1_TopUp | R2 | ✅ per Sheets |  |  |
 | WUSTL_HPRC_HiFi_Year2 | R2 | 🟡 |  |  |
