@@ -33,7 +33,7 @@
 | UCSC_HPRC_nanopore_Year3 | R2 | ✅ |  |  |
 | UCSC_HPRC_nanopore_Year4 | R2 | ✅ |  |  |
 | UW_HPRC_HiFi_Y1 | R2 | ✅ |  |  |
-| UW_HPRC_HiFi_Y2 | R2 | 🟡 |  |  |
+| UW_HPRC_HiFi_Y2 | R2 | ✅ |  |  |
 | UW_HPRC_HiFi_Y3 | R2 | 🟡 |  |  |
 | UW_HPRC_HiFi_Y4_AND_Y3_Topoff | R2 | ❓ (sheets: ✅, XML: 🟡) |  |  |
 | UW_HPRC_Y5_Kinnex | R2 | ❌ |  |  |
