@@ -20,7 +20,7 @@
 | RU_Y2_HIFI | R2 | ✅ |  |  |
 | RU_Y2_topoff | R2 | ✅ |  |  |
 | RU_Y3_HIFI (RU_Y3?) | R2? | ❓ |  |  |
-| RU_Y3_topoff | R3? | ❓ |  |  |
+| RU_Y3_topoff | R3? | Assumed to be superceeded by RU_Y3_topoff_redo |  |  |
 | RU_Y3_topoff_redo | R2 | ✅ |  |  |
 | RU_Y4 | R2 | ✅ |  |  |
 | RU_Y5_Kinnex | R2 | 🟠 |  |  |
