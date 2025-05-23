@@ -2,7 +2,7 @@
 ✅ = manually confirmed or uploaded (still worth double checking)  
 ⚠️ = partially uploaded but issues with data block a full upload  
 🟡 = partially uploaded, full upload may or may not be blocked (the TODO emoji)  
-🟠 = ready for a partial upload but not doing that yet since it's not R3  
+🟠 = ready for a upload (partial or full) but not doing that yet due to R3/lack of BioSamples
 ❓ = inconsistencies make confirming status difficult  
 ❌ = issues with data fully block an upload
 
@@ -23,9 +23,9 @@
 | RU_Y3_topoff | R3? | ❓ |  |  |
 | RU_Y3_topoff_redo | R2 | ✅ |  |  |
 | RU_Y4 | R2 | ✅ |  |  |
-| RU_Y5_Kinnex | R2 | ❓ |  |  |
+| RU_Y5_Kinnex | R2 | 🟠 |  |  |
 | UCSC_HPRC_AMED_collaboration | R2 | ❓ |  | PLUS |
-| UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | R3? |  |  |  |
+| UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | R3? | ✅ |  |  |
 | UCSC_HPRC_PLUS_nanopore | R2 | ❌ |  | PLUS |
 | UCSC_HPRC_PLUS_nanopore_WashU | R2 |  |  | PLUS |
 | UCSC_HPRC_nanopore_Year2 | R2 | ✅ |  |  |
