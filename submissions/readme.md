@@ -41,14 +41,15 @@
 | WUSTL_HPRC_HiFi_Year1_TopUp | R2 | ✅ |  |  |
 | WUSTL_HPRC_HiFi_Year2 | R2 | ✅ |  |  |
 | WUSTL_HPRC_HiFi_Year2_TopUp | R2 | ✅|  |  |
-| WUSTL_HPRC_HiFi_Year3 | R2 | 🟡 |  |  |
+| WUSTL_HPRC_HiFi_Year3 | R2 | ✅ |  |  |
 | WUSTL_HPRC_HiFi_Year3_TopUp | R2 | ✅ |  |  |
 | WUSTL_HPRC_HiFi_Year4 | R2 | ✅ |  |  |
 | WUSTL_HPRC_Y5_Kinnex (WUSTL_HPRC_Y5_Per_Pool_Kinnex?) | R2? | ❓ |  |  |
 
 
 Known R2 projects not in repo (not exhaustive):
-* HiC and add_to_index
+* HiC (all of these ones seem to already be on SRA)
+* add_to_index
 * HG00733_T2T_UW_HiFi_ONT
 * HPRC_REVIO_EA_2023
 * NISC_HiFi_TopUp_2022_with_5mC
