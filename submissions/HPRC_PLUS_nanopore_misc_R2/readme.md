@@ -2,5 +2,45 @@
 
 TOTAL FILES UPLOADED: 38
 OF WHICH FAIL: 0
+See [./readme_filewise.tsv](./readme_filewise.tsv) for TSV formatted version.
 
-Some are still uploading...
+| sample_ID | filename | SRR |
+| --- | --- | --- |
+| HG005 | 05_25_21_R941_GM24631_3X.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465023 |
+| HG005 | 05_25_21_R941_GM24631_9X_2.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465022 |
+| HG005 | 05_25_21_R941_GM24631_9X_3.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465021 |
+| HG005 | 05_25_21_R941_GM24631_9X.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465020 |
+| HG005 | HG005_Circulomics_GridION_R941.part01.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465019 |
+| HG005 | HG005_Circulomics_GridION_R941.part02.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465018 |
+| HG005 | HG005_Circulomics_PromethION_R941.part01.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465017 |
+| HG005 | HG005_Circulomics_PromethION_R941.part02.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465016 |
+| HG01109 | HG01109_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468270 |
+| HG01109 | HG01109_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468269 |
+| HG01109 | HG01109_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468268 |
+| HG02055 | HG02055_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468290 |
+| HG02055 | HG02055_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468289 |
+| HG02055 | HG02055_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468288 |
+| HG03098 | HG03098_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468287 |
+| HG03098 | HG03098_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468286 |
+| HG03098 | HG03098_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468285 |
+| HG03492 | HG03492_PAK43966_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819712 |
+| HG03492 | HG03492_PAK46312_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819711 |
+| HG03492 | HG03492_PAK44362_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819700 |
+| HG03492 | HG03492_PAK46408_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819698 |
+| HG002 | 03_08_22_R941_HG002_6.bam | SRR33819697 |
+| HG03492 | HG03492_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819696 |
+| HG03492 | HG03492_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819695 |
+| HG02080 | HG02080_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819694 |
+| HG03492 | HG03492_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819693 |
+| HG03492 | HG03492_PAK40676_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819692 |
+| HG002 | 03_08_22_R941_HG002_4.bam | SRR33819710 |
+| HG02080 | HG02080_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819709 |
+| HG01243 | HG01243_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819708 |
+| HG00733 | HG00733_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819707 |
+| HG00733 | HG00733_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819706 |
+| HG01243 | HG01243_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819705 |
+| HG002 | 03_08_22_R941_HG002_5.bam | SRR33819704 |
+| HG02080 | HG02080_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819703 |
+| HG01243 | HG01243_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819702 |
+| HG03492 | HG03492_PAM34995_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819701 |
+| HG00733 | HG00733_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33819699 |
