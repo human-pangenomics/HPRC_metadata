@@ -16,7 +16,7 @@
 | HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20 | R2 | ✅ |  |  |
 | HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20 | R2 | ✅ |  |  |
 | HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run | R2 | ✅ |  |  |
-| HPRC_PLUS_nanopore_misc_R2 | R2 | ⚠️ |  | PLUS |
+| HPRC_PLUS_nanopore_misc_R2 | R2 | ✅ |  | PLUS |
 | RU_Y2_HIFI | R2 | ✅ |  |  |
 | RU_Y2_topoff | R2 | ✅ |  |  |
 | RU_Y3_HIFI (RU_Y3?) | R2? | ❓ |  |  |
@@ -25,7 +25,7 @@
 | RU_Y5_Kinnex | R2 | 🟠 |  |  |
 | UCSC_HPRC_AMED_collaboration | R2 | ❓ |  | PLUS |
 | UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | R3? | ✅ |  |  |
-| UCSC_HPRC_PLUS_nanopore | R2 | ❌ |  | PLUS |
+| UCSC_HPRC_PLUS_nanopore | R2 | ✅ |  | PLUS |
 | UCSC_HPRC_PLUS_nanopore_WashU | R2 | ✅ |  | PLUS |
 | UCSC_HPRC_nanopore_Year2 | R2 | ✅ |  |  |
 | UCSC_HPRC_nanopore_Year2_R10 | R3? | ✅ |  |  |
