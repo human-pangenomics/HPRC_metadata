@@ -32,7 +32,6 @@ task do_everything {
 	echo "$(date +"%Y-%m-%d %H:%M:%S") Touching a bucket to make sure Google doesn't hate me"
 	gcloud auth activate-service-account ashs-moving-service@hpp-ucsc.iam.gserviceaccount.com --key-file ~{mysterious_json}
 	gcloud storage ls --billing-project hpp-ucsc gs://fc-dcbd33a0-b9cf-475e-97c5-7fcfa3b51c71
-	exit 9999
 
 	INPUT_TSV="~{input_tsv}"
 	MANIFEST="~{input_tsv_basename}_file_manifest.csv"
