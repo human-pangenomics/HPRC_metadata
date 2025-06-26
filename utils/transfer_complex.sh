@@ -1,36 +1,10 @@
-version 1.0
-
-workflow transfer_hprc {
-	input {
-		Array[File] batch_tsvs
-	}
-
-	scatter(batch_tsv in batch_tsvs) {
-		call do_everything {
-			input:
-				input_tsv = batch_tsv
-		}
-	}
-
-	output {
-		Array[File] manifests = do_everything.manifest
-	}
-}
-
-task do_everything {
-	input {
-		File input_tsv
-	}
-	String input_tsv_basename = basename(input_tsv)
-
-	command <<<
 	set -euo pipefail
 
-	INPUT_TSV="~{input_tsv}"
-	MANIFEST="~{input_tsv_basename}_file_manifest.csv"
+	INPUT_TSV="$1"
+	MANIFEST="./$INPUT_TSV""_file_manifest.csv"
 	if [[ -z "$INPUT_TSV" || ! -f "$INPUT_TSV" ]]; then
-	    echo "Usage: $0 <input.tsv>" >&2
-	    exit 1
+		echo "Usage: $0 <input.tsv>" >&2
+		exit 1
 	fi
 
 	: > "$MANIFEST"  # clear or create the manifest file
@@ -84,9 +58,3 @@ task do_everything {
 	gcloud storage cp -r -v --billing-project hpp-ucsc ./s3_download/* "$DST_PATH"
 
 	echo "$(date +"%Y-%m-%d %H:%M:%S") Finished"
-	>>>
-
-	output {
-		File manifest = input_tsv_basename + "_file_manifest.csv"
-	}
-}

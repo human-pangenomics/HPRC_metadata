@@ -36,12 +36,9 @@ task do_everything {
 	INPUT_TSV="~{input_tsv}"
 	MANIFEST="~{input_tsv_basename}_file_manifest.csv"
 	if [[ -z "$INPUT_TSV" || ! -f "$INPUT_TSV" ]]; then
-	    echo "Usage: $0 <input.tsv>" >&2
-	    exit 1
+		echo "Usage: $0 <input.tsv>" >&2
+		exit 1
 	fi
-
-	du -sh .
-	pwd
 
 	: > "$MANIFEST"  # clear or create the manifest file
 
@@ -52,9 +49,9 @@ task do_everything {
 	mapfile -t SLICED_PATHS < <(cut -f3 "$INPUT_TSV" | tail -n +2 | sort -u)
 
 	if [[ "${#SLICED_PATHS[@]}" -ne 1 ]]; then
-	    echo "Error: More than one unique sliced_path found:" >&2
-	    printf "%s\n" "${SLICED_PATHS[@]}" >&2
-	    exit 1
+		echo "Error: More than one unique sliced_path found:" >&2
+		printf "%s\n" "${SLICED_PATHS[@]}" >&2
+		exit 1
 	fi
 
 	SLICED_PATH=$(echo "${SLICED_PATHS[0]}" | cut -c 23)
@@ -83,15 +80,15 @@ task do_everything {
 	echo "$(date +"%Y-%m-%d %H:%M:%S") Starting AWS download"
 	mkdir -p ./s3_download
 	tail -n +2 "$INPUT_TSV" | while IFS=$'\t' read -r filename filepath sliced_path bytes; do
-	    echo "Downloading $filepath"
-	    aws s3 cp --no-sign-request "$filepath" ./s3_download
+		echo "Downloading $filepath"
+		aws s3 cp --no-sign-request "$filepath" ./s3_download
 	done
 
 	echo "$(date +"%Y-%m-%d %H:%M:%S") Starting checksums"
 	find ./s3_download -type f | while read -r file; do
-	    size=$(stat -c %s "$file")
-	    checksum=$(md5sum "$file" | awk '{ print $1 }')
-	    echo "${file#./s3_download/},$size,$checksum" >> "$MANIFEST"
+		size=$(stat -c %s "$file")
+		checksum=$(md5sum "$file" | awk '{ print $1 }')
+		echo "${file#./s3_download/},$size,$checksum" >> "$MANIFEST"
 	done
 
 	echo "$(date +"%Y-%m-%d %H:%M:%S") Starting Google upload"
