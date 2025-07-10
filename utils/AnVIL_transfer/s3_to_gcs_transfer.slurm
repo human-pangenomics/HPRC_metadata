@@ -33,17 +33,14 @@
 #SBATCH --oversubscribe                     # We can share nodes! Surely nothing will go wrong!
 #SBATCH --mail-type=all                     # Email me when anything interesting happens
 #SBATCH --mail-user=aofarrel@ucsc.edu
+#SBATCH --exclude=phoenix-09,phoenix-11     # Exclude the whacky nodes
 # Note: Array parameters are specified at submission time with --array=1-N%10
 
 # Strict error handling - exit on any error, undefined variable, or pipe failure
 set -euo pipefail
 
-echo "This version DISABLES parallel composite uploads. This might be MUCH slower than what you're used to!"
-# WARNING: This can result in your gcloud config getting messed up, which throws an error that incorrectly
-# suggests you need to reinstall gcloud or check your python installation. What *actually* is the problem is
-# that this command can write to the config file twice, creating two [storage] sections. Simply delete the
-# second one from the config file (it will be mentioned at the bottom of the error) and you'll be fine.
-gcloud config set storage/parallel_composite_upload_enabled False
+#echo "This version DISABLES parallel composite uploads. This might be MUCH slower than what you're used to!"
+#gcloud config set storage/parallel_composite_upload_enabled False
 
 # Validate command line arguments
 if [ $# -ne 1 ]; then
@@ -84,15 +81,15 @@ AWSFILEGIGAS=$(echo "$AWSFILEBYTES" | awk '{printf "%.2f\n", $1 / (1024*1024*102
 NEEDED_BYTES=$(awk -v b="$AWSFILEBYTES" 'BEGIN { printf "%.0f", b * 1.5 }')
 NEEDED_GIGAS=$(echo "$NEEDED_BYTES" | awk '{printf "%.2f\n", $1 / (1024*1024*1024)}')
 AVAILA_BYTES=$(df --output=avail -B1 "." | tail -1)
-AVAILA_GIGAS=$(awk -v b="$AVAILA_BYTES" 'BEGIN { printf "%.0f", b * 1.5 }')
-echo "$(date +"%Y-%m-%d %H:%M:%S") Checking disk size"
+AVAILA_GIGAS=$(echo "$AVAILA_BYTES" | awk '{printf "%.2f\n", $1 / (1024*1024*1024)}')
+echo "$(date +"%Y-%m-%d %H:%M:%S") Checking disk size on $(hostname)"
 printf "\t* AWSFILEBYTES\t%015d\t(%04.2f GB)\n" $AWSFILEBYTES $AWSFILEGIGAS
 printf "\t* NEEDED_BYTES\t%015d\t(%04.2f GB)\n" $NEEDED_BYTES $NEEDED_GIGAS
 printf "\t* AVAILA_BYTES\t%015d\t(%04.2f GB)\n" $AVAILA_BYTES $AVAILA_GIGAS
 if (( AVAILA_BYTES < NEEDED_BYTES )); then
     echo "Error: Not enough storage space in $WORK_DIR" >&2
-    echo "Needed (with 1.5x buffer): $NEEDED_BYTES bytes ($NEEDED_GB)" >&2
-    echo "Available: $AVAILA_BYTES bytes ($AVAILABLE_GB)" >&2
+    echo "Needed (with 1.5x buffer): $NEEDED_BYTES bytes ($NEEDED_GIGAS)" >&2
+    echo "Available: $AVAILA_BYTES bytes ($AVAILA_GIGAS)" >&2
     exit 1
 fi
 
