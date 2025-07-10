@@ -1,10 +1,14 @@
 #!/bin/bash
 #
+MANUALLY_DISABLE_PARALLEL_COMPOSITE="false" # READ THE CODE! THIS IS IMPORTANT!
+#
+#
 # S3 to Google Cloud Storage Transfer Array Job
 # ==============================================
 # 
 # This SLURM array job downloads files from AWS S3 and uploads them to Google Cloud Storage.
-# Each array task processes one S3 file path from an input text file.
+# Each array task processes one S3 file path from an input text file. This is what we actually
+# used for our transfers.
 #
 # Usage: 
 #   1. First, count your S3 paths to set the array size:
@@ -39,14 +43,17 @@
 # Strict error handling - exit on any error, undefined variable, or pipe failure
 set -euo pipefail
 
-#echo "This version DISABLES parallel composite uploads. This might be MUCH slower than what you're used to!"
-#gcloud config set storage/parallel_composite_upload_enabled False
+if [[ "$MANUALLY_DISABLE_PARALLEL_COMPOSITE" == "true" ]]; then
+        echo "You have elected to manually disable parallel composite uploads."
+        echo "Files will upload slower, but will have md5sums in GCS metadata (which is required for AnVIL data store)."
+        echo "Unless this script is Dockerized, you should only this sort of manual disabling once;"
+        echo "if you keep messing with the same config file again and again in parallel you might get signed out of GCP."
+        gcloud config set storage/parallel_composite_upload_enabled False
+    fi
 
-# Validate command line arguments
 if [ $# -ne 1 ]; then
     echo "ERROR: Incorrect number of arguments"
-    echo "Usage: sbatch $0 <path_to_FULL_S3_PATHs_file>"
-    echo "Example: sbatch $0 my_s3_files.txt"
+    echo "For usage instructions please see comments at top of this file."
     exit 1
 fi
 
@@ -71,8 +78,8 @@ THIS_TASK_INFO=$(sed -n '/^[[:space:]]*$/d; /^[[:space:]]*#/d; p' "$INPUT_FILE" 
 # Get S3 path
 FULL_S3_PATH=$(echo -e "$THIS_TASK_INFO" | cut -f2)
 if [ -z "$FULL_S3_PATH" ]; then
-    echo "$(date +"%Y-%m-%d %H:%M:%S") No S3 path found for task ${SLURM_ARRAY_TASK_ID}, exiting gracefully"
-    exit 0
+    echo "$(date +"%Y-%m-%d %H:%M:%S") No S3 path found for task ${SLURM_ARRAY_TASK_ID}, exiting disgracefully"
+    exit 1
 fi
 
 # Check available disk space
