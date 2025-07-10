@@ -1,7 +1,7 @@
 Process:
-0. `pip install polars` on the off chance you aren't already using the best dataframe software ever
+0. `pip install polars tqdm` for python scripts
 1. Download a sheet from the master index file workbook (one sheet per sequencing technology)
-2. `python3 create_inputs_from_sheet.py`
+2. `python3 create_inputs_from_sheet.py` (requires aws CLI, but it doesn't need to be authenticated)
 3. rm first line of resulting TSV (resulting TSVs saved here in "input_tsvs")
 4. Ensure you're authenticated on gcloud on Phoenix and parallel composite uploads are TURNED OFF in config
 5. `s3_to_gcs_transfer.slurm`
