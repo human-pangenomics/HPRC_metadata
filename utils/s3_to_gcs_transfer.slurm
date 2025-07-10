@@ -13,8 +13,8 @@
 #      sbatch --array=1-${ARRAY_SIZE}%10 s3_to_gcs_transfer.slurm /the/full/path/your_file.txt
 #
 # Example:
-#   ARRAY_SIZE=$(sed '/^[[:space:]]*$/d; /^[[:space:]]*#/d' s3_file_list.txt | wc -l)
-#   sbatch --array=1-${ARRAY_SIZE}%10 s3_to_gcs_transfer.slurm /the/full/path/s3_file_list.txt
+#   ARRAY_SIZE=$(sed '/^[[:space:]]*$/d; /^[[:space:]]*#/d' no_composite.tsv | wc -l)
+#   sbatch --array=1-${ARRAY_SIZE}%10 s3_to_gcs_transfer.slurm /private/groups/migalab/ash/no_composite.tsv
 #
 # Input file format is a TSV with format ``filename[\t]path[\t]sliced_path[\t]bytes``
 # One S3 path (file) per line, comments and empty lines are okay and will be ignored, but NO HEADER!!
@@ -26,16 +26,24 @@
 # SLURM Configuration
 #SBATCH --job-name=s3_to_gcs_transfer       # Job name
 #SBATCH --output=s3_transfer_%A_%a.log      # Combined stdout/stderr log (%A=job_id, %a=task_id)
-#SBATCH --output=manifest_%A_%a.csv         # ./manifest_${SLURM_ARRAY_JOB_ID}_${SLURM_ARRAY_TASK_ID}
 #SBATCH --time=12:00:00                     # Max runtime: 12 hours
 #SBATCH --cpus-per-task=2                   # CPUs per task
 #SBATCH --mem=8G                            # Memory per task
 #SBATCH --partition=long                    # Use long partition for extended runtime
 #SBATCH --oversubscribe                     # We can share nodes! Surely nothing will go wrong!
+#SBATCH --mail-type=all                     # Email me when anything interesting happens
+#SBATCH --mail-user=aofarrel@ucsc.edu
 # Note: Array parameters are specified at submission time with --array=1-N%10
 
 # Strict error handling - exit on any error, undefined variable, or pipe failure
 set -euo pipefail
+
+echo "This version DISABLES parallel composite uploads. This might be MUCH slower than what you're used to!"
+# WARNING: This can result in your gcloud config getting messed up, which throws an error that incorrectly
+# suggests you need to reinstall gcloud or check your python installation. What *actually* is the problem is
+# that this command can write to the config file twice, creating two [storage] sections. Simply delete the
+# second one from the config file (it will be mentioned at the bottom of the error) and you'll be fine.
+gcloud config set storage/parallel_composite_upload_enabled False
 
 # Validate command line arguments
 if [ $# -ne 1 ]; then
@@ -121,8 +129,12 @@ echo "$(date +"%Y-%m-%d %H:%M:%S") File size: $size bytes"
 echo "$(date +"%Y-%m-%d %H:%M:%S") MD5 checksum: $checksum"
 
 # Create manifest file for this task with file metadata
+# Also echo to stdout because why not sure
+echo "$(date +"%Y-%m-%d %H:%M:%S") Manifest:"
 echo "file,aws_file_size,download_size,checksum,s3_source,gs_path,slurm_job_id,slurm_task_id" > "$TASK_MANIFEST"
 echo "$filename,$AWSFILEBYTES,$size,$checksum,$FULL_S3_PATH,$DST_PATH,$SLURM_ARRAY_JOB_ID,$SLURM_ARRAY_TASK_ID" >> "$TASK_MANIFEST"
+echo "file,aws_file_size,download_size,checksum,s3_source,gs_path,slurm_job_id,slurm_task_id"
+echo "$filename,$AWSFILEBYTES,$size,$checksum,$FULL_S3_PATH,$DST_PATH,$SLURM_ARRAY_JOB_ID,$SLURM_ARRAY_TASK_ID" 
 
 # Upload the file to Google Cloud Storage
 echo "$(date +"%Y-%m-%d %H:%M:%S") Uploading $filename to Google Cloud Storage..."
