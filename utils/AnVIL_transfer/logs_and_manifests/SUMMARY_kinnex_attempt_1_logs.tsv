@@ -1,0 +1,226 @@
+log	filename	manifest	status	throughput
+slurm-9720479_100.out			1	
+slurm-9720479_101.out			1	
+slurm-9720479_102.out			1	
+slurm-9720479_103.out			1	
+slurm-9720479_104.out			1	
+slurm-9720479_105.out	HG02523.lymph.m84046_240713_091428_s4.flnc.bam	./manifest_9720479_105.csv	0	83.7MiB/s
+slurm-9720479_106.out	HG02523.lymph.m84046_240717_125059_s3.flnc.bam	./manifest_9720479_106.csv	0	76.2MiB/s
+slurm-9720479_107.out			1	
+slurm-9720479_108.out	HG01928.lymph.m84046_240713_071511_s3.flnc.bam	./manifest_9720479_108.csv	0	80.9MiB/s
+slurm-9720479_109.out	HG01928.lymph.m84046_240717_105141_s2.flnc.bam	./manifest_9720479_109.csv	0	85.3MiB/s
+slurm-9720479_10.out			1	
+slurm-9720479_110.out			1	
+slurm-9720479_111.out			1	
+slurm-9720479_112.out			1	
+slurm-9720479_113.out			1	
+slurm-9720479_114.out			1	
+slurm-9720479_115.out			1	
+slurm-9720479_116.out			1	
+slurm-9720479_117.out			1	
+slurm-9720479_118.out	HG00423.lymph.m84046_240713_051553_s2.flnc.bam	./manifest_9720479_118.csv	0	78.3MiB/s
+slurm-9720479_119.out	HG00423.lymph.m84046_240722_012946_s4.flnc.bam	./manifest_9720479_119.csv	0	79.4MiB/s
+slurm-9720479_11.out	HG00735.lymph.m84046_240713_051553_s2.flnc.bam	./manifest_9720479_11.csv	0	59.5MiB/s
+slurm-9720479_120.out	HG01175.lymph.m84046_240713_071511_s3.flnc.bam	./manifest_9720479_120.csv	0	79.2MiB/s
+slurm-9720479_121.out	HG01175.lymph.m84046_240717_105141_s2.flnc.bam	./manifest_9720479_121.csv	0	82.5MiB/s
+slurm-9720479_122.out			1	
+slurm-9720479_123.out			1	
+slurm-9720479_124.out			1	
+slurm-9720479_125.out			1	
+slurm-9720479_126.out			1	
+slurm-9720479_127.out			1	
+slurm-9720479_128.out			1	
+slurm-9720479_129.out			1	
+slurm-9720479_12.out	HG00735.lymph.m84046_240722_012946_s4.flnc.bam	./manifest_9720479_12.csv	0	86.3MiB/s
+slurm-9720479_130.out			1	
+slurm-9720479_131.out			1	
+slurm-9720479_132.out			1	
+slurm-9720479_133.out			1	
+slurm-9720479_134.out			1	
+slurm-9720479_135.out			1	
+slurm-9720479_136.out	HG01106.lymph.m84046_240713_071511_s3.flnc.bam	./manifest_9720479_136.csv	0	79.4MiB/s
+slurm-9720479_137.out	HG01106.lymph.m84046_240717_105141_s2.flnc.bam	./manifest_9720479_137.csv	0	84.0MiB/s
+slurm-9720479_138.out			1	
+slurm-9720479_139.out			1	
+slurm-9720479_13.out			1	
+slurm-9720479_140.out			1	
+slurm-9720479_141.out			1	
+slurm-9720479_142.out			1	
+slurm-9720479_143.out			1	
+slurm-9720479_144.out			1	
+slurm-9720479_145.out			1	
+slurm-9720479_146.out			1	
+slurm-9720479_147.out			1	
+slurm-9720479_148.out			1	
+slurm-9720479_149.out	HG00621.lymph.m84046_240713_091428_s4.flnc.bam	./manifest_9720479_149.csv	0	79.0MiB/s
+slurm-9720479_14.out			1	
+slurm-9720479_150.out	HG00621.lymph.m84046_240717_125059_s3.flnc.bam	./manifest_9720479_150.csv	0	84.5MiB/s
+slurm-9720479_151.out	HG03579.lymph.m84046_240713_051553_s2.flnc.bam	./manifest_9720479_151.csv	0	83.3MiB/s
+slurm-9720479_152.out	HG03579.lymph.m84046_240722_012946_s4.flnc.bam	./manifest_9720479_152.csv	0	88.1MiB/s
+slurm-9720479_153.out			1	
+slurm-9720479_154.out			1	
+slurm-9720479_155.out			1	
+slurm-9720479_156.out			1	
+slurm-9720479_157.out			1	
+slurm-9720479_158.out			1	
+slurm-9720479_159.out			1	
+slurm-9720479_15.out			1	
+slurm-9720479_160.out			1	
+slurm-9720479_161.out			1	
+slurm-9720479_162.out			1	
+slurm-9720479_163.out			1	
+slurm-9720479_164.out			1	
+slurm-9720479_165.out			1	
+slurm-9720479_166.out			1	
+slurm-9720479_167.out	HG01952.lymph.m84046_240713_071511_s3.flnc.bam	./manifest_9720479_167.csv	0	84.2MiB/s
+slurm-9720479_168.out	HG01952.lymph.m84046_240717_105141_s2.flnc.bam	./manifest_9720479_168.csv	0	80.4MiB/s
+slurm-9720479_169.out			1	
+slurm-9720479_16.out	HG03942.lymph.m84046_240713_091428_s4.flnc.bam	./manifest_9720479_16.csv	0	85.9MiB/s
+slurm-9720479_170.out			1	
+slurm-9720479_171.out			1	
+slurm-9720479_172.out			1	
+slurm-9720479_173.out			1	
+slurm-9720479_174.out			1	
+slurm-9720479_175.out			1	
+slurm-9720479_176.out			1	
+slurm-9720479_177.out	HG02074.lymph.m84046_240713_051553_s2.flnc.bam	./manifest_9720479_177.csv	0	85.3MiB/s
+slurm-9720479_178.out	HG02074.lymph.m84046_240722_012946_s4.flnc.bam	./manifest_9720479_178.csv	0	83.8MiB/s
+slurm-9720479_179.out			1	
+slurm-9720479_17.out	HG03942.lymph.m84046_240717_125059_s3.flnc.bam	./manifest_9720479_17.csv	0	84.4MiB/s
+slurm-9720479_180.out			1	
+slurm-9720479_181.out			1	
+slurm-9720479_182.out			1	
+slurm-9720479_183.out			1	
+slurm-9720479_184.out			1	
+slurm-9720479_185.out			1	
+slurm-9720479_186.out			1	
+slurm-9720479_187.out	HG02027.lymph.m84046_240713_051553_s2.flnc.bam	./manifest_9720479_187.csv	0	88.8MiB/s
+slurm-9720479_188.out	HG02027.lymph.m84046_240722_012946_s4.flnc.bam	./manifest_9720479_188.csv	0	89.5MiB/s
+slurm-9720479_189.out			1	
+slurm-9720479_18.out			1	
+slurm-9720479_190.out			1	
+slurm-9720479_191.out			1	
+slurm-9720479_192.out			1	
+slurm-9720479_193.out			1	
+slurm-9720479_194.out			1	
+slurm-9720479_195.out			1	
+slurm-9720479_196.out			1	
+slurm-9720479_197.out			1	
+slurm-9720479_198.out			1	
+slurm-9720479_199.out			1	
+slurm-9720479_19.out			1	
+slurm-9720479_1.out			1	
+slurm-9720479_200.out			1	
+slurm-9720479_201.out			1	
+slurm-9720479_202.out			1	
+slurm-9720479_203.out			1	
+slurm-9720479_204.out			1	
+slurm-9720479_205.out			1	
+slurm-9720479_206.out			1	
+slurm-9720479_207.out			1	
+slurm-9720479_208.out			1	
+slurm-9720479_209.out			1	
+slurm-9720479_20.out			1	
+slurm-9720479_210.out	HG00741.lymph.m84046_240713_071511_s3.flnc.bam	./manifest_9720479_210.csv	0	83.8MiB/s
+slurm-9720479_211.out	HG00741.lymph.m84046_240717_105141_s2.flnc.bam	./manifest_9720479_211.csv	0	87.7MiB/s
+slurm-9720479_212.out			1	
+slurm-9720479_213.out			1	
+slurm-9720479_214.out			1	
+slurm-9720479_215.out			1	
+slurm-9720479_216.out			1	
+slurm-9720479_217.out			1	
+slurm-9720479_218.out			1	
+slurm-9720479_219.out			1	
+slurm-9720479_21.out			1	
+slurm-9720479_220.out			1	
+slurm-9720479_221.out			1	
+slurm-9720479_222.out			1	
+slurm-9720479_223.out			1	
+slurm-9720479_224.out			1	
+slurm-9720479_225.out			1	
+slurm-9720479_22.out			1	
+slurm-9720479_23.out			1	
+slurm-9720479_24.out			1	
+slurm-9720479_25.out			1	
+slurm-9720479_26.out	HG02132.lymph.m84046_240713_051553_s2.flnc.bam	./manifest_9720479_26.csv	0	87.5MiB/s
+slurm-9720479_27.out	HG02132.lymph.m84046_240722_012946_s4.flnc.bam	./manifest_9720479_27.csv	0	85.7MiB/s
+slurm-9720479_28.out			1	
+slurm-9720479_29.out			1	
+slurm-9720479_2.out			1	
+slurm-9720479_30.out			1	
+slurm-9720479_31.out			1	
+slurm-9720479_32.out			1	
+slurm-9720479_33.out			1	
+slurm-9720479_34.out	HG02976.lymph.m84081_240531_190112_s1.flnc.bam	./manifest_9720479_34.csv	1	
+slurm-9720479_35.out			1	
+slurm-9720479_36.out			1	
+slurm-9720479_37.out			1	
+slurm-9720479_38.out			1	
+slurm-9720479_39.out			1	
+slurm-9720479_3.out			1	
+slurm-9720479_40.out			1	
+slurm-9720479_41.out	HG01071.lymph.m84046_240713_071511_s3.flnc.bam	./manifest_9720479_41.csv	0	85.8MiB/s
+slurm-9720479_42.out	HG01071.lymph.m84046_240717_105141_s2.flnc.bam	./manifest_9720479_42.csv	0	83.3MiB/s
+slurm-9720479_43.out			1	
+slurm-9720479_44.out	HG00673.lymph.m84046_240713_051553_s2.flnc.bam	./manifest_9720479_44.csv	0	85.0MiB/s
+slurm-9720479_45.out	HG00673.lymph.m84046_240722_012946_s4.flnc.bam	./manifest_9720479_45.csv	0	81.6MiB/s
+slurm-9720479_46.out	HG04187.lymph.m84046_240713_091428_s4.flnc.bam	./manifest_9720479_46.csv	0	81.5MiB/s
+slurm-9720479_47.out	HG04187.lymph.m84046_240717_125059_s3.flnc.bam	./manifest_9720479_47.csv	0	83.7MiB/s
+slurm-9720479_48.out			1	
+slurm-9720479_49.out			1	
+slurm-9720479_4.out			1	
+slurm-9720479_50.out			1	
+slurm-9720479_51.out			1	
+slurm-9720479_52.out			1	
+slurm-9720479_53.out			1	
+slurm-9720479_54.out	HG01978.lymph.m84046_240713_071511_s3.flnc.bam	./manifest_9720479_54.csv	0	81.4MiB/s
+slurm-9720479_55.out	HG01978.lymph.m84046_240717_105141_s2.flnc.bam	./manifest_9720479_55.csv	0	78.4MiB/s
+slurm-9720479_56.out	HG00438.lymph.m84046_240713_091428_s4.flnc.bam	./manifest_9720479_56.csv	0	87.9MiB/s
+slurm-9720479_57.out	HG00438.lymph.m84046_240717_125059_s3.flnc.bam	./manifest_9720479_57.csv	0	83.4MiB/s
+slurm-9720479_58.out			1	
+slurm-9720479_59.out			1	
+slurm-9720479_5.out			1	
+slurm-9720479_60.out	HG02083.lymph.m84046_240713_091428_s4.flnc.bam	./manifest_9720479_60.csv	0	83.6MiB/s
+slurm-9720479_61.out	HG02083.lymph.m84046_240717_125059_s3.flnc.bam	./manifest_9720479_61.csv	0	83.7MiB/s
+slurm-9720479_62.out			1	
+slurm-9720479_63.out			1	
+slurm-9720479_64.out			1	
+slurm-9720479_65.out			1	
+slurm-9720479_66.out			1	
+slurm-9720479_67.out			1	
+slurm-9720479_68.out			1	
+slurm-9720479_69.out	HG02071.lymph.m84046_240713_091428_s4.flnc.bam	./manifest_9720479_69.csv	0	85.7MiB/s
+slurm-9720479_6.out			1	
+slurm-9720479_70.out	HG02071.lymph.m84046_240717_125059_s3.flnc.bam	./manifest_9720479_70.csv	0	83.2MiB/s
+slurm-9720479_71.out			1	
+slurm-9720479_72.out			1	
+slurm-9720479_73.out			1	
+slurm-9720479_74.out			1	
+slurm-9720479_75.out			1	
+slurm-9720479_76.out			1	
+slurm-9720479_77.out			1	
+slurm-9720479_78.out			1	
+slurm-9720479_79.out			1	
+slurm-9720479_7.out			1	
+slurm-9720479_80.out			1	
+slurm-9720479_81.out	HG02135.lymph.m84046_240713_091428_s4.flnc.bam	./manifest_9720479_81.csv	0	80.2MiB/s
+slurm-9720479_82.out	HG02135.lymph.m84046_240717_125059_s3.flnc.bam	./manifest_9720479_82.csv	0	85.5MiB/s
+slurm-9720479_83.out			1	
+slurm-9720479_84.out			1	
+slurm-9720479_85.out	HG02148.lymph.m84046_240713_051553_s2.flnc.bam	./manifest_9720479_85.csv	0	80.3MiB/s
+slurm-9720479_86.out	HG02148.lymph.m84046_240722_012946_s4.flnc.bam	./manifest_9720479_86.csv	0	87.7MiB/s
+slurm-9720479_87.out			1	
+slurm-9720479_88.out			1	
+slurm-9720479_89.out			1	
+slurm-9720479_8.out			1	
+slurm-9720479_90.out			1	
+slurm-9720479_91.out			1	
+slurm-9720479_92.out			1	
+slurm-9720479_93.out			1	
+slurm-9720479_94.out			1	
+slurm-9720479_95.out			1	
+slurm-9720479_96.out			1	
+slurm-9720479_97.out			1	
+slurm-9720479_98.out			1	
+slurm-9720479_99.out			1	
+slurm-9720479_9.out			1

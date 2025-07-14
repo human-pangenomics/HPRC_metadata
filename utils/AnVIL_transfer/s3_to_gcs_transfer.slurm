@@ -1,8 +1,5 @@
 #!/bin/bash
 #
-MANUALLY_DISABLE_PARALLEL_COMPOSITE="false" # READ THE CODE! THIS IS IMPORTANT!
-#
-#
 # S3 to Google Cloud Storage Transfer Array Job
 # ==============================================
 # 
@@ -10,11 +7,16 @@ MANUALLY_DISABLE_PARALLEL_COMPOSITE="false" # READ THE CODE! THIS IS IMPORTANT!
 # Each array task processes one S3 file path from an input text file. This is what we actually
 # used for our transfers.
 #
+# IF YOU ARE UPLOADING TO ANVIL, MAKE SURE YOUR GCLOUD CONFIG IS ALREADY SET UP WITH PARALLEL
+# COMPOSITE UPLOADS TURNED OFF. This is a NON-DEFAULT setting. You could also set this own script's
+# MANUALLY_DISABLE_PARALLEL_COMPOSITE to "true" in this script, but if this script gets parallelized,
+# you might end up corrupting your config file (it happened to me! it can happen to you!)
+#
 # Usage: 
 #   1. First, count your S3 paths to set the array size:
 #      ARRAY_SIZE=$(sed '/^[[:space:]]*$/d; /^[[:space:]]*#/d' your_file.txt | wc -l)
 #   2. Then submit the job (USE THE FULL PATH FOR your_file.txt)
-#      sbatch --array=1-${ARRAY_SIZE}%10 s3_to_gcs_transfer.slurm /the/full/path/your_file.txt
+#      sbatch --array=1-${ARRAY_SIZE}%30 s3_to_gcs_transfer.slurm /the/full/path/your_file.txt
 #
 # Example:
 #   ARRAY_SIZE=$(sed '/^[[:space:]]*$/d; /^[[:space:]]*#/d' no_composite.tsv | wc -l)
@@ -43,11 +45,13 @@ MANUALLY_DISABLE_PARALLEL_COMPOSITE="false" # READ THE CODE! THIS IS IMPORTANT!
 # Strict error handling - exit on any error, undefined variable, or pipe failure
 set -euo pipefail
 
+MANUALLY_DISABLE_PARALLEL_COMPOSITE="false" # READ BELOW! THIS IS IMPORTANT!!
+
 if [[ "$MANUALLY_DISABLE_PARALLEL_COMPOSITE" == "true" ]]; then
         echo "You have elected to manually disable parallel composite uploads."
         echo "Files will upload slower, but will have md5sums in GCS metadata (which is required for AnVIL data store)."
         echo "Unless this script is Dockerized, you should only this sort of manual disabling once;"
-        echo "if you keep messing with the same config file again and again in parallel you might get signed out of GCP."
+        echo "if you keep messing with the same config file again and again in parallel you might cause errors."
         gcloud config set storage/parallel_composite_upload_enabled False
     fi
 

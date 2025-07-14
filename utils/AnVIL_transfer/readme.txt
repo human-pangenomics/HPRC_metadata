@@ -7,11 +7,17 @@ Process:
 5. `s3_to_gcs_transfer.slurm`
 6. `summarize_logs.sh` in the dir where all the logs got dumped [warning: slow as heck]
 7. When the ONT data invitably bugs out:
-	* `python3 create_inputs_from_logged_failures.py [input tsv (from step 2)] [summarized log (from step 6)]`
+	* `python3 create_inputs_from_logged_failures.py [input tsv (from step 2, should have no header)] [summarized log (from step 6)]`
 	* `mv_bad_logs.sh` (output of create_inputs_from_logged_failures.py)
 	* `s3_to_gcs_transfer.slurm` on data_to_redo.tsv (another output of create_inputs_from_logged_failures.py)
 
-
 Other notes:
 * skipped_files.tsv logs files that were intentionally skipped for the time being
+
+Todo:
 * the composite HIFI uploads should be redone
+* retry ont_take_3.tsv, they were corrupt in aws
+* update skipped with hic skipped
+
+Archive notes:
+* KINNEX_straggler exists due to goofing up an ARRAY_SIZE
