@@ -1,8 +1,8 @@
 # HIC_Y3_Y4_part2
 
 1. /submissions/HIC_Y3_Y4_part2/HIC_Y3_Y4_part2_data_table.csv --> '.tsv
-	* library_id --> library_name
-2. That TSV --> HIC_Y3_Y4_part2_paired.tsv
+	* Changed "University of California Santa Cruz" --> "UC Santa Cruz Genomics Institute" on data table CSV (and all downstream files)
+2. HIC_Y3_Y4_part2_data_table.tsv --> HIC_Y3_Y4_part2_paired.tsv
 3. Upload to SRA
 
 
