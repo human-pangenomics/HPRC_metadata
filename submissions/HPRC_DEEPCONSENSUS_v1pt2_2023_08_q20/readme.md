@@ -1,3 +1,4 @@
+# HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20
 
 This batch seems mostly okay, but there's missing from CSV data table that nevertheless made it onto SRA:
 * HG02922.m64457e_220906_104717.dc.q20.fastq.gz
