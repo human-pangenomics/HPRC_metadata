@@ -9,3 +9,9 @@ Everything on data table has been submitted. AWS table contains more files, but 
 > [!NOTE]  
 > SRA appears to have changed the filenames of some of these files, turning some dashes into underscores. If someone downloads these files from SRA, they may get different filenames than what we have on record. **The internal filename is still being used as the "index" here, and the SRA filename is in the notes column.**
 
+### merge table setup
+allow_dupe_run_accessions = False
+index = 'filename'
+csv = "../submissions/UW_HPRC_HiFi_Y3/UW_HPRC_HiFi_Y3_data_table.csv"
+tsv = "../submissions/UW_HPRC_HiFi_Y3/UW_HPRC_HiFi_Y3_post_sra_metadata.tsv"
+overide_csv_with_tsv_in_these_columns = ['generator_facility']
