@@ -83,4 +83,3 @@ filename	sample_ID	read_N50	ntsm_score	library_ID	study	bioproject_accession	bio
 03_01_22_R941_HG01150_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	HG01150	92449	0.340795	03_01_22_R941_HG01150																				UCSC_HPRC_nanopore_Year3	R941	unaligned reads with 5mC mods	no shear	no SS
 03_01_22_R941_HG01150_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	HG01150	85044	0.357692	03_01_22_R941_HG01150																				UCSC_HPRC_nanopore_Year3	R941	unaligned reads with 5mC mods	no shear	no SS
 03_01_22_R941_HG01150_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	HG01150	89619	0.318516	03_01_22_R941_HG01150																				UCSC_HPRC_nanopore_Year3	R941	unaligned reads with 5mC mods	no shear	no SS
-
