@@ -1,8 +1,13 @@
 ### HPRC_PLUS_NANOPORE_MISC_R2
 
-Small changes in 'biosample_accession', 'design_description', and 'generator_facility' for consistency/accuracy. Some older uploads ended up with "University of California, Santa Cruz" instead of "UC Santa Cruz Genomics Institute" as generator_facility but I think we can live with that.
+Metadata changes:
+* University of California, Santa Cruz --> UC Santa Cruz Genomics Institute
+* Added title field
+* Fixed incorrect biosample for HG00733
+* Fixed missing biosamples for HG005 and HG002
+* Changed two descriptions to clarify GridION vs PromethION
 
-Be aware that library_id *and* library_name both exist.
+Some older uploads ended up with "University of California, Santa Cruz" instead of "UC Santa Cruz Genomics Institute" as generator_facility but I think we can live with that.
 
 Final CSV setup (see /utils/):
 ```
