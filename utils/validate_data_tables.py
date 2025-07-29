@@ -71,13 +71,26 @@ print("Double check these, just in case:")
 print(f"\tColumns in wrangled CSV but not TSV: {set(wrangled.columns) - set(tsv.columns)}")
 print(f"\tColumns in TSV but not wrangled CSV: {set(tsv.columns) - set(wrangled.columns)}")
 
-# "kolumns" are used by Ranchero to know how to handle merged columns. Ranchero comes with some defaults, but for
-# simplicity's sake we'll overwrite some of them.
-shared_kolumns = Ranchero.NeighLib.get_dupe_columns_of_two_polars(wrangled, tsv, assert_shared_cols_equal=False)
-Ranchero.kolumns.list_fallback_or_null = overide_csv_with_tsv_in_these_columns
-Ranchero.kolumns.list_throw_error = [x for x in shared_kolumns if x not in overide_csv_with_tsv_in_these_columns]
+# We want to check for inconsistent values across dataframes. The easiest way to do this is to leverage Ranchero.merge_dataframes(),
+# since it has has predefined behavior for handling dataframes with inconsistent values in its columns. All we care about here is
+# "list_throw_error" (for catching inconsistencies) and "list_fallback_or_null" (for allowing overrides/updates).
+# -> For column in Ranchero.kolumns.list_throw_error, if all(left_df[column]) != all(right_df[column]), throw error
+# -> For column in Ranchero.kolumns.list_fallback_or_null, wherever left_df[column]) !=  right_df[column], use value of right_df
+# First, however, we need to know which columns are shared between the dataframes.
+shared_kolumns_submission_wrangled = Ranchero.NeighLib.get_dupe_columns_of_two_polars(submission, wrangled, assert_shared_cols_equal=False)
+shared_kolumns_wrangled_tsv = Ranchero.NeighLib.get_dupe_columns_of_two_polars(wrangled, tsv, assert_shared_cols_equal=False)
 
-merged = Ranchero.merge_dataframes(wrangled, tsv, merge_upon=merge_upon, fallback_on_left=False) # ergo, fallback will be on right (tsv)
+# submission-vs-wrangled: this is just a test merge, we will not be writing this dataframe to the disk
+Ranchero.kolumns.list_fallback_or_null = None
+Ranchero.kolumns.list_throw_error = x for x in shared_kolumns_submission_wrangled
+merged = Ranchero.merge_dataframes(submission, wrangled, merge_upon=merge_upon, fallback_on_left=False)
+Ranchero.NeighLib.assert_no_list_columns(merged)
+
+# wrangled-vs-tsv: this merge will be written to the disk (if it's valid)
+Ranchero.kolumns.list_fallback_or_null = overide_csv_with_tsv_in_these_columns
+Ranchero.kolumns.list_throw_error = [x for x in shared_kolumns_wrangled_tsv if x not in overide_csv_with_tsv_in_these_columns]
+
+merged = Ranchero.merge_dataframes(wrangled, tsv, merge_upon=merge_upon, fallback_on_left=False)
 Ranchero.NeighLib.assert_no_list_columns(merged)
 
 assert 'accession' in merged.columns, "No run accession column!"
