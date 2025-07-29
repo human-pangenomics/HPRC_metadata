@@ -28,8 +28,9 @@
 | RU_Y2_topoff | R2 | ✅ |  |  | RU_Y2_topoff__final.csv |
 | RU_Y3_HIFI (RU_Y3?) | R2? | ⚠️ |  |  | Blocked by file count mismtach (see PR) |
 | RU_Y3_topoff_redo | R2 | ⚠️ |  |  | Blocked by metadata conflict |
-
-
+| RU_Y4 | R2 | ✅ |  |  | Assuming Fiberseq note doesn't matter, RU_Y4_data_table__final.csv |
+| RU_Y5_Kinnex | R2 | 🟠 |  |  | n/a |
+| UCSC_HPRC_AMED_collaboration | R2 | ✅ |  | PLUS | UCSC_HPRC_AMED_collaboration_data_table__final.csv |
 
 
 
@@ -37,9 +38,6 @@
 # need further double-checking, previous status stands at
 | collection | release | SRA | AnVIL | project | updated_csv
 | --- | --- | --- | --- | --- |
-| RU_Y4 | R2 | ✅ |  |  | ✅ |
-| RU_Y5_Kinnex | R2 | 🟠 |  |  | n/a |
-| UCSC_HPRC_AMED_collaboration | R2 | ✅ |  | PLUS | ✅ |
 | UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | R3? | ❓ |  |  |  |
 | UCSC_HPRC_PLUS_nanopore | R2 | ⚠️ |  | PLUS | ✅ |
 | UCSC_HPRC_PLUS_nanopore_WashU | R2 | ❓ |  | PLUS |  |
@@ -68,3 +66,7 @@ Known R2 projects not in repo (not exhaustive):
 * HG00733_T2T_UW_HiFi_ONT
 * HPRC_REVIO_EA_2023
 * NISC_HiFi_TopUp_2022_with_5mC
+
+
+Inconsistenies we truly do not care about:
+* Basically equivalent instrument models like "PacBio Revio" becoming "Revio"
