@@ -29,12 +29,32 @@ if submission_csv_is_actually_tsv:
 else:
 	submission = pl.read_csv(submission_csv_path)
 	submission = Ranchero.NeighLib.mark_index(submission, index)
+
 if wrangled_csv_is_actually_tsv:
 	wrangled = Ranchero.from_tsv(wrangled_csv_path, index=index, auto_standardize=False)
 else:
 	wrangled = pl.read_csv(wrangled_csv_path)
 	wrangled = Ranchero.NeighLib.mark_index(wrangled, index)
-tsv = Ranchero.from_tsv(tsv_path, index=index, auto_standardize=False)
+
+if tsv_is_multi_file:
+	assert index == 'filename'
+	temp_index = 'accession'
+	tsv = Ranchero.from_tsv(tsv_path, index=temp_index, auto_standardize=False)
+	filename_columns = [col for col in tsv.columns if col.startswith('filename')]
+
+	# we have to fill_null() to prevent nulls from taking over everything (please just trust me on this one)
+	tsv = tsv.with_columns(pl.concat_list(
+		pl.col(filename_columns).fill_null('this should be a literal None but that makes polars angry :-(')
+	).alias("merged_filenames")).drop(filename_columns)
+	tsv = tsv.with_columns(pl.col("merged_filenames").list.eval(
+		pl.element().filter(pl.element() != 'this should be a literal None but that makes polars angry :-(')
+	).alias("filename")).drop('merged_filenames')
+
+	# explode on filename to get a filename-indexed dataframe
+	tsv = tsv.explode('filename').rename({'__index__accession': 'accession'})
+	tsv = Ranchero.rancheroize(tsv, index=index)
+else:
+	tsv = Ranchero.from_tsv(tsv_path, index=index, auto_standardize=False)
 
 # ensure no funny business
 merge_upon = "__index__" + index
@@ -123,7 +143,7 @@ if 'sample_ID' in merged.columns and 'sample_id' not in merged.columns:
 elif 'sample_id' in merged.columns and 'sample_ID' not in merged.columns:
 	sampleid = 'sample_id'
 else:
-	raise ValueError
+	raise ValueError(f"Can't figure out what the sample ID column is in merged dataframe. (Or multiple are present!) Columns: {merged.columns}")
 
 Ranchero.NeighLib.super_print_pl(
 	merged.select([merge_upon, sampleid, 'biosample_accession', 'accession', 'generator_facility']), 
