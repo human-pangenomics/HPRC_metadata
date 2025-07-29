@@ -1,11 +1,5 @@
 # UCSC_HPRC_nanopore_Year2_R10
-
 * Changed data table CSV from 'sample_id' to 'sample_ID' for consistency
-
-Double check these:
-* CSV design_description says "UL sequencing using ONT-NEB method" but TSV says "UL sequencing using ONT-Circulomics method"
-* CSV data_type says "unaligned reads with 5mCG_5hmCG mods" but TSV says "unaligned reads with 5mC mods"
-
 
 ## validation
 ```
