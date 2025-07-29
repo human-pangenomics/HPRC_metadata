@@ -4,8 +4,10 @@ tsv_path = ''
 index = 'filename'
 allow_wrangled_to_conflict_with_submission_here = []
 overide_csv_with_tsv_in_these_columns = []
+submission_csv_is_actually_tsv = False
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False
+tsv_is_multi_file = False
 # submission_csv_path: CSV directly from submitter
 # wrangled_csv_path: wrangled CSV "data table"
 # tsv_path: ideally the "metadata-XXXXXXXX-processed-ok" TSV from NCBI, if not available, ash's TSV
