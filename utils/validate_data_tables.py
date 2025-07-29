@@ -14,7 +14,10 @@ tsv_is_multi_file = False
 # allow_wrangled_to_conflict_with_submission_here: should usually be empty!
 # index: column of *completely unique* values to serve as the index, should usually be 'filename'
 # overide_csv_with_tsv_in_these_columns: if wrangled_csv and tsv have different values in same column, assume TSV is source of truth, else throw error
+# submission_csv_is_actually_tsv: exactly what it says on the tin
 # wrangled_csv_is_actually_tsv: exactly what it says on the tin
+# wrangled_csv_can_lack_library_id: allow wrangled CSV to not have a library_id column
+# tsv_is_multi_file: set this if TSV has multiple files per line (like paired illumina reads)
 
 import os
 import sys
