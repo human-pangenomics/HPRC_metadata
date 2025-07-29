@@ -1,30 +1,42 @@
  
-✅ = all files uploaded
-⚠️ = all files in data table uploaded, but AWS table has more files  
+
+✅ = all files uploaded -- done and dusted -- everything should be fine
+	* check what I wrote in the PR description (there may be minor changes you should be aware of)
+	* pull in the PR 
+	* merge the new `*_updated.csv` file with your master data table
+🅰️ = all files in data table are uploaded, but there are more files in the AWS tables
+	* if you're certain nothing is missing from the data table CSV, consider this equivalent to ✅ (unless another emoji is also present)
+⚠️ = conflicting/corrupt data exists -- **requires input before merging**
 🟡 = partially uploaded, full upload may or may not be blocked (the TODO emoji)  
 🟠 = ready for a upload (partial or full) but not doing that yet due to R3/lack of BioSamples
 ❓ = inconsistencies make confirming status difficult  
 ❌ = issues with data fully block an upload
 
-filewise_readme has consistent format:
-* TSV
-* sample_ID, filename, accession
 
-| collection | release | SRA | AnVIL | project | filewise_readme
+| collection | release | SRA | AnVIL | project | updated_csv
 | --- | --- | --- | --- | --- |
-| HIC_Y3_Y4_part2 | R2 | ❓ |  | - |  |
+| HIC_Y3_Y4_part2 | R2 | ❌ |  | - | Not uploaded due to corrupt files (SUB15335177) |
 | HPRC-OmniC-100124Pools | R3? | 🟠 |  |  | n/a |
 | HPRC-OmniC-100129Pools | R3? | 🟠 |  |  | n/a |
 | HPRC-OmniC-241217Pools | R3? | 🟠 |  |  | n/a |
-| HPRC_DEEPCONSENSUS_v1pt2 | R2 | ✅ |  |  | ✅ |
-| HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20 | R2 | ⚠️ |  |  | ✅ |
-| HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20 | R2 | ✅ |  |  | ✅ |
-| HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run | R2 | ✅ |  |  | ✅ |
-| HPRC_PLUS_nanopore_misc_R2 | R2 | ✅ |  | PLUS | ✅ |
-| RU_Y2_HIFI | R2 | ⚠️ |  |  | ✅ |
-| RU_Y2_topoff | R2 | ⚠️ |  |  | ✅ |
-| RU_Y3_HIFI (RU_Y3?) | R2? | ✅ |  |  | ✅ |
-| RU_Y3_topoff_redo | R2 | ✅ |  |  | ✅ |
+| HPRC_DEEPCONSENSUS_v1pt2 | R2 | ⚠️ |  |  | Blocked by metadata conflict |
+| HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20 | R2 | ⚠️ |  |  | Blocked by file count mismatch (not merely AWS, see PR) |
+| HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20 | R2 | ⚠️ |  |  | Blocked by metadata conflict |
+| HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run | R2 | ⚠️ |  |  | Blocked by metadata inconsistency |
+| HPRC_PLUS_nanopore_misc_R2 | R2 | ✅ |  | PLUS | HPRC_PLUS_nanopore_misc_R2_data_table__final.csv |
+| RU_Y2_HIFI | R2 | ⚠️ |  |  | RU_Y2_HIFI_data_table__final.csv |
+| RU_Y2_topoff | R2 | ✅ |  |  | RU_Y2_topoff__final.csv |
+| RU_Y3_HIFI (RU_Y3?) | R2? | ⚠️ |  |  | Blocked by file count mismtach (see PR) |
+| RU_Y3_topoff_redo | R2 | ⚠️ |  |  | Blocked by metadata conflict |
+
+
+
+
+
+
+# need further double-checking, previous status stands at
+| collection | release | SRA | AnVIL | project | updated_csv
+| --- | --- | --- | --- | --- |
 | RU_Y4 | R2 | ✅ |  |  | ✅ |
 | RU_Y5_Kinnex | R2 | 🟠 |  |  | n/a |
 | UCSC_HPRC_AMED_collaboration | R2 | ✅ |  | PLUS | ✅ |
@@ -37,12 +49,12 @@ filewise_readme has consistent format:
 | UCSC_HPRC_nanopore_Year4 | R2 | ❓ |  |  | ✅ |
 | UW_HPRC_HiFi_Y1 | R2 | ❓ |  |  |  |
 | UW_HPRC_HiFi_Y2 | R2 | ⚠️ |  |  | ✅ |
-| UW_HPRC_HiFi_Y3 | R2 | ⚠️ |  |  | ✅ |
+| UW_HPRC_HiFi_Y3 | R2 | ⚠️🅰️ |  |  | Blocked by metadata conflict & AWS mismatch |
 | UW_HPRC_HiFi_Y4_AND_Y3_Topoff | R2 | ❓ |  |  |  |
 | UW_HPRC_Y5_Kinnex | R2 | ❌ |  |  |  |
 | WUSTL_HPRC_HiFi_Year1 | R2 | ❓ |  |  |  |
 | WUSTL_HPRC_HiFi_Year1_TopUp | R2 | ❓ |  |  |  |
-| WUSTL_HPRC_HiFi_Year2 | R2 | ❓ |  |  |  |
+| WUSTL_HPRC_HiFi_Year2 | R2 | ⚠️🅰️ |  |  | Blocked by metadata conflict & AWS mismatch |
 | WUSTL_HPRC_HiFi_Year2_TopUp | R2 | ❓|  |  |  |
 | WUSTL_HPRC_HiFi_Year3 | R2 | ❓ |  |  |  |
 | WUSTL_HPRC_HiFi_Year3_TopUp | R2 | ❓ |  |  |  |
