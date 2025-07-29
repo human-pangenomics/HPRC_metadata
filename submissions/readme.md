@@ -38,13 +38,16 @@
 # need further double-checking, previous status stands at
 | collection | release | SRA | AnVIL | project | updated_csv
 | --- | --- | --- | --- | --- |
-| UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | R3? | ❓ |  |  |  |
-| UCSC_HPRC_PLUS_nanopore | R2 | ⚠️ |  | PLUS | ✅ |
-| UCSC_HPRC_PLUS_nanopore_WashU | R2 | ❓ |  | PLUS |  |
+
 | UCSC_HPRC_nanopore_Year2 | R2 | ✅ |  |  | ✅ |
 | UCSC_HPRC_nanopore_Year2_R10 | R3? | ⚠️ |  |  | ✅ |
 | UCSC_HPRC_nanopore_Year3 | R2 | ❓ |  |  |  |
 | UCSC_HPRC_nanopore_Year4 | R2 | ❓ |  |  | ✅ |
+
+| UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | R3? | ❓ |  |  |  |
+| UCSC_HPRC_PLUS_nanopore | R2 | ⚠️ |  | PLUS | ✅ |
+| UCSC_HPRC_PLUS_nanopore_WashU | R2 | ❓ |  | PLUS |  |
+
 | UW_HPRC_HiFi_Y1 | R2 | ❓ |  |  |  |
 | UW_HPRC_HiFi_Y2 | R2 | ⚠️ |  |  | ✅ |
 | UW_HPRC_HiFi_Y3 | R2 | ⚠️🅰️ |  |  | Blocked by metadata conflict & AWS mismatch |
