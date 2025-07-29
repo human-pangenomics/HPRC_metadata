@@ -18,6 +18,7 @@ Todo:
 * the composite HIFI uploads should be redone
 * retry ont_take_3.tsv, they were corrupt in aws
 * update skipped with hic skipped
+* the logs are comically oversized and should have the line full of `^M` stripped to save space in /private/groups
 
 Archive notes:
 * KINNEX_straggler exists due to goofing up an ARRAY_SIZE
