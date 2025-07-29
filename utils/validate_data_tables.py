@@ -24,8 +24,11 @@ sys.path.insert(0, ranchero_path)
 import src as Ranchero
 
 # read metadata files
-submission = pl.read_csv(submission_csv_path)
-submission = Ranchero.NeighLib.mark_index(submission, index)
+if submission_csv_is_actually_tsv:
+	submission = Ranchero.from_tsv(submission_csv_path, index=index, auto_standardize=False)
+else:
+	submission = pl.read_csv(submission_csv_path)
+	submission = Ranchero.NeighLib.mark_index(submission, index)
 if wrangled_csv_is_actually_tsv:
 	wrangled = Ranchero.from_tsv(wrangled_csv_path, index=index, auto_standardize=False)
 else:
@@ -55,7 +58,8 @@ if 'library_name' != index and 'library_id' != index and 'library_ID' != index:
 
 print(f"Submission CSV has {submission.shape[0]} {index}s")
 print(f"Wrangled CSV has {wrangled.shape[0]} {index}s (loss: {submission.shape[0] - wrangled.shape[0]})")
-print(f"TSV has {tsv.shape[0]} {index}s (loss: {wrangled.shape[0] - tsv.shape[0]})")
+print(f"TSV has {tsv.shape[0]} {index}s (loss: {tsv.shape[0] - tsv.shape[0]})")
+assert tsv.shape[0] == wrangled.shape[0]
 
 # check for stuff being added when they shouldn't be
 # we should expect there to be some indeces exclusive to submission, so don't report those... but everything else is sus
@@ -64,7 +68,7 @@ if len(in_wrangled_not_submission) != 0:
 	raise ValueError(f"Found {index}s in wrangled CSV but not submitted CSV: {in_wrangled_not_submission}")
 in_wrangled_not_tsv = set(wrangled[merge_upon].to_list()) - set(tsv[merge_upon].to_list())
 if len(in_wrangled_not_tsv) != 0:
-	raise ValueError(f"Found indexes exclusive to wrangled CSV not in : {in_wrangled_not_tsv}")
+	raise ValueError(f"Found indexes exclusive to wrangled CSV not in TSV: {in_wrangled_not_tsv}")
 in_tsv_not_wrangled = set(tsv[merge_upon].to_list()) - set(wrangled[merge_upon].to_list())
 if len(in_tsv_not_wrangled) != 0:
 	raise ValueError(f"Found indexes exclusive to CSV: {in_tsv_not_wrangled}")
