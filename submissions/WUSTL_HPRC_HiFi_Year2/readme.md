@@ -1,9 +1,25 @@
 ## WUSTL_HPRC_Hifi_Year2
 
 Oddities:
-* Each run accession has multiple bam files -- this is technically valid but not recommended nor typical
+* **ccs_algorithm, polymerase_version, and notes are inconsistent across data tables**
 * AWS table has lots of files not in data table, worth double-checking all excluded files were excluded for a good reason
-* ccs_algorithm is inconsistent on data table CSV versus TSV derived from SRA
+* WUSTL_HPRC_HiFi_Year2_post_sra_metadata.tsv seems to be based on SRA metadata TSV but didn't split the filenames correctly; moved to "sus" folder
+* Each run accession has multiple bam files -- this is technically valid but not recommended nor typical
+
+
+Validation:
+```
+submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year2/HPRC_PacBio_HiFi_Metadata_Submission_WUSTL_Year2_v0.2.tsv'
+wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year2/WUSTL_HPRC_HiFi_Year2_data_table.csv'
+tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year2/metadata-11121843-processed-ok.tsv'
+index = 'filename'
+allow_wrangled_to_conflict_with_submission_here = ['data_type']
+overide_csv_with_tsv_in_these_columns = []
+submission_csv_is_actually_tsv = True
+wrangled_csv_is_actually_tsv = False
+wrangled_csv_can_lack_library_id = False
+tsv_is_multi_file = True
+```
 
 ```
 ┏━━━━━━━━━┓
@@ -198,10 +214,3 @@ shape: (77, 3)
 └────────────────────┴──────────────────────────┴─────────────────────────────────────┘
 ```
 
-
-Setup:
-allow_dupe_run_accessions = False # maybe should be True?
-index = 'filename'
-csv = "../submissions/WUSTL_HPRC_HiFi_Year2/WUSTL_HPRC_HiFi_Year2_data_table.csv"
-tsv = "../submissions/WUSTL_HPRC_HiFi_Year2/WUSTL_HPRC_HiFi_Year2_post_sra_metadata.tsv"
-overide_csv_with_tsv_in_these_columns = None
