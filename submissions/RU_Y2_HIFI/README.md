@@ -14,11 +14,20 @@ Check reads.bam and subread.bam in RU_Y2_sequel submission
 
 
 ash zone:
+
+Submission CSV has 36 filenames
+Wrangled CSV has 24 filenames (loss: 12)
+TSV has 24 filenames (loss: 0)
+
+```
 submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/RU_Y2_HIFI/HPRC_RU_Y2_Sequel_Metadata_PacBio_HiFi_Submission.csv'
 wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/RU_Y2_HIFI/RU_Y2_HIFI_data_table.csv'
 tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/RU_Y2_HIFI/metadata-14647736-processed-ok.tsv'
 index = 'filename'
 allow_wrangled_to_conflict_with_submission_here = ['instrument_model', 'library_ID']
 overide_csv_with_tsv_in_these_columns = []
+submission_csv_is_actually_tsv = False
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False
+tsv_is_multi_file = False
+```
