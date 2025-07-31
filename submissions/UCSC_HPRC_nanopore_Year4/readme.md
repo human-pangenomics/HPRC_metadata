@@ -1,6 +1,10 @@
 ## UCSC_HPRC_nanopore_Year4
 
-AWS file seems to be missing some entries but everything else seems fine
+AWS file seems to be missing some entries but everything else seems fine.
+
+Submission CSV has 388 filenames
+Wrangled CSV has 388 filenames (loss: 0)
+TSV has 388 filenames (loss: 0)
 
 validation:
 ```
