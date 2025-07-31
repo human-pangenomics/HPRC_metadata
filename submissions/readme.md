@@ -20,7 +20,7 @@
 | HPRC-OmniC-100129Pools | R3? | 🟠 |  |  | n/a |
 | HPRC-OmniC-241217Pools | R3? | 🟠 |  |  | n/a |
 | HPRC_DEEPCONSENSUS_v1pt2 | R2 | ⚠️ |  |  | Blocked by metadata conflict |
-| HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20 | R2 | ⚠️ |  |  | Blocked by file count mismatch (not merely AWS, see PR) |
+| HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20 | R2 | ⚠️ |  |  | Blocked by file count mismatch |
 | HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20 | R2 | ⚠️ |  |  | Blocked by metadata conflict |
 | HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run | R2 | ⚠️ |  |  | Blocked by metadata inconsistency |
 | HPRC_PLUS_nanopore_misc_R2 | R2 | ✅ |  | PLUS | HPRC_PLUS_nanopore_misc_R2_data_table__final.csv |
@@ -41,6 +41,7 @@
 | UW_HPRC_HiFi_Y1 | R2 | ⚠️ |  |  | File count mismatch |
 | UW_HPRC_HiFi_Y2 | R2 | 🅰️ |  |  | /Users/aofarrel/github/HPRC_metadata/submissions/UW_HPRC_HiFi_Y2/UW_HPRC_HiFi_Y2_data_table__final.csv |
 | UW_HPRC_HiFi_Y3 | R2 | ⚠️🅰️ |  |  | Blocked by metadata conflict & AWS mismatch |
+| UW_HPRC_HiFi_Y4_AND_Y3_Topoff | R2 | 🅰️  |  |  | UW_HPRC_HiFi_Y4_AND_Y3_Topoff_data_table__final.csv |
 
 
 
@@ -50,7 +51,6 @@
 
 
 
-| UW_HPRC_HiFi_Y4_AND_Y3_Topoff | R2 | ❓ |  |  |  |
 | UW_HPRC_Y5_Kinnex | R2 | ❌ |  |  |  |
 | WUSTL_HPRC_HiFi_Year1 | R2 | ❓ |  |  |  |
 | WUSTL_HPRC_HiFi_Year1_TopUp | R2 | ❓ |  |  |  |
