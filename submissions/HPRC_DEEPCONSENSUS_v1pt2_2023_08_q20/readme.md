@@ -19,6 +19,20 @@ and:
 SRR26545331	SRP305758	new	PRJNA701308	SAMN33758788	PG02922.HFSS_dc	PacBio HiFi sequencing of HG02922 rebasecalled with DeepConsensus v1.2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	Sequel II	HiFi sequencing of 22kb fractionated gDNA rebasecalled using DeepConsensus	fastq	HG02922.m54329U_220816_182601.dc.q20.fastq.gz	HG02922.m54329U_220903_190900.dc.q20.fastq.gz	HG02922.m54329U_220905_144015.dc.q20.fastq.gz	HG02922.m54329U_220907_100858.dc.q20.fastq.gz	HG02922.m64457e_220902_165459.dc.q20.fastq.gz	HG02922.m64457e_220904_135104.dc.q20.fastq.gz	HG02922.m64457e_220906_104717.dc.q20.fastq.gz	Megaruptor 1	SageELF	1.2	P2	C2	Washington University	tgraves@wustl.edu
 ```
 
+Validation:
+```
+submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20_submitter_metadata.tsv'
+wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20_data_table.csv'
+tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20__final.tsv'
+index = 'filename'
+allow_wrangled_to_conflict_with_submission_here = ['instrument_model']
+overide_csv_with_tsv_in_these_columns = []
+submission_csv_is_actually_tsv = True
+wrangled_csv_is_actually_tsv = False
+wrangled_csv_can_lack_library_id = False
+tsv_is_multi_file = False
+```
+
 
 filename	sample_ID	accession
 HG00099.m54329U_220825_174247.dc.q20.fastq.gz	HG00099	SRR26545347
@@ -189,13 +203,3 @@ NA18983.m64457e_220904_135104.dc.q20.fastq.gz	NA18983	SRR26545311
 HG02922.m64457e_220904_135104.dc.q20.fastq.gz	HG02922	SRR26545331
 NA18983.m64457e_220906_104717.dc.q20.fastq.gz	NA18983	SRR26545311
 HG02922.m64457e_220906_104717.dc.q20.fastq.gz	HG02922	SRR26545331
-
-
-
-Setup:
-allow_dupe_run_accessions = False
-index = 'filename'
-csv = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20_data_table.csv'
-tsv = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20__final.tsv'
-overide_csv_with_tsv_in_these_columns = ['instrument_model'] # completely inconsequential
-csv_is_actually_tsv = False
