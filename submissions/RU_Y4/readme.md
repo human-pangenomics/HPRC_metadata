@@ -2,6 +2,9 @@
 
 Some submissions have 'FIBERSEQ' in notes column, but that didn't get carried over to data table.
 
+Submission CSV has 192 filenames
+Wrangled CSV has 96 filenames (loss: 96)
+TSV has 96 filenames (loss: 0)
 
 ### validator
 ```
