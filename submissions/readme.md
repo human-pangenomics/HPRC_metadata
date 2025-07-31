@@ -31,7 +31,16 @@
 | RU_Y4 | R2 | ✅ |  |  | Assuming Fiberseq note doesn't matter, RU_Y4_data_table__final.csv |
 | RU_Y5_Kinnex | R2 | 🟠 |  |  | n/a |
 | UCSC_HPRC_AMED_collaboration | R2 | ✅ |  | PLUS | UCSC_HPRC_AMED_collaboration_data_table__final.csv |
-
+| UCSC_HPRC_nanopore_Year2 | R2 | ⚠️ |  |  | Blocked by file count mismatch and metadata conflict |
+| UCSC_HPRC_nanopore_Year2_R10 | R3? | ⚠️🅰️ |  |  | Blocked by metadata conflict |
+| UCSC_HPRC_nanopore_Year3 | R2 | ⚠️ |  |  | Blocked by file count mismatch |
+| UCSC_HPRC_nanopore_Year4 | R2 | 🅰️ |  |  | UCSC_HPRC_nanopore_Year4_data_table__final.csv |
+| UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | R3? | ✅ |  |  | UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6_SRA_submission__final.csv |
+| UCSC_HPRC_PLUS_nanopore | R2 | ⚠️ |  | PLUS | UCSC_HPRC_PLUS_nanopore_data_table__final.csv |
+| UCSC_HPRC_PLUS_nanopore_WashU | R2 | ❓ |  | PLUS |  |
+| UW_HPRC_HiFi_Y1 | R2 | ⚠️ |  |  | File count mismatch |
+| UW_HPRC_HiFi_Y2 | R2 | 🅰️ |  |  | /Users/aofarrel/github/HPRC_metadata/submissions/UW_HPRC_HiFi_Y2/UW_HPRC_HiFi_Y2_data_table__final.csv |
+| UW_HPRC_HiFi_Y3 | R2 | ⚠️🅰️ |  |  | Blocked by metadata conflict & AWS mismatch |
 
 
 
@@ -39,18 +48,8 @@
 | collection | release | SRA | AnVIL | project | updated_csv
 | --- | --- | --- | --- | --- |
 
-| UCSC_HPRC_nanopore_Year2 | R2 | ✅ |  |  | ✅ |
-| UCSC_HPRC_nanopore_Year2_R10 | R3? | ⚠️ |  |  | ✅ |
-| UCSC_HPRC_nanopore_Year3 | R2 | ❓ |  |  |  |
-| UCSC_HPRC_nanopore_Year4 | R2 | ❓ |  |  | ✅ |
 
-| UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | R3? | ❓ |  |  |  |
-| UCSC_HPRC_PLUS_nanopore | R2 | ⚠️ |  | PLUS | ✅ |
-| UCSC_HPRC_PLUS_nanopore_WashU | R2 | ❓ |  | PLUS |  |
 
-| UW_HPRC_HiFi_Y1 | R2 | ❓ |  |  |  |
-| UW_HPRC_HiFi_Y2 | R2 | ⚠️ |  |  | ✅ |
-| UW_HPRC_HiFi_Y3 | R2 | ⚠️🅰️ |  |  | Blocked by metadata conflict & AWS mismatch |
 | UW_HPRC_HiFi_Y4_AND_Y3_Topoff | R2 | ❓ |  |  |  |
 | UW_HPRC_Y5_Kinnex | R2 | ❌ |  |  |  |
 | WUSTL_HPRC_HiFi_Year1 | R2 | ❓ |  |  |  |
