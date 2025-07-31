@@ -3,8 +3,8 @@
 ✅ = all files uploaded -- done and dusted -- everything should be fine
 	* check what I wrote in the PR description (there may be minor changes you should be aware of)
 	* pull in the PR 
-	* merge the new `*_updated.csv` file with your master data table
-🅰️ = all files in data table are uploaded, but there are more files in the AWS tables
+	* merge the new `*__final.csv` file with your master data table
+🅰️ = all files in data table are uploaded, but there are more files in the AWS tables or submission tables
 	* if you're certain nothing is missing from the data table CSV, consider this equivalent to ✅ (unless another emoji is also present)
 ⚠️ = conflicting/corrupt data exists -- **requires input before merging**
 🟡 = partially uploaded, full upload may or may not be blocked (the TODO emoji)  
