@@ -8,6 +8,8 @@ This batch seems mostly okay, but there's missing from CSV data table that never
 * NA18983.m54329U_220903_190900.dc.q20.fastq.gz
 * NA18983.m54329U_220907_100858.dc.q20.fastq.gz
 
+These files should not have been added to SRA and should be removed.
+
 
 The weird submissions causing this were:
 ```
