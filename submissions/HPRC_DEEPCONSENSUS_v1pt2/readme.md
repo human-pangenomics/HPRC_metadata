@@ -1,6 +1,10 @@
 ## HPRC_DEEPCONSENSUS_v1pt2
 
-Some inconsistencies in size_selection and polymerase_version
+Submission CSV has 132 filenames
+Wrangled CSV has 132 filenames (loss: 0)
+TSV has 132 filenames (loss: 0)
+
+Some inconsistencies in size_selection, design_description, and polymerase_version
 
 For example, for HG00642.m64076_210516_091844.dc.q20.fastq.gz
 * BluePippin in DEEPCONSENSUS_v1pt2_submitter_metadata.tsv
@@ -205,10 +209,76 @@ shape: (120, 3)
 └────────────────────┴──────────────────────────┴───────────────────────────────────────────┘
 ```
 
-Setup:
-allow_dupe_run_accessions = False
+```
+┏━━━━━━━━━┓
+┃conflicts┃
+┗━━━━━━━━━┛
+shape: (47, 3)
+┌────────────────────────────────────────────────────────────────────────────┬────────────────────────────────────────────────────────────────────────────┬───────────────────────────────────────────────┐
+│ design_description                                                         ┆ design_description_right                                                   ┆ __index__filename                             │
+│ ---                                                                        ┆ ---                                                                        ┆ ---                                           │
+│ str                                                                        ┆ str                                                                        ┆ str                                           │
+╞════════════════════════════════════════════════════════════════════════════╪════════════════════════════════════════════════════════════════════════════╪═══════════════════════════════════════════════╡
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 21kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG00642.m54329U_210524_174516.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 21kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG00642.m64076_210516_091844.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 21kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG00642.m64076_210520_213355.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 21kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG00642.m64076_210522_082905.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 24kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG01346.m54329U_210624_221223.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 24kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG01346.m54329U_210629_024631.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 19kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG01346.m64076_210526_105450.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 19kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG01346.m64076_210621_234241.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 18kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG01884.m54329U_210713_205453.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 18kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG01884.m54329U_210716_214728.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 18kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG01884.m54329U_210718_084331.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 26kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02132.m54329U_210627_170630.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 26kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02132.m54329U_210704_040110.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 26kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02132.m54329U_210705_145805.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 21kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02132.m64076_210525_000003.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 24kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02293.m54329U_210719_222842.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 24kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02293.m54329U_210721_092510.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 24kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02293.m64076_210716_220011.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 21kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02300.m54329U_210702_182525.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 21kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02300.m54329U_210710_123004.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 21kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02300.m54329U_210711_215946.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 19kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02647.m54329U_210604_200442.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 19kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02647.m64076_210527_231639.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 19kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02647.m64076_210530_192034.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 19kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02647.m64076_210601_061523.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 21kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02683.m54329U_210707_171722.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 21kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02683.m54329U_210709_030038.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 21kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02683.m64076_210703_103644.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 22kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02738.m64076_210706_214544.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 22kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02738.m64076_210711_102225.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 22kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02738.m64076_210714_200553.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 22kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG02738.m64076_210718_085619.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 18kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG03688.m54329U_210608_221930.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 18kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG03688.m54329U_210611_221457.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 18kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG03688.m54329U_210618_202343.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 18kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG03688.m64076_210610_224207.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 17kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG03927.m54329U_210522_083046.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 17kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG03927.m64076_210514_222349.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 17kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG03927.m64076_210517_210115.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 17kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG03927.m64076_210519_075634.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 23kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG04115.m64076_210623_104349.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 23kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG04115.m64076_210625_220013.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 23kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG04115.m64076_210627_085544.dc.q20.fastq.gz  │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 22kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG04199.m54329U_210614_155303.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 22kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG04199.m54329U_210620_071842.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 22kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG04199.m54329U_210621_233920.dc.q20.fastq.gz │
+│ HiFi sequencing of 20kb fractionated gDNA rebasecalled using DeepConsensus ┆ HiFi sequencing of 22kb fractionated gDNA rebasecalled using DeepConsensus ┆ HG04199.m64076_210613_183806.dc.q20.fastq.gz  │
+└────────────────────────────────────────────────────────────────────────────┴────────────────────────────────────────────────────────────────────────────┴───────────────────────────────────────────────┘
+```
+
+Validation
+```
+submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2/DEEPCONSENSUS_v1pt2_submitter_metadata.tsv'
+wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2/HPRC_DEEPCONSENSUS_v1pt2_data_table.csv'
+tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2/metadata-13754908-processed-ok.tsv'
 index = 'filename'
-csv = "/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2/HPRC_DEEPCONSENSUS_v1pt2_data_table.csv"
-tsv = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2/DEEPCONSENSUS_v1pt2__final.tsv'
-overide_csv_with_tsv_in_these_columns = [] # if conflicts are okay: ['size_selection', 'polymerase_version'] 
-csv_is_actually_tsv = False
+allow_wrangled_to_conflict_with_submission_here = ['filetype']
+overide_csv_with_tsv_in_these_columns = []
+submission_csv_is_actually_tsv = True
+wrangled_csv_is_actually_tsv = False
+wrangled_csv_can_lack_library_id = False
+tsv_is_multi_file = True
+```
