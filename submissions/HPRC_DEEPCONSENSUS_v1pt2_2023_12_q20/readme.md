@@ -1,9 +1,17 @@
 ## HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20
-Has some issues:
+
+Submission CSV has 197 filenames
+Wrangled CSV has 197 filenames (loss: 0)
+TSV has 197 filenames (loss: 0)
+
+Has a lot of metadata conflicts:
 * WashU / UWash inconsistency -- these are different universities in different states
 * Conflict in 'study' field indicate that this is HPRC data that got uploaded to the HPRC PLUS BioProject, or maybe vice versa?
+* Some samples submitted with 'second library prep' in notes field but this didn't get transferred over
 * Minor conflict in 'filetype' field (fastq/fastq.gz -- probably inconsequential)
 
+Notes:
+* Small conflicts of library IDs (doesn't matter unless they get used as key, which should never happen)
 
 Study conflicts:
 ```
@@ -91,12 +99,18 @@ shape: (73, 3)
 │ SRP320775 ┆ SRP305758   ┆ NA21309.m64043_191219_192900.dc.q20.fastq.gz │
 └───────────┴─────────────┴──────────────────────────────────────────────┘
 ```
-Setup:
 
-allow_dupe_run_accessions = False
+
+Validation
+```
+submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_submission_metadata.csv'
+wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_data_table.csv'
+tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/metadata-14735462-processed-ok.tsv'
 index = 'filename'
-csv = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_data_table.csv'
-tsv = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/metadata-14735462-processed-ok.tsv'
-overide_csv_with_tsv_in_these_columns = [] # if we don't care: ['study', 'filetype']
-csv_is_actually_tsv = False
-
+allow_wrangled_to_conflict_with_submission_here = ['library_ID', 'filetype', 'instrument_model']
+overide_csv_with_tsv_in_these_columns = ['library_ID']
+submission_csv_is_actually_tsv = False
+wrangled_csv_is_actually_tsv = False
+wrangled_csv_can_lack_library_id = False
+tsv_is_multi_file = False
+```
