@@ -1,9 +1,10 @@
 Process:
 0. `pip install polars tqdm` for python scripts
-1. Download a sheet from the master index file workbook (one sheet per sequencing technology)
-2. `python3 create_inputs_from_sheet.py` (requires aws CLI, but it doesn't need to be authenticated)
+1. Download a sheet from the master index file workbook Google Sheet as a CSV file
+2. `python3 create_inputs_from_sheet.py [sheet_filename.csv]` (requires aws CLI, but it doesn't need to be authenticated)
 3. rm first line of resulting TSV (resulting TSVs saved here in "input_tsvs")
 4. Ensure you're authenticated on gcloud on Phoenix and parallel composite uploads are TURNED OFF in config
+	* If you're not sure, run: `gcloud config set storage/parallel_composite_upload_enabled False`
 5. `s3_to_gcs_transfer.slurm`
 6. `summarize_logs.sh` in the dir where all the logs got dumped [warning: slow as heck]
 7. When the ONT data invitably bugs out:
