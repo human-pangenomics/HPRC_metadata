@@ -1,0 +1,2132 @@
+{
+  "Objects": [
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_192642_s1.fail_reads.bc1015.bam",
+      "VersionId": "nUWaMGRjmWSioZD7VCLeXeOPMB1xUOju"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_192642_s1.fail_reads.bc1015.bam.pbi",
+      "VersionId": "rsoP40YWWDEQk1bAQxv5w.luBylrOvZO"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_192642_s1.fail_reads.bc1016.bam",
+      "VersionId": "tdIbHNtBjh_nj23rJR75a4aiNAtB7DRO"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_192642_s1.fail_reads.bc1016.bam.pbi",
+      "VersionId": ".iL3nnn9wB7K4QdRqNkSY7ii4JKr711t"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_192642_s1.fail_reads.bc1018.bam",
+      "VersionId": "IXyZaR_ThG.UVUCLwLiN.wT1_Wjrty01"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_192642_s1.fail_reads.bc1018.bam.pbi",
+      "VersionId": "XnW7kIqlv5FfteA.shAfLq9mfqPuzPn_"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_192642_s1.fail_reads.bc1019.bam",
+      "VersionId": "LdmcvpoaOKOL0rgRT2IrSukmumXKVVN4"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_192642_s1.fail_reads.bc1019.bam.pbi",
+      "VersionId": "F5MF_sZQb2ThWFPcIhlJhtg73JdK0hhG"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_192642_s1.fail_reads.unassigned.bam",
+      "VersionId": "Pmw2PLZt4itAey5sgcaVciARoLMhwAM3"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_192642_s1.fail_reads.unassigned.bam.pbi",
+      "VersionId": "YeyP9pVAnCTFIQwy6Vx93XqSlz6Im5We"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_195701_s2.fail_reads.bc1015.bam",
+      "VersionId": "FsupEL3_u5YAP5vBNvXYSBQTW7htzvOi"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_195701_s2.fail_reads.bc1015.bam.pbi",
+      "VersionId": "NJEcp7vCzV01kcb7ZH9LDqlOY.wi9nmB"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_195701_s2.fail_reads.bc1016.bam",
+      "VersionId": "a0oHUxAQljhSQcwTccsU.dyLs_tQNYgK"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_195701_s2.fail_reads.bc1016.bam.pbi",
+      "VersionId": "coB_FWa0RTXegG.Okc0YLXTeW0zI7yuJ"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_195701_s2.fail_reads.bc1018.bam",
+      "VersionId": "lF4nwVMzcKiVtekkF1O30Wgu7qPrVRgg"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_195701_s2.fail_reads.bc1018.bam.pbi",
+      "VersionId": "tsBZAU0FNDyS02leiqjXPpV.g1CAKNI1"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_195701_s2.fail_reads.bc1019.bam",
+      "VersionId": "qur2no7_8b_4nORhpjmbKt9m_deLpWnm"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_195701_s2.fail_reads.bc1019.bam.pbi",
+      "VersionId": "ctH2oUPZTQP07WtJYMccQkZoablu9YOn"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_195701_s2.fail_reads.unassigned.bam",
+      "VersionId": "fDvJV3Sk6CseEhVy2GaqGq2FqfOkG4GH"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_195701_s2.fail_reads.unassigned.bam.pbi",
+      "VersionId": "ATtL4Uc3Yr0Z8jbHuH.nlrA2gCUPIROl"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_202807_s3.fail_reads.bc1015.bam",
+      "VersionId": "iwrMIHXOGe9NpX5X.9z_7393gcSmcNVO"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_202807_s3.fail_reads.bc1015.bam.pbi",
+      "VersionId": "WhbiF2PHOhnpBxsXiLJjE6yQBegxI2po"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_202807_s3.fail_reads.bc1016.bam",
+      "VersionId": "KGdccXiN7gTRZczxdGDeOewENvoaaom8"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_202807_s3.fail_reads.bc1016.bam.pbi",
+      "VersionId": "o6oAn7zjHSv.IccoSPOhvPZKf9HGm0eD"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_202807_s3.fail_reads.bc1018.bam",
+      "VersionId": "NExGeLhW.f_fDzgAlwDkhvNGRBya7Y4q"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_202807_s3.fail_reads.bc1018.bam.pbi",
+      "VersionId": "58sv5D_hyOWL9zjOFLQzGMeLqQd7Jfm7"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_202807_s3.fail_reads.bc1019.bam",
+      "VersionId": "o50vQo7JHJ.BEWUMsfwti4zFf2eAr5w_"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_202807_s3.fail_reads.bc1019.bam.pbi",
+      "VersionId": "vHdFm2.T89NXXPhB8_0Mb.qXXF8Gh4bG"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_202807_s3.fail_reads.unassigned.bam",
+      "VersionId": "a4mCV6NKo56WXC.8_LPNJuM2EY3S2dv_"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/fail_reads/m84091_230905_202807_s3.fail_reads.unassigned.bam.pbi",
+      "VersionId": "fN.uTUUg31xTTb4gtYAmlNoj.YSe4qab"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1015.bam",
+      "VersionId": "En4AXptoeu.GTrfR1TQQIHFhSvlAcyKO"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1015.bam.pbi",
+      "VersionId": "IYu0Bd9r1aSWxn3enEBTAGRvYNjfeBG7"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1016.bam",
+      "VersionId": ".b8wk1dGHg.SkmMpL9xYfl2k0OQ.8YUg"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1016.bam.pbi",
+      "VersionId": "bQ4ZDrieE7PTE0a5zP8pVG4vnCRXQdpA"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1018.bam",
+      "VersionId": "UR5VGWhEUAKCht2NMK1..jUbIL43wU7c"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1018.bam.pbi",
+      "VersionId": ".cbHnfCyIxKz5MJpzx6hBPF4ISLWAxiW"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1019.bam",
+      "VersionId": "UzrGoDaDZCq5exs248WD7Ae.iL_pSA8F"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1019.bam.pbi",
+      "VersionId": "y_LObFNgkcIn.Tt9inLrmW42iZDb0QRe"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_192642_s1.hifi_reads.unassigned.bam",
+      "VersionId": "WK2uxpQ0IeZkWuQfwoQjNJPT5lVd1Kgi"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_192642_s1.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "UmcQs6z8pgbw6mQpJhW05K3ejSektJ78"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1015.bam",
+      "VersionId": "mA5hdVTepdQVoPTe0.XkIEMwRM_b1MRr"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1015.bam.pbi",
+      "VersionId": "b07IY0Vs4RxBiw52QcPrIDWYDafWNcdG"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1016.bam",
+      "VersionId": "O_uTjw1ISEYlDYj7UTUL6YRUTDn8.VOl"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1016.bam.pbi",
+      "VersionId": "UqVEUTWlIqZf2zKtI8pK2wWHGZHDlFel"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1018.bam",
+      "VersionId": "od98..NHqYGvXT07za37OtMkAvxjRE9M"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1018.bam.pbi",
+      "VersionId": "aZBW5b3K._UDC5oB9.UhoLaxCmnTokmA"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1019.bam",
+      "VersionId": "rnDTSBSdXDQaSRwsc2RBVXaH3v4nAk5W"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1019.bam.pbi",
+      "VersionId": "radYnK7V0Uwp3PBBBK_gCFYp0g_mfGmB"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_195701_s2.hifi_reads.unassigned.bam",
+      "VersionId": "Db8WEUHPkmVEfjF6NSuLHredXLMzPs96"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_195701_s2.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "orCcRINpZrpZtlGj4aHMtrFjkrCjSKD0"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1015.bam",
+      "VersionId": "I_00GDJGk4.1vlZ2QyWDzr.o5T1ux0Ar"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1015.bam.pbi",
+      "VersionId": "ybkiLP_tJVDgI7EjDts1bU2D9UH7gQF_"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1016.bam",
+      "VersionId": "h__Tk7MwVwnZ9wIE8OadsJt0Wx9IEsmI"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1016.bam.pbi",
+      "VersionId": "dCgWWO5Cvf1RmyZB6Lk9.PsIudyKRt8M"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1018.bam",
+      "VersionId": "CxCikFZTpow537.eSxBYz7XCAW0P.oMW"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1018.bam.pbi",
+      "VersionId": "EXnywfd2z6GhfAYWaF4Sn3TYpwkxbURm"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1019.bam",
+      "VersionId": "a29UEO_E9I0b1_3Q90yj457Eako1dn2K"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1019.bam.pbi",
+      "VersionId": "Yll63yehcIT7bVxCbrjiP9b.Wl23g3Vu"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_202807_s3.hifi_reads.unassigned.bam",
+      "VersionId": "VVGKVnl7qDycbhSxCVhMJIFNkmQCb.wn"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG00658/hifi_reads/m84091_230905_202807_s3.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "_Po_kSuJtWcTJIrsI5g5K7hPHrNPKY7y"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_192642_s1.fail_reads.bc1015.bam",
+      "VersionId": "88r.pDJlxy1GsNCU.R6eDJhfvsoo32qU"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_192642_s1.fail_reads.bc1015.bam.pbi",
+      "VersionId": "spzm0Y0M9lEJurAzaSb1P6O3Kdr_J2XG"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_192642_s1.fail_reads.bc1016.bam",
+      "VersionId": "5hdZOuL5hdbXvPrhRnj7zxxqDWWkGZkf"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_192642_s1.fail_reads.bc1016.bam.pbi",
+      "VersionId": "wgjyevCrClIR2SqaXKVowhbLre8PSHob"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_192642_s1.fail_reads.bc1018.bam",
+      "VersionId": "i3rIQ.C_3InjeVKfdCrj.BG212hWyABb"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_192642_s1.fail_reads.bc1018.bam.pbi",
+      "VersionId": "4xGUwdhqwQE3HKFrmFIK0_z6opCYYx5K"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_192642_s1.fail_reads.bc1019.bam",
+      "VersionId": "LwadBRqnjSO2BDoq5PNUaTXMlJtyjc.J"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_192642_s1.fail_reads.bc1019.bam.pbi",
+      "VersionId": "uzsOMIm0zXXnP1Eky0m2KaM_eB9ed8Kd"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_192642_s1.fail_reads.unassigned.bam",
+      "VersionId": "xtcN4hUGOFbGhzMaDYLWCDx1SZPEaZK8"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_192642_s1.fail_reads.unassigned.bam.pbi",
+      "VersionId": "Z2fOMOBcMLkDGelasIE1V2vfqOWmcagq"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_195701_s2.fail_reads.bc1015.bam",
+      "VersionId": "EpJw5_.P2VSNvVTIPXgu5t6D7fLH38KD"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_195701_s2.fail_reads.bc1015.bam.pbi",
+      "VersionId": "obzBtrg1L3mJdERXYLQb_Wcfl7YjIJ.3"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_195701_s2.fail_reads.bc1016.bam",
+      "VersionId": "iC9PhPLj._fP5Fpen03PPii7H54aepn6"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_195701_s2.fail_reads.bc1016.bam.pbi",
+      "VersionId": "ZsKEfvBmCkzkD.1WhMVyeCtWuBu93MCI"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_195701_s2.fail_reads.bc1018.bam",
+      "VersionId": "Ij7LvdHnc8sGWRTGbx8qQ7pjJP1p9LOg"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_195701_s2.fail_reads.bc1018.bam.pbi",
+      "VersionId": "E5KFAvnpuCAwWWaw2eNUpKOz3gt0GQCt"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_195701_s2.fail_reads.bc1019.bam",
+      "VersionId": "W9B1GnNvecNFGnV_rHXwQfibmOAMeNsh"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_195701_s2.fail_reads.bc1019.bam.pbi",
+      "VersionId": "vJ6MiELdd422eE7DdDguqktt2qKw5Zzo"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_195701_s2.fail_reads.unassigned.bam",
+      "VersionId": "OWYQ2s0hn4H4TSlBf.Ra4dHfvlng4tBm"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_195701_s2.fail_reads.unassigned.bam.pbi",
+      "VersionId": "Z.ECmMvrxKbBwbZaSRINpZGTAYaE60uk"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_202807_s3.fail_reads.bc1015.bam",
+      "VersionId": "9A4n0TQ3Brzp8VHB2WxI.5Z3dpRk7b9A"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_202807_s3.fail_reads.bc1015.bam.pbi",
+      "VersionId": "9Rf9PSGBQwxHOSBKisSMjTjyw.zpZakD"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_202807_s3.fail_reads.bc1016.bam",
+      "VersionId": "UV28a2kBAKXvy.UnyO6I15HrCPeTl9NC"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_202807_s3.fail_reads.bc1016.bam.pbi",
+      "VersionId": "1QSwnC2NWSZ1jZgp5Km0wgd0y7evhC8J"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_202807_s3.fail_reads.bc1018.bam",
+      "VersionId": "LtxnBKADCc1lhGcsyNBYHmFy.hd1g95H"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_202807_s3.fail_reads.bc1018.bam.pbi",
+      "VersionId": "PoOyVOwkCSjv2zlG3ArJCvlbfn8vp.C8"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_202807_s3.fail_reads.bc1019.bam",
+      "VersionId": "qT4qO7H_.SmvKyhynbYAU5iNfaX0S8oR"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_202807_s3.fail_reads.bc1019.bam.pbi",
+      "VersionId": "o0O0mmvRKv1mWZG.v3xJ9xQKWl.70mBD"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_202807_s3.fail_reads.unassigned.bam",
+      "VersionId": "ZPMX378wHZVr6R1TYZUGLSg.2Pz2lrd2"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_230905_202807_s3.fail_reads.unassigned.bam.pbi",
+      "VersionId": "QkZEjUrcHYdbMQg.vzUqwqGppQ6sWgUj"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_231004_192043_s3.fail_reads.bc1016.bam",
+      "VersionId": "JW44RQdIozsOHLC3MhboS8irzP6hwppU"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_231004_192043_s3.fail_reads.bc1016.bam.pbi",
+      "VersionId": "c0fn0qerSOhpdS9zUTq0vJLmEwMcpi5G"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_231004_192043_s3.fail_reads.bc1019.bam",
+      "VersionId": "83vaZL0WkLhwGozOUEdn2V5sGxwp95Jt"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_231004_192043_s3.fail_reads.bc1019.bam.pbi",
+      "VersionId": "vZEvDnRoy49cx1cEK1QWpwKHvlfMPLoa"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_231004_192043_s3.fail_reads.unassigned.bam",
+      "VersionId": "tj0Eljg2gC0Nti.ZunuSdwf9N40HcUgk"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/fail_reads/m84091_231004_192043_s3.fail_reads.unassigned.bam.pbi",
+      "VersionId": "TbBL1LHXAAOhGx77uh3IR7h0b4JftWSF"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1015.bam",
+      "VersionId": "jtZeHAGHdRTkGKXGTUe7AKgJFiOYnrfJ"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1015.bam.pbi",
+      "VersionId": "spdfWE4987iInctVbj5hfiKpwR4Xc37C"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1016.bam",
+      "VersionId": "uVFF6OJwWCOYc5VF8ShG9BpdRutwsVnp"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1016.bam.pbi",
+      "VersionId": "aWs9WxmHLRDPDK26LftbQ8QjG8KrUoWV"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1018.bam",
+      "VersionId": "oZks8difAHAGTf1zdmgqPgc0GvcaauYO"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1018.bam.pbi",
+      "VersionId": "Dyijd0v6WI8xMwyb8BnUOkkttG0GJe0G"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1019.bam",
+      "VersionId": "TEt2GoUHyAxGWaQPOJ_arhkBZE0IJueT"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1019.bam.pbi",
+      "VersionId": "1JPGBl.Yc26mzeKC.wbBtxtfEpl6SxOW"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_192642_s1.hifi_reads.unassigned.bam",
+      "VersionId": "sMcH4x9OWr3S1tIwmCMTSmN3G.DoXLDa"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_192642_s1.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "GT5JpdmrsCI.x1buH_E2Em5SN68adlom"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1015.bam",
+      "VersionId": "Ek8_2pNYwqva3NXqk2va8sN58lJiul8b"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1015.bam.pbi",
+      "VersionId": "7RHsMpSDHNt4wJ.ittxYJWUtTzAmn4W."
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1016.bam",
+      "VersionId": "riUzXdAl7gUyJazAdmJx6rQ6sUD6mbf7"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1016.bam.pbi",
+      "VersionId": "rr2H086T9bujzkkKODCmt18PTsQ1Nryj"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1018.bam",
+      "VersionId": "zzRV_BGoT5twNGRY1Vlee.iPBw_QvqLD"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1018.bam.pbi",
+      "VersionId": "oD53YzDT6zV9WaZCB4zgf1PRcEQD.Dvo"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1019.bam",
+      "VersionId": "Unc0ab3clrw6coCBHtfxa_JR4xY_HSdV"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1019.bam.pbi",
+      "VersionId": "dGNRjKgjKGyZD76RiEdA_gyfl7wG0mKy"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_195701_s2.hifi_reads.unassigned.bam",
+      "VersionId": "nQoFceKVYOzXf0V6YBaX28cV9MoVAphX"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_195701_s2.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "J3cFtJ57kf.v2r1s7HE_6tjOlC8A8.76"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1015.bam",
+      "VersionId": "qjw3X4uUHE0uRn3rEsKvLSoNGpICqzCh"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1015.bam.pbi",
+      "VersionId": "JAOweOTpmIS3w7t60XnKLItRphryoL2x"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1016.bam",
+      "VersionId": "c5rHv6_FaO16RFwWZr.3275Af0ZUcRMq"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1016.bam.pbi",
+      "VersionId": "JfSQSApPiYUb2CzsDeKXapsOi9BggDQF"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1018.bam",
+      "VersionId": "WQW2p4dZ4.f6FF501BjP1AH4dyrcW3YI"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1018.bam.pbi",
+      "VersionId": "ixsmD3LuxQKwW7nU4pfRM5GDOj4NTCzx"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1019.bam",
+      "VersionId": "ibQUGC9WTbl5qiNKsw7LCynE8xFcsALS"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1019.bam.pbi",
+      "VersionId": "YrKQJiiD4edlkVVaN60Hn8MHTi9B3q6d"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_202807_s3.hifi_reads.unassigned.bam",
+      "VersionId": "aKtBcaIchbwxa_Npsj0hpavX6XEpwphc"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_230905_202807_s3.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "7F.K5eORuzLipMcfZhHi4ztkal6x9ewD"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_231004_192043_s3.hifi_reads.bc1016.bam",
+      "VersionId": "a559GfkZptTzYZz7bd50sACK5.N31axa"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_231004_192043_s3.hifi_reads.bc1016.bam.pbi",
+      "VersionId": "rJ8ZkScoFP4jedc3W.rjOzLYdRJEEG1N"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_231004_192043_s3.hifi_reads.bc1019.bam",
+      "VersionId": "vd7Km9Srgdo2pNAAqyOFS6N3s5.8gzrt"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_231004_192043_s3.hifi_reads.bc1019.bam.pbi",
+      "VersionId": "Fpyg6yyQpa_IJokFvmFolO_KSe2tPoen"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_231004_192043_s3.hifi_reads.unassigned.bam",
+      "VersionId": "o6zipTRn0Edmxt2TUPR4lNU1FoEoI4W9"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01150/hifi_reads/m84091_231004_192043_s3.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "jeJbq7hoNKRJgBcv1STtdGZkHFBYMXLO"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01252/fail_reads/m84091_230905_205913_s4.fail_reads.bc1017.bam",
+      "VersionId": "xQAPxn8uWM8ytuxOMfoGCcdguisorg8I"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01252/fail_reads/m84091_230905_205913_s4.fail_reads.bc1017.bam.pbi",
+      "VersionId": "LalJfEDK.yf_0vU02btM5x1G.jsmmiW5"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01252/fail_reads/m84091_230905_205913_s4.fail_reads.bc1020.bam",
+      "VersionId": "JRHEkGFILUlvBfI4vUI6J9rcYxQH7MAl"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01252/fail_reads/m84091_230905_205913_s4.fail_reads.bc1020.bam.pbi",
+      "VersionId": "EZ4NuHafif8Eu3rBYfM3TYsx7SKzrdlf"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01252/fail_reads/m84091_230905_205913_s4.fail_reads.unassigned.bam",
+      "VersionId": "Gt0_syKuIdIEkWRkbJ2segKVwjkh8TBZ"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01252/fail_reads/m84091_230905_205913_s4.fail_reads.unassigned.bam.pbi",
+      "VersionId": "z.w1oQHqYU.Oc8.zKhZyUVPLT8ZZ18sj"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01252/hifi_reads/m84091_230905_205913_s4.hifi_reads.bc1017.bam",
+      "VersionId": "11cohmy_CDH_K13sYq7K.UgpgFSDwbF0"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01252/hifi_reads/m84091_230905_205913_s4.hifi_reads.bc1017.bam.pbi",
+      "VersionId": "rg1wYTwZz4QM0tNy2Rltzyyc79nZXbW."
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01252/hifi_reads/m84091_230905_205913_s4.hifi_reads.bc1020.bam",
+      "VersionId": "hMn9hAyux8_476UAjran_qhyy1GZsO7T"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01252/hifi_reads/m84091_230905_205913_s4.hifi_reads.bc1020.bam.pbi",
+      "VersionId": ".8AQBsno9.MyXhW3lT73Wyma81GvMcZO"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01252/hifi_reads/m84091_230905_205913_s4.hifi_reads.unassigned.bam",
+      "VersionId": "yVl_aV7y_DPMTA5kMJaJ8AZYPev5rm4L"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01252/hifi_reads/m84091_230905_205913_s4.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "OxCeZG7d3SkjSDYya5VL7NmajXm8epJd"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_194716_s4.fail_reads.bc1008.bam",
+      "VersionId": "CeJGhGfyT2OaeYgDWwa2GlASU3Rx4pZP"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_194716_s4.fail_reads.bc1008.bam.pbi",
+      "VersionId": "ba4hbC9jBjGKTPYyZxindeMkZ4UteP4A"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_194716_s4.fail_reads.bc1021.bam",
+      "VersionId": "tuq7bCubhIvG3U3RIodZCHdGd4ZISscS"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_194716_s4.fail_reads.bc1021.bam.pbi",
+      "VersionId": "Amk8M6gj2oSgBbQntlcJCkmkJD.rw6FC"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_194716_s4.fail_reads.unassigned.bam",
+      "VersionId": "l667EtMu25K37PFwaG6nHnx9CBp.vc0L"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_194716_s4.fail_reads.unassigned.bam.pbi",
+      "VersionId": "oOVb5PWuxMa3VPx81xozB1W0wCZCtrpc"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_201822_s1.fail_reads.bc1011.bam",
+      "VersionId": "KD8kPuBqfEf7Y.3BFQi1FeivRFjaThaq"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_201822_s1.fail_reads.bc1011.bam.pbi",
+      "VersionId": "KSHEoElAw.GytMpxuwgBTgL97kEBXre2"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_201822_s1.fail_reads.bc1021.bam",
+      "VersionId": "7jInYdaWZo9AsOuZeTIFwHMtpkN4imox"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_201822_s1.fail_reads.bc1021.bam.pbi",
+      "VersionId": "Qpfq.dDM9XIG2ISajdPXpE1Xb_gG..Hh"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_201822_s1.fail_reads.unassigned.bam",
+      "VersionId": "i22_K2RCwA4qrmf3Bp2BJ4zth1op8cxa"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_201822_s1.fail_reads.unassigned.bam.pbi",
+      "VersionId": "Du6KaetIJWPsuo4sgAiTLal2S_mi2mrI"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_204928_s2.fail_reads.bc1018.bam",
+      "VersionId": "1YOd3Bh7RyvOLsW.bF2XPADUZDxDyOgt"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_204928_s2.fail_reads.bc1018.bam.pbi",
+      "VersionId": "ekoDK.4pDVUdIWxSxtnYX8k.95sjTm3q"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_204928_s2.fail_reads.bc1021.bam",
+      "VersionId": "rG665mUNKxHlayBnlE1vJcsZnsKk981C"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_204928_s2.fail_reads.bc1021.bam.pbi",
+      "VersionId": "ozCE5_oXwCIeBf_Lv18rF7AzHIi4pNWw"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_204928_s2.fail_reads.unassigned.bam",
+      "VersionId": "bKJnywKRvBm.jDFuFYTPWqGTcWDpT1pe"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/fail_reads/m84091_231208_204928_s2.fail_reads.unassigned.bam.pbi",
+      "VersionId": "Al3e0.fbRWTB.n0ZxM7PN.mMH39b6WBC"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_194716_s4.hifi_reads.bc1008.bam",
+      "VersionId": "HZURdKLREp1f4wi_tsyl1qoty3sFQeqs"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_194716_s4.hifi_reads.bc1008.bam.pbi",
+      "VersionId": "6NrDma6vcTxyl8s5m.Jo6Q7GwmEqXOLy"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_194716_s4.hifi_reads.bc1021.bam",
+      "VersionId": "8K_OAwgSpktldCKuLNoCMETT10kvLoS7"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_194716_s4.hifi_reads.bc1021.bam.pbi",
+      "VersionId": "rZze5_Do259.OAUMWCDShyXN9z.EVmaq"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_194716_s4.hifi_reads.unassigned.bam",
+      "VersionId": "TV.Iw5I6XNFgbycEQg53FYBrdhMFu8B."
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_194716_s4.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "GJ0mtsCsvP_84FGGd14YPb3VOB5JZG9q"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_201822_s1.hifi_reads.bc1011.bam",
+      "VersionId": "Jm_cEmOwU32UHRa5QM6_zB1Hw_UWquVz"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_201822_s1.hifi_reads.bc1011.bam.pbi",
+      "VersionId": "HtTMx9fMt6j1QUimP9PFHLMrnDvr4emv"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_201822_s1.hifi_reads.bc1021.bam",
+      "VersionId": "R3GdcLiaa2lnuQaEvXNB6xqXrY2xLWGz"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_201822_s1.hifi_reads.bc1021.bam.pbi",
+      "VersionId": "p7w5fbex2mioBbvm5tjfq7qHW6uR7CEN"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_201822_s1.hifi_reads.unassigned.bam",
+      "VersionId": "vg4K9jCwLw92gPxheyhI_wwAdqpRrtus"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_201822_s1.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "UywZS8_fpGBZKkg3P0MyEbp92sR.WaJL"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_204928_s2.hifi_reads.bc1018.bam",
+      "VersionId": "rhonhoLFVBKPuLTr_SUlivtOEyQb4KGE"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_204928_s2.hifi_reads.bc1018.bam.pbi",
+      "VersionId": "bB_KAmuHoLJyoxXOjoCegU4spmm5DE2c"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_204928_s2.hifi_reads.bc1021.bam",
+      "VersionId": "zYMAX3Oc_3PUmqMp5NDI7J.cvO3QqXuI"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_204928_s2.hifi_reads.bc1021.bam.pbi",
+      "VersionId": "HdOtwwEYyt.gBWoLVTj8HFA4c05lMUE."
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_204928_s2.hifi_reads.unassigned.bam",
+      "VersionId": "W_VJhiuy3_27FAYGZEnViYLE.fNfXrFV"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01530/hifi_reads/m84091_231208_204928_s2.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "re0tMfq_CJmDGbji2fBJUSZ2d4DYtEpq"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01784/fail_reads/m84091_231120_182829_s1.fail_reads.bc1017.bam",
+      "VersionId": "PC10ZjwEWDia5becYpPgir3T6x2KOnm4"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01784/fail_reads/m84091_231120_182829_s1.fail_reads.bc1017.bam.pbi",
+      "VersionId": "YE52WpOCYvfOhYfbe5QDuUlfTWhzGC01"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01784/fail_reads/m84091_231120_182829_s1.fail_reads.bc1019.bam",
+      "VersionId": "DBz94BDGsHrjHZMoVuYwhWX9B8nGnjzG"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01784/fail_reads/m84091_231120_182829_s1.fail_reads.bc1019.bam.pbi",
+      "VersionId": "Cvdxw9YDUIC1hcpN0Am.YDWo51Cmzd1D"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01784/fail_reads/m84091_231120_182829_s1.fail_reads.unassigned.bam",
+      "VersionId": "JynLFwxFtjtIQkxcW5HAUruLi49b2DN3"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01784/fail_reads/m84091_231120_182829_s1.fail_reads.unassigned.bam.pbi",
+      "VersionId": "9RbVNkWdj.azkk_nNz92A7cUXIEoTKg2"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01784/hifi_reads/m84091_231120_182829_s1.hifi_reads.bc1017.bam",
+      "VersionId": "TGCXBIEU5jFTOWVS0FjffNjBYNNT90aL"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01784/hifi_reads/m84091_231120_182829_s1.hifi_reads.bc1017.bam.pbi",
+      "VersionId": ".IMC5wfzE3Vtx.iziGqoTN_oSEzfOI59"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01784/hifi_reads/m84091_231120_182829_s1.hifi_reads.bc1019.bam",
+      "VersionId": "xw.42HodER_emSwC4zHaphXHbl3pcVNz"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01784/hifi_reads/m84091_231120_182829_s1.hifi_reads.bc1019.bam.pbi",
+      "VersionId": "rF09AN48DWCbp7dVcPK9R3lt92kslpmn"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01784/hifi_reads/m84091_231120_182829_s1.hifi_reads.unassigned.bam",
+      "VersionId": "z9rzM4sXyICF1a363r58N.mw5Y9IeNXU"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01784/hifi_reads/m84091_231120_182829_s1.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "M4UHv82OKs3SiLUVN6NmbJv6nosIqIT6"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01940/fail_reads/m84091_240110_191713_s4.fail_reads.bc1010.bam",
+      "VersionId": "WAl02yamHIB3VmNqhlhXkETJ2ngNtTKG"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01940/fail_reads/m84091_240110_191713_s4.fail_reads.bc1010.bam.pbi",
+      "VersionId": "8wefU3nR9Py.7tN_tB7gvEICOLTHwp9j"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01940/fail_reads/m84091_240110_191713_s4.fail_reads.unassigned.bam",
+      "VersionId": "kBY53O6Q9Z8P5R39ytOeCJ0JzMgWRlTx"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01940/fail_reads/m84091_240110_191713_s4.fail_reads.unassigned.bam.pbi",
+      "VersionId": "55h5zLAaHiBrlDZrnVOIqh3UYlUaJIH2"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01940/hifi_reads/m84091_240110_191713_s4.hifi_reads.bc1010.bam",
+      "VersionId": "tSXPt2.Xw2kLWlF8uPB7tYPZwqYITBfb"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01940/hifi_reads/m84091_240110_191713_s4.hifi_reads.bc1010.bam.pbi",
+      "VersionId": "Ya5kEpN0LfpIGhSNQ8NLwHdRbdP_VR3k"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01940/hifi_reads/m84091_240110_191713_s4.hifi_reads.unassigned.bam",
+      "VersionId": "bs1ihBVyq71UrsiYvnTfo0frt6if9oEz"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01940/hifi_reads/m84091_240110_191713_s4.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "DkkkOawVdZF7YB8.4xXwmiMwDFDn8Y24"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01960/fail_reads/m84091_230817_150246_s3.fail_reads.bc1012.bam",
+      "VersionId": "iZdBHcYw3qH6MtRVxwbm1tvishQ3VOYM"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01960/fail_reads/m84091_230817_150246_s3.fail_reads.bc1012.bam.pbi",
+      "VersionId": "_lBhzlvnccUeIqBX90CMA54I6Pu55JIL"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01960/fail_reads/m84091_230817_150246_s3.fail_reads.bc1015.bam",
+      "VersionId": "wxe.3dDreCJE7zeI6s5OzE31bq7A18ZZ"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01960/fail_reads/m84091_230817_150246_s3.fail_reads.bc1015.bam.pbi",
+      "VersionId": "lxQzHAWY4wCKyClLrIndmHHHNFo0FE0o"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01960/fail_reads/m84091_230817_150246_s3.fail_reads.unassigned.bam",
+      "VersionId": "Nd1Ea9QmwroqbS3vq1BzHciREUT2_bVO"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01960/fail_reads/m84091_230817_150246_s3.fail_reads.unassigned.bam.pbi",
+      "VersionId": "3L_RmK0_eG4LKDjNfZgTlF9XtrdxcbgZ"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01960/hifi_reads/m84091_230817_150246_s3.hifi_reads.bc1012.bam",
+      "VersionId": "08XtiD_q6ABEIrZB.4Pzc7wL9dgjqPtW"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01960/hifi_reads/m84091_230817_150246_s3.hifi_reads.bc1012.bam.pbi",
+      "VersionId": "2Kr5p._52SaGfgYmuk5VioyP6x7P8sax"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01960/hifi_reads/m84091_230817_150246_s3.hifi_reads.bc1015.bam",
+      "VersionId": "8FjlYvVL_h.iE2Ai8Djgu.dbuMVsKltj"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01960/hifi_reads/m84091_230817_150246_s3.hifi_reads.bc1015.bam.pbi",
+      "VersionId": "qPIohfcpujBJSvKEvO6yqV88LkkzTMGA"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01960/hifi_reads/m84091_230817_150246_s3.hifi_reads.unassigned.bam",
+      "VersionId": "N7poq9YEHopBNwbU1XgKL3bJq65S9BDh"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01960/hifi_reads/m84091_230817_150246_s3.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "1z14.Y12sj0J5b0WgSUwJ1opQPz_xQED"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01969/fail_reads/m84091_240110_201841_s2.fail_reads.bc1002.bam",
+      "VersionId": "DgmddgAw8JlBMVaG88UsV4HtYhqjMTjz"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01969/fail_reads/m84091_240110_201841_s2.fail_reads.bc1002.bam.pbi",
+      "VersionId": "jXE6QmBrcRYgVchBarkn_dTTuZ0_8Jea"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01969/fail_reads/m84091_240110_201841_s2.fail_reads.unassigned.bam",
+      "VersionId": "EY0lkha2.Av.03nwQbCU5onikfHcu3kg"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01969/fail_reads/m84091_240110_201841_s2.fail_reads.unassigned.bam.pbi",
+      "VersionId": "RcTSgB0oPFJSJXrh8Im_nuuFwKmno0JU"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01969/hifi_reads/m84091_240110_201841_s2.hifi_reads.bc1002.bam",
+      "VersionId": "qH.y4ijlHAx0BK7MvBKeLeeSgM3CEcik"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01969/hifi_reads/m84091_240110_201841_s2.hifi_reads.bc1002.bam.pbi",
+      "VersionId": "lg19mehJ3PPR_9AzDBywtUJeqbD0vm6J"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01969/hifi_reads/m84091_240110_201841_s2.hifi_reads.unassigned.bam",
+      "VersionId": "ejp70rVEf.OKg6AKsmJVFyNss9cplnwi"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG01969/hifi_reads/m84091_240110_201841_s2.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "PG0.f.5cUJctatDFiRW5rkWQPKr7lJ4x"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02391/fail_reads/m84091_231120_185935_s2.fail_reads.bc1010.bam",
+      "VersionId": "6Oq0FemEtyd5Rx25LoNvDKBWHXQ1Y8UO"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02391/fail_reads/m84091_231120_185935_s2.fail_reads.bc1010.bam.pbi",
+      "VersionId": "1.nAoZ2W2Yf.pqehYWWaZ5fG5sGK_.RZ"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02391/fail_reads/m84091_231120_185935_s2.fail_reads.bc1016.bam",
+      "VersionId": "62aOTvCvjV_UW.vHGhtouQm.ZTE3.0JX"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02391/fail_reads/m84091_231120_185935_s2.fail_reads.bc1016.bam.pbi",
+      "VersionId": "flnlPJJjCzfq.Y4Gl5svyeL6Mw_HsJ3i"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02391/fail_reads/m84091_231120_185935_s2.fail_reads.unassigned.bam",
+      "VersionId": "DgS.8sH1qLM96HW1ZM6s.hhSvCcwv5tN"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02391/fail_reads/m84091_231120_185935_s2.fail_reads.unassigned.bam.pbi",
+      "VersionId": "32meeOVK10A7ZLwkaRg1fegPJq.8XPnO"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02391/hifi_reads/m84091_231120_185935_s2.hifi_reads.bc1010.bam",
+      "VersionId": "3KtNB2gvKonQmzj8WN1LR3hhXHhDZINS"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02391/hifi_reads/m84091_231120_185935_s2.hifi_reads.bc1010.bam.pbi",
+      "VersionId": "8a2aWzSjrGzeethjXr1ABjW0_1k0jmKU"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02391/hifi_reads/m84091_231120_185935_s2.hifi_reads.bc1016.bam",
+      "VersionId": "pREq.5wWZvNuoT57LMobm5RE0sFhijpJ"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02391/hifi_reads/m84091_231120_185935_s2.hifi_reads.bc1016.bam.pbi",
+      "VersionId": "5zRQJfLTHRFgeVJuyyujc7_aIDTxpv7g"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02391/hifi_reads/m84091_231120_185935_s2.hifi_reads.unassigned.bam",
+      "VersionId": "Sg1W_Lf8dtsb8UocYgQniPZN42JrsHaF"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02391/hifi_reads/m84091_231120_185935_s2.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "UeSJsOro9HPhbv5Q1C9AjpsF_aJ9dG0."
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02514/fail_reads/m84091_240110_194735_s1.fail_reads.bc1001.bam",
+      "VersionId": "kJtVuVXYUCrAf_LD_RpCk3DHOAgMMhXq"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02514/fail_reads/m84091_240110_194735_s1.fail_reads.bc1001.bam.pbi",
+      "VersionId": "KQhNLHlXs_edN70.S09xc3Qz1aoiGsI3"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02514/fail_reads/m84091_240110_194735_s1.fail_reads.unassigned.bam",
+      "VersionId": "Yqd9etyU8m16IMF7YgKIy4zdRqZdSunl"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02514/fail_reads/m84091_240110_194735_s1.fail_reads.unassigned.bam.pbi",
+      "VersionId": "8_fiqhf58g3bhKdTKtWQ2cArjK.64_J8"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02514/hifi_reads/m84091_240110_194735_s1.hifi_reads.bc1001.bam",
+      "VersionId": "O64z4oszAO3q4333DB7vhgx3OL.PX4ZB"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02514/hifi_reads/m84091_240110_194735_s1.hifi_reads.bc1001.bam.pbi",
+      "VersionId": "MizKoTaBkHDYmbrdt52C_Rg7Q4rlVU_P"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02514/hifi_reads/m84091_240110_194735_s1.hifi_reads.unassigned.bam",
+      "VersionId": "FDbRsTIVv9VTBVZiG8TPl_xGda.d227F"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02514/hifi_reads/m84091_240110_194735_s1.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "QSA0CtSc9v1uFNieRWjX0jjspAUdyYFD"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_192642_s1.fail_reads.bc1015.bam",
+      "VersionId": "BWkEhkRkl4CBPvbPYMm0oj27zR6Cnp6U"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_192642_s1.fail_reads.bc1015.bam.pbi",
+      "VersionId": "KTVHo1UoMz0JpmmsFM64Hjl3WbG7Xa83"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_192642_s1.fail_reads.bc1016.bam",
+      "VersionId": "mkOqBRRBRGpR1d5BPTSj2eemab4QfYk5"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_192642_s1.fail_reads.bc1016.bam.pbi",
+      "VersionId": "6rslxyT1t4PytDW7g7xc2hI6sn64Uyd4"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_192642_s1.fail_reads.bc1018.bam",
+      "VersionId": "Y9TsyLpla5erfIdG81dY1zPFpuEGArEo"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_192642_s1.fail_reads.bc1018.bam.pbi",
+      "VersionId": "qVWHAqZjPfesPzLQ81m5EQ9Qaq8ZWG49"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_192642_s1.fail_reads.bc1019.bam",
+      "VersionId": "I7r58OvkjtaM1synRupUeEZ0r9eqMZAB"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_192642_s1.fail_reads.bc1019.bam.pbi",
+      "VersionId": "U3uw2ZSxOgDUvjtOnbTKerJSxnd9T2kx"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_192642_s1.fail_reads.unassigned.bam",
+      "VersionId": "9DG9ImRfw0c2cJQTt30p6ehVZNLR5CYE"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_192642_s1.fail_reads.unassigned.bam.pbi",
+      "VersionId": "AB9buCRcGTfBpHYU8Av0X7xVxjqmcDji"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_195701_s2.fail_reads.bc1015.bam",
+      "VersionId": "kEKJwPwZLL3R9Yf7MSClumfyvxKaDsd8"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_195701_s2.fail_reads.bc1015.bam.pbi",
+      "VersionId": "veZbep1i9kVnmeFHsAwMYbkgr5_oSwmY"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_195701_s2.fail_reads.bc1016.bam",
+      "VersionId": "Q7uqcGU1tWYxKm5MmNHO8iAQs4mvG6ID"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_195701_s2.fail_reads.bc1016.bam.pbi",
+      "VersionId": "bIIKdZDedhw0QlQ3L4GoD7hwIa9dPXPg"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_195701_s2.fail_reads.bc1018.bam",
+      "VersionId": "FsxTGQcIuohK4bb.GI6AeQSFscFv.M27"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_195701_s2.fail_reads.bc1018.bam.pbi",
+      "VersionId": "LSYDT74O5c.l9oH.kcm12BKnWrWIgF8K"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_195701_s2.fail_reads.bc1019.bam",
+      "VersionId": "mT6mDxGJjywtgx2_8.d3K1D4V5UYFUpQ"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_195701_s2.fail_reads.bc1019.bam.pbi",
+      "VersionId": "_vB2qI5Ozh64RJzj6HzdZbhBBN2VVpzp"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_195701_s2.fail_reads.unassigned.bam",
+      "VersionId": "fi6eOrs.4gsaavg_fvNPzb075GuxO2fu"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_195701_s2.fail_reads.unassigned.bam.pbi",
+      "VersionId": "XWlW4nBmG.TEH9Q89yFbyuaVJxEnBQNm"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_202807_s3.fail_reads.bc1015.bam",
+      "VersionId": "hpteMqYnqKjfMzxyFDv7netkChM9fsDx"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_202807_s3.fail_reads.bc1015.bam.pbi",
+      "VersionId": "QhijedrjZQgZyehfmX5QY0vOT1kyWoYJ"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_202807_s3.fail_reads.bc1016.bam",
+      "VersionId": "8NO5npFmwKS_TvG_KHvCPZG_8Aq3PXL9"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_202807_s3.fail_reads.bc1016.bam.pbi",
+      "VersionId": "2F0oGeL_yOUuwuBMFuUPcxqZWrIZiEAt"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_202807_s3.fail_reads.bc1018.bam",
+      "VersionId": "uyAUIpB7BjCeXRvpuppjPUlnKHAFax7G"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_202807_s3.fail_reads.bc1018.bam.pbi",
+      "VersionId": "QnLpUkfK3uoUkxSNgckcYjp9GzuaHbPb"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_202807_s3.fail_reads.bc1019.bam",
+      "VersionId": "O2V3wJFNZQ.7QQNYB6h3KCrq.sC_YivO"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_202807_s3.fail_reads.bc1019.bam.pbi",
+      "VersionId": "XKjYYlSWOW7n_MIpPbcEJ9IYSGOPMXbY"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_202807_s3.fail_reads.unassigned.bam",
+      "VersionId": "9xdskgyT3wBxGpAuQZj4LCcgWTMUNnzY"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/fail_reads/m84091_230905_202807_s3.fail_reads.unassigned.bam.pbi",
+      "VersionId": "_nyWGIzFtD7RqcaJxq7xYgLM.U3awJaI"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1015.bam",
+      "VersionId": "b8RoZrFoAWF_E8I1lIW9eyRf85KIy04s"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1015.bam.pbi",
+      "VersionId": "1kkjqTuqe0qXkiW3d4gSKMlYTLzRDr4J"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1016.bam",
+      "VersionId": ".CB1I.gHir1JfVS77MnQ1vis_VVJbl7K"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1016.bam.pbi",
+      "VersionId": "0y2gLLjeodf.vil.qwPBtAijoDknSxCt"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1018.bam",
+      "VersionId": "lspBMZ9g1OqFc9HlnnFHCY.2Bx5t8BxV"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1018.bam.pbi",
+      "VersionId": "WHgOHkM_RmkltbFnGZoeVSs4O0n4btJE"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1019.bam",
+      "VersionId": "3apAYkjaxVLTSVgmxnmniv3fNl0SuAJE"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_192642_s1.hifi_reads.bc1019.bam.pbi",
+      "VersionId": "2jqtjUyEXXSwMWJpI1KqDgCASAxRPmX0"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_192642_s1.hifi_reads.unassigned.bam",
+      "VersionId": "g3vHvTmb4_qX2Ah2AntP1U8UwjRiEMd5"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_192642_s1.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "8HOOiuCjwbiYciYC69jF4HyjLenqowBi"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1015.bam",
+      "VersionId": "K9gDdyc7UGGF0i3CEx3.Z.CEofyF4J5f"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1015.bam.pbi",
+      "VersionId": "7F16wQvXw_xtBWKDkKt9x3pDLMljW7jA"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1016.bam",
+      "VersionId": "Dc_DB3tIdt6FEW7ySghMoiJAUC8aKIpf"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1016.bam.pbi",
+      "VersionId": "gVFz_2244C15Wx3HxNVhtr2r4kPhY7xN"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1018.bam",
+      "VersionId": "XzTS0Ru1XtEekxLHGC7dgSpv4IgXIc6o"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1018.bam.pbi",
+      "VersionId": "PT67qGBzK9srHLIoCzpB0CbWuqTqTfBx"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1019.bam",
+      "VersionId": "MKvRX_MS6b5LqmhapGBY0bW7Fx16wjmS"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_195701_s2.hifi_reads.bc1019.bam.pbi",
+      "VersionId": "CEkrSJyVUcbVESzloKWeYhjBuT0NywCI"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_195701_s2.hifi_reads.unassigned.bam",
+      "VersionId": "Jm2remwMMmaXtS3h99mBdPdQrnvQiqZY"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_195701_s2.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "KI65EirhW0bke2Sd7aK_8Bm7ZZ7TGLmG"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1015.bam",
+      "VersionId": "X9Tb_wIsO0Ie3rPng_XP27vRRxMUkexe"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1015.bam.pbi",
+      "VersionId": "rzw5.xXyQKezigduGIIko7.UvmIk4eMF"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1016.bam",
+      "VersionId": "LwKD8vV_0nTcNWbjOWx3l_xz4YOw.bHE"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1016.bam.pbi",
+      "VersionId": "gSc.WuLvq.AyuIivEJvDOjyvYiEU0.iN"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1018.bam",
+      "VersionId": "GgjWccg1bOVEsxWvfRIzJmwm85rR5M9t"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1018.bam.pbi",
+      "VersionId": "kPbUNuhySo8TeFJsJ8LODGfdoaP_J.Su"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1019.bam",
+      "VersionId": "EL7_r6CbpRzjCGtZHW_AWzRRPba9ncQW"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_202807_s3.hifi_reads.bc1019.bam.pbi",
+      "VersionId": "6bEIpxkzEHunAkTfyR4fgu_GZ8g1hDup"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_202807_s3.hifi_reads.unassigned.bam",
+      "VersionId": "OeQzLxqN9oyZaEGs3qUfy4yH5mtpoKc6"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02841/hifi_reads/m84091_230905_202807_s3.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "d7TPeqHavXq9qRQE42YP2bgvtpRDo1DP"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02984/fail_reads/m84091_231004_192043_s3.fail_reads.bc1016.bam",
+      "VersionId": "n7uNOorxZKBmktjtTHEmP0zzM1wDbhZV"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02984/fail_reads/m84091_231004_192043_s3.fail_reads.bc1016.bam.pbi",
+      "VersionId": "GrQYZ3MoXmoiCqf69VHNyd5A2muBKhKG"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02984/fail_reads/m84091_231004_192043_s3.fail_reads.bc1019.bam",
+      "VersionId": "2uLDoQBrziitQm3ME0IS6r3Or3oyqDoa"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02984/fail_reads/m84091_231004_192043_s3.fail_reads.bc1019.bam.pbi",
+      "VersionId": "8Md4.ou.GkAKlC4LisZtKkI0ljhg8lQA"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02984/fail_reads/m84091_231004_192043_s3.fail_reads.unassigned.bam",
+      "VersionId": "nsHikRJgXhAKTDVZjw7xAU5d2Gbycz8N"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02984/fail_reads/m84091_231004_192043_s3.fail_reads.unassigned.bam.pbi",
+      "VersionId": "0.6qdJABRStPA8t5uheo5.6Gh33p_cFd"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02984/hifi_reads/m84091_231004_192043_s3.hifi_reads.bc1016.bam",
+      "VersionId": "ZVFdKDmsQec1YfLg3APbX6w8D90ePqUe"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02984/hifi_reads/m84091_231004_192043_s3.hifi_reads.bc1016.bam.pbi",
+      "VersionId": "z7DHAxSim03ozUbBqFCx5lhlWtwK5QdC"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02984/hifi_reads/m84091_231004_192043_s3.hifi_reads.bc1019.bam",
+      "VersionId": "ShY69dnT2L1iQRzRaWW5ci0xu5fAFWv."
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02984/hifi_reads/m84091_231004_192043_s3.hifi_reads.bc1019.bam.pbi",
+      "VersionId": "QLPpEpi27sh6lqmabasRX8TgvEvAt_Xx"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02984/hifi_reads/m84091_231004_192043_s3.hifi_reads.unassigned.bam",
+      "VersionId": "xL7TNywlE7avuS2NFM8AigRi1xqAL.9k"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG02984/hifi_reads/m84091_231004_192043_s3.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "tvOCqLT1ETEayLLyVC78Q1syKcdQiQdA"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03050/fail_reads/m84091_230905_205913_s4.fail_reads.bc1017.bam",
+      "VersionId": "Vc63zapCgiZtG4A1BdMaloNQMWNB91Br"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03050/fail_reads/m84091_230905_205913_s4.fail_reads.bc1017.bam.pbi",
+      "VersionId": "82vQwHeusr.AT1kIykDgYqtlpbcLgQ8Y"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03050/fail_reads/m84091_230905_205913_s4.fail_reads.bc1020.bam",
+      "VersionId": "2xUp6Y7CXxZXg4KQwJC75SehPr3bqpFX"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03050/fail_reads/m84091_230905_205913_s4.fail_reads.bc1020.bam.pbi",
+      "VersionId": "9vN536G72nzoI.FCwaK5b4iXRT0ws4Fl"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03050/fail_reads/m84091_230905_205913_s4.fail_reads.unassigned.bam",
+      "VersionId": "M_39kRaN5qfqW1_hhJas0PS2Nte8ZRF6"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03050/fail_reads/m84091_230905_205913_s4.fail_reads.unassigned.bam.pbi",
+      "VersionId": "49B5sRpiN0gxaU.teMP4CMw.PRi7rjz5"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03050/hifi_reads/m84091_230905_205913_s4.hifi_reads.bc1017.bam",
+      "VersionId": "48lhKqple8mYre765_b_qY6t9Fq1axHH"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03050/hifi_reads/m84091_230905_205913_s4.hifi_reads.bc1017.bam.pbi",
+      "VersionId": "lCCA.1FyTMmAjP7l5AyNPOloDa1Mh.1h"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03050/hifi_reads/m84091_230905_205913_s4.hifi_reads.bc1020.bam",
+      "VersionId": "OiD6.ezKrMV.IJCVGY_6_uNL.DvUB_NF"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03050/hifi_reads/m84091_230905_205913_s4.hifi_reads.bc1020.bam.pbi",
+      "VersionId": "6gEYcmjem0mw6unGH0qbms7SGvybgTTY"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03050/hifi_reads/m84091_230905_205913_s4.hifi_reads.unassigned.bam",
+      "VersionId": "QVsCOESgcbE3L8IxD7Tj7ZlMPlLAKnjN"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03050/hifi_reads/m84091_230905_205913_s4.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "_8DsgHi5srkDq_pFV_Ae2RnaB5nXbRce"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03458/fail_reads/m84091_231208_201822_s1.fail_reads.bc1011.bam",
+      "VersionId": "7o4mn2edFuwL1hFV9Q90XKQS65hi6wWd"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03458/fail_reads/m84091_231208_201822_s1.fail_reads.bc1011.bam.pbi",
+      "VersionId": "YUIAcRi77oYapsw3Y5ozzxZ1nFchFj80"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03458/fail_reads/m84091_231208_201822_s1.fail_reads.bc1021.bam",
+      "VersionId": "s9e2HAcZWG1DRJlyBDGVpxqTVpXNkrKh"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03458/fail_reads/m84091_231208_201822_s1.fail_reads.bc1021.bam.pbi",
+      "VersionId": "efOdj8JHvS3qRWWRlZx81jNqnV1eds01"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03458/fail_reads/m84091_231208_201822_s1.fail_reads.unassigned.bam",
+      "VersionId": "lTIWZuG9gsY_4Y1q4sEzWzV6nV3XaaVk"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03458/fail_reads/m84091_231208_201822_s1.fail_reads.unassigned.bam.pbi",
+      "VersionId": "eoUOlUX0d7d52tbhPKxwDNGEMMc3dTuv"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03458/hifi_reads/m84091_231208_201822_s1.hifi_reads.bc1011.bam",
+      "VersionId": "zOd6NZt0WE_tFgT360MJ2kb8dR754q44"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03458/hifi_reads/m84091_231208_201822_s1.hifi_reads.bc1011.bam.pbi",
+      "VersionId": "D5IQGyKIkytqKlL7gbvtqZwDDfF1lMAk"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03458/hifi_reads/m84091_231208_201822_s1.hifi_reads.bc1021.bam",
+      "VersionId": "2etuRggRulpfczdm7YQ5bgrNMBJooRV3"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03458/hifi_reads/m84091_231208_201822_s1.hifi_reads.bc1021.bam.pbi",
+      "VersionId": "t6WOcphCbWD2gRS7jXbbBG.yNwfRUewo"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03458/hifi_reads/m84091_231208_201822_s1.hifi_reads.unassigned.bam",
+      "VersionId": "0hBOa2QUXM98o_ukCApUlB0rMGoQOX6O"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03458/hifi_reads/m84091_231208_201822_s1.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "hgdyGykK64eA6XIO8bdfUFh8Ewo7qy.e"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_174256_s2.fail_reads.bc1002.bam",
+      "VersionId": "Ly2YcGDVWamlHGZ_5lilPxHH6EWSyBPn"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_174256_s2.fail_reads.bc1002.bam.pbi",
+      "VersionId": "El5ZDU6XyWMkTVqpFSAiq9YxA_UCJwWu"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_174256_s2.fail_reads.bc1003.bam",
+      "VersionId": "9JPx7xhpDMWgvYm9rXHIUwEqxpHtXK_T"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_174256_s2.fail_reads.bc1003.bam.pbi",
+      "VersionId": "wI5W1Xq9_pztFtt2.HpMxG.k5wHoqwpn"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_174256_s2.fail_reads.bc1009.bam",
+      "VersionId": "omOecRLI2wZcLkTLzFbLHcXxmEegZQ0B"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_174256_s2.fail_reads.bc1009.bam.pbi",
+      "VersionId": "SIzzuxyiSonssUcy3pCrkzpuw5bVTuPx"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_174256_s2.fail_reads.unassigned.bam",
+      "VersionId": "fsYJCCk333Jf66QGWd.EZ.M4vfGRiwHU"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_174256_s2.fail_reads.unassigned.bam.pbi",
+      "VersionId": "3HC7LocrFetcJuZLEXgeoibL6VEibzLk"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_184508_s4.fail_reads.bc1002.bam",
+      "VersionId": "Bldcne_6b6ENC9Rs9Bx30DMRQFCVtyiE"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_184508_s4.fail_reads.bc1002.bam.pbi",
+      "VersionId": "sDKBhtY9EeAdJkOAMLb6yrj7WBSI2lrP"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_184508_s4.fail_reads.bc1003.bam",
+      "VersionId": "DKIf6.u9Mw164CBXVUIrPpqtDt0mXLCn"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_184508_s4.fail_reads.bc1003.bam.pbi",
+      "VersionId": "FVIJiqVjdWqX6nwCIf.0U85SO4KJ9vho"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_184508_s4.fail_reads.bc1009.bam",
+      "VersionId": "Pgd4vWW5ULsjkEcTishLVj12kECldHG2"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_184508_s4.fail_reads.bc1009.bam.pbi",
+      "VersionId": "N7wSis3laEtWxvi9WZisnT0MzHpZa6Ng"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_184508_s4.fail_reads.unassigned.bam",
+      "VersionId": "cMRGOwREOiyDzYd5Kc738HGzXep51MNJ"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/fail_reads/m84091_230705_184508_s4.fail_reads.unassigned.bam.pbi",
+      "VersionId": "Gqc7DX5uzwCARsB5IFf2J1dXq2ozpKXg"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1002.bam",
+      "VersionId": "11cCC2TTQXSjdv47LsvPSjwssnSq3cB."
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1002.bam.pbi",
+      "VersionId": "XPQdSEdj5zMcztW5m3dVP8L0ad4OaefN"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1003.bam",
+      "VersionId": "IRgus83.G7mfQA1cIXay1ntgAnh9hjf2"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1003.bam.pbi",
+      "VersionId": "ZyQMcrzL1Y..sHowLjk1CAq3F8GxNbdo"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1009.bam",
+      "VersionId": "fMDRp7gra9Syc9OS.rmV5WLb_8TGBTKN"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1009.bam.pbi",
+      "VersionId": "5WiKQJMSpMZlccQa9gYGtFOobwqFaEcd"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_174256_s2.hifi_reads.unassigned.bam",
+      "VersionId": "bCd48FUhehgKFTxh.r5iOWyYAcjR0yh6"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_174256_s2.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "6shNQuRbOwa9cQSIXFCRIxB7FwCy5vO9"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1002.bam",
+      "VersionId": "rTRGXOe1rjNtOAIVgPVbyqEpE4mt3tQC"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1002.bam.pbi",
+      "VersionId": "8j7ocm4997UM5oOw4bqI4C55q94BXdgl"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1003.bam",
+      "VersionId": "b95DHQKJlLH0plADAO7RJ27lip4XiO.K"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1003.bam.pbi",
+      "VersionId": "nXwaXa6NLRVJ5nZBh3PTV7T4HmSPuGeN"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1009.bam",
+      "VersionId": "jSOHjL0OIuHGbmIdoQjzgYDuTzMi0Hpa"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1009.bam.pbi",
+      "VersionId": "aknvfJkgll.R_8yT7_tuDiMJDe.rWMSr"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_184508_s4.hifi_reads.unassigned.bam",
+      "VersionId": "DK.SFXlKpX6r4UDyXfubteWX72.cZMce"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03470/hifi_reads/m84091_230705_184508_s4.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "BwPEhC8VPezkKsH2nMwhAOgMDlHFaUxD"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03742/fail_reads/m84091_231120_193041_s3.fail_reads.bc1012.bam",
+      "VersionId": "5myR1.5ZPJbmvgOWy40fPOBsfc6ZfBj9"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03742/fail_reads/m84091_231120_193041_s3.fail_reads.bc1012.bam.pbi",
+      "VersionId": "hdN9ExrzbbhQXAIeLmIQxJhGqcihYmzB"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03742/fail_reads/m84091_231120_193041_s3.fail_reads.bc1020.bam",
+      "VersionId": "DdzE.4PBwwDLNzxRWT035yBywPtUm4eT"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03742/fail_reads/m84091_231120_193041_s3.fail_reads.bc1020.bam.pbi",
+      "VersionId": "rc25C5WoHabJ97G4frmVJCPaI2XRI5tC"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03742/fail_reads/m84091_231120_193041_s3.fail_reads.unassigned.bam",
+      "VersionId": "oSdLG.JHuokZKj1ULUdHZBYHCk4LaNES"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03742/fail_reads/m84091_231120_193041_s3.fail_reads.unassigned.bam.pbi",
+      "VersionId": "hFYFbTxmVUqErxzz34Dn3R9XMWETyB8u"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03742/hifi_reads/m84091_231120_193041_s3.hifi_reads.bc1012.bam",
+      "VersionId": "mOnD2ej22eBAvM_iEGNIAg_oM6fS3nZg"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03742/hifi_reads/m84091_231120_193041_s3.hifi_reads.bc1012.bam.pbi",
+      "VersionId": "6mItRdQnFy_.HvXG2OKSY6QGopxev5bg"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03742/hifi_reads/m84091_231120_193041_s3.hifi_reads.bc1020.bam",
+      "VersionId": "FjP0KFiV11eUJJD8PqC2bnc5dF7JxMgQ"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03742/hifi_reads/m84091_231120_193041_s3.hifi_reads.bc1020.bam.pbi",
+      "VersionId": "1XqjgUIijMNVsZV13SUS13K1rlyIfXEP"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03742/hifi_reads/m84091_231120_193041_s3.hifi_reads.unassigned.bam",
+      "VersionId": "XhlNJ.6qYv_K.IijhI2KVa_xgALmlVl2"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/HG03742/hifi_reads/m84091_231120_193041_s3.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "Ms.CReLuddWtDomd2H.i4SOqqGgOI7RC"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA18570/fail_reads/m84091_231120_193041_s3.fail_reads.bc1012.bam",
+      "VersionId": "SRRRIZUyrfR6G1pKLsTlBVhS7qaOO.il"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA18570/fail_reads/m84091_231120_193041_s3.fail_reads.bc1012.bam.pbi",
+      "VersionId": "OwmFjXZsPG4qAajzeT1O_uzVOxF4pJDw"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA18570/fail_reads/m84091_231120_193041_s3.fail_reads.bc1020.bam",
+      "VersionId": "m01Kvnw0g6DGUypIQ_UQL9i9Uhz_C0Mo"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA18570/fail_reads/m84091_231120_193041_s3.fail_reads.bc1020.bam.pbi",
+      "VersionId": "rBgDTv1FzQws2mj9TvrvuxSlxvF3tGI7"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA18570/fail_reads/m84091_231120_193041_s3.fail_reads.unassigned.bam",
+      "VersionId": "3cVRMdIK_cIZNxx_BupiQKTCFCP6KunY"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA18570/fail_reads/m84091_231120_193041_s3.fail_reads.unassigned.bam.pbi",
+      "VersionId": "cgeoPuxDUCXM5KOg_.IerYCxksTsTD3G"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA18570/hifi_reads/m84091_231120_193041_s3.hifi_reads.bc1012.bam",
+      "VersionId": "aD0DZK4Yh5bMTYqwqiiVrso.RCr1gkOB"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA18570/hifi_reads/m84091_231120_193041_s3.hifi_reads.bc1012.bam.pbi",
+      "VersionId": "sgatyvuK_i45HZ7Q5DR7UXDPa7SUr7pQ"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA18570/hifi_reads/m84091_231120_193041_s3.hifi_reads.bc1020.bam",
+      "VersionId": "LYFPveBZwunelk.IFTxOfj4d2CV4_XH4"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA18570/hifi_reads/m84091_231120_193041_s3.hifi_reads.bc1020.bam.pbi",
+      "VersionId": "bNraRR3QRB.AERTPDTpDqckTjz2D5uXu"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA18570/hifi_reads/m84091_231120_193041_s3.hifi_reads.unassigned.bam",
+      "VersionId": "IbutXW6xzfNgqHp3DxG.ioxpGhxF7wj."
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA18570/hifi_reads/m84091_231120_193041_s3.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "LW2g.dweYPgl0hfGKB47U_poMpIRjX6B"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19087/fail_reads/m84091_231120_185935_s2.fail_reads.bc1010.bam",
+      "VersionId": "MH8XsfujIhKA1BTi_yqqvGdY4N4WJA85"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19087/fail_reads/m84091_231120_185935_s2.fail_reads.bc1010.bam.pbi",
+      "VersionId": "4fRcNt_EcmSfcXs6kzjvGFPIxGmXAqCr"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19087/fail_reads/m84091_231120_185935_s2.fail_reads.bc1016.bam",
+      "VersionId": "Vx_pKhfKdeg2EciwKtiU20NGe5IJwNzW"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19087/fail_reads/m84091_231120_185935_s2.fail_reads.bc1016.bam.pbi",
+      "VersionId": "FvGOHW9EQtTkW1o4J1G2xFo.6vu.CNvz"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19087/fail_reads/m84091_231120_185935_s2.fail_reads.unassigned.bam",
+      "VersionId": "RUSaF8tEqC_aJd_WHYITXEA36YCwA8Qk"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19087/fail_reads/m84091_231120_185935_s2.fail_reads.unassigned.bam.pbi",
+      "VersionId": "eKYGCErZV4fmOwnMobDvBq6u95pVLROx"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19087/hifi_reads/m84091_231120_185935_s2.hifi_reads.bc1010.bam",
+      "VersionId": "FEz9j8kWJxxc_2RhZGn_AGXFK637j4Zg"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19087/hifi_reads/m84091_231120_185935_s2.hifi_reads.bc1010.bam.pbi",
+      "VersionId": "1aZDihHKgj_KaD7uMHMsF.m15yJqViMz"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19087/hifi_reads/m84091_231120_185935_s2.hifi_reads.bc1016.bam",
+      "VersionId": "hALcR3qv3ppdOPxPsBt4D03L73fK0Njg"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19087/hifi_reads/m84091_231120_185935_s2.hifi_reads.bc1016.bam.pbi",
+      "VersionId": "xowH0tFySRj9JO9xvWYRLAecpGTvHOAy"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19087/hifi_reads/m84091_231120_185935_s2.hifi_reads.unassigned.bam",
+      "VersionId": "AA6qtRdcveqTOkRwUGY.4st_vJmbs_21"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19087/hifi_reads/m84091_231120_185935_s2.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "StaxrVd8GfV9V0xKw7mDdehsQo87Ei6G"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19159/fail_reads/m84091_230817_150246_s3.fail_reads.bc1012.bam",
+      "VersionId": "LIKxzsquAXuP3TH90Zoln2MQh7v6gvBX"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19159/fail_reads/m84091_230817_150246_s3.fail_reads.bc1012.bam.pbi",
+      "VersionId": "lWL4_7OjCh9LluERl7zsTnIsANZP.yss"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19159/fail_reads/m84091_230817_150246_s3.fail_reads.bc1015.bam",
+      "VersionId": "huS.dMhY89qxrUFB9wZVcOdrDS9Z5sJ."
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19159/fail_reads/m84091_230817_150246_s3.fail_reads.bc1015.bam.pbi",
+      "VersionId": "gOSTkLdDjf6uvB1wfg2q9B7rwSAciZgm"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19159/fail_reads/m84091_230817_150246_s3.fail_reads.unassigned.bam",
+      "VersionId": "xmafKxgh1q5S7ltp1FuxX5n.cKbcr1fD"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19159/fail_reads/m84091_230817_150246_s3.fail_reads.unassigned.bam.pbi",
+      "VersionId": "c.RW8VXEQOHFkeuvc4DfyFXB5CBG_WaI"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19159/hifi_reads/m84091_230817_150246_s3.hifi_reads.bc1012.bam",
+      "VersionId": "XPv.dMO.LcXvXbDHQsPs3mi4A97RfiP3"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19159/hifi_reads/m84091_230817_150246_s3.hifi_reads.bc1012.bam.pbi",
+      "VersionId": "ln6g_oTiu5MDS7f0ZbsUB.BcRGxnDIS7"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19159/hifi_reads/m84091_230817_150246_s3.hifi_reads.bc1015.bam",
+      "VersionId": "UOWOFHplcDA9_vu8bOVehmo6lbl6tzB5"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19159/hifi_reads/m84091_230817_150246_s3.hifi_reads.bc1015.bam.pbi",
+      "VersionId": "6oNkn4UabWG6TqqBRfeC3ecLuXGrSuWv"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19159/hifi_reads/m84091_230817_150246_s3.hifi_reads.unassigned.bam",
+      "VersionId": "VWmXoK_jb4Prgpp2h6.LPZGyKgQFAwWx"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19159/hifi_reads/m84091_230817_150246_s3.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "MeKX8ZI3NCBVojxhjVOAMhLb5cNVWK8m"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19185/fail_reads/m84091_231120_182829_s1.fail_reads.bc1017.bam",
+      "VersionId": "CpTaOqau34zsUBXKoqexRsD4PH7_ueuL"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19185/fail_reads/m84091_231120_182829_s1.fail_reads.bc1017.bam.pbi",
+      "VersionId": "Eb_PIhtFyBDXxuPZCQFa0FPktYHJGTdj"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19185/fail_reads/m84091_231120_182829_s1.fail_reads.bc1019.bam",
+      "VersionId": "3EAmxip2qNg7HICOffD_cAJ4.LLlLmMA"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19185/fail_reads/m84091_231120_182829_s1.fail_reads.bc1019.bam.pbi",
+      "VersionId": "rs5mTmng0.L5iwLDpm55nOP6PPAp51kE"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19185/fail_reads/m84091_231120_182829_s1.fail_reads.unassigned.bam",
+      "VersionId": "ahOxLce6kG3muaPcktWvyofSVFOOxB0z"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19185/fail_reads/m84091_231120_182829_s1.fail_reads.unassigned.bam.pbi",
+      "VersionId": "8tnvoSZUrhRn_pgzEqugGoWOph7pM1I0"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19185/hifi_reads/m84091_231120_182829_s1.hifi_reads.bc1017.bam",
+      "VersionId": "ExA5.T7a49aQSBwiJKf3IhdCOtYnckOa"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19185/hifi_reads/m84091_231120_182829_s1.hifi_reads.bc1017.bam.pbi",
+      "VersionId": "rWr8M.yAVK7wiAvrSFdxcN1jxFfv9bKv"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19185/hifi_reads/m84091_231120_182829_s1.hifi_reads.bc1019.bam",
+      "VersionId": "0DFIraKoLIDEfvgAq3Kjz15y_0t4fPQO"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19185/hifi_reads/m84091_231120_182829_s1.hifi_reads.bc1019.bam.pbi",
+      "VersionId": "LNekYVvftaE3lhkC6csP0TDSe2cd2vQY"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19185/hifi_reads/m84091_231120_182829_s1.hifi_reads.unassigned.bam",
+      "VersionId": "ckPx9M5RpIhOf2QJZz2D1gBs.d.1bdhE"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19185/hifi_reads/m84091_231120_182829_s1.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "Eb4MLRAA7oxSf6iGgA3V0UgBO4n8b8GA"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_174256_s2.fail_reads.bc1002.bam",
+      "VersionId": "rokXvK4hLt7tsCMfoAtSYEEXnVw1EDDR"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_174256_s2.fail_reads.bc1002.bam.pbi",
+      "VersionId": "KvCZ37hzbsC5Xcl99B2KJx.RvzEXBj6z"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_174256_s2.fail_reads.bc1003.bam",
+      "VersionId": "SWColIjxFydiariS652nwp_Wgwq15S7I"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_174256_s2.fail_reads.bc1003.bam.pbi",
+      "VersionId": "bRjbrMy93P5mb0JRXMMO9IbIF.OYu431"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_174256_s2.fail_reads.bc1009.bam",
+      "VersionId": "PCBBhaXjm9M3LavWIQabhu09veKfQ.zp"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_174256_s2.fail_reads.bc1009.bam.pbi",
+      "VersionId": "PtmVzFDnol7wc6_vSgjrn4ZYRmBHsXrn"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_174256_s2.fail_reads.unassigned.bam",
+      "VersionId": "vrbcbQgjJaSUuZQahoPCoyPma4jXN6Wv"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_174256_s2.fail_reads.unassigned.bam.pbi",
+      "VersionId": "jlVY1YUYr2IGBWzTagLaMg70lasDQ6wl"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_184508_s4.fail_reads.bc1002.bam",
+      "VersionId": "LG_SHQRGM7dk6E_XxO8G7lyL0ItguM1V"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_184508_s4.fail_reads.bc1002.bam.pbi",
+      "VersionId": "iZ_d44X0jqAO_mKK71WGu0poV7FIMPVH"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_184508_s4.fail_reads.bc1003.bam",
+      "VersionId": "hAioxFhDPLg6QhYmH9_gKqeqMK8TV.KS"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_184508_s4.fail_reads.bc1003.bam.pbi",
+      "VersionId": "hkGM3tjJEioan1ctlcNlZuuLgYCIcD3M"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_184508_s4.fail_reads.bc1009.bam",
+      "VersionId": "ZfXM7qKi99rTCBIKoIH5VcR0j8BZTbGn"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_184508_s4.fail_reads.bc1009.bam.pbi",
+      "VersionId": "ZGgcyXYKpz1H4KP4Hlcv70rfs93wrPjw"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_184508_s4.fail_reads.unassigned.bam",
+      "VersionId": "5GKqm7VNbXUBROXVRi0AsVLz1UtP0zr8"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_230705_184508_s4.fail_reads.unassigned.bam.pbi",
+      "VersionId": "6WcGRaYgYRLzihGwLr_kDv2XdvwV0HYm"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_231120_175800_s4.fail_reads.bc1002.bam",
+      "VersionId": "u5JbCE1UD6I7qJsOVcfEln1cCW5pdd9q"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_231120_175800_s4.fail_reads.bc1002.bam.pbi",
+      "VersionId": "AEfKirK2CY2pHOT8nXrXJ4Y9BiB4LaNF"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_231120_175800_s4.fail_reads.bc1015.bam",
+      "VersionId": "SFYHUI1XGZB4Am8cP8GlJyjsoLifzo0E"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_231120_175800_s4.fail_reads.bc1015.bam.pbi",
+      "VersionId": "e7Clm5YBHEMYiUcFMAIAsel6ZTzx2d3t"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_231120_175800_s4.fail_reads.unassigned.bam",
+      "VersionId": "03BeH_X09ncbjSBdV_YtVJC93UJRRV5c"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/fail_reads/m84091_231120_175800_s4.fail_reads.unassigned.bam.pbi",
+      "VersionId": "iOrh0OorCaIEBU.Oal5FfL_cy4E9PGE3"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1002.bam",
+      "VersionId": "RABenhn4xG6AgfNhpN5cttttb.n7Qua3"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1002.bam.pbi",
+      "VersionId": "4LqtmOVmCRQQuaod_eg79nUz385QMPFL"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1003.bam",
+      "VersionId": "0ifIOo3jOGSTbrH0tLm.2CHI2oH6ujt."
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1003.bam.pbi",
+      "VersionId": "ta0DKlTjH47_O_WDxenJvx6kHEUzMfGd"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1009.bam",
+      "VersionId": "TaBSPfthW8QNl.ZEOV3oeZtba_j9hmIi"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_174256_s2.hifi_reads.bc1009.bam.pbi",
+      "VersionId": "an26GKUm7rWH05G8.GATbCzKOSKhC2yB"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_174256_s2.hifi_reads.unassigned.bam",
+      "VersionId": "2pvBC..Dq5PXj8j.0SLrbaD8L7UnmdsB"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_174256_s2.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "zZq8k.Pw84HJfRUKhRLYSLnXbEPpZ3dc"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1002.bam",
+      "VersionId": "n9iOVCAgBhiigUBl12UNHNcRFCx8B6Pg"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1002.bam.pbi",
+      "VersionId": "zz96yYOC2Aqg_jrdAdyMRSygcaU2GlkY"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1003.bam",
+      "VersionId": ".gxZqeGnAiwedBAJm1R6L6ELNUzHZeFT"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1003.bam.pbi",
+      "VersionId": "1cOesfABkFM7m2cIMCxnjOAS5eTrlAif"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1009.bam",
+      "VersionId": "apACl9LyrzK_hvL3E_IoBDzEsu_66zSM"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_184508_s4.hifi_reads.bc1009.bam.pbi",
+      "VersionId": "aFF781Xv3Mawgpir15JcKwqYQOqvXs7Z"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_184508_s4.hifi_reads.unassigned.bam",
+      "VersionId": "N92aEoqhHcXd5A.TftqFAS_Cm7u7w6cj"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_230705_184508_s4.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "xavD3bjvMUNN24KuALf9RSv0WPixyIRk"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_231120_175800_s4.hifi_reads.bc1002.bam",
+      "VersionId": "OsPmfb7Vfgp4l9V6S5RDwJ14b8oh.C63"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_231120_175800_s4.hifi_reads.bc1002.bam.pbi",
+      "VersionId": "6m4IeDlouJbO3PrbIbDeKdoYxilov7Jw"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_231120_175800_s4.hifi_reads.bc1015.bam",
+      "VersionId": "HXuk8UrSyIiDTymttntzdwlCS19XWA1h"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_231120_175800_s4.hifi_reads.bc1015.bam.pbi",
+      "VersionId": "2_KgtulIqYPKbNnErkrz3QnMskN6g9rf"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_231120_175800_s4.hifi_reads.unassigned.bam",
+      "VersionId": "fGH94qfPnes462UQlnCO2RsnPuKcTTVD"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19338/hifi_reads/m84091_231120_175800_s4.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "RQNYLUyRpFt3e7MWrAm1v44jqzzIH2T7"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19391/fail_reads/m84091_231120_175800_s4.fail_reads.bc1002.bam",
+      "VersionId": "KehupiAjSQ0hOrW4VWbeGlIlAo9I26m6"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19391/fail_reads/m84091_231120_175800_s4.fail_reads.bc1002.bam.pbi",
+      "VersionId": "SLjnynOLM6P6yhqVvyh8lWd37KeXBEHD"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19391/fail_reads/m84091_231120_175800_s4.fail_reads.bc1015.bam",
+      "VersionId": ".a7d69P12ar49aCW6wIGtO8VOT0VlL5c"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19391/fail_reads/m84091_231120_175800_s4.fail_reads.bc1015.bam.pbi",
+      "VersionId": "sIY2LEw4QPzp.wfeMT_67WmB8_Wajm2d"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19391/fail_reads/m84091_231120_175800_s4.fail_reads.unassigned.bam",
+      "VersionId": "JyUFQhHQ0Vt_dP7.JheVAR6QUqU8lKWW"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19391/fail_reads/m84091_231120_175800_s4.fail_reads.unassigned.bam.pbi",
+      "VersionId": "tCHd8P9Az3rw.mEGcOo0dMRYdcS8yoDo"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19391/hifi_reads/m84091_231120_175800_s4.hifi_reads.bc1002.bam",
+      "VersionId": "uJX9.Lx9zE_HVn_QET039gfx1oUmZV.X"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19391/hifi_reads/m84091_231120_175800_s4.hifi_reads.bc1002.bam.pbi",
+      "VersionId": "FffvkVJx1zyxZWUXTeaHyuH1q3q9T3S_"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19391/hifi_reads/m84091_231120_175800_s4.hifi_reads.bc1015.bam",
+      "VersionId": "0ItDzyziiWRfWasPWLdPwPwkENugC_cv"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19391/hifi_reads/m84091_231120_175800_s4.hifi_reads.bc1015.bam.pbi",
+      "VersionId": "9b5Yce6zqUPFzOYanXtJbSs4ffr.tSn_"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19391/hifi_reads/m84091_231120_175800_s4.hifi_reads.unassigned.bam",
+      "VersionId": "gRHNgyglyT69DGr1hLqg9C2UcUkEHMKA"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19391/hifi_reads/m84091_231120_175800_s4.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "Qz.7Atuohoas8q9pFqTCD20xe0uU8e2D"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/fail_reads/m84091_231208_194716_s4.fail_reads.bc1008.bam",
+      "VersionId": "w05XMRyId43lJ2w2IsMecYTa9cJS29TL"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/fail_reads/m84091_231208_194716_s4.fail_reads.bc1008.bam.pbi",
+      "VersionId": "ZBy0_tCOCwUqbFMSg2ujJvsov5lo3AU1"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/fail_reads/m84091_231208_194716_s4.fail_reads.bc1021.bam",
+      "VersionId": "ZoKBVxpbmQ9F..9DsRV0zvqlMAGeZysp"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/fail_reads/m84091_231208_194716_s4.fail_reads.bc1021.bam.pbi",
+      "VersionId": "jo0zn0nLLMiAVV22nW_psLabKfsOED3."
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/fail_reads/m84091_231208_194716_s4.fail_reads.unassigned.bam",
+      "VersionId": "4FGZPiuLvAiTIbADQULUE_PwdAwUBJ_N"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/fail_reads/m84091_231208_194716_s4.fail_reads.unassigned.bam.pbi",
+      "VersionId": "xzvuZoZ9Dc5NnXdYmsUUY8KNKX7CA9uD"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/fail_reads/m84091_231211_215746_s3.fail_reads.bc1008.bam",
+      "VersionId": "vElMpv7uvO2OBUXaGS.I7jv9xdFPzfUf"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/fail_reads/m84091_231211_215746_s3.fail_reads.bc1008.bam.pbi",
+      "VersionId": "aYLddWOR8ig04OHWPmJUIj1WFRgF1KsS"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/fail_reads/m84091_231211_215746_s3.fail_reads.bc1018.bam",
+      "VersionId": "HZiG4nbf1dko9VoHshH1EM1CyocbFVIa"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/fail_reads/m84091_231211_215746_s3.fail_reads.bc1018.bam.pbi",
+      "VersionId": "mlz7uJj6PSojbOLTvZMEixO6Y0ybEd7n"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/fail_reads/m84091_231211_215746_s3.fail_reads.unassigned.bam",
+      "VersionId": "hWr9veqUuDixhZXn_1IejWX0rZxsRONB"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/fail_reads/m84091_231211_215746_s3.fail_reads.unassigned.bam.pbi",
+      "VersionId": "y1vmKJkqrxwVaT32ylPF560JFtUyec2K"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/hifi_reads/m84091_231208_194716_s4.hifi_reads.bc1008.bam",
+      "VersionId": "XCBZhXtqUR.VFbITPwx3zVGruZnACCae"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/hifi_reads/m84091_231208_194716_s4.hifi_reads.bc1008.bam.pbi",
+      "VersionId": "3C1thsIttf0.boisgVT0P9SymxLRigVL"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/hifi_reads/m84091_231208_194716_s4.hifi_reads.bc1021.bam",
+      "VersionId": "qOIbSce4uE5X6MB_qCxknVPO_pXkCYVF"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/hifi_reads/m84091_231208_194716_s4.hifi_reads.bc1021.bam.pbi",
+      "VersionId": "WRaSdISuvqWXYmczOdg7ia4ij_EiRk8d"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/hifi_reads/m84091_231208_194716_s4.hifi_reads.unassigned.bam",
+      "VersionId": "AIm7_WzqE7o38ljc87bhLlZ8wlwq77ym"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/hifi_reads/m84091_231208_194716_s4.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "jmEknFPl2.FRyx4HsJShB0FhGjyxrbrU"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/hifi_reads/m84091_231211_215746_s3.hifi_reads.bc1008.bam",
+      "VersionId": "PMh1jpAprWMOWHi_cdCS6gEdc4mKYSkG"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/hifi_reads/m84091_231211_215746_s3.hifi_reads.bc1008.bam.pbi",
+      "VersionId": "s4.YrbYlqJHDpJa7_Im4M1tp4LOWBoVl"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/hifi_reads/m84091_231211_215746_s3.hifi_reads.bc1018.bam",
+      "VersionId": "nbyD.8dWeIUUbuSGZHhCIEkeWJbFynXm"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/hifi_reads/m84091_231211_215746_s3.hifi_reads.bc1018.bam.pbi",
+      "VersionId": "PWOcYJRwfgToAC_U6f0zqAxA7aQxZPrc"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/hifi_reads/m84091_231211_215746_s3.hifi_reads.unassigned.bam",
+      "VersionId": "yAh6QyEiIcc382ap5ylWSf5ymNs9NIue"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA19468/hifi_reads/m84091_231211_215746_s3.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "g823eRHyJYEpV4WXq1HCrlsHBdR0M_w1"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/fail_reads/m84091_231208_204928_s2.fail_reads.bc1018.bam",
+      "VersionId": "v0lxnccg5I3BlPX.AIyFL3Z8PDWuHiuC"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/fail_reads/m84091_231208_204928_s2.fail_reads.bc1018.bam.pbi",
+      "VersionId": "1xfcv9lG0foPlZDxn63dmlZ2eSSOEOEA"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/fail_reads/m84091_231208_204928_s2.fail_reads.bc1021.bam",
+      "VersionId": "KcpbDPLHE6sWu3ktWutBnD_XQgeWUKn8"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/fail_reads/m84091_231208_204928_s2.fail_reads.bc1021.bam.pbi",
+      "VersionId": "T0eEXE4wwfNpDYbclRgDW2Ep9eZFoUnS"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/fail_reads/m84091_231208_204928_s2.fail_reads.unassigned.bam",
+      "VersionId": "Tz0NmTRcdqBQIL3w05FlqpEn3u2EPTF."
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/fail_reads/m84091_231208_204928_s2.fail_reads.unassigned.bam.pbi",
+      "VersionId": "B_Hm8ZdnvZjWFj0nXIkPu_qIevve4Y1n"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/fail_reads/m84091_231211_215746_s3.fail_reads.bc1008.bam",
+      "VersionId": "57nYnv5AFc.y6NMvgrsnNreySV0BNUJO"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/fail_reads/m84091_231211_215746_s3.fail_reads.bc1008.bam.pbi",
+      "VersionId": "Yp9oNeUp41G6Tg4JSILvMe1f5pzCl1HQ"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/fail_reads/m84091_231211_215746_s3.fail_reads.bc1018.bam",
+      "VersionId": "zn7UjoO2fPNW1qLYWf1EJW2M12hgsl6r"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/fail_reads/m84091_231211_215746_s3.fail_reads.bc1018.bam.pbi",
+      "VersionId": "NeaPkiBb4TsSAooFUnu3JB4jZZ7nH9aq"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/fail_reads/m84091_231211_215746_s3.fail_reads.unassigned.bam",
+      "VersionId": "ziIEFRSwrzidn2q_NkDTBZeI7DH6Fino"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/fail_reads/m84091_231211_215746_s3.fail_reads.unassigned.bam.pbi",
+      "VersionId": "e4Oqnp768vyDD_BbJYvlRw8GEqXZiiO5"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/hifi_reads/m84091_231208_204928_s2.hifi_reads.bc1018.bam",
+      "VersionId": "TR1Pyfqf68YXa6MYzLd_iJHxAzHoPmCq"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/hifi_reads/m84091_231208_204928_s2.hifi_reads.bc1018.bam.pbi",
+      "VersionId": "3M8qYvSJ2y_WXtVsQZmhwuWH3xXzAS7Z"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/hifi_reads/m84091_231208_204928_s2.hifi_reads.bc1021.bam",
+      "VersionId": "ysw8u7eHB84Vd0VIoj5eDyQ6fFN_J7gw"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/hifi_reads/m84091_231208_204928_s2.hifi_reads.bc1021.bam.pbi",
+      "VersionId": "0tGc13bvE4CHbpuNXYLLD7rxsJJBbdtx"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/hifi_reads/m84091_231208_204928_s2.hifi_reads.unassigned.bam",
+      "VersionId": "Tudie1dQGqDfvs.3M9jm2tpWHS4n6Zp5"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/hifi_reads/m84091_231208_204928_s2.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "PTCTAhVPuFc3ZlGr_VSNHXkybiNzKGFT"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/hifi_reads/m84091_231211_215746_s3.hifi_reads.bc1008.bam",
+      "VersionId": "k__t4UvJcwnQq9jIIloCmGOPTHkFF3UB"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/hifi_reads/m84091_231211_215746_s3.hifi_reads.bc1008.bam.pbi",
+      "VersionId": "ms.fmED._AY70QCZmDiYzFopfF9fvfYt"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/hifi_reads/m84091_231211_215746_s3.hifi_reads.bc1018.bam",
+      "VersionId": "83BjFnWqO.JndhR.Cj7f0kzN.mjZy9wi"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/hifi_reads/m84091_231211_215746_s3.hifi_reads.bc1018.bam.pbi",
+      "VersionId": "BOrOGkHvuOFnV33okkODfJlI64x4HiKx"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/hifi_reads/m84091_231211_215746_s3.hifi_reads.unassigned.bam",
+      "VersionId": "RQSgyXdUA4xrVQwioolxd8IgRNibtgoL"
+    },
+    {
+      "Key": "submissions/573E04D5-CDDE-43B8-94D9-D00DD7B471AB--RU_Y3_topoff/NA20799/hifi_reads/m84091_231211_215746_s3.hifi_reads.unassigned.bam.pbi",
+      "VersionId": "nlNRqH06rWgV_ZG2In92wVxL92H8.KNN"
+    }
+  ]
+}

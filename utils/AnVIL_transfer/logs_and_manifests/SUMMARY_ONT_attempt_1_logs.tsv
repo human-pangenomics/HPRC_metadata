@@ -1,0 +1,926 @@
+log	filename	manifest	status	throughput
+s3_transfer_9704185_100.log	HG02559_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_100.csv	0	43.5MiB/s
+s3_transfer_9704185_101.log	HG02559_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_101.csv	0	73.7MiB/s
+s3_transfer_9704185_102.log	HG02559_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_102.csv	0	87.7MiB/s
+s3_transfer_9704185_103.log	09_14_22_R941_HG00099_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_103.csv	0	82.0MiB/s
+s3_transfer_9704185_104.log	09_14_22_R941_HG00099_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_104.csv	0	35.5MiB/s
+s3_transfer_9704185_105.log	09_14_22_R941_HG00099_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_105.csv	0	80.9MiB/s
+s3_transfer_9704185_106.log	11_28_23_R1041_HPRC_NA20346_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_106.csv	0	38.6MiB/s
+s3_transfer_9704185_107.log	11_28_23_R1041_HPRC_NA20346_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_107.csv	0	80.5MiB/s
+s3_transfer_9704185_108.log	11_28_23_R1041_HPRC_NA20346_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_108.csv	0	30.7MiB/s
+s3_transfer_9704185_109.log	11_28_23_R1041_HPRC_NA20346_4_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_109.csv	0	34.7MiB/s
+s3_transfer_9704185_10.log	08_10_21_R941_HG04187_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_10.csv	0	54.0MiB/s
+s3_transfer_9704185_110.log	08_17_21_R941_HG03704_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_110.csv	0	85.2MiB/s
+s3_transfer_9704185_111.log	08_17_21_R941_HG03704_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_111.csv	0	41.9MiB/s
+s3_transfer_9704185_112.log	08_17_21_R941_HG03704_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_112.csv	0	86.2MiB/s
+s3_transfer_9704185_113.log	08_29_23_R1041_HPRC_HG00133_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_113.csv	0	39.7MiB/s
+s3_transfer_9704185_114.log	08_29_23_R1041_HPRC_HG00133_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_114.csv	0	78.9MiB/s
+s3_transfer_9704185_115.log	08_29_23_R1041_HPRC_HG00133_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_115.csv	0	43.2MiB/s
+s3_transfer_9704185_116.log	09_14_22_R941_GM19087_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_116.csv	0	86.3MiB/s
+s3_transfer_9704185_117.log	09_14_22_R941_GM19087_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_117.csv	0	36.5MiB/s
+s3_transfer_9704185_118.log	09_14_22_R941_GM19087_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_118.csv	0	86.6MiB/s
+s3_transfer_9704185_119.log	03_14_23_R941_HG03471_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_119.csv	0	45.7MiB/s
+s3_transfer_9704185_11.log	08_10_21_R941_HG04187_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_11.csv	0	85.1MiB/s
+s3_transfer_9704185_120.log	03_14_23_R941_HG03471_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_120.csv	0	32.7MiB/s
+s3_transfer_9704185_121.log	HG03471_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_121.csv	0	79.7MiB/s
+s3_transfer_9704185_122.log	HG03471_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_122.csv	0	75.5MiB/s
+s3_transfer_9704185_123.log	HG03471_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_123.csv	0	78.4MiB/s
+s3_transfer_9704185_124.log	08_17_21_R941_HG02280_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_124.csv	0	34.4MiB/s
+s3_transfer_9704185_125.log	08_17_21_R941_HG02280_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_125.csv	0	34.3MiB/s
+s3_transfer_9704185_126.log	08_17_21_R941_HG02280_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_126.csv	0	80.5MiB/s
+s3_transfer_9704185_127.log	07_13_21_R941_HG02071_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_127.csv	0	30.5MiB/s
+s3_transfer_9704185_128.log	07_13_21_R941_HG02071_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_128.csv	0	79.9MiB/s
+s3_transfer_9704185_129.log	07_13_21_R941_HG02071_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_129.csv	0	82.6MiB/s
+s3_transfer_9704185_12.log	08_10_21_R941_HG04187_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_12.csv	0	85.8MiB/s
+s3_transfer_9704185_130.log	10_12_21_R941_HG02129_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_130.csv	0	36.6MiB/s
+s3_transfer_9704185_131.log	10_12_21_R941_HG02129_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_131.csv	0	41.1MiB/s
+s3_transfer_9704185_132.log	10_12_21_R941_HG02129_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_132.csv	0	39.2MiB/s
+s3_transfer_9704185_133.log	01_23_24_R1041_HPRC_NA21102_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_133.csv	0	33.0MiB/s
+s3_transfer_9704185_134.log	10_17_23_R1041_HPRC_NA21102_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_134.csv	0	52.6MiB/s
+s3_transfer_9704185_135.log	01_23_24_R1041_HPRC_NA21102_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_135.csv	0	74.9MiB/s
+s3_transfer_9704185_136.log	10_17_23_R1041_HPRC_NA21102_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_136.csv	0	89.1MiB/s
+s3_transfer_9704185_137.log	10_17_23_R1041_HPRC_NA21102_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_137.csv	0	78.5MiB/s
+s3_transfer_9704185_138.log	05_17_22_R941_GM18522_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_138.csv	0	36.7MiB/s
+s3_transfer_9704185_139.log	05_17_22_R941_GM18522_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_139.csv	0	79.3MiB/s
+s3_transfer_9704185_13.log	08_10_21_R941_HG04187_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_13.csv	0	57.4MiB/s
+s3_transfer_9704185_140.log	05_17_22_R941_GM18522_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_140.csv	0	81.2MiB/s
+s3_transfer_9704185_141.log	07_20_21_R941_HG02698_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_141.csv	0	77.6MiB/s
+s3_transfer_9704185_142.log	07_20_21_R941_HG02698_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_142.csv	0	28.2MiB/s
+s3_transfer_9704185_143.log	07_20_21_R941_HG02698_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_143.csv	0	79.4MiB/s
+s3_transfer_9704185_144.log	07_20_21_R941_HG02698_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_144.csv	0	39.6MiB/s
+s3_transfer_9704185_145.log	07_20_21_R941_HG02698_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_145.csv	0	87.2MiB/s
+s3_transfer_9704185_146.log	05_17_22_R941_HG03209_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_146.csv	0	79.7MiB/s
+s3_transfer_9704185_147.log	05_17_22_R941_HG03209_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_147.csv	0	77.6MiB/s
+s3_transfer_9704185_148.log	05_17_22_R941_HG03209_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_148.csv	0	79.9MiB/s
+s3_transfer_9704185_149.log	06_28_22_R941_HG00323_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_149.csv	0	40.8MiB/s
+s3_transfer_9704185_14.log	06_28_22_R941_GM18971_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_14.csv	0	34.0MiB/s
+s3_transfer_9704185_150.log	06_28_22_R941_HG00323_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_150.csv	0	81.8MiB/s
+s3_transfer_9704185_151.log	06_28_22_R941_HG00323_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_151.csv	0	83.3MiB/s
+s3_transfer_9704185_152.log	06_28_22_R941_GM18747_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_152.csv	0	71.5MiB/s
+s3_transfer_9704185_153.log	06_28_22_R941_GM18747_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_153.csv	0	69.7MiB/s
+s3_transfer_9704185_154.log	06_28_22_R941_GM18747_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_154.csv	0	30.5MiB/s
+s3_transfer_9704185_155.log	10_10_23_R1041_HPRC_NA18565_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_155.csv	0	87.8MiB/s
+s3_transfer_9704185_156.log	10_10_23_R1041_HPRC_NA18565_6_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_156.csv	0	32.2MiB/s
+s3_transfer_9704185_157.log	10_10_23_R1041_HPRC_NA18565_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_157.csv	0	46.6MiB/s
+s3_transfer_9704185_158.log	10_10_23_R1041_HPRC_NA18565_4_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_158.csv	0	70.3MiB/s
+s3_transfer_9704185_159.log	10_10_23_R1041_HPRC_NA18565_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_159.csv	0	41.6MiB/s
+s3_transfer_9704185_15.log	06_28_22_R941_GM18971_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_15.csv	0	79.5MiB/s
+s3_transfer_9704185_160.log	10_10_23_R1041_HPRC_NA18565_5_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_160.csv	0	71.3MiB/s
+s3_transfer_9704185_161.log	10_24_23_R1041_HPRC_HG03521_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_161.csv	0	35.3MiB/s
+s3_transfer_9704185_162.log	10_24_23_R1041_HPRC_HG03521_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_162.csv	0	70.6MiB/s
+s3_transfer_9704185_163.log	10_24_23_R1041_HPRC_HG03521_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_163.csv	0	78.9MiB/s
+s3_transfer_9704185_164.log	09_27_2022_R941_HG03742_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_164.csv	0	89.9MiB/s
+s3_transfer_9704185_165.log	09_27_2022_R941_HG03742_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_165.csv	0	84.7MiB/s
+s3_transfer_9704185_166.log	09_27_2022_R941_HG03742_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_166.csv	0	85.6MiB/s
+s3_transfer_9704185_167.log	12_08_21_R941_HG02027_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_167.csv	0	77.0MiB/s
+s3_transfer_9704185_168.log	12_08_21_R941_HG02027_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_168.csv	0	35.4MiB/s
+s3_transfer_9704185_169.log	12_08_21_R941_HG02027_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_169.csv	0	82.4MiB/s
+s3_transfer_9704185_16.log	06_28_22_R941_GM18971_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_16.csv	0	80.4MiB/s
+s3_transfer_9704185_170.log	12_12_23_R1041_HPRC_NA21093_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_170.csv	0	77.5MiB/s
+s3_transfer_9704185_171.log	12_12_23_R1041_HPRC_NA21093_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_171.csv	0	86.1MiB/s
+s3_transfer_9704185_172.log	12_12_23_R1041_HPRC_NA21093_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_172.csv	0	82.9MiB/s
+s3_transfer_9704185_173.log	01_23_24_R1041_HPRC_NA21093_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_173.csv	0	80.1MiB/s
+s3_transfer_9704185_174.log	08_10_21_R941_HG01099_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_174.csv	0	34.1MiB/s
+s3_transfer_9704185_175.log	08_10_21_R941_HG01099_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_175.csv	0	36.3MiB/s
+s3_transfer_9704185_176.log	08_10_21_R941_HG01099_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_176.csv	0	80.9MiB/s
+s3_transfer_9704185_177.log	12_12_23_R1041_HPRC_HG02178_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_177.csv	0	83.1MiB/s
+s3_transfer_9704185_178.log	12_12_23_R1041_HPRC_HG02178_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_178.csv	0	80.7MiB/s
+s3_transfer_9704185_179.log	12_12_23_R1041_HPRC_HG02178_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_179.csv	0	47.1MiB/s
+s3_transfer_9704185_17.log	07_20_21_R941_HG02668_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_17.csv	0	40.4MiB/s
+s3_transfer_9704185_180.log	12_05_23_R1041_HPRC_NA19036_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_180.csv	0	85.1MiB/s
+s3_transfer_9704185_181.log	01_23_24_R1041_HPRC_NA19036_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_181.csv	0	40.6MiB/s
+s3_transfer_9704185_182.log	12_05_23_R1041_HPRC_NA19036_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_182.csv	0	34.5MiB/s
+s3_transfer_9704185_183.log	01_23_24_R1041_HPRC_NA19036_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_183.csv	0	85.7MiB/s
+s3_transfer_9704185_184.log	12_05_23_R1041_HPRC_NA19036_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_184.csv	0	41.7MiB/s
+s3_transfer_9704185_185.log	01_23_24_R1041_HPRC_NA19036_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_185.csv	0	41.6MiB/s
+s3_transfer_9704185_186.log	09_14_22_R941_GM20752_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_186.csv	0	42.0MiB/s
+s3_transfer_9704185_187.log	09_14_22_R941_GM20752_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_187.csv	0	53.3MiB/s
+s3_transfer_9704185_188.log	09_14_22_R941_GM20752_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_188.csv	0	88.0MiB/s
+s3_transfer_9704185_189.log	07_20_21_R941_HG03942_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_189.csv	0	27.0MiB/s
+s3_transfer_9704185_18.log	07_20_21_R941_HG02668_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_18.csv	0	85.5MiB/s
+s3_transfer_9704185_190.log	07_20_21_R941_HG03942_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_190.csv	0	43.1MiB/s
+s3_transfer_9704185_191.log	07_20_21_R941_HG03942_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_191.csv	0	90.7MiB/s
+s3_transfer_9704185_192.log	11_7_23_R1041_HPRC_HG00321_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_192.csv	0	89.7MiB/s
+s3_transfer_9704185_193.log	11_7_23_R1041_HPRC_HG00321_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_193.csv	0	25.8MiB/s
+s3_transfer_9704185_194.log	01_16_24_R1041_HPRC_HG00321_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_194.csv	0	88.3MiB/s
+s3_transfer_9704185_195.log	11_7_23_R1041_HPRC_HG00321_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_195.csv	0	82.1MiB/s
+s3_transfer_9704185_196.log	01_16_24_R1041_HPRC_HG00321_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_196.csv	0	39.1MiB/s
+s3_transfer_9704185_197.log	01_16_24_R1041_HPRC_HG00321_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_197.csv	0	36.8MiB/s
+s3_transfer_9704185_198.log	10_12_21_R941_HG02015_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_198.csv	0	46.9MiB/s
+s3_transfer_9704185_199.log	10_12_21_R941_HG02015_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_199.csv	0	51.5MiB/s
+s3_transfer_9704185_19.log	07_20_21_R941_HG02668_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_19.csv	0	53.6MiB/s
+s3_transfer_9704185_1.log	HG01071_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_1.csv	0	67.6MiB/s
+s3_transfer_9704185_200.log	10_12_21_R941_HG02015_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_200.csv	0	85.0MiB/s
+s3_transfer_9704185_201.log	10_12_21_R941_HG02015_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_201.csv	0	77.4MiB/s
+s3_transfer_9704185_202.log	09_27_2022_R941_GM20905_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_202.csv	0	85.7MiB/s
+s3_transfer_9704185_203.log	09_27_2022_R941_GM20905_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_203.csv	0	35.3MiB/s
+s3_transfer_9704185_204.log	09_27_2022_R941_GM20905_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_204.csv	0	85.5MiB/s
+s3_transfer_9704185_205.log	10_31_23_R1041_HPRC_HG00097_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_205.csv	0	29.9MiB/s
+s3_transfer_9704185_206.log	10_31_23_R1041_HPRC_HG00097_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_206.csv	0	86.2MiB/s
+s3_transfer_9704185_207.log	10_31_23_R1041_HPRC_HG00097_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_207.csv	0	41.7MiB/s
+s3_transfer_9704185_208.log	08_17_21_R941_HG02300_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_208.csv	0	83.3MiB/s
+s3_transfer_9704185_209.log	08_17_21_R941_HG02300_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_209.csv	0	75.5MiB/s
+s3_transfer_9704185_20.log	07_27_21_R941_HG00408_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_20.csv	0	40.5MiB/s
+s3_transfer_9704185_210.log	08_17_21_R941_HG02300_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_210.csv	0	85.7MiB/s
+s3_transfer_9704185_211.log	12_08_21_R941_HG02083_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_211.csv	0	79.1MiB/s
+s3_transfer_9704185_212.log			1	
+s3_transfer_9704185_213.log			1	
+s3_transfer_9704185_214.log			1	
+s3_transfer_9704185_215.log			1	
+s3_transfer_9704185_216.log			1	
+s3_transfer_9704185_217.log			1	
+s3_transfer_9704185_218.log			1	
+s3_transfer_9704185_219.log			1	
+s3_transfer_9704185_21.log	07_27_21_R941_HG00408_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_21.csv	0	78.5MiB/s
+s3_transfer_9704185_220.log			1	
+s3_transfer_9704185_221.log			1	
+s3_transfer_9704185_222.log			1	
+s3_transfer_9704185_223.log			1	
+s3_transfer_9704185_224.log	08_03_21_R941_HG04160_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_224.csv	0	80.4MiB/s
+s3_transfer_9704185_225.log	08_03_21_R941_HG04160_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_225.csv	0	36.7MiB/s
+s3_transfer_9704185_226.log			1	
+s3_transfer_9704185_227.log			1	
+s3_transfer_9704185_228.log			1	
+s3_transfer_9704185_229.log			1	
+s3_transfer_9704185_22.log	07_27_21_R941_HG00408_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_22.csv	0	86.0MiB/s
+s3_transfer_9704185_230.log			1	
+s3_transfer_9704185_231.log	HG03579_PAK45398_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_231.csv	0	32.1MiB/s
+s3_transfer_9704185_232.log	HG03579_PAK45495_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_232.csv	0	37.6MiB/s
+s3_transfer_9704185_233.log			1	
+s3_transfer_9704185_234.log			1	
+s3_transfer_9704185_235.log			1	
+s3_transfer_9704185_236.log			1	
+s3_transfer_9704185_237.log			1	
+s3_transfer_9704185_238.log			1	
+s3_transfer_9704185_239.log			1	
+s3_transfer_9704185_23.log	08_03_21_R941_HG04157_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_23.csv	0	79.1MiB/s
+s3_transfer_9704185_240.log			1	
+s3_transfer_9704185_241.log			1	
+s3_transfer_9704185_242.log			1	
+s3_transfer_9704185_243.log			1	
+s3_transfer_9704185_244.log			1	
+s3_transfer_9704185_245.log	03_08_23_R1041_NA20129_1_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_245.csv	0	89.2MiB/s
+s3_transfer_9704185_246.log	03_08_23_R1041_NA20129_2_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_246.csv	0	34.1MiB/s
+s3_transfer_9704185_247.log	03_08_23_R1041_NA20129_3_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_247.csv	0	87.5MiB/s
+s3_transfer_9704185_248.log	01_23_24_R1041_HPRC_NA20762_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_248.csv	0	51.6MiB/s
+s3_transfer_9704185_249.log	10_31_23_R1041_HPRC_NA20762_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_249.csv	0	86.6MiB/s
+s3_transfer_9704185_24.log	08_03_21_R941_HG04157_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_24.csv	0	36.8MiB/s
+s3_transfer_9704185_250.log	10_31_23_R1041_HPRC_NA20762_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_250.csv	0	82.2MiB/s
+s3_transfer_9704185_251.log	01_23_24_R1041_HPRC_NA20762_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_251.csv	0	27.5MiB/s
+s3_transfer_9704185_252.log	10_31_23_R1041_HPRC_NA20762_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_252.csv	0	73.6MiB/s
+s3_transfer_9704185_253.log	02_15_22_R941_HG03041_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_253.csv	0	87.7MiB/s
+s3_transfer_9704185_254.log	02_15_22_R941_HG03041_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_254.csv	0	90.6MiB/s
+s3_transfer_9704185_255.log	02_15_22_R941_HG03041_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_255.csv	0	46.7MiB/s
+s3_transfer_9704185_256.log	12_08_21_R941_HG00423_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_256.csv	0	84.3MiB/s
+s3_transfer_9704185_257.log	12_08_21_R941_HG00423_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_257.csv	0	89.6MiB/s
+s3_transfer_9704185_258.log	12_08_21_R941_HG00423_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_258.csv	0	50.3MiB/s
+s3_transfer_9704185_259.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18960_1_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_259.csv	0	36.2MiB/s
+s3_transfer_9704185_25.log	08_03_21_R941_HG04157_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_25.csv	0	36.0MiB/s
+s3_transfer_9704185_260.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18960_2_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_260.csv	0	38.9MiB/s
+s3_transfer_9704185_261.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18960_3_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_261.csv	0	47.2MiB/s
+s3_transfer_9704185_262.log	01_16_24_R1041_HPRC_HG00235_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_262.csv	0	86.5MiB/s
+s3_transfer_9704185_263.log	01_16_24_R1041_HPRC_HG00235_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_263.csv	0	89.7MiB/s
+s3_transfer_9704185_264.log	10_10_23_R1041_HPRC_HG00235_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_264.csv	0	44.0MiB/s
+s3_transfer_9704185_265.log	01_16_24_R1041_HPRC_HG00235_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_265.csv	0	83.2MiB/s
+s3_transfer_9704185_266.log	10_10_23_R1041_HPRC_HG00235_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_266.csv	0	86.7MiB/s
+s3_transfer_9704185_267.log	01_16_24_R1041_HPRC_HG00235_4_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_267.csv	0	82.0MiB/s
+s3_transfer_9704185_268.log	10_10_23_R1041_HPRC_HG00235_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_268.csv	0	81.1MiB/s
+s3_transfer_9704185_269.log	07_20_21_R941_HG02602_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_269.csv	0	36.5MiB/s
+s3_transfer_9704185_26.log	01_16_24_R1041_HPRC_NA18620_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_26.csv	0	88.0MiB/s
+s3_transfer_9704185_270.log			1	
+s3_transfer_9704185_271.log			1	
+s3_transfer_9704185_272.log	10_31_23_R1041_HPRC_HG03583_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_272.csv	0	88.4MiB/s
+s3_transfer_9704185_273.log			1	
+s3_transfer_9704185_274.log	10_31_23_R1041_HPRC_HG03583_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_274.csv	0	36.7MiB/s
+s3_transfer_9704185_275.log	03_14_23_R941_HG03540_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_275.csv	0	36.9MiB/s
+s3_transfer_9704185_276.log			1	
+s3_transfer_9704185_277.log			1	
+s3_transfer_9704185_278.log	HG03540_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_278.csv	0	39.6MiB/s
+s3_transfer_9704185_279.log	HG03540_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_279.csv	0	92.2MiB/s
+s3_transfer_9704185_27.log	11_14_23_R1041_HPRC_NA18620_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_27.csv	0	44.2MiB/s
+s3_transfer_9704185_280.log			1	
+s3_transfer_9704185_281.log	11_28_23_R1041_HPRC_HG01786_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_281.csv	0	36.0MiB/s
+s3_transfer_9704185_282.log			1	
+s3_transfer_9704185_283.log			1	
+s3_transfer_9704185_284.log			1	
+s3_transfer_9704185_285.log			1	
+s3_transfer_9704185_286.log			1	
+s3_transfer_9704185_287.log			1	
+s3_transfer_9704185_288.log	07_20_21_R941_HG03816_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_288.csv	0	38.3MiB/s
+s3_transfer_9704185_289.log			1	
+s3_transfer_9704185_28.log	01_16_24_R1041_HPRC_NA18620_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_28.csv	0	27.8MiB/s
+s3_transfer_9704185_290.log			1	
+s3_transfer_9704185_291.log			1	
+s3_transfer_9704185_292.log			1	
+s3_transfer_9704185_293.log			1	
+s3_transfer_9704185_294.log			1	
+s3_transfer_9704185_295.log			1	
+s3_transfer_9704185_296.log			1	
+s3_transfer_9704185_297.log			1	
+s3_transfer_9704185_298.log			1	
+s3_transfer_9704185_299.log			1	
+s3_transfer_9704185_29.log	01_16_24_R1041_HPRC_NA18620_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_29.csv	0	83.3MiB/s
+s3_transfer_9704185_2.log	HG01071_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_2.csv	0	58.2MiB/s
+s3_transfer_9704185_300.log			1	
+s3_transfer_9704185_301.log			1	
+s3_transfer_9704185_302.log			1	
+s3_transfer_9704185_303.log			1	
+s3_transfer_9704185_304.log			1	
+s3_transfer_9704185_305.log	07_27_21_R941_HG04115_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_305.csv	0	82.0MiB/s
+s3_transfer_9704185_306.log			1	
+s3_transfer_9704185_307.log			1	
+s3_transfer_9704185_308.log			1	
+s3_transfer_9704185_309.log			1	
+s3_transfer_9704185_30.log	11_14_23_R1041_HPRC_NA18620_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_30.csv	0	33.2MiB/s
+s3_transfer_9704185_310.log			1	
+s3_transfer_9704185_311.log			1	
+s3_transfer_9704185_312.log			1	
+s3_transfer_9704185_313.log			1	
+s3_transfer_9704185_314.log			1	
+s3_transfer_9704185_315.log			1	
+s3_transfer_9704185_316.log			1	
+s3_transfer_9704185_317.log			1	
+s3_transfer_9704185_318.log			1	
+s3_transfer_9704185_319.log			1	
+s3_transfer_9704185_31.log	11_14_23_R1041_HPRC_NA18620_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_31.csv	0	26.3MiB/s
+s3_transfer_9704185_320.log			1	
+s3_transfer_9704185_321.log			1	
+s3_transfer_9704185_322.log			1	
+s3_transfer_9704185_323.log			1	
+s3_transfer_9704185_324.log			1	
+s3_transfer_9704185_325.log			1	
+s3_transfer_9704185_326.log			1	
+s3_transfer_9704185_327.log			1	
+s3_transfer_9704185_328.log			1	
+s3_transfer_9704185_329.log			1	
+s3_transfer_9704185_32.log	05_03_22_R94_HG02055_25FRA_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_32.csv	0	28.4MiB/s
+s3_transfer_9704185_330.log			1	
+s3_transfer_9704185_331.log			1	
+s3_transfer_9704185_332.log			1	
+s3_transfer_9704185_333.log			1	
+s3_transfer_9704185_334.log			1	
+s3_transfer_9704185_335.log			1	
+s3_transfer_9704185_336.log			1	
+s3_transfer_9704185_337.log			1	
+s3_transfer_9704185_338.log	05_17_22_R941_HG03130_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_338.csv	0	82.2MiB/s
+s3_transfer_9704185_339.log	03_01_22_R941_HG01969_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_339.csv	0	87.2MiB/s
+s3_transfer_9704185_33.log	05_03_22_R94_HG02055_50FRA_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_33.csv	0	35.4MiB/s
+s3_transfer_9704185_340.log	03_01_22_R941_HG01969_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_340.csv	0	72.3MiB/s
+s3_transfer_9704185_341.log	03_01_22_R941_HG01969_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_341.csv	0	29.0MiB/s
+s3_transfer_9704185_342.log	09_12_23_R1041_HPRC_NA18508_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_342.csv	0	36.9MiB/s
+s3_transfer_9704185_343.log			1	
+s3_transfer_9704185_344.log			1	
+s3_transfer_9704185_345.log			1	
+s3_transfer_9704185_346.log			1	
+s3_transfer_9704185_347.log			1	
+s3_transfer_9704185_348.log			1	
+s3_transfer_9704185_349.log	11_14_23_R1041_HPRC_NA20870_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_349.csv	0	36.2MiB/s
+s3_transfer_9704185_34.log	05_03_22_R94_HG02055_50FRA_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_34.csv	0	41.8MiB/s
+s3_transfer_9704185_350.log			1	
+s3_transfer_9704185_351.log	08_17_21_R941_HG02735_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_351.csv	0	39.8MiB/s
+s3_transfer_9704185_352.log			1	
+s3_transfer_9704185_353.log	08_17_21_R941_HG02735_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_353.csv	0	87.0MiB/s
+s3_transfer_9704185_354.log			1	
+s3_transfer_9704185_355.log			1	
+s3_transfer_9704185_356.log			1	
+s3_transfer_9704185_357.log	07_27_21_R941_HG03654_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_357.csv	0	37.6MiB/s
+s3_transfer_9704185_358.log			1	
+s3_transfer_9704185_359.log			1	
+s3_transfer_9704185_35.log	05_03_22_R94_HG02055_Control_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_35.csv	0	78.0MiB/s
+s3_transfer_9704185_360.log			1	
+s3_transfer_9704185_361.log			1	
+s3_transfer_9704185_362.log			1	
+s3_transfer_9704185_363.log	HG01928_PAK44506_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_363.csv	0	83.5MiB/s
+s3_transfer_9704185_364.log			1	
+s3_transfer_9704185_365.log			1	
+s3_transfer_9704185_366.log			1	
+s3_transfer_9704185_367.log			1	
+s3_transfer_9704185_368.log			1	
+s3_transfer_9704185_369.log			1	
+s3_transfer_9704185_36.log	05_03_22_R94_HG02055_Control_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_36.csv	0	82.7MiB/s
+s3_transfer_9704185_370.log	05_17_22_R941_HG03098_2_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_370.csv	0	87.2MiB/s
+s3_transfer_9704185_371.log			1	
+s3_transfer_9704185_372.log			1	
+s3_transfer_9704185_373.log			1	
+s3_transfer_9704185_374.log			1	
+s3_transfer_9704185_375.log	HG03098_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_375.csv	0	87.5MiB/s
+s3_transfer_9704185_376.log	08_08_23_R1041_HPRC_NA20850_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_376.csv	0	36.3MiB/s
+s3_transfer_9704185_377.log			1	
+s3_transfer_9704185_378.log	08_08_23_R1041_HPRC_NA20850_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_378.csv	0	83.7MiB/s
+s3_transfer_9704185_379.log	06_28_22_R941_GM18983_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_379.csv	0	86.9MiB/s
+s3_transfer_9704185_37.log	05_03_22_R94_HG02055_NEB300_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_37.csv	0	80.9MiB/s
+s3_transfer_9704185_380.log	06_28_22_R941_GM18983_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_380.csv	0	32.2MiB/s
+s3_transfer_9704185_381.log	06_28_22_R941_GM18983_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_381.csv	0	90.1MiB/s
+s3_transfer_9704185_382.log	07_13_21_R941_HG01255_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_382.csv	0	39.6MiB/s
+s3_transfer_9704185_383.log	07_13_21_R941_HG01255_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_383.csv	0	32.7MiB/s
+s3_transfer_9704185_384.log	07_13_21_R941_HG01255_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_384.csv	0	31.4MiB/s
+s3_transfer_9704185_385.log	01_18_23_R941_HG01109_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_385.csv	0	43.5MiB/s
+s3_transfer_9704185_386.log	01_18_23_R941_HG01109_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_386.csv	0	85.0MiB/s
+s3_transfer_9704185_387.log	01_24_23_R941_HG01109_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_387.csv	0	86.0MiB/s
+s3_transfer_9704185_388.log	01_24_23_R941_HG01109_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_388.csv	0	87.4MiB/s
+s3_transfer_9704185_389.log	01_24_23_R941_HG01109_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_389.csv	0	88.9MiB/s
+s3_transfer_9704185_38.log	05_03_22_R94_HG02055_NEB300_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_38.csv	0	36.7MiB/s
+s3_transfer_9704185_390.log	02_01_2023_R941_HG01109_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_390.csv	0	85.8MiB/s
+s3_transfer_9704185_391.log	HG01109_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_391.csv	0	29.7MiB/s
+s3_transfer_9704185_392.log	HG01109_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_392.csv	0	83.6MiB/s
+s3_transfer_9704185_393.log	HG01109_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_393.csv	0	29.1MiB/s
+s3_transfer_9704185_394.log	02_08_22_R941_HG02258_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_394.csv	0	81.9MiB/s
+s3_transfer_9704185_395.log	02_08_22_R941_HG02258_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_395.csv	0	75.4MiB/s
+s3_transfer_9704185_396.log	02_08_22_R941_HG02258_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_396.csv	0	23.4MiB/s
+s3_transfer_9704185_397.log	02_08_22_R941_HG02258_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_397.csv	0	25.3MiB/s
+s3_transfer_9704185_398.log	11_28_23_R1041_HPRC_NA20827_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_398.csv	0	85.6MiB/s
+s3_transfer_9704185_399.log	01_23_24_R1041_HPRC_NA20827_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_399.csv	0	34.8MiB/s
+s3_transfer_9704185_39.log	05_03_22_R94_HG02055_NEB650_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_39.csv	0	29.3MiB/s
+s3_transfer_9704185_3.log	HG01071_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_3.csv	0	57.4MiB/s
+s3_transfer_9704185_400.log	11_28_23_R1041_HPRC_NA20827_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_400.csv	0	84.5MiB/s
+s3_transfer_9704185_401.log	11_28_23_R1041_HPRC_NA20827_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_401.csv	0	37.6MiB/s
+s3_transfer_9704185_402.log	01_23_24_R1041_HPRC_NA20827_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_402.csv	0	84.5MiB/s
+s3_transfer_9704185_403.log	11_28_23_R1041_AMED-Collaboration-HPRC_NA18944_1_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_403.csv	0	40.0MiB/s
+s3_transfer_9704185_404.log	11_28_23_R1041_AMED-Collaboration-HPRC_NA18944_2_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_404.csv	0	37.5MiB/s
+s3_transfer_9704185_405.log	11_28_23_R1041_AMED-Collaboration-HPRC_NA18944_3_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_405.csv	0	85.3MiB/s
+s3_transfer_9704185_406.log	12_12_23_R1041_AMED-Collaboration-HPRC_NA18944_1_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_406.csv	0	41.8MiB/s
+s3_transfer_9704185_407.log	12_7_22_R941_HG02486_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_407.csv	0	35.0MiB/s
+s3_transfer_9704185_408.log	12_7_22_R941_HG02486_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_408.csv	0	84.5MiB/s
+s3_transfer_9704185_409.log	HG02486_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_409.csv	0	41.5MiB/s
+s3_transfer_9704185_40.log	05_03_22_R94_HG02055_NEB650_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_40.csv	0	29.5MiB/s
+s3_transfer_9704185_410.log	HG02486_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_410.csv	0	55.1MiB/s
+s3_transfer_9704185_411.log	HG02486_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_411.csv	0	34.1MiB/s
+s3_transfer_9704185_412.log	10_24_23_R1041_HPRC_HG00329_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_412.csv	0	45.6MiB/s
+s3_transfer_9704185_413.log	10_24_23_R1041_HPRC_HG00329_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_413.csv	0	84.1MiB/s
+s3_transfer_9704185_414.log	10_24_23_R1041_HPRC_HG00329_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_414.csv	0	40.7MiB/s
+s3_transfer_9704185_415.log	11_28_23_R1041_AMED-Collaboration-HPRC_NA18943_1_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_415.csv	0	88.1MiB/s
+s3_transfer_9704185_416.log	11_28_23_R1041_AMED-Collaboration-HPRC_NA18943_2_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_416.csv	0	28.7MiB/s
+s3_transfer_9704185_417.log	11_28_23_R1041_AMED-Collaboration-HPRC_NA18943_3_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_417.csv	0	36.5MiB/s
+s3_transfer_9704185_418.log	12_12_23_R1041_AMED-Collaboration-HPRC_NA18943_1_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_418.csv	0	89.5MiB/s
+s3_transfer_9704185_419.log	12_12_23_R1041_AMED-Collaboration-HPRC_NA18943_2_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_419.csv	0	84.0MiB/s
+s3_transfer_9704185_41.log	HG02055_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_41.csv	0	31.6MiB/s
+s3_transfer_9704185_420.log	12_12_23_R1041_AMED-Collaboration-HPRC_NA18943_3_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_420.csv	0	50.3MiB/s
+s3_transfer_9704185_421.log	12_12_23_R1041_AMED-Collaboration-HPRC_NA18943_4_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_421.csv	0	89.0MiB/s
+s3_transfer_9704185_422.log	HG005_Circulomics_GridION_R941.part01.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_422.csv	1	
+s3_transfer_9704185_423.log	HG005_Circulomics_GridION_R941.part02.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_423.csv	1	
+s3_transfer_9704185_424.log	HG005_Circulomics_PromethION_R941.part01.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_424.csv	1	
+s3_transfer_9704185_425.log	HG005_Circulomics_PromethION_R941.part02.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_425.csv	1	
+s3_transfer_9704185_426.log	05_24_22_R941_GM19391_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_426.csv	0	36.0MiB/s
+s3_transfer_9704185_427.log	05_24_22_R941_GM19391_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_427.csv	0	41.8MiB/s
+s3_transfer_9704185_428.log	05_24_22_R941_GM19391_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_428.csv	0	38.6MiB/s
+s3_transfer_9704185_429.log	HG00438_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_429.csv	0	90.9MiB/s
+s3_transfer_9704185_42.log	HG02055_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_42.csv	0	30.3MiB/s
+s3_transfer_9704185_430.log	HG00438_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_430.csv	0	42.9MiB/s
+s3_transfer_9704185_431.log	HG00438_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_431.csv	0	52.5MiB/s
+s3_transfer_9704185_432.log	HG00438_PAK20493_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_432.csv	0	52.3MiB/s
+s3_transfer_9704185_433.log	HG00438_PAM33067_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_433.csv	0	58.1MiB/s
+s3_transfer_9704185_434.log	HG00438_PAM53001_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_434.csv	0	36.8MiB/s
+s3_transfer_9704185_435.log	HG00438_PAM54620_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_435.csv	0	86.2MiB/s
+s3_transfer_9704185_436.log	HG00438_PAM54727_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_436.csv	0	85.9MiB/s
+s3_transfer_9704185_437.log	HG00438_PAM57552_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_437.csv	0	81.4MiB/s
+s3_transfer_9704185_438.log	HG00438_PAM61591_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_438.csv	0	38.0MiB/s
+s3_transfer_9704185_439.log	11_28_23_R1041_HPRC_NA18952_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_439.csv	0	85.9MiB/s
+s3_transfer_9704185_43.log	HG02055_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_43.csv	0	83.3MiB/s
+s3_transfer_9704185_440.log	11_28_23_R1041_HPRC_NA18952_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_440.csv	0	35.4MiB/s
+s3_transfer_9704185_441.log	11_28_23_R1041_HPRC_NA18952_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_441.csv	0	32.8MiB/s
+s3_transfer_9704185_442.log	HG00733_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_442.csv	0	84.5MiB/s
+s3_transfer_9704185_443.log	HG00733_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_443.csv	0	85.6MiB/s
+s3_transfer_9704185_444.log	HG00733_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_444.csv	0	30.5MiB/s
+s3_transfer_9704185_445.log	03_01_22_R941_HG01150_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_445.csv	0	30.7MiB/s
+s3_transfer_9704185_446.log	03_01_22_R941_HG01150_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_446.csv	0	28.5MiB/s
+s3_transfer_9704185_447.log	03_01_22_R941_HG01150_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_447.csv	0	82.2MiB/s
+s3_transfer_9704185_448.log	04_12_22_R941_HG02273_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_448.csv	0	35.3MiB/s
+s3_transfer_9704185_449.log	04_12_22_R941_HG02273_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_449.csv	0	86.4MiB/s
+s3_transfer_9704185_44.log	10_31_23_R1041_HPRC_NA19835_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_44.csv	0	78.6MiB/s
+s3_transfer_9704185_450.log	04_12_22_R941_HG02273_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_450.csv	0	27.8MiB/s
+s3_transfer_9704185_451.log	03_14_23_R941_HG02572_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_451.csv	0	84.9MiB/s
+s3_transfer_9704185_452.log	03_14_23_R941_HG02572_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_452.csv	0	78.1MiB/s
+s3_transfer_9704185_453.log	HG02572_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_453.csv	0	40.0MiB/s
+s3_transfer_9704185_454.log	HG02572_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_454.csv	0	37.5MiB/s
+s3_transfer_9704185_455.log	HG02572_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_455.csv	0	91.6MiB/s
+s3_transfer_9704185_456.log	03_14_23_R941_HG01952_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_456.csv	0	33.4MiB/s
+s3_transfer_9704185_457.log	03_14_23_R941_HG01952_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_457.csv	0	88.1MiB/s
+s3_transfer_9704185_458.log	HG01952_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_458.csv	0	74.0MiB/s
+s3_transfer_9704185_459.log	HG01952_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_459.csv	0	31.5MiB/s
+s3_transfer_9704185_45.log	10_31_23_R1041_HPRC_NA19835_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_45.csv	0	32.4MiB/s
+s3_transfer_9704185_460.log	HG01952_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_460.csv	0	28.9MiB/s
+s3_transfer_9704185_461.log	12_12_23_R1041_HPRC_NA19443_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_461.csv	0	83.9MiB/s
+s3_transfer_9704185_462.log	01_23_24_R1041_HPRC_NA19443_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_462.csv	0	28.9MiB/s
+s3_transfer_9704185_463.log	12_12_23_R1041_HPRC_NA19443_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_463.csv	0	29.4MiB/s
+s3_transfer_9704185_464.log	01_23_24_R1041_HPRC_NA19443_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_464.csv	0	79.8MiB/s
+s3_transfer_9704185_465.log	12_12_23_R1041_HPRC_NA19443_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_465.csv	0	86.3MiB/s
+s3_transfer_9704185_466.log	08_17_21_R941_HG02293_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_466.csv	0	35.3MiB/s
+s3_transfer_9704185_467.log	08_17_21_R941_HG02293_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_467.csv	0	79.7MiB/s
+s3_transfer_9704185_468.log	08_17_21_R941_HG02293_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_468.csv	0	88.8MiB/s
+s3_transfer_9704185_469.log	02_15_22_R941_HG03050_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_469.csv	0	32.6MiB/s
+s3_transfer_9704185_46.log	10_31_23_R1041_HPRC_NA19835_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_46.csv	0	31.4MiB/s
+s3_transfer_9704185_470.log	02_15_22_R941_HG03050_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_470.csv	0	87.6MiB/s
+s3_transfer_9704185_471.log	02_15_22_R941_HG03050_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_471.csv	0	84.1MiB/s
+s3_transfer_9704185_472.log	04_19_22_R941_HG02080_1_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_472.csv	0	34.6MiB/s
+s3_transfer_9704185_473.log	04_19_22_R941_HG02080_1_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_473.csv	0	34.4MiB/s
+s3_transfer_9704185_474.log	04_19_22_R941_HG02080_1_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_474.csv	0	31.6MiB/s
+s3_transfer_9704185_475.log	04_19_22_R941_HG02080_2_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_475.csv	0	31.1MiB/s
+s3_transfer_9704185_476.log	04_19_22_R941_HG02080_2_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_476.csv	0	34.9MiB/s
+s3_transfer_9704185_477.log	04_19_22_R941_HG02080_2_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_477.csv	0	32.2MiB/s
+s3_transfer_9704185_478.log	HG02080_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_478.csv	0	80.1MiB/s
+s3_transfer_9704185_479.log	HG02080_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_479.csv	0	84.0MiB/s
+s3_transfer_9704185_47.log	01_09_24_R1041_Q27chem_UL_HG06807_1_dorado0.7.1_sup5.0.0_5mCG_5hmCG.bam	./manifest_9704185_47.csv	0	82.1MiB/s
+s3_transfer_9704185_480.log	HG02080_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_480.csv	0	90.0MiB/s
+s3_transfer_9704185_481.log	03_14_23_R941_HG03453_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_481.csv	0	79.6MiB/s
+s3_transfer_9704185_482.log	03_14_23_R941_HG03453_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_482.csv	0	35.8MiB/s
+s3_transfer_9704185_483.log	HG03453_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_483.csv	0	80.1MiB/s
+s3_transfer_9704185_484.log	HG03453_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_484.csv	0	75.9MiB/s
+s3_transfer_9704185_485.log	HG03453_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_485.csv	0	86.1MiB/s
+s3_transfer_9704185_486.log	08_10_21_R941_HG01993_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_486.csv	0	28.9MiB/s
+s3_transfer_9704185_487.log	08_10_21_R941_HG01993_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_487.csv	0	32.3MiB/s
+s3_transfer_9704185_488.log	08_10_21_R941_HG01993_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_488.csv	0	86.7MiB/s
+s3_transfer_9704185_489.log	02_15_22_R941_HG02514_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_489.csv	0	76.0MiB/s
+s3_transfer_9704185_48.log	01_09_24_R1041_Q27chem_UL_HG06807_2_dorado0.7.1_sup5.0.0_5mCG_5hmCG.bam	./manifest_9704185_48.csv	0	32.8MiB/s
+s3_transfer_9704185_490.log	02_15_22_R941_HG02514_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_490.csv	0	76.7MiB/s
+s3_transfer_9704185_491.log	02_15_22_R941_HG02514_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_491.csv	0	79.9MiB/s
+s3_transfer_9704185_492.log	12_7_22_R941_HG02257_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_492.csv	0	25.8MiB/s
+s3_transfer_9704185_493.log	12_7_22_R941_HG02257_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_493.csv	0	78.9MiB/s
+s3_transfer_9704185_494.log	HG02257_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_494.csv	0	32.6MiB/s
+s3_transfer_9704185_495.log	HG02257_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_495.csv	0	48.3MiB/s
+s3_transfer_9704185_496.log	HG02257_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_496.csv	0	79.3MiB/s
+s3_transfer_9704185_497.log	02_15_22_R941_HG00658_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_497.csv	0	78.1MiB/s
+s3_transfer_9704185_498.log	02_15_22_R941_HG00658_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_498.csv	0	37.2MiB/s
+s3_transfer_9704185_499.log	02_15_22_R941_HG00658_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_499.csv	0	31.9MiB/s
+s3_transfer_9704185_49.log	01_09_24_R1041_Q27chem_UL_HG06807_3_dorado0.7.1_sup5.0.0_5mCG_5hmCG.bam	./manifest_9704185_49.csv	0	32.4MiB/s
+s3_transfer_9704185_4.log	HG01071_PAK28002_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_4.csv	0	33.2MiB/s
+s3_transfer_9704185_500.log	07_27_21_R941_HG00597_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_500.csv	0	40.1MiB/s
+s3_transfer_9704185_501.log	07_27_21_R941_HG00597_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_501.csv	0	87.2MiB/s
+s3_transfer_9704185_502.log	07_27_21_R941_HG00597_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_502.csv	0	32.1MiB/s
+s3_transfer_9704185_503.log	07_27_21_R941_HG00597_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_503.csv	0	32.0MiB/s
+s3_transfer_9704185_504.log	11_14_23_R1041_HPRC_HG00146_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_504.csv	0	86.4MiB/s
+s3_transfer_9704185_505.log	01_23_24_R1041_HPRC_HG00146_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_505.csv	0	73.5MiB/s
+s3_transfer_9704185_506.log	01_23_24_R1041_HPRC_HG00146_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_506.csv	0	73.3MiB/s
+s3_transfer_9704185_507.log	01_23_24_R1041_HPRC_HG00146_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_507.csv	0	34.7MiB/s
+s3_transfer_9704185_508.log	11_14_23_R1041_HPRC_HG00146_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_508.csv	0	87.0MiB/s
+s3_transfer_9704185_509.log	11_14_23_R1041_HPRC_HG00146_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_509.csv	0	85.5MiB/s
+s3_transfer_9704185_50.log	08_08_23_R1041_HPRC_NA18879_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_50.csv	0	74.8MiB/s
+s3_transfer_9704185_510.log	07_13_21_R941_HG02074_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_510.csv	0	43.6MiB/s
+s3_transfer_9704185_511.log	07_13_21_R941_HG02074_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_511.csv	0	44.2MiB/s
+s3_transfer_9704185_512.log	07_13_21_R941_HG02074_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_512.csv	0	41.5MiB/s
+s3_transfer_9704185_513.log	01_16_24_R1041_HPRC_NA21110_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_513.csv	0	41.4MiB/s
+s3_transfer_9704185_514.log	01_16_24_R1041_HPRC_NA21110_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_514.csv	0	84.9MiB/s
+s3_transfer_9704185_515.log	01_16_24_R1041_HPRC_NA21110_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_515.csv	0	86.8MiB/s
+s3_transfer_9704185_516.log	08_29_23_R1041_HPRC_HG01167_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_516.csv	0	41.9MiB/s
+s3_transfer_9704185_517.log	08_29_23_R1041_HPRC_HG01167_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_517.csv	0	42.9MiB/s
+s3_transfer_9704185_518.log	08_29_23_R1041_HPRC_HG01167_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_518.csv	0	86.8MiB/s
+s3_transfer_9704185_519.log	12_7_22_R941_HG01258_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_519.csv	0	39.9MiB/s
+s3_transfer_9704185_51.log	08_08_23_R1041_HPRC_NA18879_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_51.csv	0	77.7MiB/s
+s3_transfer_9704185_520.log	12_7_22_R941_HG01258_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_520.csv	0	39.6MiB/s
+s3_transfer_9704185_521.log	HG01258_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_521.csv	0	90.1MiB/s
+s3_transfer_9704185_522.log	HG01258_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_522.csv	0	33.8MiB/s
+s3_transfer_9704185_523.log	HG01258_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_523.csv	0	87.7MiB/s
+s3_transfer_9704185_524.log	06_22_21_R941_HG00738_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_524.csv	0	89.8MiB/s
+s3_transfer_9704185_525.log	07_13_21_R941_HG00738_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_525.csv	0	44.6MiB/s
+s3_transfer_9704185_526.log	07_13_21_R941_HG00738_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_526.csv	0	36.1MiB/s
+s3_transfer_9704185_527.log	04_12_22_R941_HG03225_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_527.csv	0	83.9MiB/s
+s3_transfer_9704185_528.log	04_12_22_R941_HG03225_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_528.csv	0	87.6MiB/s
+s3_transfer_9704185_529.log	04_12_22_R941_HG03225_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_529.csv	0	83.9MiB/s
+s3_transfer_9704185_52.log	08_08_23_R1041_HPRC_NA18879_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_52.csv	0	31.8MiB/s
+s3_transfer_9704185_530.log	12_7_22_R941_HG01123_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_530.csv	0	75.0MiB/s
+s3_transfer_9704185_531.log	12_7_22_R941_HG01123_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_531.csv	0	31.0MiB/s
+s3_transfer_9704185_532.log	HG01123_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_532.csv	0	28.1MiB/s
+s3_transfer_9704185_533.log	HG01123_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_533.csv	0	89.7MiB/s
+s3_transfer_9704185_534.log	HG01123_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_534.csv	0	73.2MiB/s
+s3_transfer_9704185_535.log	10_31_23_R1041_HPRC_HG00344_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_535.csv	0	72.4MiB/s
+s3_transfer_9704185_536.log	10_31_23_R1041_HPRC_HG00344_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_536.csv	0	33.7MiB/s
+s3_transfer_9704185_537.log	10_31_23_R1041_HPRC_HG00344_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_537.csv	0	81.3MiB/s
+s3_transfer_9704185_538.log	08_03_21_R941_HG01975_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_538.csv	0	80.9MiB/s
+s3_transfer_9704185_539.log	08_03_21_R941_HG01975_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_539.csv	0	52.0MiB/s
+s3_transfer_9704185_53.log	02_22_23_R1041_NA21309_1_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_53.csv	0	86.2MiB/s
+s3_transfer_9704185_540.log	08_03_21_R941_HG01975_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_540.csv	0	56.0MiB/s
+s3_transfer_9704185_541.log	12_08_21_R941_HG02523_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_541.csv	0	41.1MiB/s
+s3_transfer_9704185_542.log	12_08_21_R941_HG02523_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_542.csv	0	43.0MiB/s
+s3_transfer_9704185_543.log	12_08_21_R941_HG02523_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_543.csv	0	48.9MiB/s
+s3_transfer_9704185_544.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18959_1_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_544.csv	0	43.5MiB/s
+s3_transfer_9704185_545.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18959_2_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_545.csv	0	46.5MiB/s
+s3_transfer_9704185_546.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18959_3_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_546.csv	0	83.5MiB/s
+s3_transfer_9704185_547.log	09_14_22_R941_HG00280_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_547.csv	0	88.9MiB/s
+s3_transfer_9704185_548.log	09_14_22_R941_HG00280_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_548.csv	0	86.9MiB/s
+s3_transfer_9704185_549.log	09_14_22_R941_HG00280_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_549.csv	0	45.5MiB/s
+s3_transfer_9704185_54.log	02_22_23_R1041_NA21309_2_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_54.csv	0	34.1MiB/s
+s3_transfer_9704185_550.log	04_12_22_R941_HG02965_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_550.csv	0	26.0MiB/s
+s3_transfer_9704185_551.log	04_12_22_R941_HG02965_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_551.csv	0	57.1MiB/s
+s3_transfer_9704185_552.log	04_12_22_R941_HG02965_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_552.csv	0	55.7MiB/s
+s3_transfer_9704185_553.log	06_22_21_R941_HG02135_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_553.csv	0	49.3MiB/s
+s3_transfer_9704185_554.log	07_13_21_R941_HG02135_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_554.csv	0	84.6MiB/s
+s3_transfer_9704185_555.log	07_13_21_R941_HG02135_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_555.csv	0	41.1MiB/s
+s3_transfer_9704185_556.log	08_03_21_R941_HG02984_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_556.csv	0	41.9MiB/s
+s3_transfer_9704185_557.log	08_03_21_R941_HG02984_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_557.csv	0	43.7MiB/s
+s3_transfer_9704185_558.log	08_03_21_R941_HG02984_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_558.csv	0	85.5MiB/s
+s3_transfer_9704185_559.log	08_03_21_R941_HG02984_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_559.csv	0	86.0MiB/s
+s3_transfer_9704185_55.log	02_22_23_R1041_NA21309_3_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_55.csv	0	77.4MiB/s
+s3_transfer_9704185_560.log	07_27_21_R941_HG03688_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_560.csv	0	44.1MiB/s
+s3_transfer_9704185_561.log	07_27_21_R941_HG03688_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_561.csv	0	47.0MiB/s
+s3_transfer_9704185_562.log	07_27_21_R941_HG03688_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_562.csv	0	85.0MiB/s
+s3_transfer_9704185_563.log	02_08_22_R941_HG00558_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_563.csv	0	34.9MiB/s
+s3_transfer_9704185_564.log	02_08_22_R941_HG00558_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_564.csv	0	80.1MiB/s
+s3_transfer_9704185_565.log	02_08_22_R941_HG00558_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_565.csv	0	47.1MiB/s
+s3_transfer_9704185_566.log	12_7_22_R941_HG01891_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_566.csv	0	44.4MiB/s
+s3_transfer_9704185_567.log	12_7_22_R941_HG01891_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_567.csv	0	48.7MiB/s
+s3_transfer_9704185_568.log	HG01891_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_568.csv	0	47.9MiB/s
+s3_transfer_9704185_569.log	HG01891_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_569.csv	0	45.3MiB/s
+s3_transfer_9704185_56.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18970_1_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_56.csv	0	81.4MiB/s
+s3_transfer_9704185_570.log	HG01891_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_570.csv	0	50.4MiB/s
+s3_transfer_9704185_571.log	11_7_23_R1041_HPRC_HG00128_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_571.csv	0	46.2MiB/s
+s3_transfer_9704185_572.log	11_7_23_R1041_HPRC_HG00128_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_572.csv	0	43.1MiB/s
+s3_transfer_9704185_573.log	11_7_23_R1041_HPRC_HG00128_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_573.csv	0	69.5MiB/s
+s3_transfer_9704185_574.log	1_11_23_R941_HG02886_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_574.csv	0	32.7MiB/s
+s3_transfer_9704185_575.log	1_11_23_R941_HG02886_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_575.csv	0	32.3MiB/s
+s3_transfer_9704185_576.log	HG02886_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_576.csv	0	55.8MiB/s
+s3_transfer_9704185_577.log	HG02886_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_577.csv	0	36.3MiB/s
+s3_transfer_9704185_578.log	HG02886_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_578.csv	0	57.9MiB/s
+s3_transfer_9704185_579.log	10_10_23_R1041_HPRC_HG03369_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_579.csv	0	29.4MiB/s
+s3_transfer_9704185_57.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18970_2_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_57.csv	0	38.6MiB/s
+s3_transfer_9704185_580.log	10_10_23_R1041_HPRC_HG03369_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_580.csv	0	28.4MiB/s
+s3_transfer_9704185_581.log	10_10_23_R1041_HPRC_HG03369_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_581.csv	0	34.9MiB/s
+s3_transfer_9704185_582.log	10_31_23_R1041_HPRC_HG02392_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_582.csv	0	82.4MiB/s
+s3_transfer_9704185_583.log	10_31_23_R1041_HPRC_HG02392_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_583.csv	0	86.2MiB/s
+s3_transfer_9704185_584.log	10_31_23_R1041_HPRC_HG02392_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_584.csv	0	31.3MiB/s
+s3_transfer_9704185_585.log	08_25_21_R941_HG04184_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_585.csv	0	82.5MiB/s
+s3_transfer_9704185_586.log	08_25_21_R941_HG04184_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_586.csv	0	27.5MiB/s
+s3_transfer_9704185_587.log	08_25_21_R941_HG04184_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_587.csv	0	83.2MiB/s
+s3_transfer_9704185_588.log	03_14_23_R941_HG00621_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_588.csv	0	82.3MiB/s
+s3_transfer_9704185_589.log	03_14_23_R941_HG00621_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_589.csv	0	79.0MiB/s
+s3_transfer_9704185_58.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18970_3_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_58.csv	0	36.1MiB/s
+s3_transfer_9704185_590.log	HG00621_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_590.csv	0	86.2MiB/s
+s3_transfer_9704185_591.log	HG00621_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_591.csv	0	83.2MiB/s
+s3_transfer_9704185_592.log	HG00621_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_592.csv	0	31.6MiB/s
+s3_transfer_9704185_593.log	04_11_23_R941_HG00735_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_593.csv	0	26.9MiB/s
+s3_transfer_9704185_594.log	04_11_23_R941_HG00735_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_594.csv	0	28.5MiB/s
+s3_transfer_9704185_595.log	04_11_23_R941_HG00735_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_595.csv	0	81.2MiB/s
+s3_transfer_9704185_596.log	HG00735_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_596.csv	0	85.3MiB/s
+s3_transfer_9704185_597.log	HG00735_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_597.csv	0	29.7MiB/s
+s3_transfer_9704185_598.log	HG00735_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_598.csv	0	28.1MiB/s
+s3_transfer_9704185_599.log	12_12_23_R1041_HPRC_NA20282_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_599.csv	0	30.2MiB/s
+s3_transfer_9704185_59.log	08_10_21_R941_HG04228_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_59.csv	0	37.6MiB/s
+s3_transfer_9704185_5.log	HG01071_PAM53072_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_5.csv	0	83.9MiB/s
+s3_transfer_9704185_600.log	12_12_23_R1041_HPRC_NA20282_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_600.csv	0	68.8MiB/s
+s3_transfer_9704185_601.log	12_12_23_R1041_HPRC_NA20282_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_601.csv	0	81.6MiB/s
+s3_transfer_9704185_602.log	05_24_22_R941_HG03470_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_602.csv	0	87.1MiB/s
+s3_transfer_9704185_603.log	05_24_22_R941_HG03470_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_603.csv	0	31.6MiB/s
+s3_transfer_9704185_604.log	05_24_22_R941_HG03470_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_604.csv	0	83.8MiB/s
+s3_transfer_9704185_605.log	03_01_22_R941_HG00639_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_605.csv	0	31.5MiB/s
+s3_transfer_9704185_606.log	03_01_22_R941_HG00639_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_606.csv	0	83.7MiB/s
+s3_transfer_9704185_607.log	03_01_22_R941_HG00639_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_607.csv	0	32.5MiB/s
+s3_transfer_9704185_608.log	09_14_22_R941_HG01784_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_608.csv	0	29.2MiB/s
+s3_transfer_9704185_609.log	09_14_22_R941_HG01784_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_609.csv	0	34.5MiB/s
+s3_transfer_9704185_60.log	08_10_21_R941_HG04228_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_60.csv	0	36.7MiB/s
+s3_transfer_9704185_610.log	09_14_22_R941_HG01784_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_610.csv	0	36.3MiB/s
+s3_transfer_9704185_611.log	08_17_21_R941_HG01496_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_611.csv	0	36.2MiB/s
+s3_transfer_9704185_612.log	08_17_21_R941_HG01496_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_612.csv	0	34.8MiB/s
+s3_transfer_9704185_613.log	08_17_21_R941_HG01496_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_613.csv	0	39.7MiB/s
+s3_transfer_9704185_614.log	12_12_23_R1041_HPRC_NA20806_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_614.csv	0	33.4MiB/s
+s3_transfer_9704185_615.log	12_12_23_R1041_HPRC_NA20806_4_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_615.csv	0	79.9MiB/s
+s3_transfer_9704185_616.log	12_12_23_R1041_HPRC_NA20806_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_616.csv	0	39.3MiB/s
+s3_transfer_9704185_617.log	12_12_23_R1041_HPRC_NA20806_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_617.csv	0	84.2MiB/s
+s3_transfer_9704185_618.log	04_12_22_R941_HG02976_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_618.csv	0	75.0MiB/s
+s3_transfer_9704185_619.log	04_12_22_R941_HG02976_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_619.csv	0	78.1MiB/s
+s3_transfer_9704185_61.log	08_10_21_R941_HG04228_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_61.csv	0	83.0MiB/s
+s3_transfer_9704185_620.log	04_12_22_R941_HG02976_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_620.csv	0	33.6MiB/s
+s3_transfer_9704185_621.log	09_27_2022_R941_GM20799_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_621.csv	0	83.4MiB/s
+s3_transfer_9704185_622.log	09_27_2022_R941_GM20799_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_622.csv	0	29.0MiB/s
+s3_transfer_9704185_623.log	09_27_2022_R941_GM20799_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_623.csv	0	39.4MiB/s
+s3_transfer_9704185_624.log	10_24_23_R1041_HPRC_HG00350_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_624.csv	0	86.4MiB/s
+s3_transfer_9704185_625.log	10_24_23_R1041_HPRC_HG00350_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_625.csv	0	34.6MiB/s
+s3_transfer_9704185_626.log	10_24_23_R1041_HPRC_HG00350_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_626.csv	0	36.8MiB/s
+s3_transfer_9704185_627.log	12_7_22_R941_HG01358_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_627.csv	0	33.2MiB/s
+s3_transfer_9704185_628.log	12_7_22_R941_HG01358_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_628.csv	0	84.2MiB/s
+s3_transfer_9704185_629.log	HG01358_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_629.csv	0	83.5MiB/s
+s3_transfer_9704185_62.log	08_10_21_R941_HG02647_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_62.csv	0	71.7MiB/s
+s3_transfer_9704185_630.log	HG01358_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_630.csv	0	82.2MiB/s
+s3_transfer_9704185_631.log	HG01358_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_631.csv	0	38.5MiB/s
+s3_transfer_9704185_632.log	03_14_23_R941_HG02622_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_632.csv	0	84.2MiB/s
+s3_transfer_9704185_633.log	03_14_23_R941_HG02622_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_633.csv	0	85.4MiB/s
+s3_transfer_9704185_634.log	HG02622_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_634.csv	0	36.0MiB/s
+s3_transfer_9704185_635.log	HG02622_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_635.csv	0	86.5MiB/s
+s3_transfer_9704185_636.log	HG02622_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_636.csv	0	37.0MiB/s
+s3_transfer_9704185_637.log	07_27_21_R941_HG01261_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_637.csv	0	37.1MiB/s
+s3_transfer_9704185_638.log	07_27_21_R941_HG01261_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_638.csv	0	31.1MiB/s
+s3_transfer_9704185_639.log	07_27_21_R941_HG01261_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_639.csv	0	31.7MiB/s
+s3_transfer_9704185_63.log	08_10_21_R941_HG02647_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_63.csv	0	44.1MiB/s
+s3_transfer_9704185_640.log	08_17_21_R941_HG01884_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_640.csv	0	38.0MiB/s
+s3_transfer_9704185_641.log	08_17_21_R941_HG01884_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_641.csv	0	34.9MiB/s
+s3_transfer_9704185_642.log	08_17_21_R941_HG01884_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_642.csv	0	34.3MiB/s
+s3_transfer_9704185_643.log	08_10_21_R941_HG01433_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_643.csv	0	80.6MiB/s
+s3_transfer_9704185_644.log	08_10_21_R941_HG01433_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_644.csv	0	86.1MiB/s
+s3_transfer_9704185_645.log	08_10_21_R941_HG01433_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_645.csv	0	84.8MiB/s
+s3_transfer_9704185_646.log	10_24_23_R1041_HPRC_NA19776_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_646.csv	0	35.2MiB/s
+s3_transfer_9704185_647.log	10_24_23_R1041_HPRC_NA19776_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_647.csv	0	80.0MiB/s
+s3_transfer_9704185_648.log	10_24_23_R1041_HPRC_NA19776_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_648.csv	0	32.2MiB/s
+s3_transfer_9704185_649.log	08_10_21_R941_HG03831_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_649.csv	0	82.7MiB/s
+s3_transfer_9704185_64.log	08_10_21_R941_HG02647_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_64.csv	0	36.7MiB/s
+s3_transfer_9704185_650.log	08_10_21_R941_HG03831_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_650.csv	0	35.1MiB/s
+s3_transfer_9704185_651.log	08_10_21_R941_HG03831_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_651.csv	0	42.9MiB/s
+s3_transfer_9704185_652.log	08_10_21_R941_HG04204_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_652.csv	0	41.5MiB/s
+s3_transfer_9704185_653.log	08_10_21_R941_HG04204_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_653.csv	0	37.6MiB/s
+s3_transfer_9704185_654.log	08_10_21_R941_HG04204_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_654.csv	0	77.9MiB/s
+s3_transfer_9704185_655.log	07_13_21_R941_HG02132_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_655.csv	0	86.0MiB/s
+s3_transfer_9704185_656.log	07_13_21_R941_HG02132_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_656.csv	0	80.2MiB/s
+s3_transfer_9704185_657.log	07_13_21_R941_HG02132_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_657.csv	0	35.9MiB/s
+s3_transfer_9704185_658.log	09_14_22_R941_HG01530_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_658.csv	0	80.1MiB/s
+s3_transfer_9704185_659.log	09_14_22_R941_HG01530_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_659.csv	0	38.2MiB/s
+s3_transfer_9704185_65.log	08_10_21_R941_HG02647_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_65.csv	0	24.4MiB/s
+s3_transfer_9704185_660.log	09_14_22_R941_HG01530_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_660.csv	0	17.7MiB/s
+s3_transfer_9704185_661.log	03_01_22_R941_HG03017_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_661.csv	0	82.8MiB/s
+s3_transfer_9704185_662.log	03_01_22_R941_HG03017_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_662.csv	0	37.1MiB/s
+s3_transfer_9704185_663.log	03_01_22_R941_HG03017_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_663.csv	0	36.2MiB/s
+s3_transfer_9704185_664.log	1_11_23_R941_HG01106_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_664.csv	0	38.4MiB/s
+s3_transfer_9704185_665.log	1_11_23_R941_HG01106_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_665.csv	0	86.3MiB/s
+s3_transfer_9704185_666.log	HG01106_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_666.csv	0	38.7MiB/s
+s3_transfer_9704185_667.log	HG01106_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_667.csv	0	16.2MiB/s
+s3_transfer_9704185_668.log	HG01106_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_668.csv	0	34.9MiB/s
+s3_transfer_9704185_669.log	03_01_22_R941_HG01081_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_669.csv	0	55.0MiB/s
+s3_transfer_9704185_66.log	08_03_21_R941_HG02841_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_66.csv	0	39.2MiB/s
+s3_transfer_9704185_670.log	03_01_22_R941_HG01081_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_670.csv	0	37.9MiB/s
+s3_transfer_9704185_671.log	03_01_22_R941_HG01081_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_671.csv	0	35.8MiB/s
+s3_transfer_9704185_672.log	03_01_22_R941_HG01081_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_672.csv	0	37.8MiB/s
+s3_transfer_9704185_673.log	03_14_23_R1041_NA19240_1_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_673.csv	0	84.6MiB/s
+s3_transfer_9704185_674.log	03_14_23_R1041_NA19240_2_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_674.csv	0	47.3MiB/s
+s3_transfer_9704185_675.log	03_14_23_R1041_NA19240_3_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_675.csv	0	83.9MiB/s
+s3_transfer_9704185_676.log	12_12_23_R1041_HPRC_NA18976_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_676.csv	0	37.3MiB/s
+s3_transfer_9704185_677.log	12_12_23_R1041_HPRC_NA18976_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_677.csv	0	36.1MiB/s
+s3_transfer_9704185_678.log	12_12_23_R1041_HPRC_NA18976_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_678.csv	0	37.2MiB/s
+s3_transfer_9704185_679.log	HG01978_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_679.csv	0	82.3MiB/s
+s3_transfer_9704185_67.log	08_03_21_R941_HG02841_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_67.csv	0	88.2MiB/s
+s3_transfer_9704185_680.log	HG01978_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_680.csv	0	84.9MiB/s
+s3_transfer_9704185_681.log	HG01978_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_681.csv	0	83.1MiB/s
+s3_transfer_9704185_682.log	HG01978_PAK27968_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_682.csv	0	85.1MiB/s
+s3_transfer_9704185_683.log	HG01978_PAM54485_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_683.csv	0	44.9MiB/s
+s3_transfer_9704185_684.log	HG01978_PAM54633_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_684.csv	0	76.3MiB/s
+s3_transfer_9704185_685.log	HG01978_PAM59653_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_685.csv	0	81.8MiB/s
+s3_transfer_9704185_686.log	HG01978_PAM62027_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_686.csv	0	51.3MiB/s
+s3_transfer_9704185_687.log	HG01978_PAM62481_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_687.csv	0	86.4MiB/s
+s3_transfer_9704185_688.log	03_08_22_R941_HG002_4.bam	./manifest_9704185_688.csv	1	
+s3_transfer_9704185_689.log	03_08_22_R941_HG002_5.bam	./manifest_9704185_689.csv	1	
+s3_transfer_9704185_68.log	08_03_21_R941_HG02841_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_68.csv	0	36.2MiB/s
+s3_transfer_9704185_690.log	03_08_22_R941_HG002_6.bam	./manifest_9704185_690.csv	1	
+s3_transfer_9704185_691.log	08_25_21_R941_HG02004_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_691.csv	0	43.4MiB/s
+s3_transfer_9704185_692.log	08_25_21_R941_HG02004_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_692.csv	0	46.0MiB/s
+s3_transfer_9704185_693.log	08_25_21_R941_HG02004_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_693.csv	0	84.3MiB/s
+s3_transfer_9704185_694.log	07_13_21_R941_HG00544_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_694.csv	0	44.1MiB/s
+s3_transfer_9704185_695.log	07_13_21_R941_HG00544_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_695.csv	0	81.6MiB/s
+s3_transfer_9704185_696.log	07_13_21_R941_HG00544_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_696.csv	0	43.0MiB/s
+s3_transfer_9704185_697.log	06_28_22_R941_HG00140_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_697.csv	0	56.7MiB/s
+s3_transfer_9704185_698.log	06_28_22_R941_HG00140_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_698.csv	0	35.4MiB/s
+s3_transfer_9704185_699.log	06_28_22_R941_HG00140_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_699.csv	0	77.2MiB/s
+s3_transfer_9704185_69.log	1_11_23_R941_HG01175_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_69.csv	0	82.4MiB/s
+s3_transfer_9704185_6.log	HG01071_PAM53513_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_6.csv	0	39.8MiB/s
+s3_transfer_9704185_700.log	08_10_22_R941_GM19185_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_700.csv	0	45.9MiB/s
+s3_transfer_9704185_701.log	08_10_22_R941_GM19185_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_701.csv	0	49.5MiB/s
+s3_transfer_9704185_702.log	08_10_22_R941_GM19185_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_702.csv	0	83.5MiB/s
+s3_transfer_9704185_703.log	05_17_22_R941_HG03139_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_703.csv	0	87.0MiB/s
+s3_transfer_9704185_704.log	05_17_22_R941_HG03139_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_704.csv	0	49.7MiB/s
+s3_transfer_9704185_705.log	05_17_22_R941_HG03139_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_705.csv	0	57.9MiB/s
+s3_transfer_9704185_706.log	08_17_21_R941_HG02738_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_706.csv	0	83.2MiB/s
+s3_transfer_9704185_707.log	08_17_21_R941_HG02738_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_707.csv	0	39.4MiB/s
+s3_transfer_9704185_708.log	08_17_21_R941_HG02738_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_708.csv	0	82.7MiB/s
+s3_transfer_9704185_709.log	11_28_23_R1041_HPRC_NA18974_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_709.csv	0	85.0MiB/s
+s3_transfer_9704185_70.log	1_11_23_R941_HG01175_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_70.csv	0	35.5MiB/s
+s3_transfer_9704185_710.log	11_28_23_R1041_HPRC_NA18974_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_710.csv	0	84.5MiB/s
+s3_transfer_9704185_711.log	11_28_23_R1041_HPRC_NA18974_4_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_711.csv	0	75.0MiB/s
+s3_transfer_9704185_712.log	11_28_23_R1041_HPRC_NA18974_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_712.csv	0	33.1MiB/s
+s3_transfer_9704185_713.log	11_28_23_R1041_AMED-Collaboration-HPRC_NA18940_1_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_713.csv	0	83.7MiB/s
+s3_transfer_9704185_714.log	11_28_23_R1041_AMED-Collaboration-HPRC_NA18940_2_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_714.csv	0	36.2MiB/s
+s3_transfer_9704185_715.log	11_28_23_R1041_AMED-Collaboration-HPRC_NA18940_3_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_715.csv	0	86.2MiB/s
+s3_transfer_9704185_716.log	12_12_23_R1041_AMED-Collaboration-HPRC_NA18940_1_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_716.csv	0	82.2MiB/s
+s3_transfer_9704185_717.log	08_17_21_R941_HG01346_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_717.csv	0	81.7MiB/s
+s3_transfer_9704185_718.log	08_17_21_R941_HG01346_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_718.csv	0	87.7MiB/s
+s3_transfer_9704185_719.log	08_17_21_R941_HG01346_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_719.csv	0	81.0MiB/s
+s3_transfer_9704185_71.log	HG01175_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_71.csv	0	82.8MiB/s
+s3_transfer_9704185_720.log	HG03516_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_720.csv	0	78.4MiB/s
+s3_transfer_9704185_721.log	HG03516_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_721.csv	0	31.0MiB/s
+s3_transfer_9704185_722.log	HG03516_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_722.csv	0	24.5MiB/s
+s3_transfer_9704185_723.log	HG03516_PAK11017_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_723.csv	0	81.3MiB/s
+s3_transfer_9704185_724.log	HG03516_PAK11491_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_724.csv	0	33.0MiB/s
+s3_transfer_9704185_725.log	HG03516_PAK15111_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_725.csv	0	84.1MiB/s
+s3_transfer_9704185_726.log	HG03516_PAK15127_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_726.csv	0	32.7MiB/s
+s3_transfer_9704185_727.log	HG03516_PAK42746_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_727.csv	0	78.8MiB/s
+s3_transfer_9704185_728.log	HG03516_PAM62473_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_728.csv	0	5.5MiB/s
+s3_transfer_9704185_729.log	1_11_23_R941_HG00673_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_729.csv	0	4.6MiB/s
+s3_transfer_9704185_72.log	HG01175_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_72.csv	0	39.6MiB/s
+s3_transfer_9704185_730.log	1_11_23_R941_HG00673_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_730.csv	0	11.9MiB/s
+s3_transfer_9704185_731.log	HG00673_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_731.csv	0	40.9MiB/s
+s3_transfer_9704185_732.log	HG00673_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_732.csv	0	36.5MiB/s
+s3_transfer_9704185_733.log	HG00673_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_733.csv	0	19.3MiB/s
+s3_transfer_9704185_734.log	10_12_21_R941_HG02056_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_734.csv	0	39.8MiB/s
+s3_transfer_9704185_735.log	10_12_21_R941_HG02056_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_735.csv	0	80.1MiB/s
+s3_transfer_9704185_736.log	10_12_21_R941_HG02056_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_736.csv	0	39.2MiB/s
+s3_transfer_9704185_737.log	10_17_23_R1041_HPRC_HG03784_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_737.csv	0	32.2MiB/s
+s3_transfer_9704185_738.log	10_17_23_R1041_HPRC_HG03784_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_738.csv	0	33.8MiB/s
+s3_transfer_9704185_739.log	10_17_23_R1041_HPRC_HG03784_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_739.csv	0	67.0MiB/s
+s3_transfer_9704185_73.log	HG01175_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_73.csv	0	83.2MiB/s
+s3_transfer_9704185_740.log	04_11_23_R941_HG02630_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_740.csv	0	32.8MiB/s
+s3_transfer_9704185_741.log	04_11_23_R941_HG02630_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_741.csv	0	34.8MiB/s
+s3_transfer_9704185_742.log	HG02630_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_742.csv	0	83.4MiB/s
+s3_transfer_9704185_743.log	HG02630_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_743.csv	0	41.6MiB/s
+s3_transfer_9704185_744.log	HG02630_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_744.csv	0	82.8MiB/s
+s3_transfer_9704185_745.log	06_28_22_R941_HG02165_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_745.csv	0	12.3MiB/s
+s3_transfer_9704185_746.log	06_28_22_R941_HG02165_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_746.csv	0	33.1MiB/s
+s3_transfer_9704185_747.log	06_28_22_R941_HG02165_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_747.csv	0	33.8MiB/s
+s3_transfer_9704185_748.log	12_05_23_R1041_HPRC_NA21144_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_748.csv	0	30.2MiB/s
+s3_transfer_9704185_749.log	01_23_24_R1041_HPRC_NA21144_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_749.csv	0	31.2MiB/s
+s3_transfer_9704185_74.log	08_25_21_R941_HG01981_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_74.csv	0	40.8MiB/s
+s3_transfer_9704185_750.log	12_05_23_R1041_HPRC_NA21144_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_750.csv	0	30.6MiB/s
+s3_transfer_9704185_751.log	01_23_24_R1041_HPRC_NA21144_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_751.csv	0	37.8MiB/s
+s3_transfer_9704185_752.log	12_05_23_R1041_HPRC_NA21144_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_752.csv	0	76.2MiB/s
+s3_transfer_9704185_753.log	08_10_22_R941_HG02391_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_753.csv	0	36.6MiB/s
+s3_transfer_9704185_754.log	08_10_22_R941_HG02391_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_754.csv	0	77.3MiB/s
+s3_transfer_9704185_755.log	08_10_22_R941_HG02391_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_755.csv	0	78.0MiB/s
+s3_transfer_9704185_756.log	08_10_22_R941_HG02391_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_756.csv	0	78.5MiB/s
+s3_transfer_9704185_757.log	07_27_21_R941_HG01934_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_757.csv	0	39.1MiB/s
+s3_transfer_9704185_758.log	07_27_21_R941_HG01934_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_758.csv	0	73.4MiB/s
+s3_transfer_9704185_759.log	07_27_21_R941_HG01934_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_759.csv	0	73.1MiB/s
+s3_transfer_9704185_75.log	08_25_21_R941_HG01981_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_75.csv	0	82.7MiB/s
+s3_transfer_9704185_760.log	07_27_21_R941_HG01934_4_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_760.csv	0	74.9MiB/s
+s3_transfer_9704185_761.log	08_08_23_R1041_HPRC_NA20809_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_761.csv	0	75.9MiB/s
+s3_transfer_9704185_762.log	08_08_23_R1041_HPRC_NA20809_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_762.csv	0	36.3MiB/s
+s3_transfer_9704185_763.log	08_08_23_R1041_HPRC_NA20809_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_763.csv	0	72.2MiB/s
+s3_transfer_9704185_764.log	07_20_21_R941_HG03710_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_764.csv	0	71.9MiB/s
+s3_transfer_9704185_765.log	07_20_21_R941_HG03710_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_765.csv	0	32.5MiB/s
+s3_transfer_9704185_766.log	07_20_21_R941_HG03710_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_766.csv	0	60.8MiB/s
+s3_transfer_9704185_767.log	07_20_21_R941_HG03710_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_767.csv	0	20.4MiB/s
+s3_transfer_9704185_768.log	HG02723_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_768.csv	0	30.3MiB/s
+s3_transfer_9704185_769.log	HG02723_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_769.csv	0	34.8MiB/s
+s3_transfer_9704185_76.log	08_25_21_R941_HG01981_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_76.csv	0	83.8MiB/s
+s3_transfer_9704185_770.log	HG02723_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_770.csv	0	46.8MiB/s
+s3_transfer_9704185_771.log	HG02723_Circulomics_MinION_R941.part01_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_771.csv	0	53.2MiB/s
+s3_transfer_9704185_772.log	HG02723_Circulomics_MinION_R941.part02_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_772.csv	0	14.8MiB/s
+s3_transfer_9704185_773.log	HG02723_Circulomics_PromethION_R941.part01_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_773.csv	0	75.0MiB/s
+s3_transfer_9704185_774.log	HG02723_Circulomics_PromethION_R941.part02_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_774.csv	0	8.5MiB/s
+s3_transfer_9704185_775.log	HG02723_Circulomics_PromethION_R941.part03_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_775.csv	0	8.2MiB/s
+s3_transfer_9704185_776.log	02_15_23_R1041_HG03486_1_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_776.csv	0	39.8MiB/s
+s3_transfer_9704185_777.log	02_15_23_R1041_HG03486_2_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_777.csv	0	30.6MiB/s
+s3_transfer_9704185_778.log	02_15_23_R1041_HG03486_3_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_778.csv	0	34.2MiB/s
+s3_transfer_9704185_779.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18948_1_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_779.csv	0	32.6MiB/s
+s3_transfer_9704185_77.log	1_11_23_R941_HG00741_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_77.csv	0	77.6MiB/s
+s3_transfer_9704185_780.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18948_2_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_780.csv	0	76.9MiB/s
+s3_transfer_9704185_781.log	12_05_23_R1041_AMED-Collaboration-HPRC_NA18948_1_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_781.csv	0	38.9MiB/s
+s3_transfer_9704185_782.log	12_05_23_R1041_AMED-Collaboration-HPRC_NA18948_2_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_782.csv	0	44.4MiB/s
+s3_transfer_9704185_783.log	12_05_23_R1041_AMED-Collaboration-HPRC_NA18948_3_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_783.csv	0	75.3MiB/s
+s3_transfer_9704185_784.log	08_10_22_R941_GM19159_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_784.csv	0	82.3MiB/s
+s3_transfer_9704185_785.log	08_10_22_R941_GM19159_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_785.csv	0	61.2MiB/s
+s3_transfer_9704185_786.log	08_10_22_R941_GM19159_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_786.csv	0	50.5MiB/s
+s3_transfer_9704185_787.log	08_10_22_R941_GM18570_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_787.csv	0	77.1MiB/s
+s3_transfer_9704185_788.log	08_10_22_R941_GM18570_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_788.csv	0	56.6MiB/s
+s3_transfer_9704185_789.log	08_10_22_R941_GM18570_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_789.csv	0	80.9MiB/s
+s3_transfer_9704185_78.log	1_11_23_R941_HG00741_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_78.csv	0	38.9MiB/s
+s3_transfer_9704185_790.log	03_14_23_R941_HG02148_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_790.csv	0	37.9MiB/s
+s3_transfer_9704185_791.log	03_14_23_R941_HG02148_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_791.csv	0	50.3MiB/s
+s3_transfer_9704185_792.log	HG02148_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_792.csv	0	51.9MiB/s
+s3_transfer_9704185_793.log	HG02148_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_793.csv	0	47.6MiB/s
+s3_transfer_9704185_794.log	HG02148_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_794.csv	0	54.6MiB/s
+s3_transfer_9704185_795.log	06_28_22_R941_HG02922_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_795.csv	0	40.5MiB/s
+s3_transfer_9704185_796.log	06_28_22_R941_HG02922_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_796.csv	0	68.0MiB/s
+s3_transfer_9704185_797.log	06_28_22_R941_HG02922_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_797.csv	0	74.2MiB/s
+s3_transfer_9704185_798.log	10_24_23_R1041_HPRC_NA21106_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_798.csv	0	71.7MiB/s
+s3_transfer_9704185_799.log	10_24_23_R1041_HPRC_NA21106_4_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_799.csv	0	73.2MiB/s
+s3_transfer_9704185_79.log	HG00741_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_79.csv	0	86.8MiB/s
+s3_transfer_9704185_7.log	HG01071_PAM54677_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_7.csv	0	84.0MiB/s
+s3_transfer_9704185_800.log	10_24_23_R1041_HPRC_NA21106_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_800.csv	0	59.6MiB/s
+s3_transfer_9704185_801.log	10_24_23_R1041_HPRC_NA21106_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_801.csv	0	43.9MiB/s
+s3_transfer_9704185_802.log	08_08_23_R1041_HPRC_HG00272_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_802.csv	0	46.4MiB/s
+s3_transfer_9704185_803.log	08_08_23_R1041_HPRC_HG00272_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_803.csv	0	78.4MiB/s
+s3_transfer_9704185_804.log	08_08_23_R1041_HPRC_HG00272_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_804.csv	0	39.8MiB/s
+s3_transfer_9704185_805.log	08_03_21_R941_HG01960_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_805.csv	0	62.1MiB/s
+s3_transfer_9704185_806.log	08_03_21_R941_HG01960_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_806.csv	0	76.6MiB/s
+s3_transfer_9704185_807.log	08_03_21_R941_HG01960_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_807.csv	0	50.7MiB/s
+s3_transfer_9704185_808.log	08_03_21_R941_HG01960_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_808.csv	0	82.2MiB/s
+s3_transfer_9704185_809.log	02_17_22_R941_HG01074_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_809.csv	0	44.8MiB/s
+s3_transfer_9704185_80.log	HG00741_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_80.csv	0	38.6MiB/s
+s3_transfer_9704185_810.log	02_17_22_R941_HG01074_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_810.csv	0	43.9MiB/s
+s3_transfer_9704185_811.log	02_17_22_R941_HG01074_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_811.csv	0	46.1MiB/s
+s3_transfer_9704185_812.log	03_01_22_R941_HG01940_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_812.csv	0	87.9MiB/s
+s3_transfer_9704185_813.log	03_01_22_R941_HG01940_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_813.csv	0	72.6MiB/s
+s3_transfer_9704185_814.log	03_01_22_R941_HG01940_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_814.csv	0	65.5MiB/s
+s3_transfer_9704185_815.log	07_27_21_R941_HG03669_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_815.csv	0	18.8MiB/s
+s3_transfer_9704185_816.log	07_27_21_R941_HG03669_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_816.csv	0	73.8MiB/s
+s3_transfer_9704185_817.log	07_27_21_R941_HG03669_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_817.csv	0	40.8MiB/s
+s3_transfer_9704185_818.log	07_27_21_R941_HG03669_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_818.csv	0	77.4MiB/s
+s3_transfer_9704185_819.log	10_31_23_R1041_HPRC_HG00253_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_819.csv	0	41.9MiB/s
+s3_transfer_9704185_81.log	HG00741_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_81.csv	0	44.2MiB/s
+s3_transfer_9704185_820.log	01_16_24_R1041_HPRC_HG00253_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_820.csv	0	38.8MiB/s
+s3_transfer_9704185_821.log	01_16_24_R1041_HPRC_HG00253_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_821.csv	0	64.3MiB/s
+s3_transfer_9704185_822.log	10_31_23_R1041_HPRC_HG00253_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_822.csv	0	86.0MiB/s
+s3_transfer_9704185_823.log	01_16_24_R1041_HPRC_HG00253_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_823.csv	0	87.3MiB/s
+s3_transfer_9704185_824.log	10_31_23_R1041_HPRC_HG00253_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_824.csv	0	76.0MiB/s
+s3_transfer_9704185_825.log	02_08_22_R941_HG03834_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_825.csv	0	48.7MiB/s
+s3_transfer_9704185_826.log	02_08_22_R941_HG03834_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_826.csv	0	83.9MiB/s
+s3_transfer_9704185_827.log	02_08_22_R941_HG03834_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_827.csv	0	63.8MiB/s
+s3_transfer_9704185_828.log	01_23_24_R1041_HPRC_HG00232_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_828.csv	0	61.9MiB/s
+s3_transfer_9704185_829.log	11_14_23_R1041_HPRC_HG00232_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_829.csv	0	65.8MiB/s
+s3_transfer_9704185_82.log	02_15_23_R1041_NA18906_1_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_82.csv	0	40.2MiB/s
+s3_transfer_9704185_830.log	01_23_24_R1041_HPRC_HG00232_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_830.csv	0	64.1MiB/s
+s3_transfer_9704185_831.log	11_14_23_R1041_HPRC_HG00232_4_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_831.csv	0	69.5MiB/s
+s3_transfer_9704185_832.log	11_14_23_R1041_HPRC_HG00232_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_832.csv	0	50.0MiB/s
+s3_transfer_9704185_833.log	01_23_24_R1041_HPRC_HG00232_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_833.csv	0	59.3MiB/s
+s3_transfer_9704185_834.log	01_23_24_R1041_HPRC_HG00232_4_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_834.csv	0	45.4MiB/s
+s3_transfer_9704185_835.log	11_14_23_R1041_HPRC_HG00232_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_835.csv	0	76.7MiB/s
+s3_transfer_9704185_836.log	07_20_21_R941_HG02615_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_836.csv	0	42.2MiB/s
+s3_transfer_9704185_837.log	07_20_21_R941_HG02615_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_837.csv	0	65.9MiB/s
+s3_transfer_9704185_838.log	07_20_21_R941_HG02615_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_838.csv	0	37.6MiB/s
+s3_transfer_9704185_839.log	04_12_22_R941_HG03195_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_839.csv	0	67.1MiB/s
+s3_transfer_9704185_83.log	02_15_23_R1041_NA18906_2_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_83.csv	0	83.7MiB/s
+s3_transfer_9704185_840.log	04_12_22_R941_HG03195_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_840.csv	0	61.0MiB/s
+s3_transfer_9704185_841.log	04_12_22_R941_HG03195_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_841.csv	0	48.8MiB/s
+s3_transfer_9704185_842.log	04_12_22_R941_HG03195_4_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_842.csv	0	66.2MiB/s
+s3_transfer_9704185_843.log	12_12_23_R1041_HPRC_HG00320_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_843.csv	0	38.1MiB/s
+s3_transfer_9704185_844.log	12_12_23_R1041_HPRC_HG00320_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_844.csv	0	55.3MiB/s
+s3_transfer_9704185_845.log	12_12_23_R1041_HPRC_HG00320_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_845.csv	0	52.3MiB/s
+s3_transfer_9704185_846.log	10_24_23_R1041_HPRC_NA18505_4_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_846.csv	0	47.0MiB/s
+s3_transfer_9704185_847.log	10_24_23_R1041_HPRC_NA18505_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_847.csv	0	36.7MiB/s
+s3_transfer_9704185_848.log	10_24_23_R1041_HPRC_NA18505_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_848.csv	0	79.6MiB/s
+s3_transfer_9704185_849.log	10_24_23_R1041_HPRC_NA18505_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_849.csv	0	62.8MiB/s
+s3_transfer_9704185_84.log	02_15_23_R1041_NA18906_3_dorado0.7.2_sup4.1.0_5mCG_5hmCG.bam	./manifest_9704185_84.csv	0	44.8MiB/s
+s3_transfer_9704185_850.log	08_10_21_R941_HG00609_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_850.csv	0	80.4MiB/s
+s3_transfer_9704185_851.log	08_10_21_R941_HG00609_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_851.csv	0	79.8MiB/s
+s3_transfer_9704185_852.log	08_10_21_R941_HG00609_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_852.csv	0	82.1MiB/s
+s3_transfer_9704185_853.log	09_12_23_R1041_HPRC_NA19700_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_853.csv	0	81.1MiB/s
+s3_transfer_9704185_854.log	09_12_23_R1041_HPRC_NA19700_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_854.csv	0	80.8MiB/s
+s3_transfer_9704185_855.log	01_23_24_R1041_HPRC_NA19700_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_855.csv	0	67.7MiB/s
+s3_transfer_9704185_856.log	09_12_23_R1041_HPRC_NA19700_4_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_856.csv	0	88.0MiB/s
+s3_transfer_9704185_857.log	09_12_23_R1041_HPRC_NA19700_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_857.csv	0	59.5MiB/s
+s3_transfer_9704185_858.log	01_23_24_R1041_HPRC_NA19700_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_858.csv	0	70.1MiB/s
+s3_transfer_9704185_859.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18982_1_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_859.csv	0	78.8MiB/s
+s3_transfer_9704185_85.log	07_13_21_R941_HG00706_1_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_85.csv	0	44.9MiB/s
+s3_transfer_9704185_860.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18982_2_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_860.csv	0	71.0MiB/s
+s3_transfer_9704185_861.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18982_3_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_861.csv	0	85.7MiB/s
+s3_transfer_9704185_862.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18982_4_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_862.csv	0	86.7MiB/s
+s3_transfer_9704185_863.log	04_19_22_R941_HG02145_1_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_863.csv	0	34.3MiB/s
+s3_transfer_9704185_864.log	04_19_22_R941_HG02145_1_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_864.csv	0	85.9MiB/s
+s3_transfer_9704185_865.log	04_19_22_R941_HG02145_1_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_865.csv	0	74.5MiB/s
+s3_transfer_9704185_866.log	04_19_22_R941_HG02145_2_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_866.csv	0	80.0MiB/s
+s3_transfer_9704185_867.log	04_19_22_R941_HG02145_2_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_867.csv	0	58.1MiB/s
+s3_transfer_9704185_868.log	04_19_22_R941_HG02145_2_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_868.csv	0	44.2MiB/s
+s3_transfer_9704185_869.log	11_28_23_R1041_HPRC_NA19682_4_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_869.csv	0	45.4MiB/s
+s3_transfer_9704185_86.log	07_13_21_R941_HG00706_2_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_86.csv	0	34.6MiB/s
+s3_transfer_9704185_870.log	11_28_23_R1041_HPRC_NA19682_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_870.csv	0	83.7MiB/s
+s3_transfer_9704185_871.log	11_28_23_R1041_HPRC_NA19682_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_871.csv	0	43.8MiB/s
+s3_transfer_9704185_872.log	11_28_23_R1041_HPRC_NA19682_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_872.csv	0	80.9MiB/s
+s3_transfer_9704185_873.log	06_28_22_R941_HG02040_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_873.csv	0	85.6MiB/s
+s3_transfer_9704185_874.log	06_28_22_R941_HG02040_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_874.csv	0	41.6MiB/s
+s3_transfer_9704185_875.log	06_28_22_R941_HG02040_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_875.csv	0	39.2MiB/s
+s3_transfer_9704185_876.log	01_23_24_R1041_HPRC_HG03874_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_876.csv	0	35.0MiB/s
+s3_transfer_9704185_877.log	11_14_23_R1041_HPRC_HG03874_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_877.csv	0	77.7MiB/s
+s3_transfer_9704185_878.log	11_14_23_R1041_HPRC_HG03874_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_878.csv	0	38.3MiB/s
+s3_transfer_9704185_879.log	11_14_23_R1041_HPRC_HG03874_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_879.csv	0	40.1MiB/s
+s3_transfer_9704185_87.log	07_13_21_R941_HG00706_3_Guppy_6.4.6_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_87.csv	0	79.6MiB/s
+s3_transfer_9704185_880.log	01_23_24_R1041_HPRC_HG03874_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_880.csv	0	37.8MiB/s
+s3_transfer_9704185_881.log	HG02717_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_881.csv	0	74.2MiB/s
+s3_transfer_9704185_882.log	HG02717_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_882.csv	0	45.9MiB/s
+s3_transfer_9704185_883.log	HG02717_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_883.csv	0	88.4MiB/s
+s3_transfer_9704185_884.log	HG02717_PAK21733_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_884.csv	0	85.0MiB/s
+s3_transfer_9704185_885.log	HG02717_PAK43947_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_885.csv	0	86.1MiB/s
+s3_transfer_9704185_886.log	HG02717_PAK44878_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_886.csv	0	82.7MiB/s
+s3_transfer_9704185_887.log	HG02717_PAK46278_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_887.csv	0	84.0MiB/s
+s3_transfer_9704185_888.log	HG02717_PAK46297_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_888.csv	0	88.1MiB/s
+s3_transfer_9704185_889.log	HG02717_PAM32901_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_889.csv	0	85.3MiB/s
+s3_transfer_9704185_88.log	06_28_22_R941_HG02155_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_88.csv	0	32.8MiB/s
+s3_transfer_9704185_890.log	10_31_23_R1041_HPRC_NA18608_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_890.csv	0	86.2MiB/s
+s3_transfer_9704185_891.log	10_31_23_R1041_HPRC_NA18608_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_891.csv	0	84.6MiB/s
+s3_transfer_9704185_892.log	10_31_23_R1041_HPRC_NA18608_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_892.csv	0	46.6MiB/s
+s3_transfer_9704185_893.log	10_24_23_R1041_HPRC_HG03270_4_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_893.csv	0	85.0MiB/s
+s3_transfer_9704185_894.log	10_24_23_R1041_HPRC_HG03270_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_894.csv	0	75.7MiB/s
+s3_transfer_9704185_895.log	10_24_23_R1041_HPRC_HG03270_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_895.csv	0	44.7MiB/s
+s3_transfer_9704185_896.log	10_24_23_R1041_HPRC_HG03270_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_896.csv	0	43.3MiB/s
+s3_transfer_9704185_897.log	01_23_24_R1041_HPRC_HG00290_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_897.csv	0	74.4MiB/s
+s3_transfer_9704185_898.log	11_7_23_R1041_HPRC_HG00290_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_898.csv	0	44.9MiB/s
+s3_transfer_9704185_899.log	11_7_23_R1041_HPRC_HG00290_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_899.csv	0	46.8MiB/s
+s3_transfer_9704185_89.log	06_28_22_R941_HG02155_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_89.csv	0	32.4MiB/s
+s3_transfer_9704185_8.log	HG01071_PAM55655_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_8.csv	0	52.2MiB/s
+s3_transfer_9704185_900.log	01_23_24_R1041_HPRC_HG00290_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_900.csv	0	53.2MiB/s
+s3_transfer_9704185_901.log	11_7_23_R1041_HPRC_HG00290_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_901.csv	0	76.9MiB/s
+s3_transfer_9704185_902.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18967_1_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_902.csv	0	80.5MiB/s
+s3_transfer_9704185_903.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18967_2_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_903.csv	0	45.0MiB/s
+s3_transfer_9704185_904.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18967_3_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_904.csv	0	82.2MiB/s
+s3_transfer_9704185_905.log	01_09_24_R1041_AMED-Collaboration-HPRC_NA18967_4_dorado0.5.3_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_905.csv	0	41.2MiB/s
+s3_transfer_9704185_906.log	12_7_22_R941_HG01361_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_906.csv	0	50.0MiB/s
+s3_transfer_9704185_907.log	12_7_22_R941_HG01361_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_907.csv	0	76.3MiB/s
+s3_transfer_9704185_908.log	HG01361_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_908.csv	0	78.0MiB/s
+s3_transfer_9704185_909.log	HG01361_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_909.csv	0	53.6MiB/s
+s3_transfer_9704185_90.log	06_28_22_R941_HG02155_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_90.csv	0	33.7MiB/s
+s3_transfer_9704185_910.log	HG01361_5_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_910.csv	0	83.9MiB/s
+s3_transfer_9704185_911.log	HG01361_PAK21070_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_911.csv	0	88.9MiB/s
+s3_transfer_9704185_912.log	HG01361_PAM54483_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_912.csv	0	81.0MiB/s
+s3_transfer_9704185_913.log	HG01361_PAM54634_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_913.csv	0	71.2MiB/s
+s3_transfer_9704185_914.log	HG01361_PAM54907_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_914.csv	0	62.4MiB/s
+s3_transfer_9704185_915.log	HG01361_PAM61937_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_915.csv	0	47.3MiB/s
+s3_transfer_9704185_916.log	HG01361_PAM62496_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_916.csv	0	88.0MiB/s
+s3_transfer_9704185_917.log	02_15_22_R941_HG03239_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_917.csv	0	88.7MiB/s
+s3_transfer_9704185_918.log	02_15_22_R941_HG03239_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_918.csv	0	89.2MiB/s
+s3_transfer_9704185_919.log	02_15_22_R941_HG03239_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_919.csv	0	88.6MiB/s
+s3_transfer_9704185_91.log	11_14_23_R1041_HPRC_NA19909_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_91.csv	0	30.6MiB/s
+s3_transfer_9704185_920.log	11_7_23_R1041_HPRC_HG02583_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_920.csv	0	84.0MiB/s
+s3_transfer_9704185_921.log	01_16_24_R1041_HPRC_HG02583_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_921.csv	0	88.6MiB/s
+s3_transfer_9704185_922.log	11_7_23_R1041_HPRC_HG02583_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_922.csv	0	71.0MiB/s
+s3_transfer_9704185_923.log	01_16_24_R1041_HPRC_HG02583_2_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_923.csv	0	84.8MiB/s
+s3_transfer_9704185_924.log	11_7_23_R1041_HPRC_HG02583_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_924.csv	0	89.4MiB/s
+s3_transfer_9704185_925.log	01_16_24_R1041_HPRC_HG02583_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_925.csv	0	87.0MiB/s
+s3_transfer_9704185_92.log	11_14_23_R1041_HPRC_NA19909_3_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_92.csv	0	79.3MiB/s
+s3_transfer_9704185_93.log	11_14_23_R1041_HPRC_NA19909_1_dorado0.6.0_sup4.3.0_5mCG_5hmCG.bam	./manifest_9704185_93.csv	0	82.4MiB/s
+s3_transfer_9704185_94.log	HG01243_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_94.csv	0	28.4MiB/s
+s3_transfer_9704185_95.log	HG01243_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_95.csv	0	76.1MiB/s
+s3_transfer_9704185_96.log	HG01243_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_96.csv	0	36.8MiB/s
+s3_transfer_9704185_97.log	12_7_22_R941_HG02559_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_97.csv	0	73.5MiB/s
+s3_transfer_9704185_98.log	12_7_22_R941_HG02559_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_98.csv	0	29.6MiB/s
+s3_transfer_9704185_99.log	HG02559_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_99.csv	0	82.9MiB/s
+s3_transfer_9704185_9.log	HG01071_PAM55678_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam	./manifest_9704185_9.csv	0	50.5MiB/s

@@ -1,0 +1,4 @@
+aws s3api delete-objects \
+  --bucket human-pangenomics \
+  --delete file://RU_Y3_topoff_delete_fixed.json \
+  --output json > RU_Y3_topoff_delete_log.json
