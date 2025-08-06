@@ -1,0 +1,458 @@
+filename	filetype	sample_ID	library_ID	library_strategy	library_source	library_selection	library_layout	platform	instrument_model	design_description	md5sum	file_size	data_type	shear_method	size_selection	ccs_algorithm	polymerase_version	seq_plate_chemistry_version	generator_facility	generator_contact	notes
+m84091_230905_192642_s1.fail_reads.bc1018.bam	bam	HG00658	HG00658_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	c94a78eef6bd4714e4d5d22a93774bd1	6981983488	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_195701_s2.fail_reads.bc1018.bam	bam	HG00658	HG00658_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	7d9ac5c7d16a5106cf506cb7d3992788	8904354730	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_202807_s3.fail_reads.bc1018.bam	bam	HG00658	HG00658_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	ccd69eda7f326df4fe217ff34aed6dc6	6523317538	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_192642_s1.hifi_reads.bc1018.bam	bam	HG00658	HG00658_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	f5ec047a4843e9490692c223a2704442	1.25424E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_195701_s2.hifi_reads.bc1018.bam	bam	HG00658	HG00658_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	787b39e650fbe67db0f1c82d7c6c74ab	1.23885E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_202807_s3.hifi_reads.bc1018.bam	bam	HG00658	HG00658_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	da16998901823d0b779e7ab77763c15c	1.21939E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_192642_s1.fail_reads.bc1019.bam	bam	HG01150	HG01150_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	80c1ce30232ff54b1a07a0de92fffda7	4403188597	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_195701_s2.fail_reads.bc1019.bam	bam	HG01150	HG01150_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	95ff94604742ca5cd30f5d7ac98b3132	5526702778	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_202807_s3.fail_reads.bc1019.bam	bam	HG01150	HG01150_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	c808c0461655627a7372d7f9532b34f7	4277677350	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231004_192043_s3.fail_reads.bc1019.bam	bam	HG01150	HG01150_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	5350b569250ff84fc29af055634d0487	2483971255	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_192642_s1.hifi_reads.bc1019.bam	bam	HG01150	HG01150_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	364673f20024f11766fecf422072b9f3	72564035901	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_195701_s2.hifi_reads.bc1019.bam	bam	HG01150	HG01150_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	8400e250c65b6a1986d933069f347eaa	68933357879	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_202807_s3.hifi_reads.bc1019.bam	bam	HG01150	HG01150_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	97ab2e0aa83061a543d7a622b5b9f688	70698732009	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231004_192043_s3.hifi_reads.bc1019.bam	bam	HG01150	HG01150_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	80d41360fc8b22d31d2a357b622e2ffc	35277328268	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_205913_s4.fail_reads.bc1020.bam	bam	HG01252	HG01252_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	340e8096b402aa08d03369a883284305	15903656293	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_205913_s4.hifi_reads.bc1020.bam	bam	HG01252	HG01252_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	e5b677651b5f70595f5d25b251a04eb4	2.24415E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231208_194716_s4.fail_reads.bc1021.bam	bam	HG01530	HG01530_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	0b97d0696cffca26ceee289ccc60cc71	2515761295	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231208_201822_s1.fail_reads.bc1021.bam	bam	HG01530	HG01530_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	01dfa326ce56ae36a3627bc7a844fd28	2062041272	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231208_204928_s2.fail_reads.bc1021.bam	bam	HG01530	HG01530_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	d810175c1307b456be5b6431c27c6398	1550689110	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231208_194716_s4.hifi_reads.bc1021.bam	bam	HG01530	HG01530_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	516abc41525f69735560313480a120bf	63531616919	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231208_201822_s1.hifi_reads.bc1021.bam	bam	HG01530	HG01530_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	ad991a346197cdd11be6f0ee9fe5ed6e	42303012295	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231208_204928_s2.hifi_reads.bc1021.bam	bam	HG01530	HG01530_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	81ce9dafa5e3a8e74c2cf8e85b8a8ce7	37119047945	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_182829_s1.fail_reads.bc1019.bam	bam	HG01784	HG01784_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	1a62e988a0bea859356561469d97236b	14475918654	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_182829_s1.hifi_reads.bc1019.bam	bam	HG01784	HG01784_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	6b1a8b50345695d521501891887a0874	2.87778E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_240110_191713_s4.fail_reads.bc1010.bam	bam	HG01940	HG01940_PB4	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	2c5ea9c326e0d6f069575736d1523a15	14868543989	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_240110_191713_s4.hifi_reads.bc1010.bam	bam	HG01940	HG01940_PB4	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	045ac194d481249d52e47fbbc539f7da	2.49907E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230817_150246_s3.fail_reads.bc1012.bam	bam	HG01960	HG01960_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	0a5bf612e7253c1af1a6666b73780d74	14086046338	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230817_150246_s3.hifi_reads.bc1012.bam	bam	HG01960	HG01960_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	bb43548c2799c46386f02bb7aab66610	2.28408E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_240110_201841_s2.fail_reads.bc1002.bam	bam	HG01969	HG01969_PB5	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	71ec9de03d25601c9a0f45f73536c882	17639960974	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_240110_201841_s2.hifi_reads.bc1002.bam	bam	HG01969	HG01969_PB5	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	f7e7069a0f01ec9489c3a5613e982956	2.61191E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_185935_s2.fail_reads.bc1010.bam	bam	HG02391	HG02391_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	416b4a41d9f1b15961e911dfa95bda42	7242480082	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_185935_s2.hifi_reads.bc1010.bam	bam	HG02391	HG02391_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	a5db2f550d6638c2fab2874ad38c4e1d	1.36864E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_240110_194735_s1.fail_reads.bc1001.bam	bam	HG02514	HG02514_PB4	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	97d3efbb2a1da5b1b884cbb33f33fb2f	15694617123	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_240110_194735_s1.hifi_reads.bc1001.bam	bam	HG02514	HG02514_PB4	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	194a4d74aa6fb279423f0710e80d2bbc	2.63192E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_192642_s1.fail_reads.bc1015.bam	bam	HG02841	HG02841_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	8b94e7610e08710ad4a3a13a9b759a75	5892930342	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_195701_s2.fail_reads.bc1015.bam	bam	HG02841	HG02841_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	2e076c092a4ec29bd7226873a3d62de6	7683911357	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_202807_s3.fail_reads.bc1015.bam	bam	HG02841	HG02841_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	efd831d950ff6d9897366d0a09051e78	5478076627	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_192642_s1.hifi_reads.bc1015.bam	bam	HG02841	HG02841_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	efc5ca2c0176093c21a18acf30dbe2da	1.14774E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_195701_s2.hifi_reads.bc1015.bam	bam	HG02841	HG02841_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	0cda9df794898e2f84fc7f314eb9d0cd	1.15133E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_202807_s3.hifi_reads.bc1015.bam	bam	HG02841	HG02841_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	226e9f7d56a62b310d2157db7195b451	1.11673E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231004_192043_s3.fail_reads.bc1016.bam	bam	HG02984	HG02984_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	8d9e62dd67429947881f028d42f5b550	22137257410	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231004_192043_s3.hifi_reads.bc1016.bam	bam	HG02984	HG02984_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	d7d803e7cee13583053049db94f04c33	3.13812E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_205913_s4.fail_reads.bc1017.bam	bam	HG03050	HG03050_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	1d9c7048f32b1a28d49647311b192930	10191777481	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230905_205913_s4.hifi_reads.bc1017.bam	bam	HG03050	HG03050_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	75be0824a227d5c09f8cd2037192dab7	1.40994E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231208_201822_s1.fail_reads.bc1011.bam	bam	HG03458	HG03458_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	9aefaf56bad06cb8de5a793fcfae415b	18635070519	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231208_201822_s1.hifi_reads.bc1011.bam	bam	HG03458	HG03458_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	a19220e89092318093abc43b8184c050	3.59115E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230705_174256_s2.fail_reads.bc1009.bam	bam	HG03470	HG03470_PB1	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	30269ad9c93474cbcd1a28cbaab2b1be	7462708782	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230705_184508_s4.fail_reads.bc1009.bam	bam	HG03470	HG03470_PB1	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	ccc669cbfdddae5890891766c521cfc4	5761476102	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230705_174256_s2.hifi_reads.bc1009.bam	bam	HG03470	HG03470_PB1	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	0f56403afd67bdc6f60a3258279d94f9	1.47342E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230705_184508_s4.hifi_reads.bc1009.bam	bam	HG03470	HG03470_PB1	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	4283cdcdcf040503ff295cc0ced8ed2a	1.42806E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_193041_s3.fail_reads.bc1020.bam	bam	HG03742	HG03742_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	7a1940b77196454bbd8f59e01b6f619c	10194463862	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_193041_s3.hifi_reads.bc1020.bam	bam	HG03742	HG03742_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	0efe66a1a7cc4a5d2578604a87eb6902	1.77165E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_193041_s3.fail_reads.bc1012.bam	bam	NA18570	NA18570_PB4	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	41ee90aaf2ae8c66ea28d0f2db19cc62	12561908507	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_193041_s3.hifi_reads.bc1012.bam	bam	NA18570	NA18570_PB4	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	616abd52a7732b4b0804b789e46009db	2.1805E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_185935_s2.fail_reads.bc1016.bam	bam	NA19087	NA19087_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	1d7362fc07f885e8fa7bba1f435238db	13342397444	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_185935_s2.hifi_reads.bc1016.bam	bam	NA19087	NA19087_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	8ae387d7dda6aba78caf1cc1045952eb	2.5662E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230817_150246_s3.fail_reads.bc1015.bam	bam	NA19159	NA19159_PB1	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	182fb0edd7b37389f54162dfee092f83	7345681809	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230817_150246_s3.hifi_reads.bc1015.bam	bam	NA19159	NA19159_PB1	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	add06285e0b78f8d8d4ee87b26ef9918	1.04492E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_182829_s1.fail_reads.bc1017.bam	bam	NA19185	NA19185_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	dfe2779a739e9a1e0c753164a0f291e4	6509517978	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_182829_s1.hifi_reads.bc1017.bam	bam	NA19185	NA19185_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	fee9155d8c07eda7961c14e6609ae3d8	1.19267E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230705_174256_s2.fail_reads.bc1002.bam	bam	NA19338	NA19338_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	de51068ba9da0a8db6e3ea646937fef6	4287957115	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230705_184508_s4.fail_reads.bc1002.bam	bam	NA19338	NA19338_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	58a6fbf6a30dc842f0fc1d1ce2bff697	3291444684	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_175800_s4.fail_reads.bc1002.bam	bam	NA19338	NA19338_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	d8575ef771c5918b928aaedcf90b52ff	6004296997	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230705_174256_s2.hifi_reads.bc1002.bam	bam	NA19338	NA19338_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	1a85c3623a5d1fd8ef15f73c886fb00f	85920868091	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_230705_184508_s4.hifi_reads.bc1002.bam	bam	NA19338	NA19338_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	53f4414751e6e2b06f2c2c8a96233c32	81693581896	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_175800_s4.hifi_reads.bc1002.bam	bam	NA19338	NA19338_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	9f02de4f884c518291a85fc4b6ebb65d	1.03605E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_175800_s4.fail_reads.bc1015.bam	bam	NA19391	NA19391_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	67baab21dc67b16a76b96b2ba006d54c	16354265772	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231120_175800_s4.hifi_reads.bc1015.bam	bam	NA19391	NA19391_PB3	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	2ef12e6ef2f2c7a7e94769ab81d7eb9e	3.07751E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231208_194716_s4.fail_reads.bc1008.bam	bam	NA19468	NA19468_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	192f2800eb81d70cafc2d0c3b10937db	7695653825	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231211_215746_s3.fail_reads.bc1008.bam	bam	NA19468	NA19468_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	a1f5bb25f185f7a935f6d40cb8dde961	3927110679	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231208_194716_s4.hifi_reads.bc1008.bam	bam	NA19468	NA19468_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	0086dd55b6a85ecb09d99e1196958d63	1.76765E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231211_215746_s3.hifi_reads.bc1008.bam	bam	NA19468	NA19468_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	c7bc8bfa2c982f0ea0130050f9617a5d	86610399555	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231208_204928_s2.fail_reads.bc1018.bam	bam	NA20799	NA20799_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	0c31b626fb055f16e725f85933b6d143	7228767332	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231211_215746_s3.fail_reads.bc1018.bam	bam	NA20799	NA20799_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	d4332233e66ea751530765d81ed460d4	5419060950	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231208_204928_s2.hifi_reads.bc1018.bam	bam	NA20799	NA20799_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	b8d85184e870994d34adfeaab1ed7b67	1.61492E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+m84091_231211_215746_s3.hifi_reads.bc1018.bam	bam	NA20799	NA20799_PB2	WGS	GENOMIC	size fractionation	single	PACBIO_SMRT	PacBio Revio	HiFi sequencing of 20kb fractionated gDNA	b505b11d9bed24571ba91086165e497f	1.21932E+11	unaligned reads	Megaruptor 3	Pippin HT	7.0.0	Revio P1	Revio C1	Rockefeller University	vgl-lab@rockefeller.edu	
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
