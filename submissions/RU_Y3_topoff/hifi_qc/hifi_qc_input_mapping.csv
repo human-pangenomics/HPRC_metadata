@@ -1,5 +1,0 @@
-input,type,value
-hifi_qc_wf.hifi_reads,scalar,$input.hifi_reads
-hifi_qc_wf.sample_id,scalar,$input.sample_id
-hifi_qc_wf.other_reads,array,$input.other_reads
-hifi_qc_wf.perform_methylation_check,scalar,$input.perform_methylation_check

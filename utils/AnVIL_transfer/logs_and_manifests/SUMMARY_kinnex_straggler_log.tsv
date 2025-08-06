@@ -1,0 +1,2 @@
+log	filename	manifest	status	throughput
+s3_transfer_9722167_1.log	HG02647.lymph.m84081_240713_013912_s4-m84081_240714_073231_s1.flnc.bam	./manifest_9722167_1.csv	0	35.4MiB/s
