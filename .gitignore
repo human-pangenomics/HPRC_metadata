@@ -4,4 +4,5 @@ submissions/*/hifi_qc/*
 !submissions/*/hifi_qc/hifi_qc_sample_files.csv
 !submissions/*/hifi_qc/hifi_qc_samples_output_table.csv
 submissions/*/review.ipynb
-utils/.DS_Store
+.DS_Store
+*/.DS_Store
