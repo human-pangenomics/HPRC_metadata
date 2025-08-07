@@ -1,37 +1,24 @@
-### HPRC_PLUS_NANOPORE_MISC_R2
+## HPRC_PLUS_NANOPORE_MISC_R2
 
-| sample  | biosample    | SRA?                            | files |
-|---------|--------------|---------------------------------|-------|
-| HG002   | SAMN03283347 | no, BioSample ownership issue   | 3     |
-| HG005   | SAMN03283350 | SUB15306886                     | 8     |
-| HG00733 | SAMEA6623870 | no, BioSample ownership issue   | 3     |
-| HG01109 | SAMN12162846 | no, BioSample ownership issue   | 3     |
-| HG01109 | SAMN12162846 | SUB15306949                     | 3     |
-| HG01243 | SAMN13957917 | no, BioSample ownership issue   | 3     |
-| HG02055 | SAMN12162856 | SUB15307001                     | 3     |
-| HG02080 | SAMN13957942 | no, BioSample ownership issue   | 3     |
-| HG03098 | SAMN13957944 | SUB15307022                     | 3     |
-| HG03492 | SAMN13958363 | no, BioSample ownership issue   | 3     |
-| HG03492 | SAMN13958363 | no, BioSample ownership issue   | 6     |
+Metadata changes:
+* University of California, Santa Cruz --> UC Santa Cruz Genomics Institute
+* Added title field
+* Fixed incorrect BioSample (rather, less correct) for HG00733
+* Fixed missing BioSamples for HG005 and HG002
+* Changed two descriptions to clarify GridION vs PromethION
 
+Some older uploads ended up with "University of California, Santa Cruz" instead of "UC Santa Cruz Genomics Institute" as generator_facility but I think we can live with that.
 
-filewise with resulting IDs
-| sample_ID | filename | SRR |
-| --- | --- | --- |
-| HG005 | 05_25_21_R941_GM24631_3X.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465023 |
-| HG005 | 05_25_21_R941_GM24631_9X_2.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465022 |
-| HG005 | 05_25_21_R941_GM24631_9X_3.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465021 |
-| HG005 | 05_25_21_R941_GM24631_9X.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465020 |
-| HG005 | HG005_Circulomics_GridION_R941.part01.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465019 |
-| HG005 | HG005_Circulomics_GridION_R941.part02.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465018 |
-| HG005 | HG005_Circulomics_PromethION_R941.part01.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465017 |
-| HG005 | HG005_Circulomics_PromethION_R941.part02.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33465016 |
-| HG01109 | HG01109_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468270 |
-| HG01109 | HG01109_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468269 |
-| HG01109 | HG01109_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468268 |
-| HG02055 | HG02055_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468290 |
-| HG02055 | HG02055_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468289 |
-| HG02055 | HG02055_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468288 |
-| HG03098 | HG03098_1_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468287 |
-| HG03098 | HG03098_2_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468286 |
-| HG03098 | HG03098_3_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam | SRR33468285 |
+Validation:
+```
+submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_PLUS_nanopore_misc_R2/HPRC_PLUS_nanopore_misc_R2_submission_metadata.csv'
+wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_PLUS_nanopore_misc_R2/HPRC_PLUS_nanopore_misc_R2_data_table.csv'
+tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_PLUS_nanopore_misc_R2/metadata-processed-ok-concat.tsv'
+index = 'filename'
+allow_wrangled_to_conflict_with_submission_here = []
+overide_csv_with_tsv_in_these_columns = ['biosample_accession', 'design_description', 'generator_facility']
+submission_csv_is_actually_tsv = False
+wrangled_csv_is_actually_tsv = False
+wrangled_csv_can_lack_library_id = False
+tsv_is_multi_file = False
+```
