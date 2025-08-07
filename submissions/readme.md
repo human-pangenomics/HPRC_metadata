@@ -20,7 +20,7 @@
 	* if you're certain nothing is missing from the data table CSV, consider this equivalent to ✅ (unless another emoji is also present)  
 ⚠️ = data has metadata issues (if in SRA column, files were still uploaded)   
 🟡 = ASH-TODO   
-🟠 = ready for a upload (partial or full) but not doing that yet due to R3/lack of BioSamples  
+🟠 = partially uploaded to SRA ergo cannot be fully validated  
 ❓ = pending...  
 ❌ = file count mismatch that isn't just an AWS or submissions thing / some other kind of annoying blocker  
 
@@ -28,7 +28,7 @@
 | collection | validated | SRA | n AWS | n sub | n SRA | notes | issues | final |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HIC_Y3_Y4_part2 | ❌ | 🟠🟡 |  |  | Corrupt files were uploaded that should be removed from AWS working and AnVIL (see readme) | | |
-| HPRC-OmniC-100124Pools | ❓ | 🟠🟡 | 191 | 96 | 60 | **BioSample issues; see readme** | | |
+| HPRC-OmniC-100124Pools | 🟠 | 🟠 | 191 | 96 | 60 | **BioSample issues; see readme** | Omni-C/Hi-C conflict | HPRC-OmniC-100124Pools_data_table__final.csv |
 | HPRC-OmniC-100129Pools | ❓ | 🟠🟡 |  |  |  | Contain samples that require new BioSamples |  | |
 | HPRC-OmniC-241217Pools | ❓ | 🟠🟡 |  |  |  | Contain samples that require new BioSamples |  | |
 | HPRC_DEEPCONSENSUS_v1pt2 | ⚠️ | ⚠️ | 132 | 132 | 132 | metadata conflicts: size_selection, design_description, polymerase_version | HPRC_DEEPCONSENSUS_v1pt2_data_table__final.csv |
