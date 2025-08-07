@@ -2,89 +2,21 @@
 
 Note: SRA submission table has different library_IDs as they were previously non-unique. **The new library_IDs should be copied elsewhere as needed.**
 
-51 files of which 0 are fail bams.
+51 files of which 0 are fail bams. The remaining 51 from AWS seem to be fail bams.
+Submission CSV has 51 filenames
+Wrangled CSV has 51 filenames (loss: 0)
+TSV has 51 filenames (loss: 0)
 
-See [./readme_filewise.tsv](.readme_filewise.tsv) for TSV-formatted table with run accession.
-
-
-
-
-| sample_ID | filename | SRR |
-| --- | --- | --- |
-| HG00140 | m84081_230628_194051_s3.hifi_reads.bc1018.bam | SRR33616500 |
-| HG00140 | m84081_230628_201157_s4.hifi_reads.bc1018.bam | SRR33616499 |
-| HG00323 | m84081_230623_212309_s3.hifi_reads.bc1016.bam | SRR33616488 |
-| HG00323 | m84081_230623_215414_s4.hifi_reads.bc1016.bam | SRR33616477 |
-| HG00323 | m84081_230624_203119_s1.hifi_reads.bc1016.bam | SRR33616452 |
-| HG00323 | m84081_230624_210225_s2.hifi_reads.bc1016.bam | SRR33616463 |
-| HG00323 | m84081_230624_213331_s3.hifi_reads.bc1016.bam | SRR33616465 |
-| HG00323 | m84081_230624_220437_s4.hifi_reads.bc1016.bam | SRR33616466 |
-| HG00408 | m84081_230721_175633_s1.hifi_reads.bc1002.bam | SRR33616467 |
-| HG00408 | m84081_230721_182654_s2.hifi_reads.bc1002.bam | SRR33616468 |
-| HG00597 | m84081_230721_175633_s1.hifi_reads.bc1021.bam | SRR33616498 |
-| HG00597 | m84081_230721_182654_s2.hifi_reads.bc1021.bam | SRR33616497 |
-| HG01192 | m84081_230630_201015_s3.hifi_reads.default.bam | SRR33616496 |
-| HG01192 | m84081_230630_204121_s4.hifi_reads.default.bam | SRR33616495 |
-| HG01261 | m84081_230721_185800_s3.hifi_reads.bc2024.bam | SRR33616494 |
-| HG01261 | m84081_230721_192906_s4.hifi_reads.bc2024.bam | SRR33616493 |
-| HG01975 | m84081_230721_185800_s3.hifi_reads.bc2025.bam | SRR33616492 |
-| HG01975 | m84081_230721_192906_s4.hifi_reads.bc2025.bam | SRR33616491 |
-| HG02015 | m84081_230721_175633_s1.hifi_reads.bc1022.bam | SRR33616490 |
-| HG02015 | m84081_230721_182654_s2.hifi_reads.bc1022.bam | SRR33616489 |
-| HG02056 | m84081_230727_190726_s1.hifi_reads.bc2030.bam | SRR33616487 |
-| HG02056 | m84081_230727_193748_s2.hifi_reads.bc2030.bam | SRR33616486 |
-| HG02129 | m84081_230727_190726_s1.hifi_reads.bc2026.bam | SRR33616485 |
-| HG02129 | m84081_230727_193748_s2.hifi_reads.bc2026.bam | SRR33616484 |
-| HG02155 | m84081_230628_194051_s3.hifi_reads.bc1012.bam | SRR33616483 |
-| HG02155 | m84081_230628_201157_s4.hifi_reads.bc1012.bam | SRR33616482 |
-| HG02258 | m84081_230721_185800_s3.hifi_reads.bc1011.bam | SRR33616481 |
-| HG02258 | m84081_230721_192906_s4.hifi_reads.bc1011.bam | SRR33616480 |
-| HG02273 | m84081_230630_190803_s1.hifi_reads.bc1002.bam | SRR33616479 |
-| HG02273 | m84081_230630_193909_s2.hifi_reads.bc1002.bam | SRR33616478 |
-| HG02965 | m84081_230628_183924_s1.hifi_reads.bc1017.bam | SRR33616476 |
-| HG02965 | m84081_230628_190945_s2.hifi_reads.bc1017.bam | SRR33616475 |
-| HG02976 | m84081_230630_190803_s1.hifi_reads.bc1009.bam | SRR33616474 |
-| HG02976 | m84081_230630_193909_s2.hifi_reads.bc1009.bam | SRR33616473 |
-| HG03195 | m84081_230628_183924_s1.hifi_reads.bc1010.bam | SRR33616472 |
-| HG03195 | m84081_230628_190945_s2.hifi_reads.bc1010.bam | SRR33616469 |
-| HG03195 | m84081_230715_203436_s1.hifi_reads.bc1010.bam | SRR33616470 |
-| HG03195 | m84081_230715_210542_s2.hifi_reads.bc1010.bam | SRR33616471 |
-| HG03195 | m84081_230715_213648_s3.hifi_reads.bc1010.bam | SRR33616450 |
-| HG03195 | m84081_230715_220754_s4.hifi_reads.bc1010.bam | SRR33616451 |
-| HG03225 | m84081_230630_201015_s3.hifi_reads.bc1008.bam | SRR33616453 |
-| HG03225 | m84081_230630_204121_s4.hifi_reads.bc1008.bam | SRR33616454 |
-| HG03834 | m84081_230630_201015_s3.hifi_reads.bc1012.bam | SRR33616455 |
-| HG03834 | m84081_230630_204121_s4.hifi_reads.bc1012.bam | SRR33616456 |
-| HG06807 | m84081_230630_190803_s1.hifi_reads.bc1008.bam | SRR33616457 |
-| HG06807 | m84081_230630_193909_s2.hifi_reads.bc1008.bam | SRR33616458 |
-| NA18612 | m84081_230628_194051_s3.hifi_reads.bc1015.bam | SRR33616459 |
-| NA18612 | m84081_230628_201157_s4.hifi_reads.bc1015.bam | SRR33616460 |
-| NA18971 | m84081_230628_183924_s1.hifi_reads.bc1011.bam | SRR33616461 |
-| NA18971 | m84081_230628_190945_s2.hifi_reads.bc1011.bam | SRR33616462 |
-| NA20805 | m84081_230728_191731_s1.hifi_reads.bc2027.bam | SRR33616464 |
-
-
-| sample_ID | biosample_accession | files | SRA? |
-| --- | --- | --- | --- |
-| HG02056 | SAMN33621949 | 2 | SUB15309657 |
-| HG01261 | SAMN33621946 | 2 | SUB15309657 |
-| HG02273 | SAMN33621953 | 2 | SUB15309657 |
-| HG00597 | SAMN33621944 | 2 | SUB15309657 |
-| HG02976 | SAMN33621955 | 2 | SUB15309657 |
-| HG00140 | SAMN33621941 | 2 | SUB15309657 |
-| HG00323 | SAMN33621942 | 6 | SUB15309657 |
-| HG01192 | SAMN33621945 | 2 | SUB15309657 |
-| HG00408 | SAMN33621943 | 2 | SUB15309657 |
-| HG06807 | SAMN33621959 | 2 | SUB15309657 |
-| HG02015 | SAMN33621948 | 2 | SUB15309657 |
-| HG02965 | SAMN33621954 | 2 | SUB15309657 |
-| HG03225 | SAMN33621957 | 2 | SUB15309657 |
-| HG01975 | SAMN33621947 | 2 | SUB15309657 |
-| NA18612 | SAMN33621960 | 2 | SUB15309657 |
-| HG03195 | SAMN33621956 | 6 | SUB15309657 |
-| HG03834 | SAMN33621958 | 2 | SUB15309657 |
-| NA18971 | SAMN33621961 | 2 | SUB15309657 |
-| NA20805 | SAMN33621962 | 1 | SUB15309657 |
-| HG02155 | SAMN33621951 | 2 | SUB15309657 |
-| HG02258 | SAMN33621952 | 2 | SUB15309657 |
-| HG02129 | SAMN33621950 | 2 | SUB15309657 |
+Validation:
+```
+submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year3_TopUp/HPRC_WUSTL_Y3_PacBio_HiFi_TopUp_Metadata_Submission_v0.1.tsv'
+wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year3_TopUp/WUSTL_HPRC_HiFi_Year3_TopUp_data_table.csv'
+tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year3_TopUp/metadata-15309657-processed-ok.tsv'
+index = 'filename'
+allow_wrangled_to_conflict_with_submission_here = ['instrument_model']
+overide_csv_with_tsv_in_these_columns = ['instrument_model']
+submission_csv_is_actually_tsv = True
+wrangled_csv_is_actually_tsv = False
+wrangled_csv_can_lack_library_id = False
+tsv_is_multi_file = False
+```

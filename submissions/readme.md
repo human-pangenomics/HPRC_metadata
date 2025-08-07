@@ -60,9 +60,9 @@
 | WUSTL_HPRC_HiFi_Year1_TopUp | ✅ | ✅ | 72 | 36 | 36 |36 | - | - | WUSTL_HPRC_HiFi_Year1_TopUp_data_table__final.csv | 
 | WUSTL_HPRC_HiFi_Year2 | 🅰️ | ⚠️ | 178 | 89 | 89 | had a sus post_sra TSV, decided to ignore it | **`ccs_algorithm` goes from 6.0.0 to what looks like a boneless DOI; was a column shifted?** also issues in polymerase_version and notes | WUSTL_HPRC_HiFi_Year2_data_table__final.csv |
 | WUSTL_HPRC_HiFi_Year2_TopUp | ✅ | ✅ | 110 | 55 | 55 | - | - | WUSTL_HPRC_HiFi_Year2_TopUp/WUSTL_HPRC_HiFi_Year2_TopUp_data_table__final.csv |
-| WUSTL_HPRC_HiFi_Year3 | ❓ | ❓ |  |  |  | | |
-| WUSTL_HPRC_HiFi_Year3_TopUp | ❓ | ❓ |  |  |  | | |
-| WUSTL_HPRC_HiFi_Year4 | 🅰️ | ✅ | 195 | 97 | 97 | - | library IDs were changed (this is usually fine) | WUSTL_HPRC_HiFi_Year4_data_table__final.csv |
+| WUSTL_HPRC_HiFi_Year3 | ❓ | ❓ |  |  |  | Seems to have been a name change when uploaded to SRA? | | |
+| WUSTL_HPRC_HiFi_Year3_TopUp | ✅ | ✅ | 102 | 51 | 51 | libray IDs were changed | - | WUSTL_HPRC_HiFi_Year3_TopUp/WUSTL_HPRC_HiFi_Year3_TopUp_data_table__final.csv |
+| WUSTL_HPRC_HiFi_Year4 | 🅰️ | ✅ | 195 | 97 | 97 | library IDs were changed | - | WUSTL_HPRC_HiFi_Year4_data_table__final.csv |
 | WUSTL_HPRC_Y5_Kinnex (WUSTL_HPRC_Y5_Per_Pool_Kinnex?) | ❓ | ❓ |  |  |  | | |
 
 ## Should be removed from SRA/AnVIL
