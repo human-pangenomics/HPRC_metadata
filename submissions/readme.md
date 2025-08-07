@@ -59,7 +59,7 @@
 | WUSTL_HPRC_HiFi_Year1 | ❌ | ✅ | 160 | 80 | 80 | **Subreads were submitted to SRA, see readme** | not checked, see readme | WUSTL_HPRC_HiFi_Year1_post_sra_metadata__NOT_SUBREADS.tsv |
 | WUSTL_HPRC_HiFi_Year1_TopUp | ✅ | ✅ | 72 | 36 | 36 |36 | - | - | WUSTL_HPRC_HiFi_Year1_TopUp_data_table__final.csv | 
 | WUSTL_HPRC_HiFi_Year2 | 🅰️ | ⚠️ | 178 | 89 | 89 | had a sus post_sra TSV, decided to ignore it | **`ccs_algorithm` goes from 6.0.0 to what looks like a boneless DOI; was a column shifted?** also issues in polymerase_version and notes | WUSTL_HPRC_HiFi_Year2_data_table__final.csv |
-| WUSTL_HPRC_HiFi_Year2_TopUp | ❓ | ❓|  |  |  | | |
+| WUSTL_HPRC_HiFi_Year2_TopUp | ✅ | ✅ | 110 | 55 | 55 | - | - | WUSTL_HPRC_HiFi_Year2_TopUp/WUSTL_HPRC_HiFi_Year2_TopUp_data_table__final.csv |
 | WUSTL_HPRC_HiFi_Year3 | ❓ | ❓ |  |  |  | | |
 | WUSTL_HPRC_HiFi_Year3_TopUp | ❓ | ❓ |  |  |  | | |
 | WUSTL_HPRC_HiFi_Year4 | 🅰️ | ✅ | 195 | 97 | 97 | - | library IDs were changed (this is usually fine) | WUSTL_HPRC_HiFi_Year4_data_table__final.csv |
