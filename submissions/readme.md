@@ -62,7 +62,7 @@
 | WUSTL_HPRC_HiFi_Year2_TopUp | ❓ | ❓|  |  |  | | |
 | WUSTL_HPRC_HiFi_Year3 | ❓ | ❓ |  |  |  | | |
 | WUSTL_HPRC_HiFi_Year3_TopUp | ❓ | ❓ |  |  |  | | |
-| WUSTL_HPRC_HiFi_Year4 | ❓ | ❓ |  |  |  | | |
+| WUSTL_HPRC_HiFi_Year4 | 🅰️ | ✅ | 195 | 97 | 97 | - | library IDs were changed (this is usually fine) | WUSTL_HPRC_HiFi_Year4_data_table__final.csv |
 | WUSTL_HPRC_Y5_Kinnex (WUSTL_HPRC_Y5_Per_Pool_Kinnex?) | ❓ | ❓ |  |  |  | | |
 
 ## Should be removed from SRA/AnVIL
