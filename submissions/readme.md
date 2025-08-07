@@ -56,7 +56,7 @@
 | UW_HPRC_HiFi_Y3 | ❌ | ⚠️🅰️ |  |  | Blocked by metadata conflict & AWS mismatch | | |
 | UW_HPRC_HiFi_Y4_AND_Y3_Topoff | 🅰️ | ✅ | 848 | 212 | Massive file count mismatch |  | UW_HPRC_HiFi_Y4_AND_Y3_Topoff_data_table__final.csv |
 | UW_HPRC_Y5_Kinnex | - | - | 94 | - | Deprioritized due to being transcriptomic | | |
-| WUSTL_HPRC_HiFi_Year1 | ❓ | ❓ |  |  | **Subreads were submitted to SRA and arguably should not have been (see readme)** | | |
+| WUSTL_HPRC_HiFi_Year1 | ❌ | ✅ | 160 | 80 | 80 | **Subreads were submitted to SRA, see readme** | not checked, see readme | WUSTL_HPRC_HiFi_Year1_post_sra_metadata__NOT_SUBREADS.tsv |
 | WUSTL_HPRC_HiFi_Year1_TopUp | ❓ | ❓ |  |  |  | | |
 | WUSTL_HPRC_HiFi_Year2 | ⚠️🅰️ | ⚠️ | 89 | 89 | Inconsistencies in polymerase_version, notes, ccs_algorithm. Also tons of extra AWS files. | | |
 | WUSTL_HPRC_HiFi_Year2_TopUp | ❓ | ❓|  |  |  | | |
