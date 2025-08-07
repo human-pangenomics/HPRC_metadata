@@ -1,5 +1,9 @@
 ## WUSTL_HPRC_Hifi_Year2
 
+Submission CSV has 89 filenames
+Wrangled CSV has 89 filenames (loss: 0)
+TSV has 89 filenames (loss: 0)
+
 Oddities:
 * **ccs_algorithm, polymerase_version, and notes are inconsistent across data tables**
 * AWS table has lots of files not in data table, worth double-checking all excluded files were excluded for a good reason
