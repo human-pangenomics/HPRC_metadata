@@ -4,8 +4,8 @@ Submission CSV has 197 filenames
 Wrangled CSV has 197 filenames (loss: 0)
 TSV has 197 filenames (loss: 0)
 
-Has a lot of metadata conflicts:
-* WashU / UWash inconsistency -- these are different universities in different states
+Has some metadata conflicts:
+* ~~WashU / UWash inconsistency -- these are different universities in different states~~ Apparently this is fine?
 * Conflict in 'study' field indicate that this is HPRC data that got uploaded to the HPRC PLUS BioProject, or maybe vice versa?
 * Some samples submitted with 'second library prep' in notes field but this didn't get transferred over
 * Minor conflict in 'filetype' field (fastq/fastq.gz -- probably inconsequential)
@@ -108,7 +108,7 @@ wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPC
 tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/metadata-14735462-processed-ok.tsv'
 index = 'filename'
 allow_wrangled_to_conflict_with_submission_here = ['library_ID', 'filetype', 'instrument_model']
-overide_csv_with_tsv_in_these_columns = ['library_ID']
+overide_csv_with_tsv_in_these_columns = ['library_ID', 'filetype']
 submission_csv_is_actually_tsv = False
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False
