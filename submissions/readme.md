@@ -52,8 +52,8 @@
 | UCSC_HPRC_PLUS_nanopore | ⚠️ | ⚠️ | 129 | 43 | 43 |  design_description | UCSC_HPRC_PLUS_nanopore_data_table__final.csv |
 | UCSC_HPRC_PLUS_nanopore_WashU | ❌ | ❓ |  |  |  | |
 | UW_HPRC_HiFi_Y1 | ❌ | ⚠️ |  |  | File count mismatch | | |
-| UW_HPRC_HiFi_Y2 | ❌ | 🅰️ |  |  | |  | UW_HPRC_HiFi_Y2_data_table__final.csv |
-| UW_HPRC_HiFi_Y3 | ❌ | ⚠️🅰️ |  |  | Blocked by metadata conflict & AWS mismatch | | |
+| UW_HPRC_HiFi_Y2 | ❌ | 🅰️ |  |  | | **might be double-uploaded** | UW_HPRC_HiFi_Y2_data_table__final.csv |
+| UW_HPRC_HiFi_Y3 | ❌ | ⚠️🅰️ | 278 | 91 | 91 | possible SRA name change but now I don't think so | | |
 | UW_HPRC_HiFi_Y4_AND_Y3_Topoff | 🅰️ | ✅ | 848 | 212 | Massive file count mismatch |  | UW_HPRC_HiFi_Y4_AND_Y3_Topoff_data_table__final.csv |
 | UW_HPRC_Y5_Kinnex | - | - | 94 | - | Deprioritized due to being transcriptomic | | |
 | WUSTL_HPRC_HiFi_Year1 | ❌ | ✅ | 160 | 80 | 80 | **Subreads were submitted to SRA, see readme** | not checked, see readme | WUSTL_HPRC_HiFi_Year1_post_sra_metadata__NOT_SUBREADS.tsv |
