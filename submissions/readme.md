@@ -51,7 +51,7 @@
 | UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | 🅰️ | ✅ | 374 | 374 | Data table is missing >100 files, but we have a submission file for them. Ensure that our final data table is not missing these samples! |  | |
 | UCSC_HPRC_PLUS_nanopore | ⚠️ | ⚠️ | 129 | 43 | 43 |  design_description | UCSC_HPRC_PLUS_nanopore_data_table__final.csv |
 | UCSC_HPRC_PLUS_nanopore_WashU | ❌ | ❓ |  |  |  | |
-| UW_HPRC_HiFi_Y1 | ❌ | ⚠️ |  |  | File count mismatch | | |
+| UW_HPRC_HiFi_Y1 | ⚠️ | ⚠️ | 46 | 44?! | 46 | file mismatch (see readme), polymerase_version, notes | UW_HPRC_HiFi_Y1/UW_HPRC_HiFi_Y1_data_table__final.csv |
 | UW_HPRC_HiFi_Y2 | ❌ | 🅰️ |  |  | | **might be double-uploaded** | UW_HPRC_HiFi_Y2_data_table__final.csv |
 | UW_HPRC_HiFi_Y3 | ❌ | ⚠️🅰️ | 278 | 91 | 91 | possible SRA name change but now I don't think so | | |
 | UW_HPRC_HiFi_Y4_AND_Y3_Topoff | 🅰️ | ✅ | 848 | 212 | Massive file count mismatch |  | UW_HPRC_HiFi_Y4_AND_Y3_Topoff_data_table__final.csv |
