@@ -1,0 +1,4 @@
+aws s3api delete-objects \
+  --bucket human-pangenomics \
+  --delete file://R941_tar_delete_Y1_working.json \
+  --output json > R941_tar_delete_Y1_working_log.json

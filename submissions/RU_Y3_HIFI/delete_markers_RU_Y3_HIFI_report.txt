@@ -1,0 +1,19 @@
+Delete Marker Analysis Report
+Generated: Wed Jun 11 19:46:25 UTC 2025
+Bucket: human-pangenomics
+Prefix: submissions/A3D02676-D52B-4717-9312-73F78255BBB3--RU_Y3_HIFI/
+================================
+
+
+SUMMARY
+=======
+Objects with delete markers: 200
+Total storage consumed: 129811894081109 bytes
+Total storage consumed: 119TiB
+Average size per object: 649059470405 bytes
+
+POTENTIAL SAVINGS
+================
+If you permanently delete these objects, you could free up:
+- Storage: 119TiB
+- Approximate monthly storage cost: $2780.625190 (at $0.023/GB-month)
