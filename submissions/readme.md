@@ -1,0 +1,92 @@
+ # HPRC_metadata
+
+ This repo stores metadata for various R2 submissions. Ideally, every folder in submissions/ should have:
+ * A submission CSV or TSV, sent to us from the submitter
+ * A wrangled data table CSV
+ * At least one "processed ok" TSV from SRA
+ * A `__final.csv` representing the final please-don't-touch-this metadata
+ * A folder-level readme.md file with any relevant notes and a few lines that can be copy-pasted into the validator script for an immediate run (see below)
+
+ There is a script in utils/ designed to validate metadata tables from simple column/sample swaps. It uses Ash's ranchero library, which is essentially a wrapper for python-polars. Currently, ranchero cannot be pip installed; you will need to `git clone https://github.com/aofarrel/ranchero.git` in order to import its src/ directory.
+
+
+## Progress table
+
+✅ = all files uploaded -- done and dusted -- everything should be fine **(for SRA this means n uploaded = n in data table; if n in data table changes this should be revisited)**  
+	* check what I wrote in the PR description (there may be minor changes you should be aware of)  
+	* pull in the PR   
+	* merge the new `*__final.csv` file with your master data table  
+🅰️ = all files in data table are uploaded, but there are more files in the AWS tables or submission tables  
+	* if you're certain nothing is missing from the data table CSV, consider this equivalent to ✅ (unless another emoji is also present)  
+⚠️ = metadata issues  
+🟡 = ASH-TODO   
+🟠 = ready for a upload (partial or full) but not doing that yet due to R3/lack of BioSamples  
+❓ = pending...  
+❌ = file count mismatch that isn't just an AWS or submissions thing / some other kind of annoying blocker  
+
+
+| collection | validated | SRA | n sub | n SRA | notes | final |
+| --- | --- | --- | --- | --- | --- | --- |
+| HIC_Y3_Y4_part2 | ❌ | 🟠🟡 |  |  | Corrupt files were uploaded that should be removed from AWS working and AnVIL (see readme) | |
+| HPRC-OmniC-100124Pools | ❌ | 🟠🟡 |  |  | Contain samples that require new BioSamples |  |
+| HPRC-OmniC-100129Pools | ❌ | 🟠🟡 |  |  | Contain samples that require new BioSamples |  |
+| HPRC-OmniC-241217Pools | ❌ | 🟠🟡 |  |  | Contain samples that require new BioSamples |  |
+| HPRC_DEEPCONSENSUS_v1pt2 | ⚠️ | ⚠️ | 132 | 132 | Metadata conflicts in size_selection, design_description, and polymerase_version |  |
+| HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20 | ❌ | ❌ |  |  | Some files were added incorrectly to SRA and should be rescinded |  |
+| HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20 | ⚠️ | ⚠️ | 197 | 197 | Lots of metadata problems (see readme) |  |
+| HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run | ⚠️ | ⚠️ |  |  | Blocked by metadata inconsistency |  |
+| HPRC_PLUS_nanopore_misc_R2 | ✅ | ✅ | 38 | 38 | - | HPRC_PLUS_nanopore_misc_R2_data_table__final.csv |
+| RU_Y2_HIFI | 🅰️ | ✅ | 36 | 24 | Usual file count mismatch | RU_Y2_HIFI_data_table__final.csv |
+| RU_Y2_topoff | 🅰️ | ✅ | 56 | 7 | Massive file count mismatch | RU_Y2_topoff__final.csv |
+| RU_Y3_HIFI (RU_Y3?) | ❌ | ✅ | 94 | 95?! | Found file in wrangled CSV that's not in submitted CSV | |
+| RU_Y3_topoff | - | - | - | - | **Superceeded by RU_Y3_topoff_redo** | - |
+| RU_Y3_topoff_redo | ❌ | ❌ |  |  | Has the wrong data table CSV (same as the one in RU_Y3_topoff). Cannot validate until that's fixed. | |
+| RU_Y4 | ⚠️🅰️ | ⚠️ | 192 | 96 | Some submissions have 'FIBERSEQ' in notes column but not carried over to data table nor SRA. Also large file loss. | |
+| RU_Y5_Kinnex | - | - | - | - | Deprioritized due to being transcriptomic | |
+| UCSC_HPRC_AMED_collaboration | ✅ | ✅ | 44 | 44 | Ensure library_ID has `NA` names, not `GM` names | UCSC_HPRC_AMED_collaboration_data_table__final.csv |
+| UCSC_HPRC_nanopore_Year2 | ❌ | ⚠️ |  |  | Blocked by file count mismatch and metadata conflict | |
+| UCSC_HPRC_nanopore_Year2_R10 | ❌ | ⚠️🅰️ |  |  | Blocked by metadata conflict | |
+| UCSC_HPRC_nanopore_Year3 | ❌ | ⚠️ |  |  | Blocked by file count mismatch | |
+| UCSC_HPRC_nanopore_Year4 | ✅ | ✅ | 388 | 388 | AWS transfer seems to be missing some files | UCSC_HPRC_nanopore_Year4_data_table__final.csv |
+| UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | 🅰️ | ✅ | 374 | 374 | Data table is missing >100 files, but we have a submission file for them. Ensure that our final data table is not missing these samples! |  |
+| UCSC_HPRC_PLUS_nanopore | ⚠️ | ⚠️ | 43 | 43 | Inconsistencies in design description | UCSC_HPRC_PLUS_nanopore_data_table__final.csv |
+| UCSC_HPRC_PLUS_nanopore_WashU | ❌ | ❓ |  |  |  |
+| UW_HPRC_HiFi_Y1 | ❌ | ⚠️ |  |  | File count mismatch | |
+| UW_HPRC_HiFi_Y2 | ❌ | 🅰️ |  |  | | UW_HPRC_HiFi_Y2_data_table__final.csv |
+| UW_HPRC_HiFi_Y3 | ❌ | ⚠️🅰️ |  |  | Blocked by metadata conflict & AWS mismatch | |
+| UW_HPRC_HiFi_Y4_AND_Y3_Topoff | 🅰️ | ✅ | 848 | 212 | Massive file count mismatch | UW_HPRC_HiFi_Y4_AND_Y3_Topoff_data_table__final.csv |
+| UW_HPRC_Y5_Kinnex | - | - | 94 | - | Deprioritized due to being transcriptomic | |
+| WUSTL_HPRC_HiFi_Year1 | ❓ | ❓ |  |  | Subreads were submitted to SRA and arguably should not have been (see readme) | |
+| WUSTL_HPRC_HiFi_Year1_TopUp | ❓ | ❓ |  |  |  | |
+| WUSTL_HPRC_HiFi_Year2 | ⚠️🅰️ | ⚠️ | 89 | 89 | Inconsistencies in polymerase_version, notes, ccs_algorithm. Also tons of extra AWS files. | |
+| WUSTL_HPRC_HiFi_Year2_TopUp | ❓ | ❓|  |  |  | |
+| WUSTL_HPRC_HiFi_Year3 | ❓ | ❓ |  |  |  | |
+| WUSTL_HPRC_HiFi_Year3_TopUp | ❓ | ❓ |  |  |  | |
+| WUSTL_HPRC_HiFi_Year4 | ❓ | ❓ |  |  |  | |
+| WUSTL_HPRC_Y5_Kinnex (WUSTL_HPRC_Y5_Per_Pool_Kinnex?) | ❓ | ❓ |  |  |  | |
+
+## Should be removed from SRA/AnVIL
+* HIC_Y3_Y4_part2's corrupt files (not on SRA but likely on AnVIL)
+* some files from HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20
+* WUSTL_HPRC_HiFi_Year1 subreads
+	* Alternatively we could just leave them up on SRA? They are correctly marked as subreads in the title field...
+* Possible duplicate uploads?
+
+## Missing
+Known R2 projects not in repo (not exhaustive):
+* HiC (all of these ones seem to already be on SRA)
+* add_to_index -- Ivo will add a new folder for this batch
+* HG00733_T2T_UW_HiFi_ONT
+* HPRC_REVIO_EA_2023
+* NISC_HiFi_TopUp_2022_with_5mC
+
+## Metadata conflict handling
+Inconsistenies we truly do not care about:
+* Basically equivalent instrument models like "PacBio Revio" becoming "Revio"
+
+Overrides:
+* polymerase_version
+
+Null-fill:
+* notes
+
