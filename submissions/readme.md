@@ -47,7 +47,7 @@
 | UCSC_HPRC_nanopore_Year2 | ❌ | ⚠️ |  |  | Blocked by file count mismatch and metadata conflict | | |
 | UCSC_HPRC_nanopore_Year2_R10 | ❌ | ⚠️🅰️ |  |  | Blocked by metadata conflict | | |
 | UCSC_HPRC_nanopore_Year3 | ❌ | ⚠️ |  |  | Blocked by file count mismatch | | |
-| UCSC_HPRC_nanopore_Year4 | ✅ | ✅ | 388 | 388 | AWS transfer seems to be missing some files | UCSC_HPRC_nanopore_Year4_data_table__final.csv | |
+| UCSC_HPRC_nanopore_Year4 | ✅ | ✅ | 388 | 388 | 388 | AWS transfer seems to be missing some files | - | UCSC_HPRC_nanopore_Year4_data_table__final.csv |
 | UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | 🅰️ | ✅ | 374 | 374 | Data table is missing >100 files, but we have a submission file for them. Ensure that our final data table is not missing these samples! |  | |
 | UCSC_HPRC_PLUS_nanopore | ⚠️ | ⚠️ | 129 | 43 | 43 |  design_description | UCSC_HPRC_PLUS_nanopore_data_table__final.csv |
 | UCSC_HPRC_PLUS_nanopore_WashU | ❌ | ❓ |  |  |  | |

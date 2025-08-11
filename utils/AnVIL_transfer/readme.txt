@@ -19,6 +19,7 @@ Process:
 
 Other notes:
 * skipped_files.tsv logs files that were intentionally skipped for the time being (but it's incomplete so don't take it as gospel)
+* The anvil bucket is temporary before being moved to the final anvil data store
 
 Todo:
 * the composite HIFI uploads should be redone --> done, but need to be added to manifests master file
@@ -28,3 +29,12 @@ Todo:
 
 Archive notes:
 * KINNEX_straggler exists due to goofing up an ARRAY_SIZE
+
+
+
+
+
+
+There may be some files that on the DC sheet and the HIFI sheet with the same filename, but are in different S3 paths? check this isn't a column mixup on my end
+* s3://human-pangenomics/working/HPRC/HG01361/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01361.m54329U_200311_082605.dc.q20.fastq.gz
+* s3://human-pangenomics/submissions/3A25CF8A-1F36-42EE-BC9F-D29CECAA2A99--HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/HG01361/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01361.m54329U_200311_082605.dc.q20.fastq.gz
