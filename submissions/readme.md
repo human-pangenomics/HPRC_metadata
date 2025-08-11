@@ -44,7 +44,7 @@
 | RU_Y4 | ⚠️🅰️ | ⚠️ | 192 | 96 | - |  | 'FIBERSEQ' got dropped from notes column | |
 | RU_Y5_Kinnex | - | - | - | - | - | Deprioritized due to being transcriptomic | - | - |
 | UCSC_HPRC_AMED_collaboration | ✅ | ✅ | 44 | 44 | Ensure library_ID has `NA` names, not `GM` names | UCSC_HPRC_AMED_collaboration_data_table__final.csv | |
-| UCSC_HPRC_nanopore_Year2 | ❌ | ❌ | 350 | 175 | 302 | - | blocked by multiple file conflicts (there's also a minor basecaller_version conflict) | |
+| UCSC_HPRC_nanopore_Year2 | ❌ | ⚠️ | 350 | 175 | 350 | data table is missing half the data? | basecaller_version | UCSC_HPRC_nanopore_Year2/UCSC_HPRC_nanopore_Year2_data_table__final.csv |
 | UCSC_HPRC_nanopore_Year2_R10 | ❌ | ⚠️🅰️ |  |  | Blocked by metadata conflict | | |
 | UCSC_HPRC_nanopore_Year3 | ❌ | ⚠️ |  |  | Blocked by file count mismatch | | |
 | UCSC_HPRC_nanopore_Year4 | ✅ | ✅ | 388 | 388 | 388 | AWS transfer seems to be missing some files | - | UCSC_HPRC_nanopore_Year4_data_table__final.csv |
