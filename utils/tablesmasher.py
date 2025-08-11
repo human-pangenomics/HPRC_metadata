@@ -23,7 +23,8 @@ index_sheets = [
 "/Users/aofarrel/github/HPRC_metadata/utils/2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - hic.tsv",
 "/Users/aofarrel/github/HPRC_metadata/utils/2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - hifi.tsv",
 "/Users/aofarrel/github/HPRC_metadata/utils/2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - kinnex.tsv",
-"/Users/aofarrel/github/HPRC_metadata/utils/2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - ont.tsv"
+"/Users/aofarrel/github/HPRC_metadata/utils/2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - ont.tsv",
+"/Users/aofarrel/github/HPRC_metadata/utils/2025-Aug-11_index_files/WORKING R2 Sequencing Data Index - ill.tsv"
 ]
 #
 # This file is also keyed by filename. It has columns that are not in index_sheets that should be added to index_sheets.
@@ -38,13 +39,16 @@ manifest_file = "/Users/aofarrel/github/HPRC_metadata/utils/AnVIL_transfer/logs_
 # means some rows aren't relevant to some samples.
 wrangled_sheets = [
 "/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2/HPRC_DEEPCONSENSUS_v1pt2_data_table__final.csv",
-"/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20__final.tsv",
 "/Users/aofarrel/github/HPRC_metadata/submissions/RU_Y2_topoff/RU_Y2_topoff_data_table__final.csv",
 "/Users/aofarrel/github/HPRC_metadata/submissions/UW_HPRC_HiFi_Y1/UW_HPRC_HiFi_Y1_data_table__final.csv",
 ]
 
 # Columns that you want to always have the main_index override the wrangled sheet
-overrides = ['filetype']
+overrides = ['filetype', 'instrument_model', 'design_description', 'library_ID', 'size_selection', 'polymerase_version', 'seq_plate_chemistry_version', 'ccs_algorithm', 'notes']
+
+
+
+# TODO: allow user to select if they want left or right for conflicts
 
 
 import os
@@ -60,23 +64,22 @@ if len(index_sheets) > 1:
 		print(f"Processed {os.path.basename(sheet_path)} into a {another_index.shape} dataframe with columns {another_index.columns}")
 		another_index = another_index.with_columns((~cs.string()).cast(pl.String)) # forces all columns into type str
 		main_index = pl.concat([main_index, another_index], how='align_full')
-		main_index = Ranchero.NeighLib.check_index(main_index)
+		main_index = Ranchero.NeighLib.check_index(main_index, df_name='main')
 print(f"Combined all index_sheets into a {main_index.shape} dataframe:")
 print(main_index)
 
 if manifest_file is not None:
 	manifest = Ranchero.from_tsv(manifest_file, delimiter=",", index='filename', auto_standardize=False, auto_rancheroize=False)
 	print(f"Processed manifest file into a {manifest.shape} dataframe")
-	manifest = manifest.select(['__index__filename', list(x for x in manifest.columns if x not in main_index.columns)])
-	print(f"After removing shared columns (except filename), manifest dataframe is now {manifest.shape}")
+	manifest = Ranchero.NeighLib.check_index(manifest, df_name='manifest')
 	main_index = Ranchero.merge_dataframes(main_index, manifest, merge_upon='__index__filename',
 		left_name='main', right_name='manifest', 
 		fallback_on_left=True) # any disrepencies (which should not happen) will fall back to the main_index
 	print(f"Merged main_index with manifest to create an index of shape {main_index.shape}")
-	print(main_index)
-
+	Ranchero.dfprint(main_index.select(['__index__filename', 'accession', 'path', 'manifest_s3_source', 'manifest_gs_path']))
 
 for wrangled_path in wrangled_sheets:
+	print(f"Processing {wrangled_path}...")
 	this_wrangled_name = os.path.basename(wrangled_path)
 	this_wrangled = Ranchero.from_tsv(wrangled_path, delimiter=",", index='filename', auto_standardize=False, auto_rancheroize=False)
 	this_wrangled = this_wrangled.with_columns((~cs.string()).cast(pl.String)) # forces all columns into type str

@@ -38,7 +38,7 @@
 | HPRC_PLUS_nanopore_misc_R2 | 🅰️ | ✅ | 105 | 38 | 38 | - | **HG00733 was at one point given the wrong BioSample -- verify it was not sample-swapped** | HPRC_PLUS_nanopore_misc_R2_data_table__final.csv |
 | RU_Y2_HIFI | 🅰️ | ✅ | 128 | 36 | 24 | Had an existing README.md with some notes, is that important? | - | RU_Y2_HIFI_data_table__final.csv |
 | RU_Y2_topoff | 🅰️ | ✅ | 29 | 56 | 7 | - | - | RU_Y2_topoff__final.csv |
-| RU_Y3_HIFI (RU_Y3?) | ❌ | ⚠️ | 94 | 95?! | 95?! | Found file in wrangled CSV that's not in submitted CSV | Rogue file + wrong PacBio machine (see readme) | RU_Y3_HIFI/RU_Y3_HIFI_data_table__final.csv |
+| RU_Y3_HIFI (RU_Y3?) | ❌ | ⚠️ | 94 | 95?! | 95?! | Found file in wrangled CSV that's not in submitted CSV | Rogue file + wrong PacBio machine (see readme) | RU_Y3_HIFI_data_table__final.csv |
 | RU_Y3_topoff | - | - | - | - | - | **Superceeded by RU_Y3_topoff_redo** | - | - |
 | RU_Y3_topoff_redo | ❌ | ❌ |  |  | Has the wrong data table CSV (same as the one in RU_Y3_topoff). Cannot validate until that's fixed. | | |
 | RU_Y4 | ⚠️🅰️ | ⚠️ | 192 | 96 | - |  | 'FIBERSEQ' got dropped from notes column | |
