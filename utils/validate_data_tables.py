@@ -51,13 +51,17 @@ if tsv_is_multi_file:
 	tsv = tsv.with_columns(pl.concat_list(
 		pl.col(filename_columns).fill_null('this should be a literal None but that makes polars angry :-(')
 	).alias("merged_filenames")).drop(filename_columns)
+	#print(Ranchero.NeighLib.col_to_list(tsv, "merged_filenames"))
+
 	tsv = tsv.with_columns(pl.col("merged_filenames").list.eval(
 		pl.element().filter(pl.element() != 'this should be a literal None but that makes polars angry :-(')
 	).alias("filename")).drop('merged_filenames')
+	#print(Ranchero.NeighLib.col_to_list(tsv, "filename"))
 
 	# explode on filename to get a filename-indexed dataframe
 	tsv = tsv.explode('filename').rename({'__index__accession': 'accession'})
 	tsv = Ranchero.rancheroize(tsv, index=index)
+	#print(Ranchero.NeighLib.col_to_list(tsv, "__index__filename"))
 else:
 	tsv = Ranchero.from_tsv(tsv_path, index=index, auto_standardize=False)
 
@@ -84,6 +88,7 @@ if 'library_name' != index and 'library_id' != index and 'library_ID' != index:
 print(f"Submission CSV has {submission.shape[0]} {index}s")
 print(f"Wrangled CSV has {wrangled.shape[0]} {index}s (loss: {submission.shape[0] - wrangled.shape[0]})")
 print(f"TSV has {tsv.shape[0]} {index}s (loss: {tsv.shape[0] - tsv.shape[0]})")
+
 assert tsv.shape[0] == wrangled.shape[0]
 
 # check for stuff being added when they shouldn't be
@@ -96,7 +101,7 @@ if len(in_wrangled_not_tsv) != 0:
 	raise ValueError(f"Found indexes exclusive to wrangled CSV not in TSV: {in_wrangled_not_tsv}")
 in_tsv_not_wrangled = set(tsv[merge_upon].to_list()) - set(wrangled[merge_upon].to_list())
 if len(in_tsv_not_wrangled) != 0:
-	raise ValueError(f"Found indexes exclusive to CSV: {in_tsv_not_wrangled}")
+	raise ValueError(f"Found indexes exclusive to TSV: {in_tsv_not_wrangled}")
 
 print("Double check these, just in case:")
 print(f"\tColumns in wrangled CSV but not TSV: {set(wrangled.columns) - set(tsv.columns)}")
