@@ -25,20 +25,20 @@
 ❌ = file count mismatch that isn't just an AWS or submissions thing / some other kind of annoying blocker  
 
 
-| collection | validated | SRA | n AWS | n sub | n SRA | notes | issues | final |
+| collection | validated | SRA | n AWS | n dtable | n SRA | notes | issues | final |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HIC_Y3_Y4_part2 | ❌ | 🟠🟡 | n/a | 656 |  |  | **Corrupt files were uploaded that should be removed from AWS working and AnVIL (see readme)** | |
+| HIC_Y3_Y4_part2 | ❌ | 🟠🟡 | 656 | 656 |  | Resubmitted without corrupt files as SUB15533226 | **Corrupt files were uploaded that should be removed from AWS working and AnVIL (see readme)** |  |
 | HPRC-OmniC-100124Pools | 🟠 | 🟠 | 191 | 96 | 60 | Not all samples were uploaded due to lack of BioSamples | Omni-C/Hi-C conflict | HPRC-OmniC-100124Pools_data_table__final.csv |
 | HPRC-OmniC-100129Pools | ❓ | 🟠🟡 |  |  |  | Contain samples that require new BioSamples |  | |
 | HPRC-OmniC-241217Pools | ❓ | 🟠🟡 |  |  |  | Contain samples that require new BioSamples |  | |
 | HPRC_DEEPCONSENSUS_v1pt2 | ⚠️ | ⚠️ | 132 | 132 | 132 | metadata conflicts: size_selection, design_description, polymerase_version | HPRC_DEEPCONSENSUS_v1pt2_data_table__final.csv |
 | HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20 | ❌ | ❌ | 168 | 162 |  | Some files may have been added incorrectly to SRA and should be rescinded |  | |
 | HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20 | ⚠️ | ⚠️ | 197 | 197 | 197 | **May have been uploaded to the wrong BioProject** | conflicts: study, notes, library ID | HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_data_table__final.csv |
-| HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run | 🅰️ | ✅ | 151 | 151 | 151 | Submitter metadata was 195 files | - | HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run_data_table__final |
+| HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run | 🅰️ | ✅ | 151 | 151 | 151 | Submitter metadata was 195 files | - | HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run_data_table__final.csv |
 | HPRC_PLUS_nanopore_misc_R2 | 🅰️ | ✅ | 105 | 38 | 38 | - | **HG00733 was at one point given the wrong BioSample -- verify it was not sample-swapped** | HPRC_PLUS_nanopore_misc_R2_data_table__final.csv |
 | RU_Y2_HIFI | 🅰️ | ✅ | 128 | 36 | 24 | Had an existing README.md with some notes, is that important? | - | RU_Y2_HIFI_data_table__final.csv |
 | RU_Y2_topoff | 🅰️ | ✅ | 29 | 56 | 7 | - | - | RU_Y2_topoff__final.csv |
-| RU_Y3_HIFI (RU_Y3?) | ❌ | ✅ | 94 | 95?! | - | Found file in wrangled CSV that's not in submitted CSV | | |
+| RU_Y3_HIFI (RU_Y3?) | ❌ | ⚠️ | 94 | 95?! | 95?! | Found file in wrangled CSV that's not in submitted CSV | Rogue file + wrong PacBio machine (see readme) | RU_Y3_HIFI/RU_Y3_HIFI_data_table__final.csv |
 | RU_Y3_topoff | - | - | - | - | - | **Superceeded by RU_Y3_topoff_redo** | - | - |
 | RU_Y3_topoff_redo | ❌ | ❌ |  |  | Has the wrong data table CSV (same as the one in RU_Y3_topoff). Cannot validate until that's fixed. | | |
 | RU_Y4 | ⚠️🅰️ | ⚠️ | 192 | 96 | - |  | 'FIBERSEQ' got dropped from notes column | |
