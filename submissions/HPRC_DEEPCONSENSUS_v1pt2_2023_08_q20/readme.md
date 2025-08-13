@@ -10,6 +10,9 @@ This batch seems mostly okay, but there's missing from CSV data table that never
 
 These files should not have been added to SRA and should be removed.
 
+Also, conflicts:
+* design_description
+
 
 The weird submissions causing this were:
 ```

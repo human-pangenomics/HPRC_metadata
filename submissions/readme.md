@@ -32,7 +32,7 @@
 | HPRC-OmniC-100129Pools | ❓ | 🟠🟡 |  |  |  | Contain samples that require new BioSamples |  | |
 | HPRC-OmniC-241217Pools | ❓ | 🟠🟡 |  |  |  | Contain samples that require new BioSamples |  | |
 | HPRC_DEEPCONSENSUS_v1pt2 | ⚠️ | ⚠️ | 132 | 132 | 132 | metadata conflicts: size_selection, design_description, polymerase_version | HPRC_DEEPCONSENSUS_v1pt2_data_table__final.csv |
-| HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20 | ❌ | ❌ | 168 | 162 |  | Some files may have been added incorrectly to SRA and should be rescinded |  | |
+| HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20 | ❌ | ❌ | 168 | 162 |  | Some files may have been added incorrectly to SRA and should be rescinded | design_description | |
 | HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20 | ⚠️ | ⚠️ | 197 | 197 | 197 | **May have been uploaded to the wrong BioProject** | conflicts: study, notes, library ID | HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_data_table__final.csv |
 | HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run | 🅰️ | ✅ | 151 | 151 | 151 | Submitter metadata was 195 files | - | HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run_data_table__final.csv |
 | HPRC_PLUS_nanopore_misc_R2 | 🅰️ | ✅ | 105 | 38 | 38 | - | **HG00733 was at one point given the wrong BioSample -- verify it was not sample-swapped** | HPRC_PLUS_nanopore_misc_R2_data_table__final.csv |
@@ -45,7 +45,7 @@
 | RU_Y5_Kinnex | - | - | - | - | - | Deprioritized due to being transcriptomic | - | - |
 | UCSC_HPRC_AMED_collaboration | ✅ | ✅ | 44 | 44 | Ensure library_ID has `NA` names, not `GM` names | UCSC_HPRC_AMED_collaboration_data_table__final.csv | |
 | UCSC_HPRC_nanopore_Year2 | ❌ | ⚠️ | 350 | 175 | 350 | data table is missing half the data? | basecaller_version | UCSC_HPRC_nanopore_Year2/UCSC_HPRC_nanopore_Year2_data_table__final.csv |
-| UCSC_HPRC_nanopore_Year2_R10 | ❌ | ⚠️🅰️ |  |  | Blocked by metadata conflict | | |
+| UCSC_HPRC_nanopore_Year2_R10 | ❌ | ⚠️🅰️ | 206 | 103 | 103 | - | Inconsistencies: 'data_type', 'design_description' | UCSC_HPRC_nanopore_Year2_R10_data_table__final.csv |
 | UCSC_HPRC_nanopore_Year3 | ❌ | ⚠️ |  |  | Blocked by file count mismatch | | |
 | UCSC_HPRC_nanopore_Year4 | ✅ | ✅ | 388 | 388 | 388 | AWS transfer seems to be missing some files | - | UCSC_HPRC_nanopore_Year4_data_table__final.csv |
 | UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | 🅰️ | ✅ | 374 | 374 | Data table is missing >100 files, but we have a submission file for them. Ensure that our final data table is not missing these samples! |  | |

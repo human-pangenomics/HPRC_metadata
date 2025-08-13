@@ -1,3 +1,5 @@
+# TABLESMASHER (ノಠ益ಠ)ノ彡┻━┻
+
 # This script is used to merge the following files:
 # 1) index_sheets: Any arbitrary number of TSVs from Google Sheets, each with a `filename` column
 #    ---> In our case, that is a bunch of "WORKING R2 Sequencing Data Index" sheets (dc, hic, hifi, kinndex, ont, ill)
@@ -13,7 +15,7 @@ index_sheets = {
 }
 # 2) manifest_file: One concatenated manifest CSV, which also has a `filename` column
 #    ---> In our case, that is a concatenation of summary information I gathered from the AnVIL file transfers
-manifest_file = "/Users/aofarrel/github/HPRC_metadata/utils/AnVIL_transfer/logs_and_manifests/manifests_2025-07-14.csv"
+manifest_file = "/Users/aofarrel/github/HPRC_metadata/utils/AnVIL_transfer/logs_and_manifests/manifests_2025-08-12.csv"
 # 3) wrangled_sheets: Any arbitrary number of CSVs with other metadata, each with a `filename` column
 #    ---> In our case, these are the `__final.csv` files I made with corrected metadata and SRA accessions
 #    ---> All values for `filename` must be unique across all `wrangled_sheets` (script will throw err if dupes detected)
@@ -44,12 +46,11 @@ wrangled_vital_columns.append('__index__filename')  # don't touch this line!!
 ranchero_path = '/Users/aofarrel/github/Ranchero'
 import sys
 sys.path.insert(0, ranchero_path) 
-assert sys.version_info >= (3, 7), f"Use Python 3.7 or newer -- you are using {sys.version_info[0]}.{sys.version_info[1]}"
 import src as Ranchero
+Ranchero.Configuration.set_config({"loglevel": 30})
 
 # TODO: allow user to select if they want left or right for conflicts
 # NOTE: You can use polars expressions to validate `manifest_s3_source` against `path` but you need to handle nulls properly
-
 
 import os
 import polars as pl
@@ -92,7 +93,7 @@ if manifest_file is not None:
 	print("Rows without values for manifest_checksum:")
 	Ranchero.dfprint(
 		main_index.filter(pl.col('manifest_gs_path').is_null())
-		.select(Ranchero.NeighLib.valid_cols(main_index, ['__index__filename', 'path', 'index_sheet'])), str_len=200
+		.select(Ranchero.NeighLib.valid_cols(main_index, ['__index__filename', 'path', 'index_sheet', 'in_working'])), str_len=200
 	)
 
 Ranchero.Configuration.set_config({"dupe_index_handling": 'verbose_error'})
