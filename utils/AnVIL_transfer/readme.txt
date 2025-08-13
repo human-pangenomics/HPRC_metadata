@@ -10,8 +10,8 @@ Process:
 3. LOCAL: rm first line of resulting TSV (resulting TSVs saved here in "input_tsvs")
 4. PHOENIX: Ensure you're authenticated on gcloud on Phoenix and parallel composite uploads are TURNED OFF in config
 	* If you're not sure, run: `gcloud config set storage/parallel_composite_upload_enabled False`
-5. PHOENIX: `s3_to_gcs_transfer.slurm`
-6. PHOENIX: `summarize_logs.sh` in the dir where all the logs got dumped [warning: slow as heck]
+5. PHOENIX: `s3_to_gcs_transfer.slurm` (see instructions in that file for args)
+6. PHOENIX: `summarize_logs.sh [output_summary_filename]` in the dir where all the logs got dumped [warning: slow as heck]
 7. PHOENIX: When the ONT data invitably bugs out:
 	* `python3 create_inputs_from_logged_failures.py [input tsv (from step 2, should have no header)] [summarized log (from step 6)]`
 	* `mv_bad_logs.sh` (output of create_inputs_from_logged_failures.py)

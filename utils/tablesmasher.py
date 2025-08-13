@@ -18,9 +18,11 @@ manifest_file = "/Users/aofarrel/github/HPRC_metadata/utils/AnVIL_transfer/logs_
 #    ---> In our case, these are the `__final.csv` files I made with corrected metadata and SRA accessions
 #    ---> All values for `filename` must be unique across all `wrangled_sheets` (script will throw err if dupes detected)
 wrangled_sheets = [
+"/Users/aofarrel/github/HPRC_metadata/submissions/HPRC-OmniC-100124Pools/HPRC-OmniC-100124Pools_data_table__final.csv",
 "/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2/HPRC_DEEPCONSENSUS_v1pt2_data_table__final.csv",
 "/Users/aofarrel/github/HPRC_metadata/submissions/RU_Y2_topoff/RU_Y2_topoff_data_table__final.csv",
-"/Users/aofarrel/github/HPRC_metadata/submissions/UW_HPRC_HiFi_Y1/UW_HPRC_HiFi_Y1_data_table__final.csv"
+"/Users/aofarrel/github/HPRC_metadata/submissions/UW_HPRC_HiFi_Y1/UW_HPRC_HiFi_Y1_data_table__final.csv",
+"/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year1/WUSTL_HPRC_HiFi_Year1_post_sra_metadata__NOT_SUBREADS.tsv"
 ]
 #
 # The output will be a single TSV with merged information from all three of these sources, using these rules:
