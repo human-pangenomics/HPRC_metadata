@@ -1,31 +1,36 @@
 submission_csv_path = ''
 wrangled_csv_path = ''
-tsv_path = ''
+NCBI_tsv_path = ''
 index = 'filename'
-allow_wrangled_to_conflict_with_submission_here = []
-overide_csv_with_tsv_in_these_columns = []
+allowed_submission_wrangled_conflicts = []
+allowed_wrangled_NCBI_conflicts = []
 submission_csv_is_actually_tsv = False
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False
 tsv_is_multi_file = False
-# submission_csv_path: CSV directly from submitter
-# wrangled_csv_path: wrangled CSV "data table"
-# tsv_path: ideally the "metadata-XXXXXXXX-processed-ok" TSV from NCBI, if not available, ash's TSV
-# allow_wrangled_to_conflict_with_submission_here: should usually be empty!
-# index: column of *completely unique* values to serve as the index, should usually be 'filename'
-# overide_csv_with_tsv_in_these_columns: if wrangled_csv and tsv have different values in same column, assume TSV is source of truth, else throw error
-# submission_csv_is_actually_tsv: exactly what it says on the tin
-# wrangled_csv_is_actually_tsv: exactly what it says on the tin
-# wrangled_csv_can_lack_library_id: allow wrangled CSV to not have a library_id column
-# tsv_is_multi_file: set this if TSV has multiple files per line (like paired illumina reads)
+ranchero_path = '/Users/aofarrel/github/Ranchero'
+# submission_csv_path: CSV directly from submitter (can be TSV, see below)
+# wrangled_csv_path:   Wrangled CSV "data table" (can be TSV, see below)
+# NCBI_tsv_path:       The "metadata-XXXXXXXX-processed-ok" TSV from NCBI after a submission is fully processed
+# index:               Column of *completely unique* values to serve as the index -- should almost always be 'filename'
+# allowed_submission_wrangled_conflicts: If submission_csv and wrangled_csv have different values in this shared column,
+#                                        assume submission_csv is source of truth, else throw error
+# allowed_wrangled_NCBI_conflicts:       If wrangled_csv and NCBI_tsv have different values in this shared column,
+#                                        assume TSV is source of truth, else throw error (this means that the __final.csv
+#                                        will fallback on what's in the TSV for these columns)
+# submission_csv_is_actually_tsv:    Read `submission_csv_path` as if it were a TSV
+# wrangled_csv_is_actually_tsv:      Read `wrangled_csv_path` as if it were a TSV
+# wrangled_csv_can_lack_library_id:  Allow wrangled CSV to not have a library_id column
+# tsv_is_multi_file:                 Set this if TSV has multiple files per line (like paired illumina reads)
+# ranchero_path:                     Path to Ash's ranchero library (github.com/aofarrel/ranchero)
 
 import os
 import sys
 import polars as pl
 
 # ranchero isn't pip-installable yet so this is a goofy workaround for importing it
-ranchero_path = '/Users/aofarrel/github/Ranchero'
-sys.path.insert(0, ranchero_path) 
+if not os.path.isdir(ranchero_path): raise ImportError(f"You set ranchero_path to {ranchero_path} but that doesn't exist!")
+sys.path.insert(0, ranchero_path)
 import src as Ranchero
 
 # read metadata files
@@ -44,7 +49,7 @@ else:
 if tsv_is_multi_file:
 	assert index == 'filename'
 	temp_index = 'accession'
-	tsv = Ranchero.from_tsv(tsv_path, index=temp_index, auto_standardize=False)
+	tsv = Ranchero.from_tsv(NCBI_tsv_path, index=temp_index, auto_standardize=False)
 	filename_columns = [col for col in tsv.columns if col.startswith('filename')]
 
 	# we have to fill_null() to prevent nulls from taking over everything (please just trust me on this one)
@@ -63,7 +68,7 @@ if tsv_is_multi_file:
 	tsv = Ranchero.rancheroize(tsv, index=index)
 	#print(Ranchero.NeighLib.col_to_list(tsv, "__index__filename"))
 else:
-	tsv = Ranchero.from_tsv(tsv_path, index=index, auto_standardize=False)
+	tsv = Ranchero.from_tsv(NCBI_tsv_path, index=index, auto_standardize=False)
 
 # ensure no funny business
 merge_upon = "__index__" + index
@@ -121,8 +126,8 @@ shared_kolumns_wrangled_tsv = Ranchero.NeighLib.get_dupe_columns_of_two_polars(w
 if submission.shape[0] - wrangled.shape[0] > 0:
 	# avoid nulls (created by wrangled simply having less rows) triggering false positives in mismatch checks
 	submission = submission.filter(pl.col(merge_upon).is_in(wrangled[merge_upon].to_list()))
-Ranchero.kolumns.list_fallback_or_null = allow_wrangled_to_conflict_with_submission_here
-Ranchero.kolumns.list_throw_error = [x for x in shared_kolumns_submission_wrangled if x not in allow_wrangled_to_conflict_with_submission_here]
+Ranchero.kolumns.list_fallback_or_null = allowed_submission_wrangled_conflicts
+Ranchero.kolumns.list_throw_error = [x for x in shared_kolumns_submission_wrangled if x not in allowed_submission_wrangled_conflicts]
 merged = Ranchero.merge_dataframes(submission, wrangled, merge_upon=merge_upon, 
 	left_name='submission_csv', right_name='wrangled_csv', 
 	fallback_on_left=False) # fallbacks (if allowed per kolumns) will fallback on right
@@ -138,8 +143,8 @@ if 'md5sum' in merged.columns:
 	wrangled = merged.rename({'md5sum': 'submitter_md5sum'})
 
 # wrangled-vs-tsv: this merge will be written to the disk (if it's valid)
-Ranchero.kolumns.list_fallback_or_null = overide_csv_with_tsv_in_these_columns
-Ranchero.kolumns.list_throw_error = [x for x in shared_kolumns_wrangled_tsv if x not in overide_csv_with_tsv_in_these_columns]
+Ranchero.kolumns.list_fallback_or_null = allowed_wrangled_NCBI_conflicts
+Ranchero.kolumns.list_throw_error = [x for x in shared_kolumns_wrangled_tsv if x not in allowed_wrangled_NCBI_conflicts]
 merged = Ranchero.merge_dataframes(wrangled, tsv, merge_upon=merge_upon,
 	left_name='wrangled_csv', right_name='final_tsv', 
 	fallback_on_left=False) # fallbacks (if allowed per kolumns) will fallback on right

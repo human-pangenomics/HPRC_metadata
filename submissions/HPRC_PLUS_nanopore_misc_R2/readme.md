@@ -13,10 +13,10 @@ Validation:
 ```
 submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_PLUS_nanopore_misc_R2/HPRC_PLUS_nanopore_misc_R2_submission_metadata.csv'
 wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_PLUS_nanopore_misc_R2/HPRC_PLUS_nanopore_misc_R2_data_table.csv'
-tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_PLUS_nanopore_misc_R2/metadata-processed-ok-concat.tsv'
+NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_PLUS_nanopore_misc_R2/metadata-processed-ok-concat.tsv'
 index = 'filename'
-allow_wrangled_to_conflict_with_submission_here = []
-overide_csv_with_tsv_in_these_columns = ['biosample_accession', 'design_description', 'generator_facility']
+allowed_submission_wrangled_conflicts = []
+allowed_wrangled_NCBI_conflicts = ['biosample_accession', 'design_description', 'generator_facility']
 submission_csv_is_actually_tsv = False
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False
