@@ -7,7 +7,8 @@ allowed_wrangled_NCBI_conflicts = []
 submission_csv_is_actually_tsv = False
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False
-tsv_is_multi_file = False
+tsv_is_multi_file = True
+skip_index_validation = False
 # submission_csv_path: CSV directly from submitter (can be TSV, see below)
 # wrangled_csv_path:   Wrangled CSV "data table" (can be TSV, see below)
 # NCBI_tsv_path:       The "metadata-XXXXXXXX-processed-ok" TSV from NCBI after a submission is fully processed
@@ -21,6 +22,7 @@ tsv_is_multi_file = False
 # wrangled_csv_is_actually_tsv:      Read `wrangled_csv_path` as if it were a TSV
 # wrangled_csv_can_lack_library_id:  Allow wrangled CSV to not have a library_id column
 # tsv_is_multi_file:                 Set this if TSV has multiple files per line (like paired illumina reads)
+# skip_index_validation: 			 Skip index validation -- ONLY DO THIS IF YOU CAREFULLY VALIDATE YOUR OUTPUTS
 
 import os
 import sys
@@ -95,19 +97,19 @@ print(f"Submission CSV has {submission.shape[0]} {index}s")
 print(f"Wrangled CSV has {wrangled.shape[0]} {index}s (loss: {submission.shape[0] - wrangled.shape[0]})")
 print(f"TSV has {tsv.shape[0]} {index}s (loss: {tsv.shape[0] - tsv.shape[0]})")
 
-assert tsv.shape[0] == wrangled.shape[0]
-
-# check for stuff being added when they shouldn't be
-# we should expect there to be some indeces exclusive to submission, so don't report those... but everything else is sus
-in_wrangled_not_submission = set(wrangled[merge_upon].to_list()) - set(submission[merge_upon].to_list())
-if len(in_wrangled_not_submission) != 0:
-	raise ValueError(f"Found {index}s in wrangled CSV but not submitted CSV: {in_wrangled_not_submission}")
-in_wrangled_not_tsv = set(wrangled[merge_upon].to_list()) - set(tsv[merge_upon].to_list())
-if len(in_wrangled_not_tsv) != 0:
-	raise ValueError(f"Found indexes exclusive to wrangled CSV not in TSV: {in_wrangled_not_tsv}")
-in_tsv_not_wrangled = set(tsv[merge_upon].to_list()) - set(wrangled[merge_upon].to_list())
-if len(in_tsv_not_wrangled) != 0:
-	raise ValueError(f"Found indexes exclusive to TSV: {in_tsv_not_wrangled}")
+if not skip_index_validation:
+	assert tsv.shape[0] == wrangled.shape[0]
+	# check for stuff being added when they shouldn't be
+	# we should expect there to be some indeces exclusive to submission, so don't report those... but everything else is sus
+	in_wrangled_not_submission = set(wrangled[merge_upon].to_list()) - set(submission[merge_upon].to_list())
+	if len(in_wrangled_not_submission) != 0:
+		raise ValueError(f"Found {index}s in wrangled CSV but not submitted CSV: {in_wrangled_not_submission}")
+	in_wrangled_not_tsv = set(wrangled[merge_upon].to_list()) - set(tsv[merge_upon].to_list())
+	if len(in_wrangled_not_tsv) != 0:
+		raise ValueError(f"Found indexes exclusive to wrangled CSV not in TSV: {in_wrangled_not_tsv}")
+	in_tsv_not_wrangled = set(tsv[merge_upon].to_list()) - set(wrangled[merge_upon].to_list())
+	if len(in_tsv_not_wrangled) != 0:
+		raise ValueError(f"Found indexes exclusive to TSV: {in_tsv_not_wrangled}")
 
 print("Double check these, just in case:")
 print(f"\tColumns in wrangled CSV but not TSV: {set(wrangled.columns) - set(tsv.columns)}")
