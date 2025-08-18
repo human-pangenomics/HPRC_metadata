@@ -11,9 +11,9 @@ TSV has 151 filenames (loss: 0)
 
 Validation script:
 ```
-submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run_submitter_metadata.csv'
-wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run_data_table.csv'
-NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run/metadata-14737692-processed-ok.tsv'
+submission_csv_path = '../submissions/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run_submitter_metadata.csv'
+wrangled_csv_path = '../submissions/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run_data_table.csv'
+NCBI_tsv_path = '../submissions/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run/metadata-14737692-processed-ok.tsv'
 index = 'filename'
 allowed_submission_wrangled_conflicts = ['instrument_model']
 allowed_wrangled_NCBI_conflicts = []

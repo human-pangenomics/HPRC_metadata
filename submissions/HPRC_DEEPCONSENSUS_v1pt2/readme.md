@@ -271,9 +271,9 @@ shape: (47, 3)
 
 Validation
 ```
-submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2/DEEPCONSENSUS_v1pt2_submitter_metadata.tsv'
-wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2/HPRC_DEEPCONSENSUS_v1pt2_data_table.csv'
-NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2/metadata-13754908-processed-ok.tsv'
+submission_csv_path = '../submissions/HPRC_DEEPCONSENSUS_v1pt2/DEEPCONSENSUS_v1pt2_submitter_metadata.tsv'
+wrangled_csv_path = '../submissions/HPRC_DEEPCONSENSUS_v1pt2/HPRC_DEEPCONSENSUS_v1pt2_data_table.csv'
+NCBI_tsv_path = '../submissions/HPRC_DEEPCONSENSUS_v1pt2/metadata-13754908-processed-ok.tsv'
 index = 'filename'
 allowed_submission_wrangled_conflicts = ['filetype']
 allowed_wrangled_NCBI_conflicts = ['filetype']

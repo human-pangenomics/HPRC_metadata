@@ -8,9 +8,9 @@ TSV has 96 filenames (loss: 0)
 
 ### validator
 ```
-submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/RU_Y4/HPRC_RU_Y4_Metadata_Submission.tsv'
-wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/RU_Y4/RU_Y4_data_table.csv'
-NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/RU_Y4/metadata-14526393-processed-ok.tsv'
+submission_csv_path = '../submissions/RU_Y4/HPRC_RU_Y4_Metadata_Submission.tsv'
+wrangled_csv_path = '../submissions/RU_Y4/RU_Y4_data_table.csv'
+NCBI_tsv_path = '../submissions/RU_Y4/metadata-14526393-processed-ok.tsv'
 index = 'filename'
 allowed_submission_wrangled_conflicts = ['instrument_model']
 allowed_wrangled_NCBI_conflicts = []

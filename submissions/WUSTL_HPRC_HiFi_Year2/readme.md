@@ -13,9 +13,9 @@ Oddities:
 
 Validation:
 ```
-submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year2/HPRC_PacBio_HiFi_Metadata_Submission_WUSTL_Year2_v0.2.tsv'
-wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year2/WUSTL_HPRC_HiFi_Year2_data_table.csv'
-NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year2/metadata-11121843-processed-ok.tsv'
+submission_csv_path = '../submissions/WUSTL_HPRC_HiFi_Year2/HPRC_PacBio_HiFi_Metadata_Submission_WUSTL_Year2_v0.2.tsv'
+wrangled_csv_path = '../submissions/WUSTL_HPRC_HiFi_Year2/WUSTL_HPRC_HiFi_Year2_data_table.csv'
+NCBI_tsv_path = '../submissions/WUSTL_HPRC_HiFi_Year2/metadata-11121843-processed-ok.tsv'
 index = 'filename'
 allowed_submission_wrangled_conflicts = ['data_type']
 allowed_wrangled_NCBI_conflicts = []

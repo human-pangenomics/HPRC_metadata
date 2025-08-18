@@ -10,9 +10,9 @@ TSV has 442 filenames (loss: 0)
 
 validate
 ```
-submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year3/UCSC_HPRC_ONT_Y3_GUPPY6_Metadata_Submission.tsv'
-wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year3/UCSC_HPRC_nanopore_Year3_data_table.csv'
-tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year3/metadata-processed-ok-cat.tsv'
+submission_csv_path = '../submissions/UCSC_HPRC_nanopore_Year3/UCSC_HPRC_ONT_Y3_GUPPY6_Metadata_Submission.tsv'
+wrangled_csv_path = '../submissions/UCSC_HPRC_nanopore_Year3/UCSC_HPRC_nanopore_Year3_data_table.csv'
+tsv_path = '../submissions/UCSC_HPRC_nanopore_Year3/metadata-processed-ok-cat.tsv'
 index = 'filename'
 allow_wrangled_to_conflict_with_submission_here = []
 overide_csv_with_tsv_in_these_columns = []

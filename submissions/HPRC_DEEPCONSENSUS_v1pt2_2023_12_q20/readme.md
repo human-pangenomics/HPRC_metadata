@@ -102,9 +102,9 @@ shape: (73, 3)
 
 Validation
 ```
-submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_submission_metadata.csv'
-wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_data_table.csv'
-NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/metadata-14735462-processed-ok.tsv'
+submission_csv_path = '../submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_submission_metadata.csv'
+wrangled_csv_path = '../submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_data_table.csv'
+NCBI_tsv_path = '../submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/metadata-14735462-processed-ok.tsv'
 index = 'filename'
 allowed_submission_wrangled_conflicts = ['library_ID', 'filetype', 'instrument_model']
 allowed_wrangled_NCBI_conflicts = ['library_ID', 'filetype']

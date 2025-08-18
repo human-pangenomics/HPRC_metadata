@@ -9,9 +9,9 @@ Inconsistencies: 'data_type', 'design_description'
 
 ## validation
 ```
-submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year2_R10/UCSC_HPRC_nanopore_Year2_R10_submission_metadata.csv'
-wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year2_R10/UCSC_HPRC_nanopore_Year2_R10_data_table.csv'
-NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year2_R10/metadata-15307182-processed-ok.tsv'
+submission_csv_path = '../submissions/UCSC_HPRC_nanopore_Year2_R10/UCSC_HPRC_nanopore_Year2_R10_submission_metadata.csv'
+wrangled_csv_path = '../submissions/UCSC_HPRC_nanopore_Year2_R10/UCSC_HPRC_nanopore_Year2_R10_data_table.csv'
+NCBI_tsv_path = '../submissions/UCSC_HPRC_nanopore_Year2_R10/metadata-15307182-processed-ok.tsv'
 index = 'filename'
 allowed_submission_wrangled_conflicts = []
 allowed_wrangled_NCBI_conflicts = ['basecaller_model']

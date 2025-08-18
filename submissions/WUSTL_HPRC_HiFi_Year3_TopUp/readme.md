@@ -9,9 +9,9 @@ TSV has 51 filenames (loss: 0)
 
 Validation:
 ```
-submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year3_TopUp/HPRC_WUSTL_Y3_PacBio_HiFi_TopUp_Metadata_Submission_v0.1.tsv'
-wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year3_TopUp/WUSTL_HPRC_HiFi_Year3_TopUp_data_table.csv'
-NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year3_TopUp/metadata-15309657-processed-ok.tsv'
+submission_csv_path = '../submissions/WUSTL_HPRC_HiFi_Year3_TopUp/HPRC_WUSTL_Y3_PacBio_HiFi_TopUp_Metadata_Submission_v0.1.tsv'
+wrangled_csv_path = '../submissions/WUSTL_HPRC_HiFi_Year3_TopUp/WUSTL_HPRC_HiFi_Year3_TopUp_data_table.csv'
+NCBI_tsv_path = '../submissions/WUSTL_HPRC_HiFi_Year3_TopUp/metadata-15309657-processed-ok.tsv'
 index = 'filename'
 allowed_submission_wrangled_conflicts = ['instrument_model']
 allowed_wrangled_NCBI_conflicts = ['instrument_model']

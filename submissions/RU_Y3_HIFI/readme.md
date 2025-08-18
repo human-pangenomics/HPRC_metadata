@@ -10,9 +10,9 @@ Validation issues:
 
 Validation:
 ```
-submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/RU_Y3_HIFI/HPRC_RU_Y3_HiFi_Metadata_Submission.csv'
-wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/RU_Y3_HIFI/RU_Y3_HIFI_data_table.csv'
-NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/RU_Y3_HIFI/metadata-14648156-processed-ok.tsv'
+submission_csv_path = '../submissions/RU_Y3_HIFI/HPRC_RU_Y3_HiFi_Metadata_Submission.csv'
+wrangled_csv_path = '../submissions/RU_Y3_HIFI/RU_Y3_HIFI_data_table.csv'
+NCBI_tsv_path = '../submissions/RU_Y3_HIFI/metadata-14648156-processed-ok.tsv'
 index = 'filename'
 allowed_submission_wrangled_conflicts = ['library_ID']
 allowed_wrangled_NCBI_conflicts = []

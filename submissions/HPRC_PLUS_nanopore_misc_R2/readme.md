@@ -11,9 +11,9 @@ Some older uploads ended up with "University of California, Santa Cruz" instead 
 
 Validation:
 ```
-submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_PLUS_nanopore_misc_R2/HPRC_PLUS_nanopore_misc_R2_submission_metadata.csv'
-wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_PLUS_nanopore_misc_R2/HPRC_PLUS_nanopore_misc_R2_data_table.csv'
-NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_PLUS_nanopore_misc_R2/metadata-processed-ok-concat.tsv'
+submission_csv_path = '../submissions/HPRC_PLUS_nanopore_misc_R2/HPRC_PLUS_nanopore_misc_R2_submission_metadata.csv'
+wrangled_csv_path = '../submissions/HPRC_PLUS_nanopore_misc_R2/HPRC_PLUS_nanopore_misc_R2_data_table.csv'
+NCBI_tsv_path = '../submissions/HPRC_PLUS_nanopore_misc_R2/metadata-processed-ok-concat.tsv'
 index = 'filename'
 allowed_submission_wrangled_conflicts = []
 allowed_wrangled_NCBI_conflicts = ['biosample_accession', 'design_description', 'generator_facility']

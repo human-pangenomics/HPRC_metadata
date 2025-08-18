@@ -27,9 +27,9 @@ ValueError: Found indexes exclusive to TSV: {'12_08_21_R941_HG00423_1_Guppy_6.4.
 
 validator
 ```
-submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year2/UCSC_HPRC_ONT_Y2_GUPPY6_Metadata_Submission.tsv'
-wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year2/UCSC_HPRC_nanopore_Year2_data_table.csv'
-NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year2/metadata-processed-ok-concat-redo.tsv'
+submission_csv_path = '../submissions/UCSC_HPRC_nanopore_Year2/UCSC_HPRC_ONT_Y2_GUPPY6_Metadata_Submission.tsv'
+wrangled_csv_path = '../submissions/UCSC_HPRC_nanopore_Year2/UCSC_HPRC_nanopore_Year2_data_table.csv'
+NCBI_tsv_path = '../submissions/UCSC_HPRC_nanopore_Year2/metadata-processed-ok-concat-redo.tsv'
 index = 'filename'
 allowed_submission_wrangled_conflicts = ['generator_facility']
 allowed_wrangled_NCBI_conflicts = []

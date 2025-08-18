@@ -15,9 +15,9 @@ TSV has 60 filenames (loss: 132)
 
 Validation of the ones that were uploaded (you will also need to remove parts of the script that check the TSV and wrangled have same number of values, and also this will show you a ton of metadata that didn't nullfill properly)
 ```
-submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC-OmniC-100124Pools/HPRC-OmniC-100124Pools_submission_metadata.csv'
-wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC-OmniC-100124Pools/HPRC-OmniC-100124Pools_data_table.csv'
-NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC-OmniC-100124Pools/metadata-15523009-processed-ok.tsv'
+submission_csv_path = '../submissions/HPRC-OmniC-100124Pools/HPRC-OmniC-100124Pools_submission_metadata.csv'
+wrangled_csv_path = '../submissions/HPRC-OmniC-100124Pools/HPRC-OmniC-100124Pools_data_table.csv'
+NCBI_tsv_path = '../submissions/HPRC-OmniC-100124Pools/metadata-15523009-processed-ok.tsv'
 index = 'filename'
 allowed_submission_wrangled_conflicts = []
 allowed_wrangled_NCBI_conflicts = []
