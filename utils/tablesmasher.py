@@ -26,6 +26,7 @@ wrangled_sheets = [
 "../submissions/RU_Y2_topoff/RU_Y2_topoff_data_table__final.csv",
 "../submissions/UCSC_HPRC_PLUS_nanopore/UCSC_HPRC_PLUS_nanopore_data_table__final.csv",
 "../submissions/UW_HPRC_HiFi_Y1/UW_HPRC_HiFi_Y1_data_table__final.csv",
+"../submissions/WUSTL_HPRC_HiFi_Year4/WUSTL_HPRC_HiFi_Year4_data_table__final.csv"
 ]
 #
 # The output will be a single TSV with merged information from all three of these sources, using these rules:
