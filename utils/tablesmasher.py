@@ -46,7 +46,7 @@ wrangled_sheets = [
 "../submissions/UCSC_HPRC_PLUS_nanopore/UCSC_HPRC_PLUS_nanopore_data_table__final.csv",
 # Skipped: UCSC_HPRC_PLUS_nanopore_WashU
 "../submissions/UW_HPRC_HiFi_Y1/UW_HPRC_HiFi_Y1_data_table__final.csv",
-#"../submissions/UW_HPRC_HiFi_Y2/UW_HPRC_HiFi_Y2_data_table__final.csv",
+#"../submissions/UW_HPRC_HiFi_Y2/UW_HPRC_HiFi_Y2_data_table__final.csv", --> has dupes??
 "../submissions/UW_HPRC_HiFi_Y3/UW_HPRC_HiFi_Y3_data_table__final.csv",
 "../submissions/UW_HPRC_HiFi_Y4_AND_Y3_Topoff/UW_HPRC_HiFi_Y4_AND_Y3_Topoff_data_table__final.csv",
 # Skipped: UW_HPRC_Y5_Kinnex

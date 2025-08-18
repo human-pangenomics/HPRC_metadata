@@ -9,6 +9,22 @@
 
  There is a script in utils/ designed to validate metadata tables from simple column/sample swaps. It uses Ash's ranchero library, which is essentially a wrapper for python-polars. Currently, ranchero cannot be pip installed; you will need to `git clone https://github.com/aofarrel/ranchero.git` in order to import its src/ directory. Instructions for running it can be found in `utils/readme.md` and the script itself.
 
+## Important stuff!
+
+### Should be removed from SRA/AnVIL
+* HIC_Y3_Y4_part2's corrupt files (not on SRA but likely on AnVIL)
+* some files from HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20
+* WUSTL_HPRC_HiFi_Year1 subreads
+	* Alternatively we could just leave them up on SRA? They are correctly marked as subreads in the title field...
+* Possible duplicate uploads?
+
+### Missing submissions
+Not exhaustive:
+* HiC (all of these ones seem to already be on SRA)
+* HG00733_T2T_UW_HiFi_ONT
+* HPRC_REVIO_EA_2023
+* NISC_HiFi_TopUp_2022_with_5mC
+
 
 ## Progress table
 
@@ -57,30 +73,57 @@
 | UW_HPRC_HiFi_Y3 | 🅰️ | ⚠️ | 278 | 91 | 91 | possible SRA name change but now I don't think so | | |
 | UW_HPRC_HiFi_Y4_AND_Y3_Topoff | 🅰️ | ❓ | 848 | 212 | 212 | Massive file count mismatch |  | UW_HPRC_HiFi_Y4_AND_Y3_Topoff_data_table__final.csv |
 | UW_HPRC_Y5_Kinnex | - | - | 94 | - | Deprioritized due to being transcriptomic | - | - |
-| WUSTL_HPRC_HiFi_Year1 | ❌ | ✅ | 160 | 80 | 80 | **Subreads were submitted to SRA, see readme** | not checked, see readme | WUSTL_HPRC_HiFi_Year1_post_sra_metadata__NOT_SUBREADS.tsv |
+| WUSTL_HPRC_HiFi_Year1 | ❌ | ✅ | 160 | 80 | 80 | **Subreads were submitted to SRA, see readme** | not checked, see readme | WUSTL_HPRC_HiFi_Year1_post_sra_metadata__NOT_SUBREADS.csv |
 | WUSTL_HPRC_HiFi_Year1_TopUp | ✅ | ✅ | 72 | 36 | 36 |36 | - | - | WUSTL_HPRC_HiFi_Year1_TopUp_data_table__final.csv | 
 | WUSTL_HPRC_HiFi_Year2 | 🅰️ | ⚠️ | 178 | 89 | 89 | had a sus post_sra TSV, decided to ignore it | **`ccs_algorithm` goes from 6.0.0 to what looks like a boneless DOI; was a column shifted?** also issues in polymerase_version and notes | WUSTL_HPRC_HiFi_Year2_data_table__final.csv |
 | WUSTL_HPRC_HiFi_Year2_TopUp | ✅ | ✅ | 110 | 55 | 55 | - | - | WUSTL_HPRC_HiFi_Year2_TopUp_data_table__final.csv |
-| WUSTL_HPRC_HiFi_Year3 | ❓ | ❓ |  |  |  | Seems to have been a name change when uploaded to SRA? | | |
+| WUSTL_HPRC_HiFi_Year3 | 🅰️ | ✅ | 156 | 79 | 79 | - | - | WUSTL_HPRC_HiFi_Year3_data_table__final .csv |
 | WUSTL_HPRC_HiFi_Year3_TopUp | ✅ | ✅ | 102 | 51 | 51 | libray IDs were changed | - | WUSTL_HPRC_HiFi_Year3_TopUp/WUSTL_HPRC_HiFi_Year3_TopUp_data_table__final.csv |
 | WUSTL_HPRC_HiFi_Year4 | 🅰️ | ✅ | 195 | 97 | 97 | library IDs were changed | - | WUSTL_HPRC_HiFi_Year4_data_table__final.csv |
 | WUSTL_HPRC_Y5_Kinnex (WUSTL_HPRC_Y5_Per_Pool_Kinnex?) | ❌ | ❌ | - | - | - | almost ready to upload, you just need to fill in some missing metadata | - |
 
-## Should be removed from SRA/AnVIL
-* HIC_Y3_Y4_part2's corrupt files (not on SRA but likely on AnVIL)
-* some files from HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20
-* WUSTL_HPRC_HiFi_Year1 subreads
-	* Alternatively we could just leave them up on SRA? They are correctly marked as subreads in the title field...
-* Possible duplicate uploads?
+For brave souls who are willing to have **unverified** metadata on their final data table but just want those SRA accessions, look here (or the output of ../utils/tablesmasher.py)
+```
+# Skipped: HIC_Y3_Y4_part2
+"../submissions/HPRC-OmniC-100124Pools/HPRC-OmniC-100124Pools_data_table__final.csv",
+# Skipped: HPRC-OmniC-100129Pools
+# Skipped: HPRC-OmniC-241217Pools
+"../submissions/HPRC_DEEPCONSENSUS_v1pt2/HPRC_DEEPCONSENSUS_v1pt2_data_table__final.csv",
+"../submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20_data_table__final.csv",
+"../submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_data_table__final.csv",
+"../submissions/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run_data_table__final.csv",
+"../submissions/HPRC_PLUS_nanopore_misc_R2/HPRC_PLUS_nanopore_misc_R2_data_table__final.csv",
+"../submissions/RU_Y2_HIFI/RU_Y2_HIFI_data_table__final.csv",
+"../submissions/RU_Y2_topoff/RU_Y2_topoff_data_table__final.csv",
+"../submissions/RU_Y3_HIFI/RU_Y3_HIFI_data_table__final.csv",
+# Skipped: RU_Y3_topoff_redo
+"../submissions/RU_Y4/RU_Y4_data_table__final.csv",
+# Skipped: RU_Y5_Kinnex
+"../submissions/UCSC_HPRC_AMED_collaboration/UCSC_HPRC_AMED_collaboration_data_table__final.csv",
+"../submissions/UCSC_HPRC_nanopore_Year2/UCSC_HPRC_nanopore_Year2_data_table__final.csv",
+"../submissions/UCSC_HPRC_nanopore_Year2_R10/UCSC_HPRC_nanopore_Year2_R10_data_table__final.csv",
+# Skipped: UCSC_HPRC_nanopore_Year3
+"../submissions/UCSC_HPRC_nanopore_Year4/UCSC_HPRC_nanopore_Year4_data_table__final.csv",
+"../submissions/UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6/UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6_data_table__final.csv",
+"../submissions/UCSC_HPRC_PLUS_nanopore/UCSC_HPRC_PLUS_nanopore_data_table__final.csv",
+# Skipped: UCSC_HPRC_PLUS_nanopore_WashU
+"../submissions/UW_HPRC_HiFi_Y1/UW_HPRC_HiFi_Y1_data_table__final.csv",
+#"../submissions/UW_HPRC_HiFi_Y2/UW_HPRC_HiFi_Y2_data_table__final.csv", --> has dupes??
+"../submissions/UW_HPRC_HiFi_Y3/UW_HPRC_HiFi_Y3_data_table__final.csv",
+"../submissions/UW_HPRC_HiFi_Y4_AND_Y3_Topoff/UW_HPRC_HiFi_Y4_AND_Y3_Topoff_data_table__final.csv",
+# Skipped: UW_HPRC_Y5_Kinnex
+"../submissions/WUSTL_HPRC_HiFi_Year1/WUSTL_HPRC_HiFi_Year1_post_sra_metadata__NOT_SUBREADS.csv",
+"../submissions/WUSTL_HPRC_HiFi_Year1_TopUp/WUSTL_HPRC_HiFi_Year1_TopUp_data_table__final.csv",
+"../submissions/WUSTL_HPRC_HiFi_Year2/WUSTL_HPRC_HiFi_Year2_data_table__final.csv",
+"../submissions/WUSTL_HPRC_HiFi_Year2_TopUp/WUSTL_HPRC_HiFi_Year2_TopUp_data_table__final.csv",
+"../submissions/WUSTL_HPRC_HiFi_Year3/WUSTL_HPRC_HiFi_Year3_data_table__final.csv",
+"../submissions/WUSTL_HPRC_HiFi_Year3_TopUp/WUSTL_HPRC_HiFi_Year3_TopUp_data_table__final.csv",
+"../submissions/WUSTL_HPRC_HiFi_Year4/WUSTL_HPRC_HiFi_Year4_data_table__final.csv"
+# Skipped: WUSTL_HPRC_Y5_Kinnex
+```
 
-## Missing
-Known R2 projects not in repo (not exhaustive):
-* HiC (all of these ones seem to already be on SRA)
-* HG00733_T2T_UW_HiFi_ONT
-* HPRC_REVIO_EA_2023
-* NISC_HiFi_TopUp_2022_with_5mC
 
-## Metadata conflict handling
+## Metadata conflict handling (not automatically handled by validate_and_combine_per_submission.py, you gotta add these as ignores if they aren't already in the ignore lists)
 Inconsistenies we truly do not care about:
 * Basically equivalent instrument models like "PacBio Revio" becoming "Revio"
 
