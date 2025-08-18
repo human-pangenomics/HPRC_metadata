@@ -19,14 +19,38 @@ manifest_file = "./AnVIL_transfer/logs_and_manifests/manifests_2025-08-12.csv"
 # 3) wrangled_sheets: Any arbitrary number of CSVs with other metadata, each with a `filename` column
 #    ---> In our case, these are the `__final.csv` files I made with corrected metadata and SRA accessions
 #    ---> All values for `filename` must be unique across all `wrangled_sheets` (script will throw err if dupes detected)
+# NOTE: THIS CURRENTLY INCLUDES SHEETS WITH METADATA THAT IS NOT VALIDATED, because we decided to deprioritize
+# metadata validation in favor of just getting SRA IDs processed.
 wrangled_sheets = [
+# Skipped: HIC_Y3_Y4_part2
 "../submissions/HPRC-OmniC-100124Pools/HPRC-OmniC-100124Pools_data_table__final.csv",
+# Skipped: HPRC-OmniC-100129Pools
+# Skipped: HPRC-OmniC-241217Pools
 "../submissions/HPRC_DEEPCONSENSUS_v1pt2/HPRC_DEEPCONSENSUS_v1pt2_data_table__final.csv",
-"../submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20__final.tsv",
-"../submissions/RU_Y3_HIFI/RU_Y3_HIFI_data_table__final.csv",
+"../submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20_data_table__final.csv",
+"../submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_data_table__final.csv",
+"../submissions/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run/HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run_data_table__final.csv",
+"../submissions/HPRC_PLUS_nanopore_misc_R2/HPRC_PLUS_nanopore_misc_R2_data_table__final.csv",
+"../submissions/RU_Y2_HIFI/RU_Y2_HIFI_data_table__final.csv",
 "../submissions/RU_Y2_topoff/RU_Y2_topoff_data_table__final.csv",
+"../submissions/RU_Y3_HIFI/RU_Y3_HIFI_data_table__final.csv",
+# Skipped: RU_Y3_topoff_redo
+"../submissions/RU_Y4/RU_Y4_data_table__final.csv",
+# Skipped: RU_Y5_Kinnex
+"../submissions/UCSC_HPRC_AMED_collaboration/UCSC_HPRC_AMED_collaboration_data_table__final.csv",
+"../submissions/UCSC_HPRC_nanopore_Year2/UCSC_HPRC_nanopore_Year2_data_table__final.csv",
+"../submissions/UCSC_HPRC_nanopore_Year2_R10/UCSC_HPRC_nanopore_Year2_R10_data_table__final.csv",
+# Skipped: UCSC_HPRC_nanopore_Year3
+"../submissions/UCSC_HPRC_nanopore_Year4/UCSC_HPRC_nanopore_Year4_data_table__final.csv",
+"../submissions/UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6/UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6_data_table__final.csv",
 "../submissions/UCSC_HPRC_PLUS_nanopore/UCSC_HPRC_PLUS_nanopore_data_table__final.csv",
+# Skipped: UCSC_HPRC_PLUS_nanopore_WashU
 "../submissions/UW_HPRC_HiFi_Y1/UW_HPRC_HiFi_Y1_data_table__final.csv",
+#"../submissions/UW_HPRC_HiFi_Y2/UW_HPRC_HiFi_Y2_data_table__final.csv",
+"../submissions/UW_HPRC_HiFi_Y3/UW_HPRC_HiFi_Y3_data_table__final.csv",
+"../submissions/UW_HPRC_HiFi_Y4_AND_Y3_Topoff/UW_HPRC_HiFi_Y4_AND_Y3_Topoff_data_table__final.csv",
+# Skipped: UW_HPRC_Y5_Kinnex
+"/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year1/WUSTL_HPRC_HiFi_Year1_post_sra_metadata__NOT_SUBREADS.tsv",
 "../submissions/WUSTL_HPRC_HiFi_Year4/WUSTL_HPRC_HiFi_Year4_data_table__final.csv"
 ]
 #
@@ -43,14 +67,13 @@ overrides = ['filetype']
 wrangled_vital_columns = ['accession', 'sample_ID'] # don't include `filename` here!
 wrangled_vital_columns.append('__index__filename')  # don't touch this line!!
 #
-# One last thing: You'll need my library Ranchero. Because I'm still playing with its details, Ranchero is
-# currently not pip-installable. You will need to `git clone` the entire repo from my (aofarrel) GitHub,
-# `pip install -r requirements.txt`, then add Ranchero's path here:
-ranchero_path = '/Users/aofarrel/github/Ranchero'
-import sys
-sys.path.insert(0, ranchero_path) 
-import src as Ranchero
-Ranchero.Configuration.set_config({"loglevel": 30})
+# One last thing: You'll need my library ranchero, via `pip install ranchero`
+try:
+	import ranchero
+except ImportError:
+	print("Could not import ranchero. Please pip install it!")
+
+ranchero.Configuration.set_config({"loglevel": 30})
 
 # TODO: allow user to select if they want left or right for conflicts
 # NOTE: You can use polars expressions to validate `manifest_s3_source` against `path` but you need to handle nulls properly
@@ -59,20 +82,20 @@ import os
 import polars as pl
 import polars.selectors as cs
 
-Ranchero.Configuration.set_config({"dupe_index_handling": 'verbose_error'})
+ranchero.Configuration.set_config({"dupe_index_handling": 'verbose_error'})
 zeroth_index_sheet = next(iter(index_sheets.items()))
-main_index = Ranchero.from_tsv(zeroth_index_sheet[1], index='filename', auto_standardize=False, auto_rancheroize=False)
+main_index = ranchero.from_tsv(zeroth_index_sheet[1], index='filename', auto_standardize=False, auto_rancheroize=False)
 main_index = main_index.with_columns(pl.lit(zeroth_index_sheet[0]).alias("index_sheet"))
 main_index = main_index.with_columns((~cs.string()).cast(pl.String)) # forces all columns into type str
 print(f"Processed {os.path.basename(zeroth_index_sheet[0])} into a {main_index.shape} dataframe")
 if len(index_sheets) > 1:
 	for sheet_name, sheet_path in list(index_sheets.items())[1:]:
-		another_index = Ranchero.from_tsv(sheet_path, index='filename', auto_standardize=False, auto_rancheroize=False)
+		another_index = ranchero.from_tsv(sheet_path, index='filename', auto_standardize=False, auto_rancheroize=False)
 		another_index = another_index.with_columns(pl.lit(sheet_name).alias("index_sheet"))
 		print(f"Processed {sheet_name} into a {another_index.shape} dataframe")
 		another_index = another_index.with_columns((~cs.string()).cast(pl.String)) # forces all columns into type str
 		main_index = pl.concat([main_index, another_index], how='align_full')
-		main_index = Ranchero.NeighLib.check_index(main_index, df_name='main')
+		main_index = ranchero.NeighLib.check_index(main_index, df_name='main')
 print(f"Combined all index_sheets into a {main_index.shape} dataframe.")
 if 'path' in main_index.columns:
 	main_index = main_index.with_columns(
@@ -84,42 +107,42 @@ if 'path' in main_index.columns:
 	print(f"Out of {main_index.shape[0]} files, {in_working.shape[0]} are in working")
 
 if manifest_file is not None:
-	Ranchero.Configuration.set_config({"dupe_index_handling": 'keep_most_data'})
-	manifest = Ranchero.from_tsv(manifest_file, delimiter=",", index='filename', auto_standardize=False, auto_rancheroize=False)
+	ranchero.Configuration.set_config({"dupe_index_handling": 'keep_most_data'})
+	manifest = ranchero.from_tsv(manifest_file, delimiter=",", index='filename', auto_standardize=False, auto_rancheroize=False)
 	print(f"Processed manifest file into a {manifest.shape} dataframe")
-	manifest = Ranchero.NeighLib.check_index(manifest, df_name='manifest')
-	main_index = Ranchero.merge_dataframes(main_index, manifest, merge_upon='__index__filename',
+	manifest = ranchero.NeighLib.check_index(manifest, df_name='manifest')
+	main_index = ranchero.merge_dataframes(main_index, manifest, merge_upon='__index__filename',
 		left_name='main', right_name='manifest', 
 		fallback_on_left=True) # any disrepencies (which should not happen) will fall back to the main_index
 	print(f"Merged main_index with manifest to create an index of shape {main_index.shape}")
-	Ranchero.dfprint(main_index.select(['__index__filename', 'accession', 'path', 'manifest_checksum', 'manifest_gs_path']))
+	ranchero.dfprint(main_index.select(['__index__filename', 'accession', 'path', 'manifest_checksum', 'manifest_gs_path']))
 	print("Rows without values for manifest_checksum:")
-	Ranchero.dfprint(
+	ranchero.dfprint(
 		main_index.filter(pl.col('manifest_gs_path').is_null())
-		.select(Ranchero.NeighLib.valid_cols(main_index, ['__index__filename', 'path', 'index_sheet', 'in_working'])), str_len=200
+		.select(ranchero.NeighLib.valid_cols(main_index, ['__index__filename', 'path', 'index_sheet', 'in_working'])), str_len=200
 	)
 
-Ranchero.Configuration.set_config({"dupe_index_handling": 'verbose_error'})
+ranchero.Configuration.set_config({"dupe_index_handling": 'verbose_error'})
 for wrangled_path in wrangled_sheets:
 	print(f"Processing {wrangled_path}...")
 	this_wrangled_name = os.path.basename(wrangled_path)
-	this_wrangled = Ranchero.from_tsv(wrangled_path, delimiter=",", index='filename', auto_standardize=False, auto_rancheroize=False)
+	this_wrangled = ranchero.from_tsv(wrangled_path, delimiter=",", index='filename', auto_standardize=False, auto_rancheroize=False)
 	if len(wrangled_vital_columns) != 0:
 		this_wrangled = this_wrangled.select(wrangled_vital_columns)
 	this_wrangled = this_wrangled.with_columns((~cs.string()).cast(pl.String)) # forces all columns into type str
-	Ranchero.kolumns.list_fallback_or_null = overrides
-	Ranchero.kolumns.list_throw_error = [x for x in this_wrangled.columns if x not in overrides]
-	main_index = Ranchero.merge_dataframes(main_index, this_wrangled, merge_upon='__index__filename',
+	ranchero.kolumns.list_fallback_or_null = overrides
+	ranchero.kolumns.list_throw_error = [x for x in this_wrangled.columns if x not in overrides]
+	main_index = ranchero.merge_dataframes(main_index, this_wrangled, merge_upon='__index__filename',
 		left_name='main', right_name=this_wrangled_name, 
 		fallback_on_left=False) # fallbacks (if allowed per kolumns) will fallback on right
 	print(f"Merged with {this_wrangled_name}")
 
 print("Finished.")
-Ranchero.dfprint(
-	main_index.select(Ranchero.NeighLib.valid_cols(main_index, 
+ranchero.dfprint(
+	main_index.select(ranchero.NeighLib.valid_cols(main_index, 
 		['__index__filename', 'accession', 'path', 'manifest_checksum', 'manifest_gs_path', "index_sheet", "in_working"])))
-Ranchero.to_tsv(main_index, "./all_files__all_gs__some_sra.tsv")
-Ranchero.to_tsv(main_index.select(Ranchero.NeighLib.valid_cols(main_index, 
+ranchero.to_tsv(main_index, "./all_files__all_gs__some_sra.tsv")
+ranchero.to_tsv(main_index.select(ranchero.NeighLib.valid_cols(main_index, 
 		['__index__filename', 'accession', 'path', 'manifest_checksum', 'manifest_gs_path', "index_sheet", "in_working"])),
 "./all_files__all_gs__some_sra__less_columns.tsv")
 

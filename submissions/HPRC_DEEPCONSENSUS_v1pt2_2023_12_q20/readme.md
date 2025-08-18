@@ -5,7 +5,6 @@ Wrangled CSV has 197 filenames (loss: 0)
 TSV has 197 filenames (loss: 0)
 
 Has some metadata conflicts:
-* ~~WashU / UWash inconsistency -- these are different universities in different states~~ Apparently this is fine?
 * Conflict in 'study' field indicate that this is HPRC data that got uploaded to the HPRC PLUS BioProject, or maybe vice versa?
 * Some samples submitted with 'second library prep' in notes field but this didn't get transferred over
 * Minor conflict in 'filetype' field (fastq/fastq.gz -- probably inconsequential)

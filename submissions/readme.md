@@ -41,14 +41,14 @@
 | RU_Y3_HIFI (RU_Y3?) | ❌ | ⚠️ | 94 | 95?! | 95?! | Found file in wrangled CSV that's not in submitted CSV | Rogue file + wrong PacBio machine (see readme) | RU_Y3_HIFI_data_table__final.csv |
 | RU_Y3_topoff | - | - | - | - | - | **Superceeded by RU_Y3_topoff_redo** | - | - |
 | RU_Y3_topoff_redo | ❌ | ❌ |  |  | Has the wrong data table CSV (same as the one in RU_Y3_topoff). Cannot validate until that's fixed. | | |
-| RU_Y4 | ⚠️🅰️ | ⚠️ | 192 | 96 | - |  | 'FIBERSEQ' got dropped from notes column | |
+| RU_Y4 | ⚠️🅰️ | ⚠️ | 192 | 96 | 96 | - | 'FIBERSEQ' got dropped from notes column | RU_Y4_data_table__final.csv |
 | RU_Y5_Kinnex | - | - | - | - | - | Deprioritized due to being transcriptomic | - | - |
 | UCSC_HPRC_AMED_collaboration | ✅ | ✅ | 44 | 44 | Ensure library_ID has `NA` names, not `GM` names | UCSC_HPRC_AMED_collaboration_data_table__final.csv | |
 | UCSC_HPRC_nanopore_Year2 | ❌ | ⚠️ | 350 | 175 | 350 | data table is missing half the data? | basecaller_version | UCSC_HPRC_nanopore_Year2/UCSC_HPRC_nanopore_Year2_data_table__final.csv |
 | UCSC_HPRC_nanopore_Year2_R10 | ❌ | ⚠️🅰️ | 206 | 103 | 103 | - | Inconsistencies: 'data_type', 'design_description' | UCSC_HPRC_nanopore_Year2_R10_data_table__final.csv |
 | UCSC_HPRC_nanopore_Year3 | ❌ | ❌ | - | - | - | **Stuck in SRA limbo, see readme** | - | - |
 | UCSC_HPRC_nanopore_Year4 | ✅ | ✅ | 388 | 388 | 388 | AWS transfer seems to be missing some files | - | UCSC_HPRC_nanopore_Year4_data_table__final.csv |
-| UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | 🅰️ | ✅ | 374 | 374 | Data table is missing >100 files, but we have a submission file for them. Ensure that our final data table is not missing these samples! |  | |
+| UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6 | 🅰️ | ✅ | 374 | 187 | 374 | Data table is missing >100 files, but we have a submission file for them. Ensure that our final data table is not missing these samples! |  | UCSC_HPRC_ONT_Y1_WTOPUP_GUPPY6_data_table__final.csv |
 | UCSC_HPRC_PLUS_nanopore | ⚠️ | ⚠️ | 129 | 43 | 43 |  design_description | UCSC_HPRC_PLUS_nanopore_data_table__final.csv |
 | UCSC_HPRC_PLUS_nanopore_WashU | ❌ | ❓ |  |  |  | |
 | UW_HPRC_HiFi_Y1 | ⚠️ | ⚠️ | 46 | 44?! | 46 | file mismatch (see readme), polymerase_version, notes | UW_HPRC_HiFi_Y1/UW_HPRC_HiFi_Y1_data_table__final.csv |
