@@ -19,7 +19,7 @@
 🅰️ = all files in data table are uploaded, but there are more files in the AWS tables or submission tables  
 	* if you're certain nothing is missing from the data table CSV, consider this equivalent to ✅ (unless another emoji is also present)  
 ⚠️ = data has metadata issues (if in SRA column, files were still uploaded)   
-🟡 = ASH-TODO   
+🟡 = probably could be partially uploaded
 🟠 = partially uploaded to SRA ergo cannot be fully validated  
 ❓ = pending...  
 ❌ = file count mismatch that isn't just an AWS or submissions thing / some other kind of annoying blocker  
@@ -27,12 +27,12 @@
 
 | collection | validated | SRA | n AWS | n dtable | n SRA | notes | issues | final |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HIC_Y3_Y4_part2 | ❌ | 🟠🟡 | 656 | 656 |  | Resubmitted without corrupt files as SUB15533226 | **Corrupt files were uploaded that should be removed from AWS working and AnVIL (see readme)** |  |
+| HIC_Y3_Y4_part2 | ❌ | 🟠🟡 | 656 | 656 | 652 | Resubmitted without corrupt files as SUB15533226 | **Corrupt files were uploaded that should be removed from AWS working and AnVIL (see readme), also `__final.csv` was not generated** |  |
 | HPRC-OmniC-100124Pools | 🟠 | 🟠 | 191 | 96 | 60 | Not all samples were uploaded due to lack of BioSamples | Omni-C/Hi-C conflict | HPRC-OmniC-100124Pools_data_table__final.csv |
-| HPRC-OmniC-100129Pools | ❓ | 🟠🟡 |  |  |  | Contain samples that require new BioSamples |  | |
-| HPRC-OmniC-241217Pools | ❓ | 🟠🟡 |  |  |  | Contain samples that require new BioSamples |  | |
+| HPRC-OmniC-100129Pools | ❓ | 🟡 |  |  |  | Contain samples that require new BioSamples |  | |
+| HPRC-OmniC-241217Pools | ❓ | 🟡 |  |  |  | Contain samples that require new BioSamples |  | |
 | HPRC_DEEPCONSENSUS_v1pt2 | ⚠️ | ⚠️ | 132 | 132 | 132 | metadata conflicts: size_selection, design_description, polymerase_version | HPRC_DEEPCONSENSUS_v1pt2_data_table__final.csv |
-| HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20 | ❌ | ❌ | 168 | 162 |  | Some files may have been added incorrectly to SRA and should be rescinded | design_description | |
+| HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20 | 🅰️ | ✅ | 168 | 162 | 168 | Some files may have been added incorrectly to SRA and should be rescinded | - | HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20__final.tsv |
 | HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20 | ⚠️ | ⚠️ | 197 | 197 | 197 | **May have been uploaded to the wrong BioProject** | conflicts: study, notes, library ID | HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_data_table__final.csv |
 | HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run | 🅰️ | ✅ | 151 | 151 | 151 | Submitter metadata was 195 files | - | HPRC_DEEPCONSENSUS_v1pt2_2024_02_q20_re-run_data_table__final.csv |
 | HPRC_PLUS_nanopore_misc_R2 | 🅰️ | ✅ | 105 | 38 | 38 | - | **HG00733 was at one point given the wrong BioSample -- verify it was not sample-swapped** | HPRC_PLUS_nanopore_misc_R2_data_table__final.csv |

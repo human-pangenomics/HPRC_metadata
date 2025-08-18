@@ -22,6 +22,7 @@ manifest_file = "./AnVIL_transfer/logs_and_manifests/manifests_2025-08-12.csv"
 wrangled_sheets = [
 "../submissions/HPRC-OmniC-100124Pools/HPRC-OmniC-100124Pools_data_table__final.csv",
 "../submissions/HPRC_DEEPCONSENSUS_v1pt2/HPRC_DEEPCONSENSUS_v1pt2_data_table__final.csv",
+"../submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20__final.tsv",
 "../submissions/RU_Y3_HIFI/RU_Y3_HIFI_data_table__final.csv",
 "../submissions/RU_Y2_topoff/RU_Y2_topoff_data_table__final.csv",
 "../submissions/UCSC_HPRC_PLUS_nanopore/UCSC_HPRC_PLUS_nanopore_data_table__final.csv",

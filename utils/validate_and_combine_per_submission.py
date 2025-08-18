@@ -7,7 +7,7 @@ allowed_wrangled_NCBI_conflicts = []
 submission_csv_is_actually_tsv = False
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False
-tsv_is_multi_file = True
+tsv_is_multi_file = False
 skip_index_validation = False
 # submission_csv_path: CSV directly from submitter (can be TSV, see below)
 # wrangled_csv_path:   Wrangled CSV "data table" (can be TSV, see below)
@@ -164,7 +164,7 @@ else:
 	raise ValueError(f"Can't figure out what the sample ID column is in merged dataframe. (Or multiple are present!) Columns: {merged.columns}")
 
 Ranchero.NeighLib.super_print_pl(
-	merged.select([merge_upon, sampleid, 'biosample_accession', 'accession', 'generator_facility']), 
+	merged.select([merge_upon, sampleid, 'accession', 'generator_facility']), 
 	"coolest columns in merged dataframe")
 
 # if we made it this far, write a final CSV

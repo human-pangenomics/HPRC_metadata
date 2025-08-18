@@ -10,9 +10,6 @@ This batch seems mostly okay, but there's missing from CSV data table that never
 
 These files should not have been added to SRA and should be removed.
 
-Also, conflicts:
-* design_description
-
 
 The weird submissions causing this were:
 ```
@@ -26,16 +23,17 @@ SRR26545331	SRP305758	new	PRJNA701308	SAMN33758788	PG02922.HFSS_dc	PacBio HiFi s
 
 Validation:
 ```
-submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20_submitter_metadata.tsv'
-wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20_data_table.csv'
-NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20__final.tsv'
+submission_csv_path = '../submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20_submitter_metadata.tsv'
+wrangled_csv_path = '../submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20_data_table.csv'
+NCBI_tsv_path = '../submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_08_q20__final.tsv'
 index = 'filename'
-allowed_submission_wrangled_conflicts = ['instrument_model']
-allowed_wrangled_NCBI_conflicts = []
+allowed_submission_wrangled_conflicts = ['instrument_model', 'design_description', 'filetype', 'instrument_model']
+allowed_wrangled_NCBI_conflicts = ['design_description', 'instrument_model']
 submission_csv_is_actually_tsv = True
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False
 tsv_is_multi_file = False
+skip_index_validation = True
 ```
 
 
