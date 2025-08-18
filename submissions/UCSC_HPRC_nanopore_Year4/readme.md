@@ -10,10 +10,10 @@ validation:
 ```
 submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year4/UCSC_HPRC_nanopore_Year4_data_table_GM->NA_swap.csv'
 wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year4/UCSC_HPRC_nanopore_Year4_data_table.csv'
-tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year4/metadata-14553482-processed-ok.tsv'
+NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year4/metadata-14553482-processed-ok.tsv'
 index = 'filename'
-allow_wrangled_to_conflict_with_submission_here = ['basecaller_model']
-overide_csv_with_tsv_in_these_columns = []
+allowed_submission_wrangled_conflicts = ['basecaller_model']
+allowed_wrangled_NCBI_conflicts = []
 submission_csv_is_actually_tsv = False
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False

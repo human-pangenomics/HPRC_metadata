@@ -105,10 +105,10 @@ Validation
 ```
 submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_submission_metadata.csv'
 wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20_data_table.csv'
-tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/metadata-14735462-processed-ok.tsv'
+NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2_2023_12_q20/metadata-14735462-processed-ok.tsv'
 index = 'filename'
-allow_wrangled_to_conflict_with_submission_here = ['library_ID', 'filetype', 'instrument_model']
-overide_csv_with_tsv_in_these_columns = ['library_ID', 'filetype']
+allowed_submission_wrangled_conflicts = ['library_ID', 'filetype', 'instrument_model']
+allowed_wrangled_NCBI_conflicts = ['library_ID', 'filetype']
 submission_csv_is_actually_tsv = False
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False

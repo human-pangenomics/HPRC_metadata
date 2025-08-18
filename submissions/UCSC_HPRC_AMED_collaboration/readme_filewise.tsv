@@ -5,10 +5,10 @@ validation
 # ⚠️You'll need to find-replace GM -> NA in the submission file first⚠️
 submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_AMED_collaboration/UCSC_HPRC_AMED_collaboration_submission_metadata.csv'
 wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_AMED_collaboration/UCSC_HPRC_AMED_collaboration_data_table.csv'
-tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_AMED_collaboration/metadata-15405441-processed-ok.tsv'
+NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_AMED_collaboration/metadata-15405441-processed-ok.tsv'
 index = 'filename'
-allow_wrangled_to_conflict_with_submission_here = ['library_ID', 'basecaller_model', 'generator_facility']
-overide_csv_with_tsv_in_these_columns = ['generator_facility']
+allowed_submission_wrangled_conflicts = ['library_ID', 'basecaller_model', 'generator_facility']
+allowed_wrangled_NCBI_conflicts = ['generator_facility']
 submission_csv_is_actually_tsv = False
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False

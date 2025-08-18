@@ -6,25 +6,26 @@
 #    ---> All values for `filename` must be unique across all `index_sheets` (script will throw err if dupes detected)
 # (This is a Python dictionary where the key is a shorthand unique name for a sheet and the value is its path)
 index_sheets = {
-"dc": "/Users/aofarrel/github/HPRC_metadata/utils/2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - dc.tsv",
-"hic": "/Users/aofarrel/github/HPRC_metadata/utils/2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - hic.tsv",
-"hifi": "/Users/aofarrel/github/HPRC_metadata/utils/2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - hifi.tsv",
-"kinnex": "/Users/aofarrel/github/HPRC_metadata/utils/2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - kinnex.tsv",
-"ont": "/Users/aofarrel/github/HPRC_metadata/utils/2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - ont.tsv",
-"ill": "/Users/aofarrel/github/HPRC_metadata/utils/2025-Aug-11_index_files/WORKING R2 Sequencing Data Index - ill.tsv"
+"dc": "./2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - dc.tsv",
+"hic": "./2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - hic.tsv",
+"hifi": "./2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - hifi.tsv",
+"kinnex": "./2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - kinnex.tsv",
+"ont": "./2025-Aug-07_index_files/WORKING R2 Sequencing Data Index - ont.tsv",
+"ill": "./2025-Aug-11_index_files/WORKING R2 Sequencing Data Index - ill.tsv"
 }
 # 2) manifest_file: One concatenated manifest CSV, which also has a `filename` column
 #    ---> In our case, that is a concatenation of summary information I gathered from the AnVIL file transfers
-manifest_file = "/Users/aofarrel/github/HPRC_metadata/utils/AnVIL_transfer/logs_and_manifests/manifests_2025-08-12.csv"
+manifest_file = "./AnVIL_transfer/logs_and_manifests/manifests_2025-08-12.csv"
 # 3) wrangled_sheets: Any arbitrary number of CSVs with other metadata, each with a `filename` column
 #    ---> In our case, these are the `__final.csv` files I made with corrected metadata and SRA accessions
 #    ---> All values for `filename` must be unique across all `wrangled_sheets` (script will throw err if dupes detected)
 wrangled_sheets = [
-"/Users/aofarrel/github/HPRC_metadata/submissions/HPRC-OmniC-100124Pools/HPRC-OmniC-100124Pools_data_table__final.csv",
-"/Users/aofarrel/github/HPRC_metadata/submissions/HPRC_DEEPCONSENSUS_v1pt2/HPRC_DEEPCONSENSUS_v1pt2_data_table__final.csv",
-"/Users/aofarrel/github/HPRC_metadata/submissions/RU_Y2_topoff/RU_Y2_topoff_data_table__final.csv",
-"/Users/aofarrel/github/HPRC_metadata/submissions/UW_HPRC_HiFi_Y1/UW_HPRC_HiFi_Y1_data_table__final.csv",
-"/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year1/WUSTL_HPRC_HiFi_Year1_post_sra_metadata__NOT_SUBREADS.tsv"
+"../submissions/HPRC-OmniC-100124Pools/HPRC-OmniC-100124Pools_data_table__final.csv",
+"../submissions/HPRC_DEEPCONSENSUS_v1pt2/HPRC_DEEPCONSENSUS_v1pt2_data_table__final.csv",
+"../submissions/RU_Y3_HIFI/RU_Y3_HIFI_data_table__final.csv",
+"../submissions/RU_Y2_topoff/RU_Y2_topoff_data_table__final.csv",
+"../submissions/UCSC_HPRC_PLUS_nanopore/UCSC_HPRC_PLUS_nanopore_data_table__final.csv",
+"../submissions/UW_HPRC_HiFi_Y1/UW_HPRC_HiFi_Y1_data_table__final.csv",
 ]
 #
 # The output will be a single TSV with merged information from all three of these sources, using these rules:
@@ -115,4 +116,8 @@ print("Finished.")
 Ranchero.dfprint(
 	main_index.select(Ranchero.NeighLib.valid_cols(main_index, 
 		['__index__filename', 'accession', 'path', 'manifest_checksum', 'manifest_gs_path', "index_sheet", "in_working"])))
+Ranchero.to_tsv(main_index, "./all_files__all_gs__some_sra.tsv")
+Ranchero.to_tsv(main_index.select(Ranchero.NeighLib.valid_cols(main_index, 
+		['__index__filename', 'accession', 'path', 'manifest_checksum', 'manifest_gs_path', "index_sheet", "in_working"])),
+"./all_files__all_gs__some_sra__less_columns.tsv")
 

@@ -29,10 +29,10 @@ validator
 ```
 submission_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year2/UCSC_HPRC_ONT_Y2_GUPPY6_Metadata_Submission.tsv'
 wrangled_csv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year2/UCSC_HPRC_nanopore_Year2_data_table.csv'
-tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year2/metadata-processed-ok-concat-redo.tsv'
+NCBI_tsv_path = '/Users/aofarrel/github/HPRC_metadata/submissions/UCSC_HPRC_nanopore_Year2/metadata-processed-ok-concat-redo.tsv'
 index = 'filename'
-allow_wrangled_to_conflict_with_submission_here = ['generator_facility']
-overide_csv_with_tsv_in_these_columns = []
+allowed_submission_wrangled_conflicts = ['generator_facility']
+allowed_wrangled_NCBI_conflicts = []
 submission_csv_is_actually_tsv = True
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False
