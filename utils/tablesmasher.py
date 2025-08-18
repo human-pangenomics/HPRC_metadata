@@ -50,8 +50,14 @@ wrangled_sheets = [
 "../submissions/UW_HPRC_HiFi_Y3/UW_HPRC_HiFi_Y3_data_table__final.csv",
 "../submissions/UW_HPRC_HiFi_Y4_AND_Y3_Topoff/UW_HPRC_HiFi_Y4_AND_Y3_Topoff_data_table__final.csv",
 # Skipped: UW_HPRC_Y5_Kinnex
-"/Users/aofarrel/github/HPRC_metadata/submissions/WUSTL_HPRC_HiFi_Year1/WUSTL_HPRC_HiFi_Year1_post_sra_metadata__NOT_SUBREADS.tsv",
+"../submissions/WUSTL_HPRC_HiFi_Year1/WUSTL_HPRC_HiFi_Year1_post_sra_metadata__NOT_SUBREADS.csv",
+"../submissions/WUSTL_HPRC_HiFi_Year1_TopUp/WUSTL_HPRC_HiFi_Year1_TopUp_data_table__final.csv",
+"../submissions/WUSTL_HPRC_HiFi_Year2/WUSTL_HPRC_HiFi_Year2_data_table__final.csv",
+"../submissions/WUSTL_HPRC_HiFi_Year2_TopUp/WUSTL_HPRC_HiFi_Year2_TopUp_data_table__final.csv",
+"../submissions/WUSTL_HPRC_HiFi_Year3/WUSTL_HPRC_HiFi_Year3_data_table__final.csv",
+"../submissions/WUSTL_HPRC_HiFi_Year3_TopUp/WUSTL_HPRC_HiFi_Year3_TopUp_data_table__final.csv",
 "../submissions/WUSTL_HPRC_HiFi_Year4/WUSTL_HPRC_HiFi_Year4_data_table__final.csv"
+# Skipped: WUSTL_HPRC_Y5_Kinnex
 ]
 #
 # The output will be a single TSV with merged information from all three of these sources, using these rules:
