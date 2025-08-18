@@ -27,6 +27,7 @@
 
 | collection | validated | SRA | n AWS | n dtable | n SRA | notes | issues | final |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| hic_add_to_index  | ❓ | ❓ |  |  |  | not started |  | |
 | HIC_Y3_Y4_part2 | ❌ | 🟠🟡 | 656 | 656 | 652 | Resubmitted without corrupt files as SUB15533226 | **Corrupt files were uploaded that should be removed from AWS working and AnVIL (see readme), also `__final.csv` was not generated** |  |
 | HPRC-OmniC-100124Pools | 🟠 | 🟠 | 191 | 96 | 60 | Not all samples were uploaded due to lack of BioSamples | Omni-C/Hi-C conflict | HPRC-OmniC-100124Pools_data_table__final.csv |
 | HPRC-OmniC-100129Pools | ❓ | 🟡 |  |  |  | Contain samples that require new BioSamples |  | |
@@ -75,7 +76,6 @@
 ## Missing
 Known R2 projects not in repo (not exhaustive):
 * HiC (all of these ones seem to already be on SRA)
-* add_to_index -- Ivo will add a new folder for this batch
 * HG00733_T2T_UW_HiFi_ONT
 * HPRC_REVIO_EA_2023
 * NISC_HiFi_TopUp_2022_with_5mC

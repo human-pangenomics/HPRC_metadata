@@ -13,7 +13,7 @@ NOTE: My understanding is that AnVIL files will be moved to another workspace on
 	* 41.part01.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam
 
 ## Files that MIGHT need to be retransferred
-* HG00738.m64043_210530_003337.dc.q20.fastq.gz: This one probably made it okay, but it looks like slurm got mad at me at the very end, see HPRC_metadata/utils/AnVIL_transfer/s3_transfer_10006226_198.log
+* HG00738.m64043_210530_003337.dc.q20.fastq.gz: This one probably made it okay, but it looks like slurm got mad at me at the very end, see `s3_transfer_10006226_198.log`
 
 ## Process:
 0. LOCAL: `pip install polars tqdm` for python scripts 
@@ -25,7 +25,7 @@ NOTE: My understanding is that AnVIL files will be moved to another workspace on
 5. PHOENIX: `s3_to_gcs_transfer.slurm` (see instructions in that file for args)
 	* This has a hardcoded outpath: `/private/groups/migalab/ash/DO_NOT_DELETE/transfer_manifests`
 6. PHOENIX: `summarize_logs.sh [output_summary_filename]` in the dir where all the logs got dumped
-	* This grabs all files in the workdir that end in *.log so if there are logs you already parsed in there... move 'em
+	* This grabs all files in the workdir that end in `*.log` so if there are logs you already parsed in there... move 'em
 	* Please be aware that this is script is EXTREMELY slow and could take over an hour to run
 --> If anything bugs out:
 	* `python3 create_inputs_from_logged_failures.py [input tsv (from step 2, should have no header)] [summarized log (from step 6)]`

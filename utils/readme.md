@@ -1,7 +1,16 @@
 ## HPRC_metadata/utils
 
-This is a dumping ground for data wrangling scripts.
+This is a dumping ground for data wrangling scripts. To run the python scripts, it is recommended to do the following (assuming `/utils/` is your workdir)
+```
+python -m venv ./ashvenv
+source ashvenv/bin/activate
+pip install ranchero
+```
+#### AnVIL_transfer
+See that folder's readme for more information
 
+### SRA_transfer
+Scripts/Files relating to the SRA transfer -- please be aware that `did_I_already_put_that_on_SRA.py` may not be completely accurate due to SRA sometimes changing filenames in XML outputs
 
 #### boneless_tree.sh
 Silly little bash one-liner that mimics `tree` on systems that have coreutils but not `tree` 

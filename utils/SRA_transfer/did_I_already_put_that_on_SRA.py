@@ -6,11 +6,7 @@
 
 import sys
 import polars as pl
-
-# ranchero isn't pip-installable yet so this is a goofy workaround for importing it
-ranchero_path = '/Users/aofarrel/github/Ranchero'
-sys.path.insert(0, ranchero_path) 
-import src as Ranchero
+import ranchero as Ranchero
 
 if len(sys.argv) == 4:
 	if sys.argv[3] not in ['-v', '-verbose', '--verbose']:
