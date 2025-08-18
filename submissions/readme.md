@@ -7,7 +7,7 @@
  * A `__final.csv` representing the final please-don't-touch-this metadata
  * A folder-level readme.md file with any relevant notes and a few lines that can be copy-pasted into the validator script for an immediate run (see below)
 
- There is a script in utils/ designed to validate metadata tables from simple column/sample swaps. It uses Ash's ranchero library, which is essentially a wrapper for python-polars. Currently, ranchero cannot be pip installed; you will need to `git clone https://github.com/aofarrel/ranchero.git` in order to import its src/ directory.
+ There is a script in utils/ designed to validate metadata tables from simple column/sample swaps. It uses Ash's ranchero library, which is essentially a wrapper for python-polars. Currently, ranchero cannot be pip installed; you will need to `git clone https://github.com/aofarrel/ranchero.git` in order to import its src/ directory. Instructions for running it can be found in `utils/readme.md` and the script itself.
 
 
 ## Progress table
@@ -52,14 +52,14 @@
 | UCSC_HPRC_PLUS_nanopore | ⚠️ | ⚠️ | 129 | 43 | 43 |  design_description | UCSC_HPRC_PLUS_nanopore_data_table__final.csv |
 | UCSC_HPRC_PLUS_nanopore_WashU | ❌ | ❓ |  |  |  | |
 | UW_HPRC_HiFi_Y1 | ⚠️ | ⚠️ | 46 | 44?! | 46 | file mismatch (see readme), polymerase_version, notes | UW_HPRC_HiFi_Y1/UW_HPRC_HiFi_Y1_data_table__final.csv |
-| UW_HPRC_HiFi_Y2 | ❌ | 🅰️ |  |  | | **might be double-uploaded** | UW_HPRC_HiFi_Y2_data_table__final.csv |
-| UW_HPRC_HiFi_Y3 | ❌ | ⚠️🅰️ | 278 | 91 | 91 | possible SRA name change but now I don't think so | | |
+| UW_HPRC_HiFi_Y2 | 🅰️ | ✅ | 82 | 80 | 80 | **might be double-uploaded? see readme** | UW_HPRC_HiFi_Y2_data_table__final.csv |
+| UW_HPRC_HiFi_Y3 | 🅰️ | ⚠️ | 278 | 91 | 91 | possible SRA name change but now I don't think so | | |
 | UW_HPRC_HiFi_Y4_AND_Y3_Topoff | 🅰️ | ✅ | 848 | 212 | Massive file count mismatch |  | UW_HPRC_HiFi_Y4_AND_Y3_Topoff_data_table__final.csv |
-| UW_HPRC_Y5_Kinnex | - | - | 94 | - | Deprioritized due to being transcriptomic | | |
+| UW_HPRC_Y5_Kinnex | - | - | 94 | - | Deprioritized due to being transcriptomic | - | - |
 | WUSTL_HPRC_HiFi_Year1 | ❌ | ✅ | 160 | 80 | 80 | **Subreads were submitted to SRA, see readme** | not checked, see readme | WUSTL_HPRC_HiFi_Year1_post_sra_metadata__NOT_SUBREADS.tsv |
 | WUSTL_HPRC_HiFi_Year1_TopUp | ✅ | ✅ | 72 | 36 | 36 |36 | - | - | WUSTL_HPRC_HiFi_Year1_TopUp_data_table__final.csv | 
 | WUSTL_HPRC_HiFi_Year2 | 🅰️ | ⚠️ | 178 | 89 | 89 | had a sus post_sra TSV, decided to ignore it | **`ccs_algorithm` goes from 6.0.0 to what looks like a boneless DOI; was a column shifted?** also issues in polymerase_version and notes | WUSTL_HPRC_HiFi_Year2_data_table__final.csv |
-| WUSTL_HPRC_HiFi_Year2_TopUp | ✅ | ✅ | 110 | 55 | 55 | - | - | WUSTL_HPRC_HiFi_Year2_TopUp/WUSTL_HPRC_HiFi_Year2_TopUp_data_table__final.csv |
+| WUSTL_HPRC_HiFi_Year2_TopUp | ✅ | ✅ | 110 | 55 | 55 | - | - | WUSTL_HPRC_HiFi_Year2_TopUp_data_table__final.csv |
 | WUSTL_HPRC_HiFi_Year3 | ❓ | ❓ |  |  |  | Seems to have been a name change when uploaded to SRA? | | |
 | WUSTL_HPRC_HiFi_Year3_TopUp | ✅ | ✅ | 102 | 51 | 51 | libray IDs were changed | - | WUSTL_HPRC_HiFi_Year3_TopUp/WUSTL_HPRC_HiFi_Year3_TopUp_data_table__final.csv |
 | WUSTL_HPRC_HiFi_Year4 | 🅰️ | ✅ | 195 | 97 | 97 | library IDs were changed | - | WUSTL_HPRC_HiFi_Year4_data_table__final.csv |
