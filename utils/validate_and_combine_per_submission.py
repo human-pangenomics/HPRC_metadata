@@ -8,7 +8,6 @@ submission_csv_is_actually_tsv = False
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False
 tsv_is_multi_file = False
-ranchero_path = '/Users/aofarrel/github/Ranchero'
 # submission_csv_path: CSV directly from submitter (can be TSV, see below)
 # wrangled_csv_path:   Wrangled CSV "data table" (can be TSV, see below)
 # NCBI_tsv_path:       The "metadata-XXXXXXXX-processed-ok" TSV from NCBI after a submission is fully processed
@@ -22,16 +21,18 @@ ranchero_path = '/Users/aofarrel/github/Ranchero'
 # wrangled_csv_is_actually_tsv:      Read `wrangled_csv_path` as if it were a TSV
 # wrangled_csv_can_lack_library_id:  Allow wrangled CSV to not have a library_id column
 # tsv_is_multi_file:                 Set this if TSV has multiple files per line (like paired illumina reads)
-# ranchero_path:                     Path to Ash's ranchero library (github.com/aofarrel/ranchero)
 
 import os
 import sys
-import polars as pl
-
-# ranchero isn't pip-installable yet so this is a goofy workaround for importing it
-if not os.path.isdir(ranchero_path): raise ImportError(f"You set ranchero_path to {ranchero_path} but that doesn't exist!")
-sys.path.insert(0, ranchero_path)
-import src as Ranchero
+try:
+	import ranchero as Ranchero
+except ImportError:
+	print("Failed to import ranchero. Run `pip install ranchero` (preferably in a Python venv).")
+	print("If it still doesn't import, kick Ash until he fixes it.")
+try:
+	import polars as pl
+except ImportError:
+	print("Somehow imported ranchero, but not polars? This should never happen.")
 
 # read metadata files
 if submission_csv_is_actually_tsv:
