@@ -1,0 +1,4 @@
+aws s3api delete-objects \
+  --bucket human-pangenomics \
+  --delete file://R941_tar_delete_HPRC_Y1_TopUp.json \
+  --output json > R941_tar_delete_HPRC_Y1_TopUp_log.json
