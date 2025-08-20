@@ -57,7 +57,7 @@ Not exhaustive:
 | RU_Y2_topoff | 🅰️ | ✅ | 29 | 56 | 7 | - | - | RU_Y2_topoff__final.csv |
 | RU_Y3_HIFI (RU_Y3?) | ❌ | ⚠️ | 94 | 95?! | 95?! | Found file in wrangled CSV that's not in submitted CSV | Rogue file + wrong PacBio machine (see readme) | RU_Y3_HIFI_data_table__final.csv |
 | RU_Y3_topoff | - | - | - | - | - | **Superceeded by RU_Y3_topoff_redo** | - | - |
-| RU_Y3_topoff_redo | ❌ | ❌ |  |  | Has the wrong data table CSV (same as the one in RU_Y3_topoff). Cannot validate until that's fixed. | | |
+| RU_Y3_topoff_redo | ✅ | ✅ | 76 | 38 | 38 | - | - | RU_Y3_topoff_redo_data_table__final.csv | 
 | RU_Y4 | ⚠️🅰️ | ⚠️ | 192 | 96 | 96 | - | 'FIBERSEQ' got dropped from notes column | RU_Y4_data_table__final.csv |
 | RU_Y5_Kinnex | - | - | - | - | - | Deprioritized due to being transcriptomic | - | - |
 | UCSC_HPRC_AMED_collaboration | ✅ | ✅ | 44 | 44 | Ensure library_ID has `NA` names, not `GM` names | UCSC_HPRC_AMED_collaboration_data_table__final.csv | |
@@ -84,7 +84,7 @@ Not exhaustive:
 
 For brave souls who are willing to have **unverified** metadata on their final data table but just want those SRA accessions, look here (or the output of ../utils/tablesmasher.py)
 ```
-# Skipped: HIC_Y3_Y4_part2
+"../submissions/HIC_Y3_Y4_part2/HIC_Y3_Y4_part2_data_table__final.csv",
 "../submissions/HPRC-OmniC-100124Pools/HPRC-OmniC-100124Pools_data_table__final.csv",
 # Skipped: HPRC-OmniC-100129Pools
 # Skipped: HPRC-OmniC-241217Pools
@@ -96,7 +96,7 @@ For brave souls who are willing to have **unverified** metadata on their final d
 "../submissions/RU_Y2_HIFI/RU_Y2_HIFI_data_table__final.csv",
 "../submissions/RU_Y2_topoff/RU_Y2_topoff_data_table__final.csv",
 "../submissions/RU_Y3_HIFI/RU_Y3_HIFI_data_table__final.csv",
-# Skipped: RU_Y3_topoff_redo
+"../submissions/RU_Y3_topoff_redo/RU_Y3_topoff_redo_data_table__final.csv",
 "../submissions/RU_Y4/RU_Y4_data_table__final.csv",
 # Skipped: RU_Y5_Kinnex
 "../submissions/UCSC_HPRC_AMED_collaboration/UCSC_HPRC_AMED_collaboration_data_table__final.csv",

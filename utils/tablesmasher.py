@@ -34,7 +34,7 @@ wrangled_sheets = [
 "../submissions/RU_Y2_HIFI/RU_Y2_HIFI_data_table__final.csv",
 "../submissions/RU_Y2_topoff/RU_Y2_topoff_data_table__final.csv",
 "../submissions/RU_Y3_HIFI/RU_Y3_HIFI_data_table__final.csv",
-# Skipped: RU_Y3_topoff_redo
+"../submissions/RU_Y3_topoff_redo/RU_Y3_topoff_redo_data_table__final.csv",
 "../submissions/RU_Y4/RU_Y4_data_table__final.csv",
 # Skipped: RU_Y5_Kinnex
 "../submissions/UCSC_HPRC_AMED_collaboration/UCSC_HPRC_AMED_collaboration_data_table__final.csv",
@@ -143,6 +143,7 @@ for wrangled_path in wrangled_sheets:
 		fallback_on_left=False) # fallbacks (if allowed per kolumns) will fallback on right
 	print(f"Merged with {this_wrangled_name}")
 
+ranchero.Configuration.set_config({"loglevel": 40})
 print("Final dataframe (truncated in this view):")
 ranchero.dfprint(
 	main_index.select(ranchero.NeighLib.valid_cols(main_index, 
@@ -151,7 +152,7 @@ ranchero.to_tsv(main_index, "./all_files__all_gs__some_sra.tsv")
 ranchero.to_tsv(main_index.select(ranchero.NeighLib.valid_cols(main_index, 
 		['__index__filename', 'accession', 'path', 'manifest_checksum', 'manifest_gs_path', "index_sheet", "in_working"])),
 "./all_files__all_gs__some_sra__less_columns.tsv")
-print("\n\nStats:")
+print("\nStats:")
 pl.Config.set_tbl_hide_dataframe_shape(True)
 in_any_index_sheet = main_index.filter(pl.col('index_sheet').is_not_null())
 not_in_any_index_sheet = main_index.filter(pl.col('index_sheet').is_null())
@@ -163,7 +164,7 @@ if not_in_any_index_sheet.shape[0] > 0:
         ranchero.dfprint(not_in_any_index_sheet.select(pl.col('collection').value_counts(sort=True)), rows=500, str_len=150, width=160)
         ranchero.to_tsv(not_in_any_index_sheet, "./not_in_any_index_sheet.tsv")
         print("All other stats below EXCLUDE these not-in-any-member-of-index_sheets oddities.")
-print(f"For all {in_any_index_sheet.shape[0]} files (fqs, bams, etc) within any member of index_sheets:")
+print(f"\nFor all {in_any_index_sheet.shape[0]} files (fqs, bams, etc) within any member of index_sheets:")
 print(f"* {in_any_index_sheet.filter(pl.col('in_working')).shape[0]} are in working (as of when the index sheets were pulled down from Google Sheets)")
 print(f"  * Of which {in_any_index_sheet.filter(pl.col('in_working')).filter(pl.col('manifest_gs_path').is_not_null()).shape[0]} made it onto AnVIL")
 print(f"* {in_any_index_sheet.filter(pl.col('accession').is_not_null()).shape[0]} have an NCBI SRA accession")
