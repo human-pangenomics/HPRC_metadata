@@ -1,13 +1,13 @@
-submission_csv_path = '../submissions/WUSTL_HPRC_HiFi_Year3/WUSTL_HPRC_HiFi_Year3_data_table.csv'
-wrangled_csv_path = '../submissions/WUSTL_HPRC_HiFi_Year3/WUSTL_HPRC_HiFi_Year3_data_table.csv'
-NCBI_tsv_path = '../submissions/WUSTL_HPRC_HiFi_Year3/metadata-12876517-processed-ok.tsv'
+submission_csv_path = ''
+wrangled_csv_path = ''
+NCBI_tsv_path = ''
 index = 'filename'
 allowed_submission_wrangled_conflicts = []
 allowed_wrangled_NCBI_conflicts = []
 submission_csv_is_actually_tsv = False
 wrangled_csv_is_actually_tsv = False
 wrangled_csv_can_lack_library_id = False
-tsv_is_multi_file = True
+tsv_is_multi_file = False
 skip_index_validation = False
 # submission_csv_path: CSV directly from submitter (can be TSV, see below)
 # wrangled_csv_path:   Wrangled CSV "data table" (can be TSV, see below)
@@ -95,7 +95,7 @@ if 'library_name' != index and 'library_id' != index and 'library_ID' != index:
 
 print(f"Submission CSV has {submission.shape[0]} {index}s")
 print(f"Wrangled CSV has {wrangled.shape[0]} {index}s (loss: {submission.shape[0] - wrangled.shape[0]})")
-print(f"TSV has {tsv.shape[0]} {index}s (loss: {tsv.shape[0] - tsv.shape[0]})")
+print(f"TSV has {tsv.shape[0]} {index}s (loss: {wrangled.shape[0] - tsv.shape[0]})")
 
 if not skip_index_validation:
 	assert tsv.shape[0] == wrangled.shape[0]

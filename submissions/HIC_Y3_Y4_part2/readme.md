@@ -14,8 +14,9 @@ Process:
 4. Oops, some files are bad (SUB15335177)
 5. Remove bad files from HIC_Y3_Y4_part2_sra.tsv
 6. Resubmitted HIC_Y3_Y4_part2_sra.tsv (SUB15533226)
-7. Got `metadata-15533226-processed-ok-no_path_in_filenames.tsv` from SRA, which references each file's full s3 path
+7. Got `metadata-15533226-processed-ok.tsv` from SRA, which references each file's full s3 path
 8. Created `metadata-15533226-processed-ok-no_path_in_filenames.tsv` which does NOT reference each file's full s3 path in order to make the validation script happy
+9. Change everything's `sample_ID` to `sample_id` (except `metadata-15533226-processed-ok.tsv`) for consistency with other scripts
 
 Conflicts: `library_strategy`
 
