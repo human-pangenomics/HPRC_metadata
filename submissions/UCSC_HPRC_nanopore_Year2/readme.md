@@ -1,4 +1,4 @@
-## UCSC_HPRC_nanopore_Year2
+## UCSC_HPRC_nanopore_Year2 (aka UCSC_HPRC_ONT_Y2_GUPPY6)
 
 Removed trailing six tabs from UCSC_HPRC_ONT_Y2_GUPPY6_Metadata_Submission.tsv
 
