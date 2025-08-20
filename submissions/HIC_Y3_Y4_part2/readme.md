@@ -14,6 +14,8 @@ Process:
 4. Oops, some files are bad (SUB15335177)
 5. Remove bad files from HIC_Y3_Y4_part2_sra.tsv
 6. Resubmitted HIC_Y3_Y4_part2_sra.tsv (SUB15533226)
+7. Got `metadata-15533226-processed-ok-no_path_in_filenames.tsv` from SRA, which references each file's full s3 path
+8. Created `metadata-15533226-processed-ok-no_path_in_filenames.tsv` which does NOT reference each file's full s3 path in order to make the validation script happy
 
 Conflicts: `library_strategy`
 
@@ -21,7 +23,7 @@ Validation **warning: even after you fix library_strategy this will still result
 ```
 submission_csv_path = '../submissions/HIC_Y3_Y4_part2/HIC_Y3_Y4_part2_submission_metadata.csv'
 wrangled_csv_path = '../submissions/HIC_Y3_Y4_part2/HIC_Y3_Y4_part2_data_table.csv'
-NCBI_tsv_path = '../submissions/HIC_Y3_Y4_part2/metadata-15533226-processed-ok.tsv'
+NCBI_tsv_path = '../submissions/HIC_Y3_Y4_part2/metadata-15533226-processed-ok-no_path_in_filenames.tsv'
 index = 'filename'
 allowed_submission_wrangled_conflicts = ['library_source', 'generator_facility']
 allowed_wrangled_NCBI_conflicts = ['library_source']
