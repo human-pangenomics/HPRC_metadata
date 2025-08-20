@@ -22,7 +22,7 @@ manifest_file = "./AnVIL_transfer/logs_and_manifests/manifests_2025-08-12.csv"
 # NOTE: THIS CURRENTLY INCLUDES SHEETS WITH METADATA THAT IS NOT VALIDATED, because we decided to deprioritize
 # metadata validation in favor of just getting SRA IDs processed.
 wrangled_sheets = [
-# Skipped: HIC_Y3_Y4_part2
+"../submissions/HIC_Y3_Y4_part2/HIC_Y3_Y4_part2_data_table__final.csv",
 "../submissions/HPRC-OmniC-100124Pools/HPRC-OmniC-100124Pools_data_table__final.csv",
 # Skipped: HPRC-OmniC-100129Pools
 # Skipped: HPRC-OmniC-241217Pools
@@ -152,6 +152,7 @@ ranchero.to_tsv(main_index.select(ranchero.NeighLib.valid_cols(main_index,
 		['__index__filename', 'accession', 'path', 'manifest_checksum', 'manifest_gs_path', "index_sheet", "in_working"])),
 "./all_files__all_gs__some_sra__less_columns.tsv")
 print("\n\nStats:")
+pl.Config.set_tbl_hide_dataframe_shape(True)
 in_any_index_sheet = main_index.filter(pl.col('index_sheet').is_not_null())
 not_in_any_index_sheet = main_index.filter(pl.col('index_sheet').is_null())
 
