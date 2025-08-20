@@ -8,6 +8,9 @@ pip install ranchero
 ```
 One of Ranchero's prereqs, polars, occasionally changes how it handles null values with new releases. Ranchero relies on consistent handling of nulls, so it attempts to force one specific version of polars upon install, which is why you *really* should use a venv like shown here rather than any other installation method.
 
+### utils/2025-Aug-07_index_files and utils/2025-Aug-11_index_files
+R2 index files from the R2 Google Sheets workbook, used by tablesmasher (see below). The date of the folder represents the date I pulled the files from Google Sheets. **Please do not update/replace these files without also updating the datestamp.**
+
 ### utils/AnVIL_transfer
 See that folder's readme for more information
 
