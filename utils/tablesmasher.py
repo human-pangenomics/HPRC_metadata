@@ -73,7 +73,7 @@ overrides = ['filetype']
 wrangled_vital_columns = ['accession', 'sample_ID'] # don't include `filename` here!
 wrangled_vital_columns.append('__index__filename')  # don't touch this line!!
 #
-# One last thing: You'll need my library ranchero, via `pip install ranchero`
+# One last thing: You'll need my library ranchero, via `pip install ranchero` (preferably in a venv)
 try:
 	import ranchero
 except ImportError:
@@ -143,7 +143,7 @@ for wrangled_path in wrangled_sheets:
 		fallback_on_left=False) # fallbacks (if allowed per kolumns) will fallback on right
 	print(f"Merged with {this_wrangled_name}")
 
-print("Finished.")
+print("Final dataframe (truncated in this view):")
 ranchero.dfprint(
 	main_index.select(ranchero.NeighLib.valid_cols(main_index, 
 		['__index__filename', 'accession', 'path', 'manifest_checksum', 'manifest_gs_path', "index_sheet", "in_working"])))
@@ -151,4 +151,24 @@ ranchero.to_tsv(main_index, "./all_files__all_gs__some_sra.tsv")
 ranchero.to_tsv(main_index.select(ranchero.NeighLib.valid_cols(main_index, 
 		['__index__filename', 'accession', 'path', 'manifest_checksum', 'manifest_gs_path', "index_sheet", "in_working"])),
 "./all_files__all_gs__some_sra__less_columns.tsv")
+print("\n\nStats:")
+in_any_index_sheet = main_index.filter(pl.col('index_sheet').is_not_null())
+not_in_any_index_sheet = main_index.filter(pl.col('index_sheet').is_null())
+
+if not_in_any_index_sheet.shape[0] > 0:
+        print(f"WARNING: Found {not_in_any_index_sheet.shape[0]} files not referenced in any member of index_sheets -- these files may represent renames, files for future releases, etc...")
+        print("They will be saved as not_in_index_sheets.tsv")
+        print("Here's where they came from:")
+        ranchero.dfprint(not_in_any_index_sheet.select(pl.col('collection').value_counts(sort=True)), rows=500, str_len=150, width=160)
+        ranchero.to_tsv(not_in_any_index_sheet, "./not_in_any_index_sheet.tsv")
+        print("All other stats below EXCLUDE these not-in-any-member-of-index_sheets oddities.")
+print(f"For all {in_any_index_sheet.shape[0]} files (fqs, bams, etc) within any member of index_sheets:")
+print(f"* {in_any_index_sheet.filter(pl.col('in_working')).shape[0]} are in working (as of when the index sheets were pulled down from Google Sheets)")
+print(f"  * Of which {in_any_index_sheet.filter(pl.col('in_working')).filter(pl.col('manifest_gs_path').is_not_null()).shape[0]} made it onto AnVIL")
+print(f"* {in_any_index_sheet.filter(pl.col('accession').is_not_null()).shape[0]} have an NCBI SRA accession")
+no_ncbi_accession = in_any_index_sheet.filter(pl.col('accession').is_null())
+if 'production' in no_ncbi_accession.columns:
+        print(f"The {no_ncbi_accession.shape[0]} ones that are in an index_sheet, but do not have an NCBI accession, have these values for production (this might help you find 'collections' that aren't in the HPRC metadata repo or are problematic)")
+        ranchero.dfprint(no_ncbi_accession.select(pl.col("production").value_counts(sort=True)), rows=500, str_len=150, width=160)
+print("Finished.")
 
