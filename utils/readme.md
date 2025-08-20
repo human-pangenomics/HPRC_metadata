@@ -1,24 +1,48 @@
 ## HPRC_metadata/utils
 
-This is a dumping ground for data wrangling scripts. To run the python scripts, it is recommended to do the following (assuming `/utils/` is your workdir)
+This is a dumping ground for data wrangling scripts. To run the python scripts, you're going to need Ash's [Ranchero](https://github.com/aofarrel/ranchero) library. The best way to install it is in a venv:
 ```
 python -m venv ./ashvenv
 source ashvenv/bin/activate
 pip install ranchero
 ```
-#### AnVIL_transfer
+One of Ranchero's prereqs, polars, occasionally changes how it handles null values with new releases. Ranchero relies on consistent handling of nulls, so it attempts to force one specific version of polars upon install, which is why you *really* should use a venv like shown here rather than any other installation method.
+
+### utils/AnVIL_transfer
 See that folder's readme for more information
 
-### SRA_transfer
+### utils/SRA_transfer
 Scripts/Files relating to the SRA transfer -- please be aware that `did_I_already_put_that_on_SRA.py` may not be completely accurate due to SRA sometimes changing filenames in XML outputs
 
-#### boneless_tree.sh
+### utils/boneless_tree.sh
 Silly little bash one-liner that mimics `tree` on systems that have coreutils but not `tree` 
 
-#### tablesmasher.py
+#### utils/all_files__all_gs__some_sra.tsv
+File created by tablesmasher.py (see below). This contains most column fields from metadata fields from AnVIL, index tables from Google Sheets, and the SRA accessions. Due to wrangled metadata fields in this repo being known to have errors that we didn't get around to correcting (due to an urgent need to get SRA accessions merged with the main index data tables; see ../submissions/readme for more info) this doesn't include non-SRA-accession metadata from the wrangled so-called `__final.csv` sheets, although tablesmasher.py has an easy to use option to include those too if you'd like.
+
+#### utils/all_files__all_gs__some_sra__less_columns.tsv
+File created by tablesmasher.py (see below). This contains only these columns:
+* the filename (`__index__filename`)
+* SRA accession
+* S3 path
+* AWS checksum
+* AnVIL gs path (as of 2025-08-29, be aware they may be moved to another bucket later)\
+* which R2 index google sheet the file is from
+* if the file is in working (as of when the R2 index sheets were pulled, which are included in this repo with datestamps)
+
+Note that tablesmasher thinks some of these `__final.csv` files aren't in any of the R2 index sheets!
+```
+Processing ../submissions/HPRC-OmniC-100124Pools/HPRC-OmniC-100124Pools_data_table__final.csv...
+WARNING:merge_polars_dataframes:No values in __index__filename are shared across the dataframes -- merge can continue, but no rows in HPRC-OmniC-100124Pools_data_table__final.csv will merge with existing rows in main
+[...]
+Processing ../submissions/UCSC_HPRC_nanopore_Year2_R10/UCSC_HPRC_nanopore_Year2_R10_data_table__final.csv...
+WARNING:merge_polars_dataframes:No values in __index__filename are shared across the dataframes -- merge can continue, but no rows in UCSC_HPRC_nanopore_Year2_R10_data_table__final.csv will merge with existing rows in main
+```
+
+#### utils/tablesmasher.py
 Python script for combining various data tables. Has detailed instructions for running it in the script itself. If you run it as-is without any edits, it will combine the R2 index tables with the `__final.csv` tables (which have SRA accessions) and a manifest file with information from the AnVIL transfers. However, I tried to write the script so it could be useful for future releases too.
 
-#### validate_and_combine_per_submission.py (formerly validate_data_tables.py)
+#### utils/validate_and_combine_per_submission.py (formerly validate_data_tables.py)
 This script has eleven lines at the beginning that you'll need to fill in per submission folder you want to validate. Inline comments just below this block explain what each of the eleven lines do. This sounds annoying, but it's worth it, since you usually only need to fill in three of them. In fact, for submissions Ash wrangled, you don't even need to do that -- every submission Ash wrangled has a readme.md file with the first ten lines filled in (the 11th is the path to Ranchero, which will vary per machine) so you can just copy-paste them into the script directly.
 
 This script does two things:
