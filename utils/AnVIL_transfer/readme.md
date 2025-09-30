@@ -34,16 +34,12 @@ NOTE: My understanding is that AnVIL files will be moved to another workspace on
 7. PHEONIX: Once you have everything transferred, cat all your manifest files that are in `/private/groups/migalab/ash/DO_NOT_DELETE/transfer_manifests` -- be aware the first 30ish have a different pattern and the others will repeat the header, so you'll want to make some quick edits with awk (or a proper text editor)
 
 
+## Old notes which may or may not be relevant
 Todo:
 * the logs (not the summaries!) are comically oversized and should be deleted from /private/groups/migalab/ash/logs_* to save space, once we have confirmed all is well
 
 Archive notes:
 * KINNEX_straggler exists due to goofing up an ARRAY_SIZE
-
-
-
-
-
 
 There may be some files that on the DC sheet and the HIFI sheet with the same filename, but are in different S3 paths? check this isn't a column mixup on my end
 * s3://human-pangenomics/working/HPRC/HG01361/raw_data/PacBio_HiFi/deepconsensus/v1pt2/HG01361.m54329U_200311_082605.dc.q20.fastq.gz
