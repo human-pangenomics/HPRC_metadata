@@ -17,7 +17,7 @@ NOTE: My understanding is that AnVIL files will be moved to another workspace on
 
 ## Process:
 0. LOCAL: `pip install polars tqdm` for python scripts, and install aws CLI too (no need to authenticate it) 
-	* if you also use [ranchero](github.com/aofarrel/ranchero), but did not install in a venv, skip this step -- ranchero already installed those (and if you reinstall polars ranchero might break)
+	* if you also use [ranchero](github.com/aofarrel/ranchero), but did not install it in a venv, skip the `pip install` to avoid breaking ranchero's dependencies (you'll still need aws CLI though)
 1. LOCAL: Download a sheet from the master index file workbook Google Sheet thingy, or whatever you're using to track all your files, as a CSV file
 2. LOCAL: `python3 create_inputs_from_sheet.py [sheet_filename.csv]`
 	* this will ping AWS via `--no-sign-request` for file metadata; expect ~1 sec per file
