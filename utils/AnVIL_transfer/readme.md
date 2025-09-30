@@ -16,27 +16,32 @@ NOTE: My understanding is that AnVIL files will be moved to another workspace on
 * HG00738.m64043_210530_003337.dc.q20.fastq.gz: This one probably made it okay, but it looks like slurm got mad at me at the very end, see `s3_transfer_10006226_198.log`
 
 ## Process:
-0. LOCAL: `pip install polars tqdm` for python scripts 
-1. LOCAL: Download a sheet from the master index file workbook Google Sheet as a CSV file
-2. LOCAL: `python3 create_inputs_from_sheet.py [sheet_filename.csv]` (requires aws CLI, but it doesn't need to be authenticated)
-3. LOCAL: rm first line of resulting TSV (resulting TSVs saved here in "input_tsvs")
-4. PHOENIX: Ensure you're authenticated on gcloud on Phoenix and parallel composite uploads are TURNED OFF in config
-	* If you're not sure, run: `gcloud config set storage/parallel_composite_upload_enabled False`
-5. PHOENIX: `s3_to_gcs_transfer.slurm` (see instructions in that file for args)
-	* This has a hardcoded outpath: `/private/groups/migalab/ash/DO_NOT_DELETE/transfer_manifests`
-6. PHOENIX: `summarize_logs.sh [output_summary_filename]` in the dir where all the logs got dumped
-	* This grabs all files in the workdir that end in `*.log` so if there are logs you already parsed in there... move 'em
-	* Please be aware that this is script is EXTREMELY slow and could take over an hour to run
+0. LOCAL: `pip install polars tqdm` for python scripts, and install aws CLI too (no need to authenticate it) 
+	* do this in a [venv](https://docs.python.org/3/library/venv.html) if you also use [ranchero](github.com/aofarrel/ranchero) because ranchero is very picky about polars versions
+1. LOCAL: Download a sheet from the master index file workbook Google Sheet thingy, or whatever you're using to track all your files, as a CSV file
+2. LOCAL: `python3 create_inputs_from_sheet.py [sheet_filename.csv]`
+	* this will ping AWS via `--no-sign-request` for file metadata; expect ~1 sec per file
+4. LOCAL: rm first line of resulting TSV (resulting TSVs saved here in "input_tsvs")
+5. PHOENIX: Ensure you're authenticated on gcloud on Phoenix and parallel composite uploads are TURNED OFF in config
+	* parallel composite uploads are the DEFAULT, so make sure it's off or else you'll have to upload everything again
+ 	* to turn them off: `gcloud config set storage/parallel_composite_upload_enabled False` (you only need to do this once)
+6. PHOENIX: `s3_to_gcs_transfer.slurm` (see instructions in that file for args)
+	* note the hardcoded outpath you may want to change: `/private/groups/migalab/ash/DO_NOT_DELETE/transfer_manifests`
+7. PHOENIX: `summarize_logs.sh [output_summary_filename]` in the dir where all the logs got dumped
+	* grabs all files in the workdir that end in `*.log`
+	* this is script is EXTREMELY slow and could take over an hour to run b/c string processing sucks
 --> If anything bugs out:
 	* `python3 create_inputs_from_logged_failures.py [input tsv (from step 2, should have no header)] [summarized log (from step 6)]`
 	* `mv_bad_logs.sh` (output of create_inputs_from_logged_failures.py)
 	* `s3_to_gcs_transfer.slurm` on data_to_redo.tsv (another output of create_inputs_from_logged_failures.py)
-7. PHEONIX: Once you have everything transferred, cat all your manifest files that are in `/private/groups/migalab/ash/DO_NOT_DELETE/transfer_manifests` -- be aware the first 30ish have a different pattern and the others will repeat the header, so you'll want to make some quick edits with awk (or a proper text editor)
+8. PHEONIX: Once you have everything transferred, cat all your manifest files that are in `/private/groups/migalab/ash/DO_NOT_DELETE/transfer_manifests`
+	* if that folder has not been cleaned out yet, be aware some of the very first ones I did waaaay back had a different pattern, so you may need to use `awk` for cleaning up
 
 
 ## Old notes which may or may not be relevant
 Todo:
 * the logs (not the summaries!) are comically oversized and should be deleted from /private/groups/migalab/ash/logs_* to save space, once we have confirmed all is well
+	* google cloud uses `^M` for its progress bars and all that overwritten stuff gets saved to the log too (this is one reason why parsing takes forever) 
 
 Archive notes:
 * KINNEX_straggler exists due to goofing up an ARRAY_SIZE
