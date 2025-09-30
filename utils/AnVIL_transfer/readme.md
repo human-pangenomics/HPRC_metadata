@@ -17,7 +17,7 @@ NOTE: My understanding is that AnVIL files will be moved to another workspace on
 
 ## Process:
 0. LOCAL: `pip install polars tqdm` for python scripts, and install aws CLI too (no need to authenticate it) 
-	* do this in a [venv](https://docs.python.org/3/library/venv.html) if you also use [ranchero](github.com/aofarrel/ranchero) because ranchero is very picky about polars versions
+	* if you also use [ranchero](github.com/aofarrel/ranchero), but did not install in a venv, skip this step -- ranchero already installed those (and if you reinstall polars ranchero might break)
 1. LOCAL: Download a sheet from the master index file workbook Google Sheet thingy, or whatever you're using to track all your files, as a CSV file
 2. LOCAL: `python3 create_inputs_from_sheet.py [sheet_filename.csv]`
 	* this will ping AWS via `--no-sign-request` for file metadata; expect ~1 sec per file
@@ -28,12 +28,13 @@ NOTE: My understanding is that AnVIL files will be moved to another workspace on
 6. PHOENIX: `s3_to_gcs_transfer.slurm` (see instructions in that file for args)
 	* note the hardcoded outpath you may want to change: `/private/groups/migalab/ash/DO_NOT_DELETE/transfer_manifests`
 7. PHOENIX: `summarize_logs.sh [output_summary_filename]` in the dir where all the logs got dumped
-	* grabs all files in the workdir that end in `*.log`
-	* this is script is EXTREMELY slow and could take over an hour to run b/c string processing sucks
---> If anything bugs out:
-	* `python3 create_inputs_from_logged_failures.py [input tsv (from step 2, should have no header)] [summarized log (from step 6)]`
-	* `mv_bad_logs.sh` (output of create_inputs_from_logged_failures.py)
-	* `s3_to_gcs_transfer.slurm` on data_to_redo.tsv (another output of create_inputs_from_logged_failures.py)
+	* recklessly grabs all files in the workdir that end in `*.log`
+	* may take over an hour to run
+    * **found an upload that bugged out? here's your next steps:**   
+		* `python3 create_inputs_from_logged_failures.py [input tsv (from step 2, should have no header)] [summarized log (from step 6)]`  
+		* `mv_bad_logs.sh` (output of create_inputs_from_logged_failures.py)  
+		* `s3_to_gcs_transfer.slurm` on data_to_redo.tsv (another output of create_inputs_from_logged_failures.py)  
+
 8. PHEONIX: Once you have everything transferred, cat all your manifest files that are in `/private/groups/migalab/ash/DO_NOT_DELETE/transfer_manifests`
 	* if that folder has not been cleaned out yet, be aware some of the very first ones I did waaaay back had a different pattern, so you may need to use `awk` for cleaning up
 
