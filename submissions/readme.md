@@ -7,7 +7,7 @@
  * A `__final.csv` representing the final please-don't-touch-this metadata
  * A folder-level readme.md file with any relevant notes and a few lines that can be copy-pasted into the validator script for an immediate run (see below)
 
- There is a script in utils/ designed to validate metadata tables from simple column/sample swaps. It uses Ash's ranchero library, which is essentially a wrapper for python-polars. Currently, ranchero cannot be pip installed; you will need to `git clone https://github.com/aofarrel/ranchero.git` in order to import its src/ directory. Instructions for running it can be found in `utils/readme.md` and the script itself.
+ There is a script in utils/ designed to validate metadata tables from simple column/sample swaps. Instructions for running the script can be found in `utils/readme.md` and the script itself. The script uses [Ash's ranchero library](https://github.com/aofarrel/ranchero). Ranchero can be pip installed, but it is *strongly* recommended to do so in a venv because on of its dependencies requires a *very* specific yanked version. 
 
 ## Important stuff!
 
