@@ -1,11 +1,24 @@
-This contains all the stuff relating to moving these files into AnVIL.
+This contains all the stuff relating to moving these files into AnVIL. See "process" below for how to actually get things into ANVIL.
 
-NOTE: My understanding is that AnVIL files will be moved to another workspace once they are in the AnVIL datastore, and the current bucket they are in is temporary. As such, DO NOT consider their current gs:// URIs as permament!
+My understanding is that AnVIL files will be moved to another workspace once they are in the AnVIL datastore, and the current bucket they are in is temporary. Do not assume their gs:// URIs to be permament.
+
+#### Files that did NOT get transferred
+* Anything that wasn't in working as of mid-July 2025
+* Everything in `HPRC_metadata/utils/AnVIL_transfer/input_tsvs/ONT_data_to_input (attempt 3, files corrupt?).tsv`
+	* HG005_Circulomics_PromethION_R941.part02.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam
+	* HG005_Circulomics_GridION_R941.part02.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam
+	* 03_08_22_R941_HG002_5.bam
+	* 03_08_22_R941_HG002_4.bam
+	* HG005_Circulomics_GridION_R941.part01.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam
+	* 41.part01.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam
+
+#### Files that MIGHT need to be retransferred
+* HG00738.m64043_210530_003337.dc.q20.fastq.gz: This one probably made it okay, but it looks like slurm got mad at me at the very end, see `s3_transfer_10006226_198.log`
+
 
 ## Process (how to transfer stuff to AnVIL)
 When transferring stuff to ANVIL, it's expected you'll be running my slurm script (see "Process" below) on Pheonix. You will end up with a bunch of logfiles, and separately, a bunch of manifest files. Please note the raw logfiles *in particular* are very large due to how Google handles its progress bar. **Expect every sample to generate a raw logfile that is roughly 130 MB!**
 
-	* if you also use [ranchero](github.com/aofarrel/ranchero), but did not install it in a venv, skip the `pip install` to avoid breaking ranchero's dependencies (you'll still need aws CLI though)
 1. LOCAL: Download a sheet from the master index file workbook Google Sheet thingy, or whatever you're using to track all your files, as a CSV file
 2. LOCAL: `python3 create_inputs_from_sheet.py [sheet_filename.csv]`
 	* this will ping AWS via `--no-sign-request` for file metadata; expect ~1 sec per file
@@ -25,20 +38,6 @@ When transferring stuff to ANVIL, it's expected you'll be running my slurm scrip
 8. PHEONIX: Once you have everything transferred, cat all your manifest files that are in `/private/groups/migalab/ash/DO_NOT_DELETE/transfer_manifests`
 	* if that folder has not been cleaned out yet, be aware some of the very first ones I did waaaay back had a different pattern, so you may need to use `awk` for cleaning up
 9. PHEONIX: If the output of summarize_logs is as you've expected, you should probably delete the *raw* logfiles from pheonix (the ones summarize_logs.sh parsed) to save on storage space.
-
-
-## Files that did NOT get transferred
-* Anything that wasn't in working as of mid-July 2025
-* Everything in `HPRC_metadata/utils/AnVIL_transfer/input_tsvs/ONT_data_to_input (attempt 3, files corrupt?).tsv`
-	* HG005_Circulomics_PromethION_R941.part02.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam
-	* HG005_Circulomics_GridION_R941.part02.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam
-	* 03_08_22_R941_HG002_5.bam
-	* 03_08_22_R941_HG002_4.bam
-	* HG005_Circulomics_GridION_R941.part01.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam
-	* 41.part01.UL_Guppy_6.5.7_450bps_modbases_5mc_cg_sup_prom_pass.bam
-
-## Files that MIGHT need to be retransferred
-* HG00738.m64043_210530_003337.dc.q20.fastq.gz: This one probably made it okay, but it looks like slurm got mad at me at the very end, see `s3_transfer_10006226_198.log`
 
 
 ## Old notes which may or may not be relevant
