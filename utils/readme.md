@@ -12,7 +12,7 @@ One of Ranchero's prereqs, polars, occasionally changes how it handles null valu
 R2 index files from the R2 Google Sheets workbook, used by tablesmasher (see below). The date of the folder represents the date I pulled the files from Google Sheets. **Please do not update/replace these files without also updating the datestamp.**
 
 ### utils/AnVIL_transfer
-See that folder's readme for more information
+Scripts, manifests, and log summaries for the AnVIL transfer -- see that folder's readme for more information
 
 ### utils/SRA_transfer
 Scripts/Files relating to the SRA transfer -- please be aware that `did_I_already_put_that_on_SRA.py` may not be completely accurate due to SRA sometimes changing filenames in XML outputs
