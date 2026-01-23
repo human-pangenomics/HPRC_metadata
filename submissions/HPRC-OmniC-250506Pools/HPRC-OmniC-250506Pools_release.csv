@@ -197,6 +197,4 @@ s3://human-pangenomics/submissions/F8DF8E87-21B8-4D4B-87A4-0C18AB4B27F5--HPRC_Om
 s3://human-pangenomics/submissions/F8DF8E87-21B8-4D4B-87A4-0C18AB4B27F5--HPRC_OmniC_250506Pools/NA20412/raw_data/hic/NA20412-2_FC1_S12_L001_R1_001.fastq.gz,s3://human-pangenomics/working/HPRC/NA20412/raw_data/hic/NA20412-2_FC1_S12_L001_R1_001.fastq.gz
 s3://human-pangenomics/submissions/F8DF8E87-21B8-4D4B-87A4-0C18AB4B27F5--HPRC_OmniC_250506Pools/NA20412/raw_data/hic/NA20412-2_FC1_S12_L001_R2_001.fastq.gz,s3://human-pangenomics/working/HPRC/NA20412/raw_data/hic/NA20412-2_FC1_S12_L001_R2_001.fastq.gz
 s3://human-pangenomics/submissions/F8DF8E87-21B8-4D4B-87A4-0C18AB4B27F5--HPRC_OmniC_250506Pools/NA20412/raw_data/hic/NA20412-2_FC2_S12_L001_R1_001.fastq.gz,s3://human-pangenomics/working/HPRC/NA20412/raw_data/hic/NA20412-2_FC2_S12_L001_R1_001.fastq.gz
-
 s3://human-pangenomics/submissions/F8DF8E87-21B8-4D4B-87A4-0C18AB4B27F5--HPRC_OmniC_250506Pools/NA20412/raw_data/hic/NA20412-2_FC2_S12_L001_R2_001.fastq.gz,s3://human-pangenomics/working/HPRC/NA20412/raw_data/hic/NA20412-2_FC2_S12_L001_R2_001.fastq.gz
-
