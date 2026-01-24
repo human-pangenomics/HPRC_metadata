@@ -1,0 +1,141 @@
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG00423/basecalled/05_12_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.2.0.bam to s3://human-pangenomics/working/HPRC/HG00423/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.2.0.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG00423/basecalled/05_12_25_R1041_UL_HPRC_HG00423_2_dorado1.0.0_supv5.2.0.bam to s3://human-pangenomics/working/HPRC/HG00423/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG00423_2_dorado1.0.0_supv5.2.0.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG00423/basecalled/05_19_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG.bam to s3://human-pangenomics/working/HPRC/HG00423/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_19_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/05_12_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0.bam to s3://human-pangenomics/working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/05_12_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0.bam to s3://human-pangenomics/working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/06_23_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0_5mCG_5hmCG.bam to s3://human-pangenomics/working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/06_23_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0_5mCG_5hmCG.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/06_23_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0_5mCG_5hmCG.bam to s3://human-pangenomics/working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/06_23_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0_5mCG_5hmCG.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02083/basecalled/05_12_25_R1041_UL_HPRC_HG02083_1_dorado1.0.0_supv5.2.0.bam to s3://human-pangenomics/working/HPRC/HG02083/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02083_1_dorado1.0.0_supv5.2.0.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02083/basecalled/05_12_25_R1041_UL_HPRC_HG02083_2_dorado1.0.0_supv5.2.0.bam to s3://human-pangenomics/working/HPRC/HG02083/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02083_2_dorado1.0.0_supv5.2.0.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02083/basecalled/05_19_25_R1041_UL_HRPC_HG02083_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG.bam to s3://human-pangenomics/working/HPRC/HG02083/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_19_25_R1041_UL_HRPC_HG02083_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02523/basecalled/05_12_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.2.0.bam to s3://human-pangenomics/working/HPRC/HG02523/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.2.0.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02523/basecalled/05_12_25_R1041_UL_HPRC_HG02523_2_dorado1.0.0_supv5.2.0.bam to s3://human-pangenomics/working/HPRC/HG02523/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02523_2_dorado1.0.0_supv5.2.0.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02523/basecalled/05_19_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG.bam to s3://human-pangenomics/working/HPRC/HG02523/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_19_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG.bam
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG00423/basecalled/05_12_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.2.0_summary.txt.gz to s3://human-pangenomics/working/HPRC/HG00423/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.2.0_summary.txt.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG00423/basecalled/05_12_25_R1041_UL_HPRC_HG00423_2_dorado1.0.0_supv5.2.0_summary.txt.gz to s3://human-pangenomics/working/HPRC/HG00423/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG00423_2_dorado1.0.0_supv5.2.0_summary.txt.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/05_12_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0_summary.txt.gz to s3://human-pangenomics/working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0_summary.txt.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/05_12_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0_summary.txt.gz to s3://human-pangenomics/working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0_summary.txt.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG00423/basecalled/05_19_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG_summary.txt.gz to s3://human-pangenomics/working/HPRC/HG00423/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_19_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG_summary.txt.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/06_23_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0_5mCG_5hmCG_summary.txt.gz to s3://human-pangenomics/working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/06_23_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0_5mCG_5hmCG_summary.txt.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/06_23_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0_5mCG_5hmCG_summary.txt.gz to s3://human-pangenomics/working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/06_23_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0_5mCG_5hmCG_summary.txt.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02083/basecalled/05_12_25_R1041_UL_HPRC_HG02083_1_dorado1.0.0_supv5.2.0_summary.txt.gz to s3://human-pangenomics/working/HPRC/HG02083/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02083_1_dorado1.0.0_supv5.2.0_summary.txt.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02083/basecalled/05_12_25_R1041_UL_HPRC_HG02083_2_dorado1.0.0_supv5.2.0_summary.txt.gz to s3://human-pangenomics/working/HPRC/HG02083/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02083_2_dorado1.0.0_supv5.2.0_summary.txt.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02083/basecalled/05_19_25_R1041_UL_HRPC_HG02083_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG_summary.txt.gz to s3://human-pangenomics/working/HPRC/HG02083/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_19_25_R1041_UL_HRPC_HG02083_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG_summary.txt.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02523/basecalled/05_12_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.2.0_summary.txt.gz to s3://human-pangenomics/working/HPRC/HG02523/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.2.0_summary.txt.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02523/basecalled/05_12_25_R1041_UL_HPRC_HG02523_2_dorado1.0.0_supv5.2.0_summary.txt.gz to s3://human-pangenomics/working/HPRC/HG02523/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02523_2_dorado1.0.0_supv5.2.0_summary.txt.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02523/basecalled/05_19_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG_summary.txt.gz to s3://human-pangenomics/working/HPRC/HG02523/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_19_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG_summary.txt.gz
+{
+  "submission_id": "BA2424FF-069C-4954-B908-90DF6D731487",
+  "src_bucket": "human-pangenomics",
+  "dst_bucket": "human-pangenomics",
+  "aws_identity": "AIDAWEW7BTH337YGTOQ7T",
+  "gcp_identity": "iviolich@ucsc.edu",
+  "transfer_map": [
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02083/basecalled/05_12_25_R1041_UL_HPRC_HG02083_1_dorado1.0.0_supv5.2.0_summary.txt.gz",
+      "dst_key": "working/HPRC/HG02083/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02083_1_dorado1.0.0_supv5.2.0_summary.txt.gz"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02083/basecalled/05_12_25_R1041_UL_HPRC_HG02083_1_dorado1.0.0_supv5.2.0.bam",
+      "dst_key": "working/HPRC/HG02083/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02083_1_dorado1.0.0_supv5.2.0.bam"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/05_12_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0.bam",
+      "dst_key": "working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0.bam"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02523/basecalled/05_12_25_R1041_UL_HPRC_HG02523_2_dorado1.0.0_supv5.2.0.bam",
+      "dst_key": "working/HPRC/HG02523/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02523_2_dorado1.0.0_supv5.2.0.bam"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/06_23_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0_5mCG_5hmCG_summary.txt.gz",
+      "dst_key": "working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/06_23_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0_5mCG_5hmCG_summary.txt.gz"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02523/basecalled/05_12_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.2.0_summary.txt.gz",
+      "dst_key": "working/HPRC/HG02523/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.2.0_summary.txt.gz"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02523/basecalled/05_12_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.2.0.bam",
+      "dst_key": "working/HPRC/HG02523/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.2.0.bam"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02083/basecalled/05_19_25_R1041_UL_HRPC_HG02083_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG.bam",
+      "dst_key": "working/HPRC/HG02083/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_19_25_R1041_UL_HRPC_HG02083_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG.bam"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02083/basecalled/05_19_25_R1041_UL_HRPC_HG02083_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG_summary.txt.gz",
+      "dst_key": "working/HPRC/HG02083/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_19_25_R1041_UL_HRPC_HG02083_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG_summary.txt.gz"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02083/basecalled/05_12_25_R1041_UL_HPRC_HG02083_2_dorado1.0.0_supv5.2.0_summary.txt.gz",
+      "dst_key": "working/HPRC/HG02083/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02083_2_dorado1.0.0_supv5.2.0_summary.txt.gz"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG00423/basecalled/05_12_25_R1041_UL_HPRC_HG00423_2_dorado1.0.0_supv5.2.0.bam",
+      "dst_key": "working/HPRC/HG00423/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG00423_2_dorado1.0.0_supv5.2.0.bam"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02083/basecalled/05_12_25_R1041_UL_HPRC_HG02083_2_dorado1.0.0_supv5.2.0.bam",
+      "dst_key": "working/HPRC/HG02083/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02083_2_dorado1.0.0_supv5.2.0.bam"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/06_23_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0_5mCG_5hmCG.bam",
+      "dst_key": "working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/06_23_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0_5mCG_5hmCG.bam"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG00423/basecalled/05_12_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.2.0_summary.txt.gz",
+      "dst_key": "working/HPRC/HG00423/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.2.0_summary.txt.gz"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/06_23_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0_5mCG_5hmCG_summary.txt.gz",
+      "dst_key": "working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/06_23_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0_5mCG_5hmCG_summary.txt.gz"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG00423/basecalled/05_19_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG_summary.txt.gz",
+      "dst_key": "working/HPRC/HG00423/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_19_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG_summary.txt.gz"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/05_12_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0.bam",
+      "dst_key": "working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0.bam"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG00423/basecalled/05_12_25_R1041_UL_HPRC_HG00423_2_dorado1.0.0_supv5.2.0_summary.txt.gz",
+      "dst_key": "working/HPRC/HG00423/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG00423_2_dorado1.0.0_supv5.2.0_summary.txt.gz"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG00423/basecalled/05_19_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG.bam",
+      "dst_key": "working/HPRC/HG00423/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_19_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG.bam"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/06_23_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0_5mCG_5hmCG.bam",
+      "dst_key": "working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/06_23_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0_5mCG_5hmCG.bam"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG00423/basecalled/05_12_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.2.0.bam",
+      "dst_key": "working/HPRC/HG00423/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG00423_1_dorado1.0.0_supv5.2.0.bam"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/05_12_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0_summary.txt.gz",
+      "dst_key": "working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02027_2_dorado1.0.0_supv5.2.0_summary.txt.gz"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02523/basecalled/05_19_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG_summary.txt.gz",
+      "dst_key": "working/HPRC/HG02523/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_19_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG_summary.txt.gz"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02523/basecalled/05_12_25_R1041_UL_HPRC_HG02523_2_dorado1.0.0_supv5.2.0_summary.txt.gz",
+      "dst_key": "working/HPRC/HG02523/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02523_2_dorado1.0.0_supv5.2.0_summary.txt.gz"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02027/basecalled/05_12_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0_summary.txt.gz",
+      "dst_key": "working/HPRC/HG02027/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_12_25_R1041_UL_HPRC_HG02027_1_dorado1.0.0_supv5.2.0_summary.txt.gz"
+    },
+    {
+      "src_key": "submissions/BA2424FF-069C-4954-B908-90DF6D731487--UCSC_HPRC_NANOPORE_YEAR2_R10/HG02523/basecalled/05_19_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG.bam",
+      "dst_key": "working/HPRC/HG02523/raw_data/nanopore/sup5.0.0_5mCG_5hmCG/05_19_25_R1041_UL_HPRC_HG02523_1_dorado1.0.0_supv5.0.0_5mCG_5hmCG.bam"
+    }
+  ],
+  "start_timestamp": "2026-01-24T001441.735178Z",
+  "end_timestamp": "2026-01-24T002033.471967Z"
+}
