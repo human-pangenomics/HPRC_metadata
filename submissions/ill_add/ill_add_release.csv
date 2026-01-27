@@ -145,6 +145,3 @@ s3://human-pangenomics/submissions/E3458FB3-14E6-4051-984A-D05608680B98--1000G_I
 s3://human-pangenomics/submissions/E3458FB3-14E6-4051-984A-D05608680B98--1000G_ILL_WGS_CHILD_FASTQ/HG00662.final.fq.gz,s3://human-pangenomics/working/HPRC/HG00662/raw_data/Illumina/child/HG00662.final.fq.gz
 s3://human-pangenomics/submissions/E3458FB3-14E6-4051-984A-D05608680B98--1000G_ILL_WGS_CHILD_FASTQ/NA20287.final.fq.gz,s3://human-pangenomics/working/HPRC/NA20287/raw_data/Illumina/child/NA20287.final.fq.gz
 s3://human-pangenomics/submissions/E3458FB3-14E6-4051-984A-D05608680B98--1000G_ILL_WGS_CHILD_FASTQ/HG03611.final.fq.gz,s3://human-pangenomics/working/HPRC/HG03611/raw_data/Illumina/child/HG03611.final.fq.gz
-3458FB3-14E6-4051-984A-D05608680B98--1000G_ILL_WGS_CHILD_FASTQ/HG03471-111121_S5_L002_R1_001.fastq.gz,s3://human-pangenomics/working/HPRC/HG03471/raw_data/Illumina/child/HG03471-111121_S5_L002_R1_001.fastq.gz
-
-s3://human-pangenomics/submissions/E3458FB3-14E6-4051-984A-D05608680B98--1000G_ILL_WGS_CHILD_FASTQ/HG03471-111121_S5_L002_R2_001.fastq.gz,s3://human-pangenomics/working/HPRC/HG03471/raw_data/Illumina/child/HG03471-111121_S5_L002_R2_001.fastq.gz
