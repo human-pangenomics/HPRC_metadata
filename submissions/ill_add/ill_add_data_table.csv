@@ -146,31 +146,3 @@ NA19031,182017902300,182.0,55.15,fastq,ILLUMINA,Illumina NovaSeq 6000,TruSeq DNA
 HG00662,183253484400,183.2,55.52,fastq,ILLUMINA,Illumina NovaSeq 6000,TruSeq DNA PCR-free,PAIRED,WGS,150,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG00662/raw_data/Illumina/child/HG00662.final.fq.gz,HG00662.final.fq.gz
 NA20287,183579372600,183.5,55.61,fastq,ILLUMINA,Illumina NovaSeq 6000,TruSeq DNA PCR-free,PAIRED,WGS,150,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/NA20287/raw_data/Illumina/child/NA20287.final.fq.gz,NA20287.final.fq.gz
 HG03611,237421502100,237.4,71.94,fastq,ILLUMINA,Illumina NovaSeq 6000,TruSeq DNA PCR-free,PAIRED,WGS,150,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG03611/raw_data/Illumina/child/HG03611.final.fq.gz,HG03611.final.fq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG00411/raw_data/Illumina/child/HG00411-111121_S4_L002_R1_001.fastq.gz,HG00411-111121_S4_L002_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG00411/raw_data/Illumina/child/HG00411-111121_S4_L002_R2_001.fastq.gz,HG00411-111121_S4_L002_R2_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730-111121_S2_L001_R1_001.fastq.gz,HG00730-111121_S2_L001_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730-111121_S2_L001_R2_001.fastq.gz,HG00730-111121_S2_L001_R2_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L001_R1_001.fastq.gz,HG00730_S17_L001_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L001_R2_001.fastq.gz,HG00730_S17_L001_R2_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L002_R1_001.fastq.gz,HG00730_S17_L002_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L002_R2_001.fastq.gz,HG00730_S17_L002_R2_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L003_R1_001.fastq.gz,HG00730_S17_L003_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L003_R2_001.fastq.gz,HG00730_S17_L003_R2_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L004_R1_001.fastq.gz,HG00730_S17_L004_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L004_R2_001.fastq.gz,HG00730_S17_L004_R2_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG01123/raw_data/Illumina/child/HG01123-111121_S1_L001_R1_001.fastq.gz,HG01123-111121_S1_L001_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG01123/raw_data/Illumina/child/HG01123-111121_S1_L001_R2_001.fastq.gz,HG01123-111121_S1_L001_R2_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG02486/raw_data/Illumina/child/HG02486-111121_S6_L002_R1_001.fastq.gz,HG02486-111121_S6_L002_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG02486/raw_data/Illumina/child/HG02486-111121_S6_L002_R2_001.fastq.gz,HG02486-111121_S6_L002_R2_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02559-111121_S3_L001_R1_001.fastq.gz,HG02559-111121_S3_L001_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02559-111121_S3_L001_R2_001.fastq.gz,HG02559-111121_S3_L001_R2_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L001_R1_001.fastq.gz,HG02599_S18_L001_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L001_R2_001.fastq.gz,HG02599_S18_L001_R2_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L002_R1_001.fastq.gz,HG02599_S18_L002_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L002_R2_001.fastq.gz,HG02599_S18_L002_R2_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L003_R1_001.fastq.gz,HG02599_S18_L003_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L003_R2_001.fastq.gz,HG02599_S18_L003_R2_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L004_R1_001.fastq.gz,HG02599_S18_L004_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L004_R2_001.fastq.gz,HG02599_S18_L004_R2_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG03471/raw_data/Illumina/child/HG03471-111121_S5_L002_R1_001.fastq.gz,HG03471-111121_S5_L002_R1_001.fastq.gz
-,,,,,,,,,,,,,,,,,,,,,,s3://human-pangenomics/working/HPRC/HG03471/raw_data/Illumina/child/HG03471-111121_S5_L002_R2_001.fastq.gz,HG03471-111121_S5_L002_R2_001.fastq.gz
