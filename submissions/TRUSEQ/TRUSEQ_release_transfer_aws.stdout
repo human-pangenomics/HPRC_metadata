@@ -1,0 +1,151 @@
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00411/raw_data/Illumina/child/HG00411-111121_S4_L002_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG00411/raw_data/Illumina/child/HG00411-111121_S4_L002_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00411/raw_data/Illumina/child/HG00411-111121_S4_L002_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG00411/raw_data/Illumina/child/HG00411-111121_S4_L002_R2_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730-111121_S2_L001_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730-111121_S2_L001_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730-111121_S2_L001_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730-111121_S2_L001_R2_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L001_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L001_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L001_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L001_R2_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L002_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L002_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L002_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L002_R2_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L003_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L003_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L003_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L003_R2_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L004_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L004_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L004_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L004_R2_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG01123/raw_data/Illumina/child/HG01123-111121_S1_L001_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG01123/raw_data/Illumina/child/HG01123-111121_S1_L001_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG01123/raw_data/Illumina/child/HG01123-111121_S1_L001_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG01123/raw_data/Illumina/child/HG01123-111121_S1_L001_R2_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02486/raw_data/Illumina/child/HG02486-111121_S6_L002_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG02486/raw_data/Illumina/child/HG02486-111121_S6_L002_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02486/raw_data/Illumina/child/HG02486-111121_S6_L002_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG02486/raw_data/Illumina/child/HG02486-111121_S6_L002_R2_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02559-111121_S3_L001_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02559-111121_S3_L001_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02559-111121_S3_L001_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02559-111121_S3_L001_R2_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L001_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L001_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L001_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L001_R2_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L002_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L002_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L002_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L002_R2_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L003_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L003_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L003_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L003_R2_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L004_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L004_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L004_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L004_R2_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG03471/raw_data/Illumina/child/HG03471-111121_S5_L002_R1_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG03471/raw_data/Illumina/child/HG03471-111121_S5_L002_R1_001.fastq.gz
+INFO:ssds.storage:Copied s3://human-pangenomics/submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG03471/raw_data/Illumina/child/HG03471-111121_S5_L002_R2_001.fastq.gz to s3://human-pangenomics/working/HPRC/HG03471/raw_data/Illumina/child/HG03471-111121_S5_L002_R2_001.fastq.gz
+{
+  "submission_id": "30E441F3-6820-4BF6-BCF4-E64D56C8D6A4",
+  "src_bucket": "human-pangenomics",
+  "dst_bucket": "human-pangenomics",
+  "aws_identity": "AIDAWEW7BTH337YGTOQ7T",
+  "gcp_identity": "iviolich@ucsc.edu",
+  "transfer_map": [
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG01123/raw_data/Illumina/child/HG01123-111121_S1_L001_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG01123/raw_data/Illumina/child/HG01123-111121_S1_L001_R2_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00411/raw_data/Illumina/child/HG00411-111121_S4_L002_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG00411/raw_data/Illumina/child/HG00411-111121_S4_L002_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L004_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L004_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L003_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L003_R2_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L002_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L002_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02559-111121_S3_L001_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG02559/raw_data/Illumina/child/HG02559-111121_S3_L001_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L001_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L001_R2_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02486/raw_data/Illumina/child/HG02486-111121_S6_L002_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG02486/raw_data/Illumina/child/HG02486-111121_S6_L002_R2_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG01123/raw_data/Illumina/child/HG01123-111121_S1_L001_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG01123/raw_data/Illumina/child/HG01123-111121_S1_L001_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02559-111121_S3_L001_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG02559/raw_data/Illumina/child/HG02559-111121_S3_L001_R2_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L001_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L001_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L004_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L004_R2_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00411/raw_data/Illumina/child/HG00411-111121_S4_L002_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG00411/raw_data/Illumina/child/HG00411-111121_S4_L002_R2_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730-111121_S2_L001_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG00730/raw_data/Illumina/child/HG00730-111121_S2_L001_R2_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L004_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L004_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG03471/raw_data/Illumina/child/HG03471-111121_S5_L002_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG03471/raw_data/Illumina/child/HG03471-111121_S5_L002_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L001_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L001_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L003_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L003_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L003_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L003_R2_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L002_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L002_R2_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730-111121_S2_L001_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG00730/raw_data/Illumina/child/HG00730-111121_S2_L001_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L003_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L003_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L002_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L002_R2_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02486/raw_data/Illumina/child/HG02486-111121_S6_L002_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG02486/raw_data/Illumina/child/HG02486-111121_S6_L002_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG00730/raw_data/Illumina/child/HG00730_S17_L002_R1_001.fastq.gz",
+      "dst_key": "working/HPRC/HG00730/raw_data/Illumina/child/HG00730_S17_L002_R1_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L001_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L001_R2_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG03471/raw_data/Illumina/child/HG03471-111121_S5_L002_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG03471/raw_data/Illumina/child/HG03471-111121_S5_L002_R2_001.fastq.gz"
+    },
+    {
+      "src_key": "submissions/30E441F3-6820-4BF6-BCF4-E64D56C8D6A4--TRUSEQ/HG02559/raw_data/Illumina/child/HG02599_S18_L004_R2_001.fastq.gz",
+      "dst_key": "working/HPRC/HG02559/raw_data/Illumina/child/HG02599_S18_L004_R2_001.fastq.gz"
+    }
+  ],
+  "start_timestamp": "2026-01-27T193520.531609Z",
+  "end_timestamp": "2026-01-27T194121.219200Z"
+}
